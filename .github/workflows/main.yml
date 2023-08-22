@@ -2,7 +2,7 @@ name: Python Automated Script
 
 on:
   schedule:
-    - cron:  "* * * * *"
+    - cron:  "0 2 * * *"
 
 jobs:
   build:
