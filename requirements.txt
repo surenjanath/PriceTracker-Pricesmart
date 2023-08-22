@@ -1,0 +1,4 @@
+aiohttp
+pandas
+sqlalchemy
+bs4
