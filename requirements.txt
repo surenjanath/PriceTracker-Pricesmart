@@ -1,4 +1,4 @@
+bs4
 aiohttp
 pandas
 sqlalchemy
-bs4
