@@ -22,8 +22,8 @@ jobs:
 
       - name: install python packages
         run: |
-          pipenv install -r requirements.txt
-          pipenv install bs4
+          pip install -r requirements.txt
+          pip install bs4
           
       - name: execute py script # run main.py
         run: python PriceTrackerAutomated.py
