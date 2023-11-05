@@ -23,7 +23,7 @@ jobs:
       - name: install python packages
         run: |
           pip install -r requirements.txt
-          pip install bs4
+          pip install beautifulsoup4
           
       - name: execute py script # run main.py
         run: python PriceTrackerAutomated.py
