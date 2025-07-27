@@ -1,0 +1,7 @@
+aiohttp
+requests
+SQLAlchemy
+pandas
+lxml
+html5lib
+beautifulsoup4 
