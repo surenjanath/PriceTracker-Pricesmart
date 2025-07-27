@@ -2,12 +2,12 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1085
-- **Total value**: $11,680,623.00
-- **Average price**: $10,765.55
+- **Total value**: $116,806.23
+- **Average price**: $107.66
 
 ## Database Changes
-- **New products added**: 1085
-- **Existing products updated**: 0
+- **New products added**: 0
+- **Existing products updated**: 1085
 - **Price changes detected**: 0
 - **Stock/availability changes**: 0
 - **Discontinued products**: 0
@@ -26,16 +26,16 @@
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Terra Creta Greek Extra Virgin Olive Oil 500 mL / 16.9 oz | Terra Creta | $7,995.00 | true |
-| Galbani Galbani Mozzarella Cheese 907 g / 32 oz | Galbani | $5,995.00 | true |
-| Sunberry Farms Organic Mango Nectar Juice - Gluten Free 3.78 L / 128 oz | Sunberry Farms | $8,495.00 | true |
-| Chobani Greek Yogurt Vanilla 1.13 kg / 40 oz | Chobani | $8,595.00 | true |
-| Creamery Novelties Neapolitan Ice Cream 3.78 L / 127.8 oz | Creamery Novelties | $4,995.00 | true |
-| Califia Farms Matcha Latte Almond Milk 1.4 L / 48 oz | Califia Farms | $7,295.00 | true |
-| Kozyshack Cinnamon Rice Pudding 1.36 kg / 3 lb | Kozyshack | $8,795.00 | true |
-| Sunny D Tangy Original Orange Flavor Citrus Drink 2 Units / 1.89 L | SunnyD | $5,995.00 | true |
-| Member's Selection Frozen Boneless Salmon Portions with Skin 680 g / 1.5 lb | Member's Selection | $16,995.00 | true |
-| Member's Selection Cold Extracted Extra Virgin Olive Oil 2 L | Member's Selection | $13,495.00 | true |
+| Terra Creta Greek Extra Virgin Olive Oil 500 mL / 16.9 oz | Terra Creta | $79.95 | true |
+| Galbani Galbani Mozzarella Cheese 907 g / 32 oz | Galbani | $59.95 | true |
+| Sunberry Farms Organic Mango Nectar Juice - Gluten Free 3.78 L / 128 oz | Sunberry Farms | $84.95 | true |
+| Chobani Greek Yogurt Vanilla 1.13 kg / 40 oz | Chobani | $85.95 | true |
+| Creamery Novelties Neapolitan Ice Cream 3.78 L / 127.8 oz | Creamery Novelties | $49.95 | true |
+| Califia Farms Matcha Latte Almond Milk 1.4 L / 48 oz | Califia Farms | $72.95 | true |
+| Kozyshack Cinnamon Rice Pudding 1.36 kg / 3 lb | Kozyshack | $87.95 | true |
+| Sunny D Tangy Original Orange Flavor Citrus Drink 2 Units / 1.89 L | SunnyD | $59.95 | true |
+| Member's Selection Frozen Boneless Salmon Portions with Skin 680 g / 1.5 lb | Member's Selection | $169.95 | true |
+| Member's Selection Cold Extracted Extra Virgin Olive Oil 2 L | Member's Selection | $134.95 | true |
 
 # PriceSmart Price Analysis Report
 

@@ -294,8 +294,8 @@ def add_products_to_db(session, products_data):
     
     for product_data in products_data:
         try:
-            # Clean the product data to handle lists and other data types
-            cleaned_data = clean_product_data(product_data)
+            # Data is already cleaned, use as is
+            cleaned_data = product_data
             
             # Check if product already exists
             existing_product = session.query(PriceSmart_Product).filter_by(pid=cleaned_data.get('pid')).first()
@@ -580,11 +580,14 @@ async def run_scraper(categories, db_session):
     scraper = PriceSmartScraper(categories)
     await scraper.main()
     
+    # Clean the product data first
+    cleaned_products_data = [clean_product_data(product) for product in scraper.ParsedData]
+    
     # Add products to database and get change summary
-    change_summary = add_products_to_db(db_session, scraper.ParsedData)
+    change_summary = add_products_to_db(db_session, cleaned_products_data)
 
-    # Generate Markdown report with change information
-    markdown_report = generate_markdown_report(scraper.ParsedData, change_summary, db_session)
+    # Generate Markdown report with change information using cleaned data
+    markdown_report = generate_markdown_report(cleaned_products_data, change_summary, db_session)
 
     # Write Markdown report to file
     with open('pricesmart_analysis_report.md', 'w', encoding='utf-8') as file:
