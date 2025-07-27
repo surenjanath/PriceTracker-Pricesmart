@@ -1,29 +1,74 @@
-name: Python Automated Script
+# This workflow will install Python dependencies, run tests, and lint with a single version of Python
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
+
+name: PriceSmart Results Scraper
 
 on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
   schedule:
-    - cron:  "0 2 * * *"
+    - cron:  "0 0 * * *"
+
+permissions:
+  contents: write
 
 jobs:
   build:
+
     runs-on: ubuntu-latest
+
     steps:
-      - name: checkout repo content
-        uses: actions/checkout@v3 # checkout the repository content
+    - uses: actions/checkout@v3
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.10"
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      - name: setup python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10' # install the python version needed
+    - name: Set Time Zone
+      run: |
+        export TZ="America/Port_of_Spain"
+      shell: bash
 
-      - name: before_script
-        run: |
-          pip install pipenv
+    - name: execute py script # run main.py
+      run: python "pricesmart_scraper.py"
 
-      - name: install python packages 
-        run: |
-          pipenv install -r requirements.txt
-          pipenv install bs4
-          
-      - name: execute py script # run main.py
-        run: python PriceTrackerAutomated.py
+    - name: Clear Old Analysis in README
+      run: |
+        sed -i '/{{analysis_placeholder}}/q' README.md
+      shell: bash
+
+    - name: Read Analysis File
+      id: read-analysis
+      run: |
+        analysis=$(cat analysis_report.html)
+        echo "::set-output name=analysis::$analysis"
+
+    - name: Update README with Analysis
+      run: |
+        analysis=$(cat analysis_report.html)
+        sed -i "/{{analysis_placeholder}}/r analysis_report.html" README.md
+      shell: bash
+
+    - name: Commit and Push
+      run: |
+        git config --global user.name ${{ secrets.GitName }}
+        git config --global user.email ${{ secrets.GitEmail }}
+        git add .  # Add your database file
+        git add README.md  # Add the updated README file
+        git commit -m "Update README with analysis"  # Commit changes
+
+        # Set up authentication using the GitHub token secret
+        git remote set-url origin "https://github.com/$GITHUB_REPOSITORY"
+        git config credential.helper "store --file=.git-credentials"
+        echo "https://$GH_TOKEN@github.com" > .git-credentials
+        git pull
+        # Push changes using the GitHub token
+        git push
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
