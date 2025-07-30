@@ -166,6 +166,15 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 This scraper is for educational and research purposes only. Please respect PriceSmart's terms of service and use the data responsibly. The scraper is designed to be respectful to their servers and should not be used for commercial purposes without proper authorization.
 
+This project has recently gained unexpected attention. It was created for personal, educational purposes ONLY.
+
+* **DO NOT ABUSE THIS SCRIPT:** Do not run it excessively or use it for commercial purposes.
+* **RESPECT THE WEBSITE:** Scraping places a load on a website's servers. This script includes a 10-second delay between requests to be respectful. Please do not remove it.
+* **USE AT YOUR OWN RISK:** The user is solely responsible for their use of this script. I (the author) am not responsible for any misuse, server overloads, IP bans, or any legal action that may result from its use. This project is provided as-is for educational demonstration.
+
+
+
+
 ## Analysis Results
 
 <!--START_SECTION:analysis-->
