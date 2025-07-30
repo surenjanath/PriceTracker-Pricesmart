@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1084
-- **Total value**: $116,797.21
-- **Average price**: $107.75
+- **Total products scraped**: 1086
+- **Total value**: $117,005.98
+- **Average price**: $107.74
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1083
-- **Price changes detected**: 52
-- **Stock/availability changes**: 8
-- **Discontinued products**: 2
+- **New products added**: 2
+- **Existing products updated**: 1084
+- **Price changes detected**: 23
+- **Stock/availability changes**: 12
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -40,36 +40,37 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1138
-- **Price increases**: 25
-- **Price decreases**: 27
-- **Average increase**: 11.8%
-- **Average decrease**: -8.2%
+- **Total price changes**: 1163
+- **Price increases**: 39
+- **Price decreases**: 36
+- **Average increase**: 9.4%
+- **Average decrease**: -6.2%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Kellogg's Krispies Rice Cereal 1.19 kg / 42 oz | $107.95 | $129.95 | $+22.00 | +20.4% | Increase |
-| Capri Sun Variety 100% Juice 40 Units / 177 mL / 6 oz | $0.00 | $104.95 | $+104.95 | +100.0% | New |
-| Fresh Chicken Thighs Boneless Bag | $312.08 | $312.91 | $+0.83 | +0.3% | Increase |
-| Fresh Chicken Boneless Breast Bag | $403.83 | $403.98 | $+0.15 | +0.0% | Increase |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $229.66 | $218.75 | $-10.91 | -4.8% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $90.01 | $89.91 | $-0.10 | -0.1% | Decrease |
-| Maggi Vegetable Soup 12 Units / 45 g | $79.95 | $67.95 | $-12.00 | -15.0% | Decrease |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $382.41 | $384.59 | $+2.18 | +0.6% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $129.37 | $129.65 | $+0.28 | +0.2% | Increase |
-| Frozen Sliced Turkey Drumsticks | $99.38 | $99.57 | $+0.19 | +0.2% | Increase |
-| Green pepper | $51.15 | $51.26 | $+0.11 | +0.2% | Increase |
-| Orchard Party Mix Orange Juice 3 Units / 1 L / 33.8 oz | $105.95 | $89.95 | $-16.00 | -15.1% | Decrease |
-| State Fair Mini Corn Dogs 46 Units / 18.7 g / 0.66 oz | $74.95 | $59.95 | $-15.00 | -20.0% | Decrease |
-| Fresh Ground Chicken Tray | $87.25 | $87.13 | $-0.12 | -0.1% | Decrease |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $114.60 | $114.52 | $-0.08 | -0.1% | Decrease |
+| Dare Graham Cookies with Chocolate Coating 2 Units / 280 g | $0.00 | $49.95 | $+49.95 | +100.0% | New |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $191.16 | $191.67 | $+0.51 | +0.3% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $67.61 | $67.71 | $+0.10 | +0.1% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $92.29 | $92.14 | $-0.15 | -0.2% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $129.65 | $129.94 | $+0.29 | +0.2% | Increase |
+| Green pepper | $51.26 | $51.36 | $+0.10 | +0.2% | Increase |
+| Fresh Chicken Thighs Bone In  | $80.57 | $80.49 | $-0.08 | -0.1% | Decrease |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.34 | $73.97 | $-0.37 | -0.5% | Decrease |
+| Fresh Ground Chicken Meat Bag | $262.63 | $266.02 | $+3.39 | +1.3% | Increase |
+| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $55.49 | $55.40 | $-0.09 | -0.2% | Decrease |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $70.05 | $69.93 | $-0.12 | -0.2% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $262.66 | $262.36 | $-0.30 | -0.1% | Decrease |
+| Frozen Lamb Shoulder Chops Tray | $99.88 | $100.04 | $+0.16 | +0.2% | Increase |
+| Frozen Boneless Skinless Chicken Breast Tray | $192.03 | $198.61 | $+6.58 | +3.4% | Increase |
+| Carbonell Extra Virgin Olive Oil Arbequina Special Selection 750 mL / 25.4 oz | $0.00 | $99.95 | $+99.95 | +100.0% | New |
 
 ## Biggest Price Increases (All Time)
 
 | Product | Old Price | New Price | % Increase |
 |---------|-----------|-----------|------------|
+| Activia Low Fat Yogurt 12 Units / 113 g / 4 oz | $54.70 | $82.95 | +51.6% |
 | Badia Granulated Onion 566.9 g / 20 oz | $28.45 | $37.95 | +33.4% |
 | Virginia Brand Vidalia Onion Vinaigrette 1 L / 33.8 oz | $39.95 | $49.95 | +25.0% |
 | Kraft Slow-Simmered Original Barbecue Sauce 2.3 kg  | $71.95 | $89.95 | +25.0% |
@@ -79,7 +80,6 @@
 | Wesson Canola Oil 4.73 L | $109.95 | $134.95 | +22.7% |
 | Pringles Grab and Go Variety Pack 16 Units | $106.95 | $129.95 | +21.5% |
 | Kellogg's Krispies Rice Cereal 1.19 kg / 42 oz | $107.95 | $129.95 | +20.4% |
-| Harvest Mills Frosted Flakes 2.1 kg / 4.6 lb | $58.95 | $69.95 | +18.7% |
 
 ## Biggest Price Decreases (All Time)
 
@@ -107,4 +107,5 @@
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Capri Sun Variety 100% Juice 40 Units / 177 mL / 6 oz | Capri Sun | $104.95 | G10D03 |
+| Dare Graham Cookies with Chocolate Coating 2 Units / 280 g | Dare | $49.95 | G10D03 |
+| Carbonell Extra Virgin Olive Oil Arbequina Special Selection 750 mL / 25.4 oz | Carbonell | $99.95 | G10D03 |
