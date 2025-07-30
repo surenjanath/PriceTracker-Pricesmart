@@ -239,7 +239,7 @@ class PriceSmartScraper:
             except aiohttp.ClientConnectionError:
                 if attempt < retries - 1:
                     print(f'[*] Connection error occurred. Retrying... Attempt {attempt + 1}/{retries}')
-                    await asyncio.sleep(2)
+                    await asyncio.sleep(10)
                 else:
                     print('[*] Maximum retries reached. Unable to establish connection.')
                     return None
@@ -262,7 +262,7 @@ class PriceSmartScraper:
                 if total_products == 100:  # If we got full page, there might be more
                     # Fetch additional pages
                     for start in range(100, 1200, 100):  # Limit to reasonable number of pages
-                        await asyncio.sleep(2)  # Rate limiting
+                        await asyncio.sleep(10)  # Rate limiting
                         additional_products = await self.fetch_products(session, category, start=start, rows=100)
                         if additional_products is None or len(additional_products) == 0:
                             break
