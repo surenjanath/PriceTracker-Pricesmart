@@ -190,7 +190,7 @@ This project has recently gained unexpected attention. It was created for person
 - **New products added**: 0
 - **Existing products updated**: 1074
 - **Price changes detected**: 0
-- **Stock/availability changes**: 0
+- **Stock/availability changes**: 19
 - **Discontinued products**: 0
 
 ## Top 5 Brands
@@ -293,9 +293,4 @@ This project has recently gained unexpected attention. It was created for person
 | Tosh Bran and Honey Cookies 3 Units / 243 g / 8.57 oz | Tosh | $48.95 | 2025-07-30 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Angela Mia Pizza Sauce 3 kg / 6.61 lb | Angela Mia | $99.95 | G10D03 |
-| Dare Graham Cookies with Chocolate Coating 2 Units / 280 g | Dare | $49.95 | G10D03 |
-| Carbonell Extra Virgin Olive Oil Arbequina Special Selection 750 mL / 25.4 oz | Carbonell | $99.95 | G10D03 |
+No new products added today.
