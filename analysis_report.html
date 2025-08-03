@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1083
-- **Total value**: $116,853.39
-- **Average price**: $107.90
+- **Total products scraped**: 1087
+- **Total value**: $117,905.58
+- **Average price**: $108.47
 
 ## Database Changes
-- **New products added**: 4
-- **Existing products updated**: 1079
-- **Price changes detected**: 40
-- **Stock/availability changes**: 10
-- **Discontinued products**: 0
+- **New products added**: 5
+- **Existing products updated**: 1082
+- **Price changes detected**: 70
+- **Stock/availability changes**: 16
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 180 |
-|  | 125 |
+| Member's Selection | 184 |
+|  | 124 |
 | Badia | 16 |
 | Swiss | 14 |
 | Kirkland Signature | 11 |
@@ -27,7 +27,7 @@
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Califia Farms Matcha Latte Almond Milk 1.4 L / 48 oz | Califia Farms | $69.95 | true |
-| Sunberry Farms Organic Mango Nectar Juice - Gluten Free 3.78 L / 128 oz | Sunberry Farms | $84.95 | true |
+| Sunberry Farms Organic Mango Nectar Juice - Gluten Free 3.78 L / 128 oz | Sunberry Farms | $74.95 | true |
 | Pringles Mingles Cheddar and Sour Cream Puffed Snacks 2 Units / 155 g / 5.5 oz | Pringles | $69.95 | true |
 | Sunny Fruits Organic Dried Apricots 10 Units / 50 g / 1.76 oz | Sunny Fruits | $59.95 | true |
 | Kozyshack Cinnamon Rice Pudding 1.36 kg / 3 lb | Kozyshack | $87.95 | true |
@@ -40,37 +40,38 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1300
-- **Price increases**: 99
-- **Price decreases**: 101
-- **Average increase**: 7.9%
-- **Average decrease**: -5.5%
+- **Total price changes**: 1375
+- **Price increases**: 131
+- **Price decreases**: 139
+- **Average increase**: 7.6%
+- **Average decrease**: -4.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Chicken Thighs Boneless Tray | $72.87 | $72.74 | $-0.13 | -0.2% | Decrease |
-| Fresh Chicken Thighs Boneless Bag | $312.91 | $313.02 | $+0.11 | +0.0% | Increase |
-| Fresh Chicken Boneless Breast Bag | $403.98 | $404.28 | $+0.30 | +0.1% | Increase |
-| Frozen Chicken Legs 1 kg / 2.2 lb | $0.00 | $44.95 | $+44.95 | +100.0% | New |
-| Nature's Pride Small Red Beans 1.8 kg | $0.00 | $41.95 | $+41.95 | +100.0% | New |
-| Hot Scotch Bonnet Peppers | $32.95 | $36.95 | $+4.00 | +12.1% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $67.80 | $67.71 | $-0.09 | -0.1% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $92.14 | $92.29 | $+0.15 | +0.2% | Increase |
-| French Fries 2.5 kg / 5.5 lb | $0.00 | $49.95 | $+49.95 | +100.0% | New |
-| Okra 30 Units | $26.95 | $19.95 | $-7.00 | -26.0% | Decrease |
-| Mini Sweet Peppers 454 g / 1 lb | $36.95 | $42.95 | $+6.00 | +16.2% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $130.23 | $130.09 | $-0.14 | -0.1% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $99.51 | $99.57 | $+0.06 | +0.1% | Increase |
-| Green Cabbage 1.3 kg / 2.9 lb | $28.95 | $29.95 | $+1.00 | +3.5% | Increase |
-| Fresh Ground Chicken Meat Bag | $264.96 | $261.57 | $-3.39 | -1.3% | Decrease |
+| Papaya | $31.70 | $32.25 | $+0.55 | +1.7% | Increase |
+| Black Seedless Grapes | $92.94 | $93.28 | $+0.34 | +0.4% | Increase |
+| Fresh Chicken Thighs Boneless Tray | $72.74 | $72.48 | $-0.26 | -0.4% | Decrease |
+| Fresh Chicken Breast Boneless Skinless Tray | $88.59 | $89.42 | $+0.83 | +0.9% | Increase |
+| Fresh Chicken Breast Boneless Skinless Tray | $125.42 | $124.09 | $-1.33 | -1.1% | Decrease |
+| Kiss Assorted Flavor Pastries 9 Units | $0.00 | $39.95 | $+39.95 | +100.0% | New |
+| Frozen Beef Tails, Case | $1818.15 | $2209.15 | $+391.00 | +21.5% | Increase |
+| Member's Selection Shredded Mexican-Style Cheese 2 Units / 680 g / 1.5 lb | $0.00 | $109.95 | $+109.95 | +100.0% | New |
+| Member's Selection Shredded Cheddar Cheese 2 Units / 680 g / 1.5 lb | $0.00 | $91.95 | $+91.95 | +100.0% | New |
+| Member's Selection Shredded Mozzarella Cheese 2 Units / 680 g / 1.5 lb | $0.00 | $97.95 | $+97.95 | +100.0% | New |
+| Member's Selection Shredded Mozzarella Cheese 5 Units / 453 g / 1 lb | $0.00 | $149.95 | $+149.95 | +100.0% | New |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $218.75 | $219.79 | $+1.04 | +0.5% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $191.67 | $203.20 | $+11.53 | +6.0% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $155.96 | $160.86 | $+4.90 | +3.1% | Increase |
+| Dietz & Watson Turkey Breast  | $130.16 | $123.34 | $-6.82 | -5.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
 | Product | Old Price | New Price | % Increase |
 |---------|-----------|-----------|------------|
 | Sabra Classic Hummus 850 g / 30 oz | $24.70 | $79.95 | +223.7% |
+| Curly's Baby Back Pork Ribs 680 g / 24 oz | $59.70 | $129.95 | +117.7% |
 | Activia Low Fat Yogurt 12 Units / 113 g / 4 oz | $54.70 | $82.95 | +51.6% |
 | Lush Natural Refreshing Apple Flavored Drink 36 Units / 200 ml | $52.70 | $72.95 | +38.4% |
 | Badia Granulated Onion 566.9 g / 20 oz | $28.45 | $37.95 | +33.4% |
@@ -79,7 +80,6 @@
 | Honey Bunches of Oats Sweetened Cereal with Oats and Honey 1.36 kg / 3 lb | $71.95 | $89.95 | +25.0% |
 | Snickers Chocolate Bar Party Variety Pack 680.96 g / 24.02 oz | $82.95 | $102.95 | +24.1% |
 | Silk Almond Original Unsweetened Beverage 6 Units / 946 mL / 32 oz | $124.45 | $152.95 | +22.9% |
-| Wesson Canola Oil 4.73 L | $109.95 | $134.95 | +22.7% |
 
 ## Biggest Price Decreases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Dutch Yellow Onions 3 lb / 1.3 kg |  | $11.45 | 2025-08-02 |
 | La Mere Poulard Selection Cookie Variety 750 g / 26 oz | La Mere Poulard | $47.70 | 2025-07-31 |
 | All Inklusive Triple Berries and Strawberry Yogurt Cereal 2 Units / 500 g | All Inklusive | $94.95 | 2025-07-31 |
 | Dare Viva Puffs Strawberry Cookies 2 Units / 300 g | Dare | $49.95 | 2025-07-30 |
@@ -109,13 +110,13 @@
 | Narcissus Whole Mushrooms 8 Units / 184 g | Narcissus | $55.95 | 2025-07-30 |
 | Southco Parboiled Rice 9 kg / 19.8 lb | Southco | $76.95 | 2025-07-30 |
 | Lucozade  Medley  Energy Drink 12 Units / 360 ml   | Lucozade | $144.95 | 2025-07-30 |
-| Wheat Crips Wheat Germ Cookies 18 Units / 32 g | Wheat Crisps | $44.95 | 2025-07-30 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Frozen Chicken Legs 1 kg / 2.2 lb |  | $44.95 | G10D03 |
-| Nature's Pride Small Red Beans 1.8 kg | Nature's Pride | $41.95 | G10D03 |
-| French Fries 2.5 kg / 5.5 lb |  | $49.95 | G10D03 |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | Member's Selection | $119.33 | G10D03 |
+| Kiss Assorted Flavor Pastries 9 Units | Kiss | $39.95 | G10D03 |
+| Member's Selection Shredded Mexican-Style Cheese 2 Units / 680 g / 1.5 lb | Member's Selection | $109.95 | G10D03 |
+| Member's Selection Shredded Cheddar Cheese 2 Units / 680 g / 1.5 lb | Member's Selection | $91.95 | G10D03 |
+| Member's Selection Shredded Mozzarella Cheese 2 Units / 680 g / 1.5 lb | Member's Selection | $97.95 | G10D03 |
+| Member's Selection Shredded Mozzarella Cheese 5 Units / 453 g / 1 lb | Member's Selection | $149.95 | G10D03 |
