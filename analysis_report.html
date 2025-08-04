@@ -1,25 +1,25 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1087
-- **Total value**: $117,905.58
-- **Average price**: $108.47
+- **Total products scraped**: 1091
+- **Total value**: $118,438.97
+- **Average price**: $108.56
 
 ## Database Changes
-- **New products added**: 5
-- **Existing products updated**: 1082
-- **Price changes detected**: 70
-- **Stock/availability changes**: 16
-- **Discontinued products**: 1
+- **New products added**: 4
+- **Existing products updated**: 1087
+- **Price changes detected**: 29
+- **Stock/availability changes**: 11
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 184 |
-|  | 124 |
+| Member's Selection | 185 |
+|  | 125 |
 | Badia | 16 |
-| Swiss | 14 |
+| Swiss | 15 |
 | Kirkland Signature | 11 |
 
 ## Recent Products
@@ -33,38 +33,38 @@
 | Kozyshack Cinnamon Rice Pudding 1.36 kg / 3 lb | Kozyshack | $87.95 | true |
 | Goya Coconut Milk 3 Units / 400 mL / 13.5 oz | Goya | $65.95 | true |
 | Stauffers Snaps Crunchy Lemon-Flavored Cookies 397 g / 14 oz | Stauffers | $49.95 | true |
-| Blue Waters Sparkling Drink with Cran and Grape Flavor 12 Units / 330 mL / 11.15 oz | Blue Waters | $25.95 | true |
 | Sensible Portions Vegetable Straws with Sea Salt 666 g / 23.5 oz | Sensible Portions | $109.95 | true |
+| Blue Waters Sparkling Drink with Cran and Grape Flavor 12 Units / 330 mL / 11.15 oz | Blue Waters | $25.95 | true |
 | Member's Selection Frozen Boneless Salmon Portions with Skin 680 g / 1.5 lb | Member's Selection | $169.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1375
-- **Price increases**: 131
-- **Price decreases**: 139
-- **Average increase**: 7.6%
-- **Average decrease**: -4.6%
+- **Total price changes**: 1408
+- **Price increases**: 145
+- **Price decreases**: 154
+- **Average increase**: 6.9%
+- **Average decrease**: -4.2%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Papaya | $31.70 | $32.25 | $+0.55 | +1.7% | Increase |
-| Black Seedless Grapes | $92.94 | $93.28 | $+0.34 | +0.4% | Increase |
-| Fresh Chicken Thighs Boneless Tray | $72.74 | $72.48 | $-0.26 | -0.4% | Decrease |
-| Fresh Chicken Breast Boneless Skinless Tray | $88.59 | $89.42 | $+0.83 | +0.9% | Increase |
-| Fresh Chicken Breast Boneless Skinless Tray | $125.42 | $124.09 | $-1.33 | -1.1% | Decrease |
-| Kiss Assorted Flavor Pastries 9 Units | $0.00 | $39.95 | $+39.95 | +100.0% | New |
-| Frozen Beef Tails, Case | $1818.15 | $2209.15 | $+391.00 | +21.5% | Increase |
-| Member's Selection Shredded Mexican-Style Cheese 2 Units / 680 g / 1.5 lb | $0.00 | $109.95 | $+109.95 | +100.0% | New |
-| Member's Selection Shredded Cheddar Cheese 2 Units / 680 g / 1.5 lb | $0.00 | $91.95 | $+91.95 | +100.0% | New |
-| Member's Selection Shredded Mozzarella Cheese 2 Units / 680 g / 1.5 lb | $0.00 | $97.95 | $+97.95 | +100.0% | New |
-| Member's Selection Shredded Mozzarella Cheese 5 Units / 453 g / 1 lb | $0.00 | $149.95 | $+149.95 | +100.0% | New |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $218.75 | $219.79 | $+1.04 | +0.5% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $191.67 | $203.20 | $+11.53 | +6.0% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $155.96 | $160.86 | $+4.90 | +3.1% | Increase |
-| Dietz & Watson Turkey Breast  | $130.16 | $123.34 | $-6.82 | -5.2% | Decrease |
+| Swiss Katerpack BBQ Sauce 8 Units / 2 L | $0.00 | $294.95 | $+294.95 | +100.0% | New |
+| Member's Selection Shredded Mozzarella Cheese 453 g / 1 lb | $0.00 | $28.95 | $+28.95 | +100.0% | New |
+| Fresh Chicken Breast Boneless Skinless Tray | $89.42 | $89.59 | $+0.17 | +0.2% | Increase |
+| Fresh Chicken Thighs Boneless Bag | $306.07 | $307.13 | $+1.06 | +0.3% | Increase |
+| Fresh Chicken Boneless Breast Bag | $397.38 | $397.68 | $+0.30 | +0.1% | Increase |
+| Jell-O Assorted Desserts 24 Units 2.41 kg / 5 lb | $0.00 | $159.95 | $+159.95 | +100.0% | New |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $203.20 | $202.68 | $-0.52 | -0.3% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $94.14 | $93.99 | $-0.15 | -0.2% | Decrease |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $409.33 | $404.59 | $-4.74 | -1.2% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $89.41 | $89.51 | $+0.10 | +0.1% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $91.07 | $89.81 | $-1.26 | -1.4% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $140.06 | $139.77 | $-0.29 | -0.2% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $99.71 | $99.57 | $-0.14 | -0.1% | Decrease |
+| Gouda Cheese Block | $71.62 | $71.76 | $+0.14 | +0.2% | Increase |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $114.22 | $117.37 | $+3.15 | +2.8% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -115,8 +115,7 @@
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Kiss Assorted Flavor Pastries 9 Units | Kiss | $39.95 | G10D03 |
-| Member's Selection Shredded Mexican-Style Cheese 2 Units / 680 g / 1.5 lb | Member's Selection | $109.95 | G10D03 |
-| Member's Selection Shredded Cheddar Cheese 2 Units / 680 g / 1.5 lb | Member's Selection | $91.95 | G10D03 |
-| Member's Selection Shredded Mozzarella Cheese 2 Units / 680 g / 1.5 lb | Member's Selection | $97.95 | G10D03 |
-| Member's Selection Shredded Mozzarella Cheese 5 Units / 453 g / 1 lb | Member's Selection | $149.95 | G10D03 |
+| Swiss Katerpack BBQ Sauce 8 Units / 2 L | Swiss | $294.95 | G10D03 |
+| Member's Selection Shredded Mozzarella Cheese 453 g / 1 lb | Member's Selection | $28.95 | G10D03 |
+| Jell-O Assorted Desserts 24 Units 2.41 kg / 5 lb | Jell-O | $159.95 | G10D03 |
+| Frozen Boneless Pork Loin Vacuum Packaged |  | $53.62 | G10D03 |
