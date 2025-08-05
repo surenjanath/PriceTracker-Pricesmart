@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1091
-- **Total value**: $118,438.97
-- **Average price**: $108.56
+- **Total products scraped**: 1092
+- **Total value**: $118,510.61
+- **Average price**: $108.53
 
 ## Database Changes
-- **New products added**: 4
-- **Existing products updated**: 1087
-- **Price changes detected**: 29
-- **Stock/availability changes**: 11
-- **Discontinued products**: 0
+- **New products added**: 3
+- **Existing products updated**: 1089
+- **Price changes detected**: 32
+- **Stock/availability changes**: 16
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
@@ -18,7 +18,7 @@
 |-------|-------|
 | Member's Selection | 185 |
 |  | 125 |
-| Badia | 16 |
+| Badia | 18 |
 | Swiss | 15 |
 | Kirkland Signature | 11 |
 
@@ -33,38 +33,38 @@
 | Kozyshack Cinnamon Rice Pudding 1.36 kg / 3 lb | Kozyshack | $87.95 | true |
 | Goya Coconut Milk 3 Units / 400 mL / 13.5 oz | Goya | $65.95 | true |
 | Stauffers Snaps Crunchy Lemon-Flavored Cookies 397 g / 14 oz | Stauffers | $49.95 | true |
-| Sensible Portions Vegetable Straws with Sea Salt 666 g / 23.5 oz | Sensible Portions | $109.95 | true |
 | Blue Waters Sparkling Drink with Cran and Grape Flavor 12 Units / 330 mL / 11.15 oz | Blue Waters | $25.95 | true |
+| Sensible Portions Vegetable Straws with Sea Salt 666 g / 23.5 oz | Sensible Portions | $109.95 | true |
 | Member's Selection Frozen Boneless Salmon Portions with Skin 680 g / 1.5 lb | Member's Selection | $169.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1408
-- **Price increases**: 145
-- **Price decreases**: 154
-- **Average increase**: 6.9%
-- **Average decrease**: -4.2%
+- **Total price changes**: 1443
+- **Price increases**: 163
+- **Price decreases**: 168
+- **Average increase**: 6.2%
+- **Average decrease**: -3.9%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Swiss Katerpack BBQ Sauce 8 Units / 2 L | $0.00 | $294.95 | $+294.95 | +100.0% | New |
-| Member's Selection Shredded Mozzarella Cheese 453 g / 1 lb | $0.00 | $28.95 | $+28.95 | +100.0% | New |
-| Fresh Chicken Breast Boneless Skinless Tray | $89.42 | $89.59 | $+0.17 | +0.2% | Increase |
-| Fresh Chicken Thighs Boneless Bag | $306.07 | $307.13 | $+1.06 | +0.3% | Increase |
-| Fresh Chicken Boneless Breast Bag | $397.38 | $397.68 | $+0.30 | +0.1% | Increase |
-| Jell-O Assorted Desserts 24 Units 2.41 kg / 5 lb | $0.00 | $159.95 | $+159.95 | +100.0% | New |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $203.20 | $202.68 | $-0.52 | -0.3% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $94.14 | $93.99 | $-0.15 | -0.2% | Decrease |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $409.33 | $404.59 | $-4.74 | -1.2% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $89.41 | $89.51 | $+0.10 | +0.1% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $91.07 | $89.81 | $-1.26 | -1.4% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $140.06 | $139.77 | $-0.29 | -0.2% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $99.71 | $99.57 | $-0.14 | -0.1% | Decrease |
-| Gouda Cheese Block | $71.62 | $71.76 | $+0.14 | +0.2% | Increase |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $114.22 | $117.37 | $+3.15 | +2.8% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $89.81 | $89.72 | $-0.09 | -0.1% | Decrease |
+| Fresh Chicken Thighs Boneless Bag | $307.13 | $307.72 | $+0.59 | +0.2% | Increase |
+| Fresh Chicken Boneless Breast Bag | $397.68 | $398.13 | $+0.45 | +0.1% | Increase |
+| Badia All Purpose Marinade Seasoning 591 mL / 20 oz  | $0.00 | $21.95 | $+21.95 | +100.0% | New |
+| Badia All Purpose Seasoning 14 Spices 567 g / 20 oz | $0.00 | $69.75 | $+69.75 | +100.0% | New |
+| Lunchables Cookie Sandwich 6 Units | $0.00 | $159.95 | $+159.95 | +100.0% | New |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $202.68 | $203.47 | $+0.79 | +0.4% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $160.86 | $160.59 | $-0.27 | -0.2% | Decrease |
+| Dietz & Watson Turkey Breast  | $123.34 | $128.61 | $+5.27 | +4.3% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $67.71 | $67.61 | $-0.10 | -0.1% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $55.87 | $55.79 | $-0.08 | -0.1% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $89.51 | $89.71 | $+0.20 | +0.2% | Increase |
+| Frozen Sliced Turkey Drumsticks | $99.57 | $99.44 | $-0.13 | -0.1% | Decrease |
+| Fresh Chicken Thighs Bone In  | $81.52 | $81.35 | $-0.17 | -0.2% | Decrease |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $72.85 | $74.22 | $+1.37 | +1.9% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,8 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Rajapuri Coconut Flavor Curry Powder 620 g / 22 oz | Rajapuri | $56.95 | 2025-08-04 |
+| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | Swift | $140.34 | 2025-08-04 |
 | Dutch Yellow Onions 3 lb / 1.3 kg |  | $11.45 | 2025-08-02 |
 | La Mere Poulard Selection Cookie Variety 750 g / 26 oz | La Mere Poulard | $47.70 | 2025-07-31 |
 | All Inklusive Triple Berries and Strawberry Yogurt Cereal 2 Units / 500 g | All Inklusive | $94.95 | 2025-07-31 |
@@ -108,14 +110,11 @@
 | Sweet Cane White Sugar 2 Units / 1.8 kg / 3.96 lb | Sweet Cane | $39.95 | 2025-07-30 |
 | Just About Foods Mango Organic Dried Mango 15 Units / 28.35 g / 0.89 oz | Just About Foods | $40.70 | 2025-07-30 |
 | Narcissus Whole Mushrooms 8 Units / 184 g | Narcissus | $55.95 | 2025-07-30 |
-| Southco Parboiled Rice 9 kg / 19.8 lb | Southco | $76.95 | 2025-07-30 |
-| Lucozade  Medley  Energy Drink 12 Units / 360 ml   | Lucozade | $144.95 | 2025-07-30 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Swiss Katerpack BBQ Sauce 8 Units / 2 L | Swiss | $294.95 | G10D03 |
-| Member's Selection Shredded Mozzarella Cheese 453 g / 1 lb | Member's Selection | $28.95 | G10D03 |
-| Jell-O Assorted Desserts 24 Units 2.41 kg / 5 lb | Jell-O | $159.95 | G10D03 |
-| Frozen Boneless Pork Loin Vacuum Packaged |  | $53.62 | G10D03 |
+| Badia All Purpose Marinade Seasoning 591 mL / 20 oz  | Badia | $21.95 | G10D03 |
+| Badia All Purpose Seasoning 14 Spices 567 g / 20 oz | Badia | $69.75 | G10D03 |
+| Lunchables Cookie Sandwich 6 Units | Lunchables | $159.95 | G10D03 |
