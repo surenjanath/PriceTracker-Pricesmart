@@ -2,15 +2,15 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1092
-- **Total value**: $118,510.61
-- **Average price**: $108.53
+- **Total value**: $118,573.68
+- **Average price**: $108.58
 
 ## Database Changes
-- **New products added**: 3
-- **Existing products updated**: 1089
+- **New products added**: 1
+- **Existing products updated**: 1091
 - **Price changes detected**: 32
-- **Stock/availability changes**: 16
-- **Discontinued products**: 2
+- **Stock/availability changes**: 24
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1443
-- **Price increases**: 163
-- **Price decreases**: 168
-- **Average increase**: 6.2%
-- **Average decrease**: -3.9%
+- **Total price changes**: 1476
+- **Price increases**: 183
+- **Price decreases**: 180
+- **Average increase**: 5.9%
+- **Average decrease**: -3.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Seasoned BBQ Chicken Quarters Bag | $89.81 | $89.72 | $-0.09 | -0.1% | Decrease |
-| Fresh Chicken Thighs Boneless Bag | $307.13 | $307.72 | $+0.59 | +0.2% | Increase |
-| Fresh Chicken Boneless Breast Bag | $397.68 | $398.13 | $+0.45 | +0.1% | Increase |
-| Badia All Purpose Marinade Seasoning 591 mL / 20 oz  | $0.00 | $21.95 | $+21.95 | +100.0% | New |
-| Badia All Purpose Seasoning 14 Spices 567 g / 20 oz | $0.00 | $69.75 | $+69.75 | +100.0% | New |
-| Lunchables Cookie Sandwich 6 Units | $0.00 | $159.95 | $+159.95 | +100.0% | New |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $202.68 | $203.47 | $+0.79 | +0.4% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $160.86 | $160.59 | $-0.27 | -0.2% | Decrease |
-| Dietz & Watson Turkey Breast  | $123.34 | $128.61 | $+5.27 | +4.3% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $67.71 | $67.61 | $-0.10 | -0.1% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $55.87 | $55.79 | $-0.08 | -0.1% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $89.51 | $89.71 | $+0.20 | +0.2% | Increase |
-| Frozen Sliced Turkey Drumsticks | $99.57 | $99.44 | $-0.13 | -0.1% | Decrease |
-| Fresh Chicken Thighs Bone In  | $81.52 | $81.35 | $-0.17 | -0.2% | Decrease |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $72.85 | $74.22 | $+1.37 | +1.9% | Increase |
+| Reny Picot Brie with Peppercorns 396 g /14 oz | $0.00 | $68.95 | $+68.95 | +100.0% | New |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $160.59 | $160.86 | $+0.27 | +0.2% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $67.61 | $67.51 | $-0.10 | -0.1% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $93.99 | $94.14 | $+0.15 | +0.2% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $55.79 | $55.87 | $+0.08 | +0.1% | Increase |
+| Fresh Chicken Leg Quarters Tray | $89.71 | $89.81 | $+0.10 | +0.1% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $89.72 | $89.63 | $-0.09 | -0.1% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $139.77 | $139.47 | $-0.30 | -0.2% | Decrease |
+| Fresh Ground Chicken Meat Bag | $264.96 | $262.21 | $-2.75 | -1.0% | Decrease |
+| Assorted Peppers | $36.14 | $35.99 | $-0.15 | -0.4% | Decrease |
+| Fresh Ground Chicken Tray | $85.83 | $85.95 | $+0.12 | +0.1% | Increase |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $67.48 | $67.37 | $-0.11 | -0.2% | Decrease |
+| Nutrina Chilled Whole Chicken Bag | $307.59 | $308.34 | $+0.75 | +0.2% | Increase |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $67.98 | $67.86 | $-0.12 | -0.2% | Decrease |
+| Member's Selection Frozen Boneless Pork Loin Roast Tray | $104.84 | $104.42 | $-0.42 | -0.4% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Busta Assorted Soft Drinks 24 Units / 500 mL | Busta | $39.70 | 2025-08-05 |
 | Rajapuri Coconut Flavor Curry Powder 620 g / 22 oz | Rajapuri | $56.95 | 2025-08-04 |
 | Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | Swift | $140.34 | 2025-08-04 |
 | Dutch Yellow Onions 3 lb / 1.3 kg |  | $11.45 | 2025-08-02 |
@@ -109,12 +110,9 @@
 | Avocado Mesh 5 Units |  | $34.95 | 2025-07-30 |
 | Sweet Cane White Sugar 2 Units / 1.8 kg / 3.96 lb | Sweet Cane | $39.95 | 2025-07-30 |
 | Just About Foods Mango Organic Dried Mango 15 Units / 28.35 g / 0.89 oz | Just About Foods | $40.70 | 2025-07-30 |
-| Narcissus Whole Mushrooms 8 Units / 184 g | Narcissus | $55.95 | 2025-07-30 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Badia All Purpose Marinade Seasoning 591 mL / 20 oz  | Badia | $21.95 | G10D03 |
-| Badia All Purpose Seasoning 14 Spices 567 g / 20 oz | Badia | $69.75 | G10D03 |
-| Lunchables Cookie Sandwich 6 Units | Lunchables | $159.95 | G10D03 |
+| Reny Picot Brie with Peppercorns 396 g /14 oz | Reny Picot | $68.95 | G10D03 |
