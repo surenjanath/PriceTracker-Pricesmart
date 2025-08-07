@@ -183,14 +183,14 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1092
-- **Total value**: $118,573.68
-- **Average price**: $108.58
+- **Total value**: $118,530.15
+- **Average price**: $108.54
 
 ## Database Changes
 - **New products added**: 1
 - **Existing products updated**: 1091
-- **Price changes detected**: 32
-- **Stock/availability changes**: 24
+- **Price changes detected**: 25
+- **Stock/availability changes**: 13
 - **Discontinued products**: 1
 
 ## Top 5 Brands
@@ -198,7 +198,7 @@ This project has recently gained unexpected attention. It was created for person
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 185 |
-|  | 125 |
+|  | 124 |
 | Badia | 18 |
 | Swiss | 15 |
 | Kirkland Signature | 11 |
@@ -207,45 +207,45 @@ This project has recently gained unexpected attention. It was created for person
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
+| Sunny Fruits Organic Dried Apricots 10 Units / 50 g / 1.76 oz | Sunny Fruits | $59.95 | true |
 | Califia Farms Matcha Latte Almond Milk 1.4 L / 48 oz | Califia Farms | $69.95 | true |
 | Sunberry Farms Organic Mango Nectar Juice - Gluten Free 3.78 L / 128 oz | Sunberry Farms | $74.95 | true |
 | Pringles Mingles Cheddar and Sour Cream Puffed Snacks 2 Units / 155 g / 5.5 oz | Pringles | $69.95 | true |
-| Sunny Fruits Organic Dried Apricots 10 Units / 50 g / 1.76 oz | Sunny Fruits | $59.95 | true |
-| Kozyshack Cinnamon Rice Pudding 1.36 kg / 3 lb | Kozyshack | $87.95 | true |
-| Goya Coconut Milk 3 Units / 400 mL / 13.5 oz | Goya | $65.95 | true |
-| Stauffers Snaps Crunchy Lemon-Flavored Cookies 397 g / 14 oz | Stauffers | $49.95 | true |
-| Blue Waters Sparkling Drink with Cran and Grape Flavor 12 Units / 330 mL / 11.15 oz | Blue Waters | $25.95 | true |
 | Sensible Portions Vegetable Straws with Sea Salt 666 g / 23.5 oz | Sensible Portions | $109.95 | true |
+| Kozyshack Cinnamon Rice Pudding 1.36 kg / 3 lb | Kozyshack | $87.95 | true |
+| Blue Waters Sparkling Drink with Cran and Grape Flavor 12 Units / 330 mL / 11.15 oz | Blue Waters | $25.95 | true |
+| Stauffers Snaps Crunchy Lemon-Flavored Cookies 397 g / 14 oz | Stauffers | $49.95 | true |
+| Goya Coconut Milk 3 Units / 400 mL / 13.5 oz | Goya | $65.95 | true |
 | Member's Selection Frozen Boneless Salmon Portions with Skin 680 g / 1.5 lb | Member's Selection | $169.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1476
-- **Price increases**: 183
-- **Price decreases**: 180
-- **Average increase**: 5.9%
-- **Average decrease**: -3.6%
+- **Total price changes**: 1502
+- **Price increases**: 197
+- **Price decreases**: 191
+- **Average increase**: 5.6%
+- **Average decrease**: -3.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Reny Picot Brie with Peppercorns 396 g /14 oz | $0.00 | $68.95 | $+68.95 | +100.0% | New |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $160.59 | $160.86 | $+0.27 | +0.2% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $67.61 | $67.51 | $-0.10 | -0.1% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $93.99 | $94.14 | $+0.15 | +0.2% | Increase |
-| Chilled Chicken Gizzard Tray Pack | $55.79 | $55.87 | $+0.08 | +0.1% | Increase |
-| Fresh Chicken Leg Quarters Tray | $89.71 | $89.81 | $+0.10 | +0.1% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $89.72 | $89.63 | $-0.09 | -0.1% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $139.77 | $139.47 | $-0.30 | -0.2% | Decrease |
-| Fresh Ground Chicken Meat Bag | $264.96 | $262.21 | $-2.75 | -1.0% | Decrease |
-| Assorted Peppers | $36.14 | $35.99 | $-0.15 | -0.4% | Decrease |
-| Fresh Ground Chicken Tray | $85.83 | $85.95 | $+0.12 | +0.1% | Increase |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $67.48 | $67.37 | $-0.11 | -0.2% | Decrease |
-| Nutrina Chilled Whole Chicken Bag | $307.59 | $308.34 | $+0.75 | +0.2% | Increase |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $67.98 | $67.86 | $-0.12 | -0.2% | Decrease |
-| Member's Selection Frozen Boneless Pork Loin Roast Tray | $104.84 | $104.42 | $-0.42 | -0.4% | Decrease |
+| Ankara Twists Fusilli Short Pasta 4 Units / 500 g | $0.00 | $39.95 | $+39.95 | +100.0% | New |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $203.47 | $203.20 | $-0.27 | -0.1% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $94.14 | $93.99 | $-0.15 | -0.2% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $139.47 | $139.03 | $-0.44 | -0.3% | Decrease |
+| Perrier Sparkling Water 10 Units / 250 mL / 8.4 oz | $89.94 | $89.95 | $+0.01 | +0.0% | Increase |
+| Frozen Sliced Turkey Drumsticks | $99.44 | $99.38 | $-0.06 | -0.1% | Decrease |
+| Cadbury Delicious Milk Chocolate Bar 180 g       | $36.95 | $39.95 | $+3.00 | +8.1% | Increase |
+| Fresh Ground Chicken Meat Bag | $262.21 | $264.64 | $+2.43 | +0.9% | Increase |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.22 | $74.34 | $+0.12 | +0.2% | Increase |
+| Maison Perrier Sparkling Water with Lime Flavor 10 Units / 250 mL / 8.5 oz | $89.94 | $89.95 | $+0.01 | +0.0% | Increase |
+| Nutrina Chilled Whole Chicken Bag | $308.34 | $308.78 | $+0.44 | +0.1% | Increase |
+| Assorted Peppers | $35.99 | $35.92 | $-0.07 | -0.2% | Decrease |
+| Cadbury Whole Nut Chocolate Bar 180 g  | $36.95 | $40.95 | $+4.00 | +10.8% | Increase |
+| Member's Selection Chilled New York Strip Steak Tray | $188.46 | $189.52 | $+1.06 | +0.6% | Increase |
+| Member's Selection Frozen Skin On Boneless Trout Fillet Vacuum Packaged Bag | $209.55 | $209.95 | $+0.40 | +0.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -281,6 +281,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Black Seedless Grapes |  | $93.28 | 2025-08-06 |
 | Busta Assorted Soft Drinks 24 Units / 500 mL | Busta | $39.70 | 2025-08-05 |
 | Rajapuri Coconut Flavor Curry Powder 620 g / 22 oz | Rajapuri | $56.95 | 2025-08-04 |
 | Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | Swift | $140.34 | 2025-08-04 |
@@ -290,10 +291,9 @@ This project has recently gained unexpected attention. It was created for person
 | Dare Viva Puffs Strawberry Cookies 2 Units / 300 g | Dare | $49.95 | 2025-07-30 |
 | Avocado Mesh 5 Units |  | $34.95 | 2025-07-30 |
 | Sweet Cane White Sugar 2 Units / 1.8 kg / 3.96 lb | Sweet Cane | $39.95 | 2025-07-30 |
-| Just About Foods Mango Organic Dried Mango 15 Units / 28.35 g / 0.89 oz | Just About Foods | $40.70 | 2025-07-30 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Reny Picot Brie with Peppercorns 396 g /14 oz | Reny Picot | $68.95 | G10D03 |
+| Ankara Twists Fusilli Short Pasta 4 Units / 500 g | Ankara | $39.95 | G10D03 |
