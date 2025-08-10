@@ -182,23 +182,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1095
-- **Total value**: $118,336.12
-- **Average price**: $108.07
+- **Total products scraped**: 1096
+- **Total value**: $118,618.84
+- **Average price**: $108.23
 
 ## Database Changes
-- **New products added**: 7
-- **Existing products updated**: 1088
-- **Price changes detected**: 50
-- **Stock/availability changes**: 7
-- **Discontinued products**: 1
+- **New products added**: 1
+- **Existing products updated**: 1095
+- **Price changes detected**: 31
+- **Stock/availability changes**: 15
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 183 |
-|  | 130 |
+|  | 131 |
 | Badia | 18 |
 | Swiss | 15 |
 | Kirkland Signature | 11 |
@@ -221,31 +221,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1615
-- **Price increases**: 237
-- **Price decreases**: 254
-- **Average increase**: 5.4%
-- **Average decrease**: -3.7%
+- **Total price changes**: 1647
+- **Price increases**: 253
+- **Price decreases**: 269
+- **Average increase**: 5.3%
+- **Average decrease**: -3.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Toppers Popcorn Gluten Free 600 g | $0.00 | $39.95 | $+39.95 | +100.0% | New |
-| Lucema Snail Shell Pasta 6 Units / 250 g / 8.8 oz | $31.95 | $30.70 | $-1.25 | -3.9% | Decrease |
-| Salad Tomato 1.5 kg / 3.5 lb | $0.00 | $29.95 | $+29.95 | +100.0% | New |
-| Green Cabbage Unit | $0.00 | $25.95 | $+25.95 | +100.0% | New |
-| Salad Tomato 1.5 kg / 3.5 lb | $0.00 | $29.95 | $+29.95 | +100.0% | New |
-| Avocado Mesh 5 Units | $34.95 | $47.95 | $+13.00 | +37.2% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $202.68 | $201.62 | $-1.06 | -0.5% | Decrease |
-| Chilled Skinless Boneless Beef Ribeye Steak Vacuum Package Whole Piece | $2311.11 | $2180.13 | $-130.98 | -5.7% | Decrease |
-| Pepsi Cola Soft Drink 24 Units / 500 mL | $71.95 | $69.95 | $-2.00 | -2.8% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $138.88 | $138.58 | $-0.30 | -0.2% | Decrease |
-| Swiss Pasta Shells and Bow Ties 6 Units / 300 g | $31.95 | $28.70 | $-3.25 | -10.2% | Decrease |
-| Mini Sweet Peppers 454 g / 1 lb | $42.95 | $47.95 | $+5.00 | +11.6% | Increase |
-| Mixed Bell Pepper 1.36 kg / 3 lb | $0.00 | $36.95 | $+36.95 | +100.0% | New |
-| Fresh Ground Chicken Meat Bag | $264.64 | $264.96 | $+0.32 | +0.1% | Increase |
-| Avocado 2 Units | $29.95 | $24.70 | $-5.25 | -17.5% | Decrease |
+| Seedless Watermelon  | $0.00 | $79.95 | $+79.95 | +100.0% | New |
+| Frozen Bone-In Pork Shoulder Case | $1373.54 | $1469.48 | $+95.94 | +7.0% | Increase |
+| Frozen Skinless Pork Belly Center Cut Case | $2118.83 | $2205.97 | $+87.14 | +4.1% | Increase |
+| Ankara Shell Pasta 4 Units / 500 g | $39.95 | $35.70 | $-4.25 | -10.6% | Decrease |
+| Frozen Pork Belly Skin On Vacuum Packed | $458.93 | $476.82 | $+17.89 | +3.9% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $94.14 | $94.29 | $+0.15 | +0.2% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $160.86 | $160.59 | $-0.27 | -0.2% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $67.51 | $73.15 | $+5.64 | +8.4% | Increase |
+| Fresh Ground Chicken Meat Bag | $264.96 | $264.64 | $-0.32 | -0.1% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $99.31 | $99.18 | $-0.13 | -0.1% | Decrease |
+| Cadbury Delicious Milk Chocolate Bar 180 g       | $39.95 | $40.95 | $+1.00 | +2.5% | Increase |
+| Lettuce 2 Units | $24.95 | $21.95 | $-3.00 | -12.0% | Decrease |
+| Better Living Nuts, Seeds and Dehydrated Fruit Mix 16 Units / 56 g | $119.95 | $121.95 | $+2.00 | +1.7% | Increase |
+| Nutrina Chilled Whole Chicken Bag | $310.88 | $308.48 | $-2.40 | -0.8% | Decrease |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $122.31 | $123.09 | $+0.78 | +0.6% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -296,10 +296,4 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Toppers Popcorn Gluten Free 600 g | Toppers | $39.95 | G10D03 |
-| Salad Tomato 1.5 kg / 3.5 lb |  | $29.95 | G10D03 |
-| Green Cabbage Unit |  | $25.95 | G10D03 |
-| Salad Tomato 1.5 kg / 3.5 lb |  | $29.95 | G10D03 |
-| Mixed Bell Pepper 1.36 kg / 3 lb |  | $36.95 | G10D03 |
-| Hershey's Cocoa Powder 652 g / 23 oz | Hershey's | $109.95 | G10D03 |
-| Carrot 2.27 kg / 5 lb |  | $36.95 | G10D03 |
+| Seedless Watermelon  |  | $79.95 | G10D03 |
