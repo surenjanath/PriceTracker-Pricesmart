@@ -1,15 +1,15 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1096
-- **Total value**: $118,618.84
-- **Average price**: $108.23
+- **Total products scraped**: 1098
+- **Total value**: $118,721.20
+- **Average price**: $108.12
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1095
-- **Price changes detected**: 31
-- **Stock/availability changes**: 15
+- **New products added**: 2
+- **Existing products updated**: 1096
+- **Price changes detected**: 30
+- **Stock/availability changes**: 11
 - **Discontinued products**: 0
 
 ## Top 5 Brands
@@ -17,7 +17,7 @@
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 183 |
-|  | 131 |
+|  | 132 |
 | Badia | 18 |
 | Swiss | 15 |
 | Kirkland Signature | 11 |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1647
-- **Price increases**: 253
-- **Price decreases**: 269
-- **Average increase**: 5.3%
-- **Average decrease**: -3.6%
+- **Total price changes**: 1679
+- **Price increases**: 265
+- **Price decreases**: 287
+- **Average increase**: 5.0%
+- **Average decrease**: -3.4%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Seedless Watermelon  | $0.00 | $79.95 | $+79.95 | +100.0% | New |
-| Frozen Bone-In Pork Shoulder Case | $1373.54 | $1469.48 | $+95.94 | +7.0% | Increase |
-| Frozen Skinless Pork Belly Center Cut Case | $2118.83 | $2205.97 | $+87.14 | +4.1% | Increase |
-| Ankara Shell Pasta 4 Units / 500 g | $39.95 | $35.70 | $-4.25 | -10.6% | Decrease |
-| Frozen Pork Belly Skin On Vacuum Packed | $458.93 | $476.82 | $+17.89 | +3.9% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $94.14 | $94.29 | $+0.15 | +0.2% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $160.86 | $160.59 | $-0.27 | -0.2% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $67.51 | $73.15 | $+5.64 | +8.4% | Increase |
-| Fresh Ground Chicken Meat Bag | $264.96 | $264.64 | $-0.32 | -0.1% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $99.31 | $99.18 | $-0.13 | -0.1% | Decrease |
-| Cadbury Delicious Milk Chocolate Bar 180 g       | $39.95 | $40.95 | $+1.00 | +2.5% | Increase |
-| Lettuce 2 Units | $24.95 | $21.95 | $-3.00 | -12.0% | Decrease |
-| Better Living Nuts, Seeds and Dehydrated Fruit Mix 16 Units / 56 g | $119.95 | $121.95 | $+2.00 | +1.7% | Increase |
-| Nutrina Chilled Whole Chicken Bag | $310.88 | $308.48 | $-2.40 | -0.8% | Decrease |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $122.31 | $123.09 | $+0.78 | +0.6% | Increase |
+| Fresh Chicken Thighs Boneless Bag | $307.01 | $306.07 | $-0.94 | -0.3% | Decrease |
+| Lava Bits Chocolate Filled Cookies 6 Units / 150 g | $0.00 | $42.95 | $+42.95 | +100.0% | New |
+| Gala Apples 1.36 kg / 3 lb | $0.00 | $55.95 | $+55.95 | +100.0% | New |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $123.09 | $122.57 | $-0.52 | -0.4% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $138.58 | $138.43 | $-0.15 | -0.1% | Decrease |
+| Fresh Chicken Thighs Bone In  | $81.35 | $81.26 | $-0.09 | -0.1% | Decrease |
+| Nutrina Chilled Whole Chicken Bag | $308.48 | $310.73 | $+2.25 | +0.7% | Increase |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $117.37 | $117.14 | $-0.23 | -0.2% | Decrease |
+| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $58.74 | $58.64 | $-0.10 | -0.2% | Decrease |
+| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $166.84 | $167.06 | $+0.22 | +0.1% | Increase |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $72.85 | $72.73 | $-0.12 | -0.2% | Decrease |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $220.70 | $219.79 | $-0.91 | -0.4% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $89.91 | $90.01 | $+0.10 | +0.1% | Increase |
+| Fresh Ground Chicken Tray | $88.19 | $88.07 | $-0.12 | -0.1% | Decrease |
+| Member's Selection Frozen Boneless Pork Loin Roast Tray | $104.31 | $103.99 | $-0.32 | -0.3% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -115,4 +115,5 @@
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Seedless Watermelon  |  | $79.95 | G10D03 |
+| Lava Bits Chocolate Filled Cookies 6 Units / 150 g | Lava Bits | $42.95 | G10D03 |
+| Gala Apples 1.36 kg / 3 lb |  | $55.95 | G10D03 |
