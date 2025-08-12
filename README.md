@@ -182,16 +182,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1098
-- **Total value**: $118,721.20
-- **Average price**: $108.12
+- **Total products scraped**: 1096
+- **Total value**: $118,553.95
+- **Average price**: $108.17
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1096
-- **Price changes detected**: 30
-- **Stock/availability changes**: 11
-- **Discontinued products**: 0
+- **New products added**: 1
+- **Existing products updated**: 1095
+- **Price changes detected**: 65
+- **Stock/availability changes**: 10
+- **Discontinued products**: 3
 
 ## Top 5 Brands
 
@@ -221,31 +221,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1679
-- **Price increases**: 265
-- **Price decreases**: 287
-- **Average increase**: 5.0%
-- **Average decrease**: -3.4%
+- **Total price changes**: 1745
+- **Price increases**: 292
+- **Price decreases**: 325
+- **Average increase**: 5.5%
+- **Average decrease**: -4.3%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Chicken Thighs Boneless Bag | $307.01 | $306.07 | $-0.94 | -0.3% | Decrease |
-| Lava Bits Chocolate Filled Cookies 6 Units / 150 g | $0.00 | $42.95 | $+42.95 | +100.0% | New |
-| Gala Apples 1.36 kg / 3 lb | $0.00 | $55.95 | $+55.95 | +100.0% | New |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $123.09 | $122.57 | $-0.52 | -0.4% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $138.58 | $138.43 | $-0.15 | -0.1% | Decrease |
-| Fresh Chicken Thighs Bone In  | $81.35 | $81.26 | $-0.09 | -0.1% | Decrease |
-| Nutrina Chilled Whole Chicken Bag | $308.48 | $310.73 | $+2.25 | +0.7% | Increase |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $117.37 | $117.14 | $-0.23 | -0.2% | Decrease |
-| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $58.74 | $58.64 | $-0.10 | -0.2% | Decrease |
-| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $166.84 | $167.06 | $+0.22 | +0.1% | Increase |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $72.85 | $72.73 | $-0.12 | -0.2% | Decrease |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $220.70 | $219.79 | $-0.91 | -0.4% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $89.91 | $90.01 | $+0.10 | +0.1% | Increase |
-| Fresh Ground Chicken Tray | $88.19 | $88.07 | $-0.12 | -0.1% | Decrease |
-| Member's Selection Frozen Boneless Pork Loin Roast Tray | $104.31 | $103.99 | $-0.32 | -0.3% | Decrease |
+| LOA Bakers White Pita Bread 12 Units / 900 g | $23.95 | $16.95 | $-7.00 | -29.2% | Decrease |
+| Fresh Chicken Thighs Boneless Tray | $72.48 | $72.61 | $+0.13 | +0.2% | Increase |
+| Fresh Chicken Breast Boneless Skinless Tray | $89.42 | $89.59 | $+0.17 | +0.2% | Increase |
+| Fresh Chicken Thighs Boneless Bag | $306.07 | $306.30 | $+0.23 | +0.1% | Increase |
+| Fresh Chicken Boneless Breast Bag | $397.83 | $397.09 | $-0.74 | -0.2% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $201.62 | $201.09 | $-0.53 | -0.3% | Decrease |
+| Red Rose Keta Salmon 3 Units / 418 g / 15 oz | $114.95 | $96.95 | $-18.00 | -15.7% | Decrease |
+| Pafritas Paprika Flavor Potato Chips 500 g / 1.1 lb | $0.00 | $86.95 | $+86.95 | +100.0% | New |
+| Fresh Ground Chicken Meat Bag | $264.64 | $264.96 | $+0.32 | +0.1% | Increase |
+| Maggi Vegetable Soup 12 Units / 45 g | $67.95 | $79.95 | $+12.00 | +17.7% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $138.43 | $138.29 | $-0.14 | -0.1% | Decrease |
+| Fruta 100% Juices Assorted 24 Units / 200 mL / 6.7 oz | $74.95 | $63.45 | $-11.50 | -15.3% | Decrease |
+| Green pepper | $48.61 | $48.82 | $+0.21 | +0.4% | Increase |
+| Lucozade Tropical Energy Drink 12 Units / 360 mL | $139.95 | $118.95 | $-21.00 | -15.0% | Decrease |
+| Eve Peas and Carrots 6 Units / 425 g / 15 g  | $59.95 | $49.95 | $-10.00 | -16.7% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -259,8 +259,8 @@ This project has recently gained unexpected attention. It was created for person
 | Avocado Mesh 5 Units | $34.95 | $47.95 | +37.2% |
 | Iceberg Lettuce Unit | $19.70 | $26.95 | +36.8% |
 | Badia Granulated Onion 566.9 g / 20 oz | $28.45 | $37.95 | +33.4% |
+| Badia Ground Turmeric 453.6 g / 16 oz  | $30.95 | $38.95 | +25.8% |
 | Virginia Brand Vidalia Onion Vinaigrette 1 L / 33.8 oz | $39.95 | $49.95 | +25.0% |
-| Kraft Slow-Simmered Original Barbecue Sauce 2.3 kg  | $71.95 | $89.95 | +25.0% |
 
 ## Biggest Price Decreases (All Time)
 
@@ -271,16 +271,19 @@ This project has recently gained unexpected attention. It was created for person
 | Frito Lay Assortment Box 24 Units | $99.95 | $49.70 | -50.3% |
 | Fresh Regular Tomato | $47.85 | $28.51 | -40.4% |
 | Iceberg Lettuce Unit | $27.95 | $19.70 | -29.5% |
+| LOA Bakers White Pita Bread 12 Units / 900 g | $23.95 | $16.95 | -29.2% |
 | Okra 30 Units | $26.95 | $19.95 | -26.0% |
+| Tyson Turkey Ham 2 Units / 340 g / 12 oz | $57.95 | $44.95 | -22.4% |
 | Fresh Cello Carrots 1.3 kg / 3 lb | $24.95 | $19.70 | -21.0% |
 | Badia Ground Turmeric 453.6 g / 16 oz  | $38.95 | $30.95 | -20.5% |
-| Iceberg Lettuce Unit | $34.95 | $27.95 | -20.0% |
-| State Fair Mini Corn Dogs 46 Units / 18.7 g / 0.66 oz | $74.95 | $59.95 | -20.0% |
 
 ## Recently Discontinued Products
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Smartfood White Cheddar Cheese Flavor Popcorn 156 g / 5.50 oz | Smart Foods | $23.95 | 2025-08-11 |
+| Erin Farms Turkey Ham 750 g / 1.6 lb | Erin Farm | $47.95 | 2025-08-11 |
+| Munchy's Krunch Oat Cookies with Dark Chocolate 3 Units / 208 g | Munchy's | $51.95 | 2025-08-11 |
 | Black's Family Sweet Potato Chips 510 g / 18 oz | Black's Family | $79.95 | 2025-08-08 |
 | Lush Fruit Juice Assorted Flavors 36 Units / 200 mL / 6.7 mL | Lush | $37.70 | 2025-08-07 |
 | Bragg Apple Cider Vinegar 2 Units / 473 mL | Bragg | $65.95 | 2025-08-07 |
@@ -288,13 +291,9 @@ This project has recently gained unexpected attention. It was created for person
 | Dare Veggie Chips with Sea Salt 405 g / 14.28 oz | Dare | $89.95 | 2025-08-07 |
 | Bumble Bee Pink Salmon 4 Units / 418 g / 14.75 oz | Bumble Bee | $149.70 | 2025-08-07 |
 | Seven French Fry 3/8 Case 10 kg / 22 lb | Seven | $153.95 | 2025-08-07 |
-| Member's Selection Minced Garlic in Olive Oil 907 g / 32 oz | Member's Selection | $53.95 | 2025-08-07 |
-| Black Seedless Grapes |  | $93.28 | 2025-08-06 |
-| Busta Assorted Soft Drinks 24 Units / 500 mL | Busta | $39.70 | 2025-08-05 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Lava Bits Chocolate Filled Cookies 6 Units / 150 g | Lava Bits | $42.95 | G10D03 |
-| Gala Apples 1.36 kg / 3 lb |  | $55.95 | G10D03 |
+| Pafritas Paprika Flavor Potato Chips 500 g / 1.1 lb | Pafritas | $86.95 | G10D03 |
