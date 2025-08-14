@@ -183,14 +183,14 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1098
-- **Total value**: $118,515.35
-- **Average price**: $107.94
+- **Total value**: $118,622.21
+- **Average price**: $108.03
 
 ## Database Changes
-- **New products added**: 5
-- **Existing products updated**: 1093
-- **Price changes detected**: 25
-- **Stock/availability changes**: 11
+- **New products added**: 3
+- **Existing products updated**: 1095
+- **Price changes detected**: 21
+- **Stock/availability changes**: 13
 - **Discontinued products**: 3
 
 ## Top 5 Brands
@@ -198,7 +198,7 @@ This project has recently gained unexpected attention. It was created for person
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 183 |
-|  | 134 |
+|  | 132 |
 | Badia | 18 |
 | Swiss | 15 |
 | Kiss | 11 |
@@ -221,31 +221,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1775
-- **Price increases**: 301
-- **Price decreases**: 341
-- **Average increase**: 5.7%
-- **Average decrease**: -4.4%
+- **Total price changes**: 1799
+- **Price increases**: 313
+- **Price decreases**: 350
+- **Average increase**: 5.5%
+- **Average decrease**: -4.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Potato Sweet 2.2 kg / 5 lb | $0.00 | $38.99 | $+38.99 | +100.0% | New |
-| Avocado 2 Units | $24.70 | $29.95 | $+5.25 | +21.3% | Increase |
-| Fresh Chicken Breast Boneless Skinless Tray | $124.09 | $123.93 | $-0.16 | -0.1% | Decrease |
-| Member's Selection Whole Almonds 907 g / 2 lb | $115.95 | $114.99 | $-0.96 | -0.8% | Decrease |
-| Purple Cabbage Unit | $0.00 | $29.95 | $+29.95 | +100.0% | New |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $201.09 | $200.56 | $-0.53 | -0.3% | Decrease |
-| Member's Selection Chocolate Cake Covered and Filled with Chocolate Fudge Sweet Freshly Baked 12 Slices | $0.00 | $87.95 | $+87.95 | +100.0% | New |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $94.29 | $94.44 | $+0.15 | +0.2% | Increase |
-| Perdue Chicken Breast Patties 816 g / 1.8 lb | $0.00 | $89.95 | $+89.95 | +100.0% | New |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $138.29 | $138.14 | $-0.15 | -0.1% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $81.26 | $81.18 | $-0.08 | -0.1% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $89.63 | $89.54 | $-0.09 | -0.1% | Decrease |
-| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $167.06 | $166.84 | $-0.22 | -0.1% | Decrease |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $65.83 | $65.72 | $-0.11 | -0.2% | Decrease |
-| Fresh Cello Carrots 1.3 kg / 3 lb | $19.70 | $24.95 | $+5.25 | +26.6% | Increase |
+| Pringles Original Flavor, Cheese and Sour Cream Chips 4 Units | $0.00 | $89.95 | $+89.95 | +100.0% | New |
+| Nilo Coconut Water 12 Units / 320 mL / 10.82 oz | $0.00 | $124.95 | $+124.95 | +100.0% | New |
+| Purple Cabbage Unit | $29.95 | $14.70 | $-15.25 | -50.9% | Decrease |
+| Kawan Plain Paratha 25 Units 2 kg / 4.4 lb | $0.00 | $99.95 | $+99.95 | +100.0% | New |
+| Gala Apples 1.36 kg / 3 lb | $55.95 | $52.95 | $-3.00 | -5.4% | Decrease |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $122.57 | $124.66 | $+2.09 | +1.7% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $73.15 | $73.25 | $+0.10 | +0.1% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $94.44 | $94.59 | $+0.15 | +0.2% | Increase |
+| Frozen Sliced Turkey Drumsticks | $99.18 | $99.11 | $-0.07 | -0.1% | Decrease |
+| Fresh Ground Chicken Meat Bag | $264.96 | $265.39 | $+0.43 | +0.2% | Increase |
+| Café Barista Assorted Flavours 24 Units / 25 g | $74.95 | $79.95 | $+5.00 | +6.7% | Increase |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $72.48 | $72.61 | $+0.13 | +0.2% | Increase |
+| Fresh Ground Chicken Tray | $87.84 | $87.72 | $-0.12 | -0.1% | Decrease |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $78.96 | $79.09 | $+0.13 | +0.2% | Increase |
+| Member's Selection Frozen Boneless Pork Loin Roast Tray | $103.78 | $103.68 | $-0.10 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -268,6 +268,7 @@ This project has recently gained unexpected attention. It was created for person
 |---------|-----------|-----------|------------|
 | Sabra Classic Hummus 850 g / 30 oz | $79.95 | $24.70 | -69.1% |
 | Curly's Baby Back Pork Ribs 680 g / 24 oz | $129.95 | $59.70 | -54.1% |
+| Purple Cabbage Unit | $29.95 | $14.70 | -50.9% |
 | Activia Low Fat Yogurt 12 Units / 113 g / 4 oz | $79.95 | $39.70 | -50.3% |
 | Frito Lay Assortment Box 24 Units | $99.95 | $49.70 | -50.3% |
 | Fresh Regular Tomato | $47.85 | $28.51 | -40.4% |
@@ -275,12 +276,14 @@ This project has recently gained unexpected attention. It was created for person
 | Iceberg Lettuce Unit | $27.95 | $19.70 | -29.5% |
 | LOA Bakers White Pita Bread 12 Units / 900 g | $23.95 | $16.95 | -29.2% |
 | Okra 30 Units | $26.95 | $19.95 | -26.0% |
-| Tyson Turkey Ham 2 Units / 340 g / 12 oz | $57.95 | $44.95 | -22.4% |
 
 ## Recently Discontinued Products
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Fresh Red Globe Grapes |  | $69.53 | 2025-08-13 |
+| Brussels Sprouts 454 g / 1 lb |  | $34.95 | 2025-08-13 |
+| McCain Breaded Onion Rings 2 Units / 397 g / 14 oz | McCain | $79.70 | 2025-08-13 |
 | Great Lakes Colby Jack Cheese Cubes 908 g / 2 lb | Great Lakes | $76.95 | 2025-08-12 |
 | Member's Selection Mocha Flavor Cold Coffee Drink 9 Units / 405 mL / 13.7 oz | Member's Selection | $176.95 | 2025-08-12 |
 | Spam Baked Pork Ham 3 Units / 340.2 g / 12 oz | Spam | $115.95 | 2025-08-12 |
@@ -288,16 +291,11 @@ This project has recently gained unexpected attention. It was created for person
 | Erin Farms Turkey Ham 750 g / 1.6 lb | Erin Farm | $47.95 | 2025-08-11 |
 | Munchy's Krunch Oat Cookies with Dark Chocolate 3 Units / 208 g | Munchy's | $51.95 | 2025-08-11 |
 | Black's Family Sweet Potato Chips 510 g / 18 oz | Black's Family | $79.95 | 2025-08-08 |
-| Lush Fruit Juice Assorted Flavors 36 Units / 200 mL / 6.7 mL | Lush | $37.70 | 2025-08-07 |
-| Bragg Apple Cider Vinegar 2 Units / 473 mL | Bragg | $65.95 | 2025-08-07 |
-| Member's Selection Shredded Mozzarella Cheese 453 g / 1 lb | Member's Selection | $28.95 | 2025-08-07 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Potato Sweet 2.2 kg / 5 lb |  | $38.99 | G10D03 |
-| Purple Cabbage Unit |  | $29.95 | G10D03 |
-| Member's Selection Chocolate Cake Covered and Filled with Chocolate Fudge Sweet Freshly Baked 12 Slices | Member's Selection | $87.95 | G10D03 |
-| Perdue Chicken Breast Patties 816 g / 1.8 lb | Perdue | $89.95 | G10D03 |
-| Tropicland Organic Sweet Potato Fries 1.8 kg / 4 lb | Tropicland | $114.95 | G10D03 |
+| Pringles Original Flavor, Cheese and Sour Cream Chips 4 Units | Pringles | $89.95 | G10D03 |
+| Nilo Coconut Water 12 Units / 320 mL / 10.82 oz | Nilo | $124.95 | G10D03 |
+| Kawan Plain Paratha 25 Units 2 kg / 4.4 lb | Kawan | $99.95 | G10D03 |
