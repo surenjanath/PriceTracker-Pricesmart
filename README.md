@@ -182,23 +182,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1086
-- **Total value**: $118,182.30
-- **Average price**: $108.82
+- **Total products scraped**: 1088
+- **Total value**: $118,272.35
+- **Average price**: $108.71
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1086
-- **Price changes detected**: 36
-- **Stock/availability changes**: 8
-- **Discontinued products**: 0
+- **New products added**: 4
+- **Existing products updated**: 1084
+- **Price changes detected**: 38
+- **Stock/availability changes**: 9
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 182 |
-|  | 131 |
+| Member's Selection | 183 |
+|  | 132 |
 | Badia | 18 |
 | Swiss | 13 |
 | Kiss | 11 |
@@ -210,10 +210,10 @@ This project has recently gained unexpected attention. It was created for person
 | Lipton Yellow Label Black Tea Sachets 312 Units / 2.2 g / 0.07 oz | Lipton | $104.95 | true |
 | Badia All Purpose Seasoning 14 Spices 567 g / 20 oz | Badia | $69.95 | true |
 | Pringles Mingles Cheddar and Sour Cream Puffed Snacks 2 Units / 155 g / 5.5 oz | Pringles | $69.95 | true |
-| Member's Selection Shredded Mexican-Style Cheese 2 Units / 680 g / 1.5 lb | Member's Selection | $108.95 | true |
 | Sensible Portions Vegetable Straws with Sea Salt 666 g / 23.5 oz | Sensible Portions | $109.95 | true |
-| Member's Selection Shredded Mozzarella Cheese 2 Units / 680 g / 1.5 lb | Member's Selection | $97.95 | true |
+| Member's Selection Shredded Mexican-Style Cheese 2 Units / 680 g / 1.5 lb | Member's Selection | $108.95 | true |
 | Member's Selection Shredded Mozzarella Cheese 5 Units / 453 g / 1 lb | Member's Selection | $149.95 | true |
+| Member's Selection Shredded Mozzarella Cheese 2 Units / 680 g / 1.5 lb | Member's Selection | $97.95 | true |
 | Member's Selection Shredded Cheddar Cheese 2 Units / 680 g / 1.5 lb | Member's Selection | $91.95 | true |
 | Florida's Natural Orange Juice 2.63 L / 89 oz | Florida's Natural | $87.95 | true |
 | Chobani Zero Sugar Yogurt 16 Units / 150 g / 5.3 oz | Chobani | $169.95 | true |
@@ -221,31 +221,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1887
-- **Price increases**: 353
-- **Price decreases**: 396
-- **Average increase**: 5.5%
-- **Average decrease**: -4.7%
+- **Total price changes**: 1929
+- **Price increases**: 369
+- **Price decreases**: 418
+- **Average increase**: 5.4%
+- **Average decrease**: -4.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Red Globe Grape 907 g / 2 lb | $64.95 | $67.95 | $+3.00 | +4.6% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $94.74 | $94.89 | $+0.15 | +0.2% | Increase |
-| Golden Kiwi 1 lb / 453 g | $72.95 | $54.95 | $-18.00 | -24.7% | Decrease |
-| Fresh Ground Chicken Meat Bag | $268.35 | $265.39 | $-2.96 | -1.1% | Decrease |
-| Red Potatoes 2.26 kg / 5 lb | $31.95 | $32.95 | $+1.00 | +3.1% | Increase |
-| Green pepper | $41.53 | $41.44 | $-0.09 | -0.2% | Decrease |
-| Baby Carrots 907 g / 2 lb | $34.95 | $32.95 | $-2.00 | -5.7% | Decrease |
-| Cherry Tomato 500 g / 1.1 lb | $25.95 | $24.95 | $-1.00 | -3.9% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $90.21 | $90.11 | $-0.10 | -0.1% | Decrease |
-| Fresh Ground Chicken Tray | $87.72 | $87.60 | $-0.12 | -0.1% | Decrease |
-| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $166.41 | $166.20 | $-0.21 | -0.1% | Decrease |
-| Member's Selection Frozen Boneless Pork Loin Roast Tray | $103.68 | $103.46 | $-0.22 | -0.2% | Decrease |
-| Cauliflower 1 Unit | $37.95 | $34.95 | $-3.00 | -7.9% | Decrease |
-| Frozen Lamb Shoulder Chops Tray | $100.19 | $100.34 | $+0.15 | +0.1% | Increase |
-| Fresh Whole Chicken 2 Units | $102.75 | $102.68 | $-0.07 | -0.1% | Decrease |
+| Seedless Black Grapes 907 g / 2 lb | $0.00 | $52.95 | $+52.95 | +100.0% | New |
+| Member's Selection Neapolitan Ice Cream / 1.89 L / 64 oz | $0.00 | $29.70 | $+29.70 | +100.0% | New |
+| Crix Steelpan Original Cookies in Collectible Tin 768 g | $0.00 | $59.95 | $+59.95 | +100.0% | New |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $160.59 | $160.32 | $-0.27 | -0.2% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $99.11 | $99.05 | $-0.06 | -0.1% | Decrease |
+| Ribena Blackcurrant Juice 12 Units / 250 mL | $0.00 | $79.95 | $+79.95 | +100.0% | New |
+| Jo-Sing Chow Mein Noodles 6 Units / 400 g | $49.95 | $43.70 | $-6.25 | -12.5% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $55.87 | $55.79 | $-0.08 | -0.1% | Decrease |
+| Maggi Vegetable Soup 12 Units / 45 g | $79.95 | $72.95 | $-7.00 | -8.8% | Decrease |
+| Fresh Ground Chicken Meat Bag | $265.39 | $266.87 | $+1.48 | +0.6% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $137.99 | $137.84 | $-0.15 | -0.1% | Decrease |
+| Orchard Assorted Flavor Juices 6 Units / 1 L  | $62.95 | $66.95 | $+4.00 | +6.4% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $89.45 | $89.36 | $-0.09 | -0.1% | Decrease |
+| Green pepper | $41.44 | $41.26 | $-0.18 | -0.4% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $81.09 | $81.00 | $-0.09 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -281,6 +281,8 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Nescafe Classic Instant Coffee 100% Soluble 200 g / 7 oz | Nescafé | $52.95 | 2025-08-16 |
+| Nesquik Chocolate Cereal 1.2 kg / 42.3 oz | Nesquik | $62.95 | 2025-08-16 |
 | Best Fruit Lover's Sweet and Hot Flavored Prunes 453g | Best Fruit | $64.95 | 2025-08-14 |
 | Cap'n Crunch Corn and Oat Cereal 2 Units / 360 g | Capn Crunch | $62.95 | 2025-08-14 |
 | Vigo Ready-to-Prepare Valencian Paella 539 g / 19 oz | Vigo | $49.95 | 2025-08-14 |
@@ -289,8 +291,12 @@ This project has recently gained unexpected attention. It was created for person
 | Jamaican Mount Peak Golden Turmeric Latte Coffee with Milk 144 g / 5 oz | Jamaican Mount Peak | $89.95 | 2025-08-14 |
 | Swiss Original Bbq Sauce with a Delicious Barbecue Flavor 3 Units / 750 ml | Swiss | $49.95 | 2025-08-14 |
 | Café Barista Minions Milk Chocolate Drink Powder 2 Units / 240 g | Café Barista | $55.95 | 2025-08-14 |
-| Papaya |  | $32.25 | 2025-08-14 |
-| Lush Natural Refreshing Apple Flavored Drink 36 Units / 200 ml | Lush | $72.95 | 2025-08-14 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Seedless Black Grapes 907 g / 2 lb |  | $52.95 | G10D03 |
+| Member's Selection Neapolitan Ice Cream / 1.89 L / 64 oz | Member's Selection | $29.70 | G10D03 |
+| Crix Steelpan Original Cookies in Collectible Tin 768 g | Crix | $59.95 | G10D03 |
+| Ribena Blackcurrant Juice 12 Units / 250 mL | Ribena | $79.95 | G10D03 |
