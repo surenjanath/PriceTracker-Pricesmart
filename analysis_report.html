@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1088
-- **Total value**: $118,272.35
-- **Average price**: $108.71
+- **Total products scraped**: 1090
+- **Total value**: $118,569.66
+- **Average price**: $108.78
 
 ## Database Changes
-- **New products added**: 4
-- **Existing products updated**: 1084
-- **Price changes detected**: 38
-- **Stock/availability changes**: 9
-- **Discontinued products**: 2
+- **New products added**: 2
+- **Existing products updated**: 1088
+- **Price changes detected**: 23
+- **Stock/availability changes**: 8
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -20,7 +20,7 @@
 |  | 132 |
 | Badia | 18 |
 | Swiss | 13 |
-| Kiss | 11 |
+| Kirkland Signature | 12 |
 
 ## Recent Products
 
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1929
-- **Price increases**: 369
-- **Price decreases**: 418
-- **Average increase**: 5.4%
-- **Average decrease**: -4.6%
+- **Total price changes**: 1954
+- **Price increases**: 380
+- **Price decreases**: 430
+- **Average increase**: 5.3%
+- **Average decrease**: -4.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Seedless Black Grapes 907 g / 2 lb | $0.00 | $52.95 | $+52.95 | +100.0% | New |
-| Member's Selection Neapolitan Ice Cream / 1.89 L / 64 oz | $0.00 | $29.70 | $+29.70 | +100.0% | New |
-| Crix Steelpan Original Cookies in Collectible Tin 768 g | $0.00 | $59.95 | $+59.95 | +100.0% | New |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $160.59 | $160.32 | $-0.27 | -0.2% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $99.11 | $99.05 | $-0.06 | -0.1% | Decrease |
-| Ribena Blackcurrant Juice 12 Units / 250 mL | $0.00 | $79.95 | $+79.95 | +100.0% | New |
-| Jo-Sing Chow Mein Noodles 6 Units / 400 g | $49.95 | $43.70 | $-6.25 | -12.5% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $55.87 | $55.79 | $-0.08 | -0.1% | Decrease |
-| Maggi Vegetable Soup 12 Units / 45 g | $79.95 | $72.95 | $-7.00 | -8.8% | Decrease |
-| Fresh Ground Chicken Meat Bag | $265.39 | $266.87 | $+1.48 | +0.6% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $137.99 | $137.84 | $-0.15 | -0.1% | Decrease |
-| Orchard Assorted Flavor Juices 6 Units / 1 L  | $62.95 | $66.95 | $+4.00 | +6.4% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $89.45 | $89.36 | $-0.09 | -0.1% | Decrease |
-| Green pepper | $41.44 | $41.26 | $-0.18 | -0.4% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $81.09 | $81.00 | $-0.09 | -0.1% | Decrease |
+| Fresh Chicken Thighs Boneless Bag | $305.48 | $305.36 | $-0.12 | -0.0% | Decrease |
+| Nestlé French Vanilla Flavored Coffee Cream 1.89 L / 64 oz | $0.00 | $69.95 | $+69.95 | +100.0% | New |
+| Kirkland Signature FunHouse Assorted Candies 2.61 kg / 5.75 lb | $0.00 | $229.95 | $+229.95 | +100.0% | New |
+| Frozen Bone In Pork Shoulder Sliced Tray | $73.35 | $73.46 | $+0.11 | +0.1% | Increase |
+| Frozen Sliced Turkey Drumsticks | $99.05 | $98.98 | $-0.07 | -0.1% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $94.89 | $95.04 | $+0.15 | +0.2% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $137.84 | $137.69 | $-0.15 | -0.1% | Decrease |
+| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $58.74 | $58.84 | $+0.10 | +0.2% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $201.09 | $200.30 | $-0.79 | -0.4% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $90.21 | $90.31 | $+0.10 | +0.1% | Increase |
+| Nutrina Chilled Whole Chicken Bag | $307.59 | $307.29 | $-0.30 | -0.1% | Decrease |
+| Member's Selection Frozen Boneless Pork Loin Roast Tray | $103.46 | $103.15 | $-0.31 | -0.3% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $67.98 | $68.10 | $+0.12 | +0.2% | Increase |
+| Fresh Chicken Breast Bone In Tray | $91.39 | $91.49 | $+0.10 | +0.1% | Increase |
+| Member's Selection Skinless Pork Belly Center-Cut Sliced Tray | $89.31 | $89.13 | $-0.18 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -115,7 +115,5 @@
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Seedless Black Grapes 907 g / 2 lb |  | $52.95 | G10D03 |
-| Member's Selection Neapolitan Ice Cream / 1.89 L / 64 oz | Member's Selection | $29.70 | G10D03 |
-| Crix Steelpan Original Cookies in Collectible Tin 768 g | Crix | $59.95 | G10D03 |
-| Ribena Blackcurrant Juice 12 Units / 250 mL | Ribena | $79.95 | G10D03 |
+| Nestlé French Vanilla Flavored Coffee Cream 1.89 L / 64 oz | Nestle | $69.95 | G10D03 |
+| Kirkland Signature FunHouse Assorted Candies 2.61 kg / 5.75 lb | Kirkland Signature | $229.95 | G10D03 |
