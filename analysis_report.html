@@ -1,22 +1,22 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1090
-- **Total value**: $118,569.66
-- **Average price**: $108.78
+- **Total products scraped**: 1074
+- **Total value**: $117,635.64
+- **Average price**: $109.53
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1088
-- **Price changes detected**: 23
-- **Stock/availability changes**: 8
-- **Discontinued products**: 0
+- **New products added**: 4
+- **Existing products updated**: 1070
+- **Price changes detected**: 35
+- **Stock/availability changes**: 6
+- **Discontinued products**: 20
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 183 |
+| Member's Selection | 184 |
 |  | 132 |
 | Badia | 18 |
 | Swiss | 13 |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1954
-- **Price increases**: 380
-- **Price decreases**: 430
-- **Average increase**: 5.3%
-- **Average decrease**: -4.5%
+- **Total price changes**: 1993
+- **Price increases**: 397
+- **Price decreases**: 448
+- **Average increase**: 5.1%
+- **Average decrease**: -4.4%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Chicken Thighs Boneless Bag | $305.48 | $305.36 | $-0.12 | -0.0% | Decrease |
-| Nestlé French Vanilla Flavored Coffee Cream 1.89 L / 64 oz | $0.00 | $69.95 | $+69.95 | +100.0% | New |
-| Kirkland Signature FunHouse Assorted Candies 2.61 kg / 5.75 lb | $0.00 | $229.95 | $+229.95 | +100.0% | New |
-| Frozen Bone In Pork Shoulder Sliced Tray | $73.35 | $73.46 | $+0.11 | +0.1% | Increase |
-| Frozen Sliced Turkey Drumsticks | $99.05 | $98.98 | $-0.07 | -0.1% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $94.89 | $95.04 | $+0.15 | +0.2% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $137.84 | $137.69 | $-0.15 | -0.1% | Decrease |
-| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $58.74 | $58.84 | $+0.10 | +0.2% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $201.09 | $200.30 | $-0.79 | -0.4% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $90.21 | $90.31 | $+0.10 | +0.1% | Increase |
-| Nutrina Chilled Whole Chicken Bag | $307.59 | $307.29 | $-0.30 | -0.1% | Decrease |
-| Member's Selection Frozen Boneless Pork Loin Roast Tray | $103.46 | $103.15 | $-0.31 | -0.3% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $67.98 | $68.10 | $+0.12 | +0.2% | Increase |
-| Fresh Chicken Breast Bone In Tray | $91.39 | $91.49 | $+0.10 | +0.1% | Increase |
-| Member's Selection Skinless Pork Belly Center-Cut Sliced Tray | $89.31 | $89.13 | $-0.18 | -0.2% | Decrease |
+| Fresh Regular Tomato | $39.39 | $39.55 | $+0.16 | +0.4% | Increase |
+| Fresh Chicken Thighs Boneless Bag | $305.36 | $314.79 | $+9.43 | +3.1% | Increase |
+| Edwards Key Lime Pie 861 g / 1.9 lb | $0.00 | $68.95 | $+68.95 | +100.0% | New |
+| Member's Selection Pecan Pralines  850 g / 30 oz | $0.00 | $129.95 | $+129.95 | +100.0% | New |
+| Nilo Soursop Juice 12 Units / 320 mL / 10.82 oz | $0.00 | $129.95 | $+129.95 | +100.0% | New |
+| Fresh Chicken Thighs Boneless Tray | $72.61 | $72.74 | $+0.13 | +0.2% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $95.04 | $93.77 | $-1.27 | -1.3% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $137.69 | $135.54 | $-2.15 | -1.6% | Decrease |
+| Frozen Bone In Baby Back Ribs Vacuum Packaged Case | $1899.00 | $1879.00 | $-20.00 | -1.1% | Decrease |
+| Green pepper | $41.26 | $41.17 | $-0.09 | -0.2% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $81.00 | $80.92 | $-0.08 | -0.1% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $86.60 | $86.82 | $+0.22 | +0.3% | Increase |
+| Chilled Skinless Boneless Beef Ribeye Steak Vacuum Package Whole Piece | $2180.13 | $2157.01 | $-23.12 | -1.1% | Decrease |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $65.72 | $65.83 | $+0.11 | +0.2% | Increase |
+| Member's Selection Sliced Assorted Cheese Pack 907 g / 32 oz | $0.00 | $87.95 | $+87.95 | +100.0% | New |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,20 +100,22 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
-| Nescafe Classic Instant Coffee 100% Soluble 200 g / 7 oz | Nescafé | $52.95 | 2025-08-16 |
-| Nesquik Chocolate Cereal 1.2 kg / 42.3 oz | Nesquik | $62.95 | 2025-08-16 |
-| Best Fruit Lover's Sweet and Hot Flavored Prunes 453g | Best Fruit | $64.95 | 2025-08-14 |
-| Cap'n Crunch Corn and Oat Cereal 2 Units / 360 g | Capn Crunch | $62.95 | 2025-08-14 |
-| Vigo Ready-to-Prepare Valencian Paella 539 g / 19 oz | Vigo | $49.95 | 2025-08-14 |
-| Lay's Salt and Vinegar Potato Chips 184 g / 6.49 oz | Lays | $33.95 | 2025-08-14 |
-| Swiss Katerpack BBQ Sauce 8 Units / 2 L | Swiss | $294.95 | 2025-08-14 |
-| Jamaican Mount Peak Golden Turmeric Latte Coffee with Milk 144 g / 5 oz | Jamaican Mount Peak | $89.95 | 2025-08-14 |
-| Swiss Original Bbq Sauce with a Delicious Barbecue Flavor 3 Units / 750 ml | Swiss | $49.95 | 2025-08-14 |
-| Café Barista Minions Milk Chocolate Drink Powder 2 Units / 240 g | Café Barista | $55.95 | 2025-08-14 |
+| Dare Vinta Crackers with Cereals and Seeds 2 Units / 200 g | Dare | $19.70 | 2025-08-18 |
+| Nescafe Latte Assorted Flavors 3 Units / 14.5 g | Nescafé | $79.95 | 2025-08-18 |
+| Nongshim Kimchi Flavor Noodle Soup 4 Units / 120 g / 4.23 oz | Nongshim | $39.95 | 2025-08-18 |
+| Jayone Yizu Citrus Flavored Sweet Crispy Rice Rolls 2 Units / 80 g | Jayone | $39.95 | 2025-08-18 |
+| Svelty Skimmed Milk 6 Units / 1 L | Svelty | $94.95 | 2025-08-18 |
+| Ginseng Up Mixed Bottles 24 Units/275 ml | Ginseng Up | $151.95 | 2025-08-18 |
+| Nesquik Ice Cream Flavor Chocolate Powder Mix 525 g / 1.15 lb | Nesquik | $44.95 | 2025-08-18 |
+| Bertie's Pimento Peppers Sauce 750 mL | Bertie's | $54.95 | 2025-08-18 |
+| Russco's Honey Mustard Sauce 750 mL / 25 oz | Russco's | $39.95 | 2025-08-18 |
+| Schweppes Chaser Assorted Flavor Soft Drink 24 Units / 237 mL | Schweppes | $84.95 | 2025-08-18 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Nestlé French Vanilla Flavored Coffee Cream 1.89 L / 64 oz | Nestle | $69.95 | G10D03 |
-| Kirkland Signature FunHouse Assorted Candies 2.61 kg / 5.75 lb | Kirkland Signature | $229.95 | G10D03 |
+| Edwards Key Lime Pie 861 g / 1.9 lb | Edward's | $68.95 | G10D03 |
+| Member's Selection Pecan Pralines  850 g / 30 oz | Member's Selection | $129.95 | G10D03 |
+| Nilo Soursop Juice 12 Units / 320 mL / 10.82 oz | Nilo | $129.95 | G10D03 |
+| Member's Selection Sliced Assorted Cheese Pack 907 g / 32 oz | Member's Selection | $87.95 | G10D03 |
