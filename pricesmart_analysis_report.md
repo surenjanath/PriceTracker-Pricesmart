@@ -2,15 +2,15 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1074
-- **Total value**: $117,635.64
-- **Average price**: $109.53
+- **Total value**: $117,616.07
+- **Average price**: $109.51
 
 ## Database Changes
-- **New products added**: 4
-- **Existing products updated**: 1070
-- **Price changes detected**: 35
-- **Stock/availability changes**: 6
-- **Discontinued products**: 20
+- **New products added**: 0
+- **Existing products updated**: 1074
+- **Price changes detected**: 24
+- **Stock/availability changes**: 8
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -31,7 +31,7 @@
 | Pringles Mingles Cheddar and Sour Cream Puffed Snacks 2 Units / 155 g / 5.5 oz | Pringles | $69.95 | true |
 | Sensible Portions Vegetable Straws with Sea Salt 666 g / 23.5 oz | Sensible Portions | $109.95 | true |
 | Member's Selection Shredded Mexican-Style Cheese 2 Units / 680 g / 1.5 lb | Member's Selection | $108.95 | true |
-| Member's Selection Shredded Mozzarella Cheese 5 Units / 453 g / 1 lb | Member's Selection | $149.95 | true |
+| Member's Selection Shredded Mozzarella Cheese 5 Units / 453 g / 1 lb | Member's Selection | $144.95 | true |
 | Member's Selection Shredded Mozzarella Cheese 2 Units / 680 g / 1.5 lb | Member's Selection | $97.95 | true |
 | Member's Selection Shredded Cheddar Cheese 2 Units / 680 g / 1.5 lb | Member's Selection | $91.95 | true |
 | Florida's Natural Orange Juice 2.63 L / 89 oz | Florida's Natural | $87.95 | true |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1993
-- **Price increases**: 397
-- **Price decreases**: 448
+- **Total price changes**: 2017
+- **Price increases**: 408
+- **Price decreases**: 461
 - **Average increase**: 5.1%
-- **Average decrease**: -4.4%
+- **Average decrease**: -4.3%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Regular Tomato | $39.39 | $39.55 | $+0.16 | +0.4% | Increase |
-| Fresh Chicken Thighs Boneless Bag | $305.36 | $314.79 | $+9.43 | +3.1% | Increase |
-| Edwards Key Lime Pie 861 g / 1.9 lb | $0.00 | $68.95 | $+68.95 | +100.0% | New |
-| Member's Selection Pecan Pralines  850 g / 30 oz | $0.00 | $129.95 | $+129.95 | +100.0% | New |
-| Nilo Soursop Juice 12 Units / 320 mL / 10.82 oz | $0.00 | $129.95 | $+129.95 | +100.0% | New |
-| Fresh Chicken Thighs Boneless Tray | $72.61 | $72.74 | $+0.13 | +0.2% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $95.04 | $93.77 | $-1.27 | -1.3% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $137.69 | $135.54 | $-2.15 | -1.6% | Decrease |
-| Frozen Bone In Baby Back Ribs Vacuum Packaged Case | $1899.00 | $1879.00 | $-20.00 | -1.1% | Decrease |
-| Green pepper | $41.26 | $41.17 | $-0.09 | -0.2% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $81.00 | $80.92 | $-0.08 | -0.1% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $86.60 | $86.82 | $+0.22 | +0.3% | Increase |
-| Chilled Skinless Boneless Beef Ribeye Steak Vacuum Package Whole Piece | $2180.13 | $2157.01 | $-23.12 | -1.1% | Decrease |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $65.72 | $65.83 | $+0.11 | +0.2% | Increase |
-| Member's Selection Sliced Assorted Cheese Pack 907 g / 32 oz | $0.00 | $87.95 | $+87.95 | +100.0% | New |
+| Cap'n Crunch's Crispy Berry Flavored Cereal 2 Units / 293 g | $59.95 | $52.70 | $-7.25 | -12.1% | Decrease |
+| Frozen Lamb Leg Whole Vacuum Packed | $216.49 | $216.69 | $+0.20 | +0.1% | Increase |
+| Nilo Soursop Juice 12 Units / 320 mL / 10.82 oz | $129.95 | $139.95 | $+10.00 | +7.7% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $160.32 | $160.59 | $+0.27 | +0.2% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $135.54 | $135.40 | $-0.14 | -0.1% | Decrease |
+| Fresh Cucumber 1 kg / 2.2 lb | $12.95 | $18.95 | $+6.00 | +46.3% | Increase |
+| Fresh Chicken Mixed Parts Tray | $86.82 | $86.60 | $-0.22 | -0.3% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $200.30 | $200.56 | $+0.26 | +0.1% | Increase |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $79.23 | $79.09 | $-0.14 | -0.2% | Decrease |
+| Member's Selection Frozen Boneless Pork Loin Roast Tray | $102.93 | $103.04 | $+0.11 | +0.1% | Increase |
+| Member's Selection Skinless Pork Belly Center-Cut Sliced Tray | $91.77 | $91.58 | $-0.19 | -0.2% | Decrease |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $72.48 | $72.36 | $-0.12 | -0.2% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $261.16 | $261.31 | $+0.15 | +0.1% | Increase |
+| Nestle Sweetened Condensed Milk 6 Pack / 395 g / 14 oz | $89.95 | $79.95 | $-10.00 | -11.1% | Decrease |
+| Frozen Boneless Skinless Chicken Breast Tray | $176.25 | $175.50 | $-0.75 | -0.4% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -76,10 +76,10 @@
 | Member's Selection Mocha Flavor Cold Coffee Drink 9 Units / 405 mL / 13.7 oz | $105.70 | $176.95 | +67.4% |
 | Fresh Celery  | $9.70 | $14.95 | +54.1% |
 | Activia Low Fat Yogurt 12 Units / 113 g / 4 oz | $54.70 | $82.95 | +51.6% |
+| Fresh Cucumber 1 kg / 2.2 lb | $12.95 | $18.95 | +46.3% |
 | Lush Natural Refreshing Apple Flavored Drink 36 Units / 200 ml | $52.70 | $72.95 | +38.4% |
 | Avocado Mesh 5 Units | $34.95 | $47.95 | +37.2% |
 | Iceberg Lettuce Unit | $19.70 | $26.95 | +36.8% |
-| Fresh Regular Tomato | $28.99 | $38.99 | +34.5% |
 
 ## Biggest Price Decreases (All Time)
 
@@ -112,10 +112,4 @@
 | Schweppes Chaser Assorted Flavor Soft Drink 24 Units / 237 mL | Schweppes | $84.95 | 2025-08-18 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Edwards Key Lime Pie 861 g / 1.9 lb | Edward's | $68.95 | G10D03 |
-| Member's Selection Pecan Pralines  850 g / 30 oz | Member's Selection | $129.95 | G10D03 |
-| Nilo Soursop Juice 12 Units / 320 mL / 10.82 oz | Nilo | $129.95 | G10D03 |
-| Member's Selection Sliced Assorted Cheese Pack 907 g / 32 oz | Member's Selection | $87.95 | G10D03 |
+No new products added today.
