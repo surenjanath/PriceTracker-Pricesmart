@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1074
-- **Total value**: $117,616.07
-- **Average price**: $109.51
+- **Total products scraped**: 1075
+- **Total value**: $117,710.21
+- **Average price**: $109.50
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1074
-- **Price changes detected**: 24
-- **Stock/availability changes**: 8
-- **Discontinued products**: 0
+- **New products added**: 3
+- **Existing products updated**: 1072
+- **Price changes detected**: 28
+- **Stock/availability changes**: 9
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 2017
-- **Price increases**: 408
-- **Price decreases**: 461
-- **Average increase**: 5.1%
+- **Total price changes**: 2048
+- **Price increases**: 422
+- **Price decreases**: 475
+- **Average increase**: 5.2%
 - **Average decrease**: -4.3%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Cap'n Crunch's Crispy Berry Flavored Cereal 2 Units / 293 g | $59.95 | $52.70 | $-7.25 | -12.1% | Decrease |
-| Frozen Lamb Leg Whole Vacuum Packed | $216.49 | $216.69 | $+0.20 | +0.1% | Increase |
-| Nilo Soursop Juice 12 Units / 320 mL / 10.82 oz | $129.95 | $139.95 | $+10.00 | +7.7% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $160.32 | $160.59 | $+0.27 | +0.2% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $135.54 | $135.40 | $-0.14 | -0.1% | Decrease |
-| Fresh Cucumber 1 kg / 2.2 lb | $12.95 | $18.95 | $+6.00 | +46.3% | Increase |
-| Fresh Chicken Mixed Parts Tray | $86.82 | $86.60 | $-0.22 | -0.3% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $200.30 | $200.56 | $+0.26 | +0.1% | Increase |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $79.23 | $79.09 | $-0.14 | -0.2% | Decrease |
-| Member's Selection Frozen Boneless Pork Loin Roast Tray | $102.93 | $103.04 | $+0.11 | +0.1% | Increase |
-| Member's Selection Skinless Pork Belly Center-Cut Sliced Tray | $91.77 | $91.58 | $-0.19 | -0.2% | Decrease |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $72.48 | $72.36 | $-0.12 | -0.2% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $261.16 | $261.31 | $+0.15 | +0.1% | Increase |
-| Nestle Sweetened Condensed Milk 6 Pack / 395 g / 14 oz | $89.95 | $79.95 | $-10.00 | -11.1% | Decrease |
-| Frozen Boneless Skinless Chicken Breast Tray | $176.25 | $175.50 | $-0.75 | -0.4% | Decrease |
+| Purple Cabbage Unit | $14.70 | $29.95 | $+15.25 | +103.7% | Increase |
+| Frozen Lamb Leg Whole Vacuum Packed | $216.69 | $216.49 | $-0.20 | -0.1% | Decrease |
+| Okra 30 Units | $19.95 | $18.95 | $-1.00 | -5.0% | Decrease |
+| Kiss Cinnamon Raisin Bread 405 g | $15.45 | $15.95 | $+0.50 | +3.2% | Increase |
+| Fresh Ground Chicken Meat Bag | $266.87 | $266.13 | $-0.74 | -0.3% | Decrease |
+| Kiss Hot Dog Bread 8 Units / 42.5 g / 1.5 oz | $12.95 | $13.45 | $+0.50 | +3.9% | Increase |
+| Green pepper | $41.17 | $33.77 | $-7.40 | -18.0% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $80.92 | $80.83 | $-0.09 | -0.1% | Decrease |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $119.43 | $125.62 | $+6.19 | +5.2% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $200.56 | $202.08 | $+1.52 | +0.8% | Increase |
+| Pimento Peppers 40 Units | $34.95 | $32.95 | $-2.00 | -5.7% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $90.31 | $90.21 | $-0.10 | -0.1% | Decrease |
+| Fireside Marshmallows 1 kg / 2.2 lb | $0.00 | $69.95 | $+69.95 | +100.0% | New |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $79.09 | $79.23 | $+0.14 | +0.2% | Increase |
+| Fresh Ground Chicken Tray | $87.60 | $87.48 | $-0.12 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -72,6 +72,7 @@
 |---------|-----------|-----------|------------|
 | Sabra Classic Hummus 850 g / 30 oz | $24.70 | $79.95 | +223.7% |
 | Curly's Baby Back Pork Ribs 680 g / 24 oz | $59.70 | $129.95 | +117.7% |
+| Purple Cabbage Unit | $14.70 | $29.95 | +103.7% |
 | Activia Low Fat Yogurt 12 Units / 113 g / 4 oz | $39.70 | $79.95 | +101.4% |
 | Member's Selection Mocha Flavor Cold Coffee Drink 9 Units / 405 mL / 13.7 oz | $105.70 | $176.95 | +67.4% |
 | Fresh Celery  | $9.70 | $14.95 | +54.1% |
@@ -79,7 +80,6 @@
 | Fresh Cucumber 1 kg / 2.2 lb | $12.95 | $18.95 | +46.3% |
 | Lush Natural Refreshing Apple Flavored Drink 36 Units / 200 ml | $52.70 | $72.95 | +38.4% |
 | Avocado Mesh 5 Units | $34.95 | $47.95 | +37.2% |
-| Iceberg Lettuce Unit | $19.70 | $26.95 | +36.8% |
 
 ## Biggest Price Decreases (All Time)
 
@@ -100,6 +100,8 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Member's Selection Neapolitan Ice Cream / 1.89 L / 64 oz | Member's Selection | $29.70 | 2025-08-20 |
+| Butterball Turkey Sausages 24 Units / 40 g / 1.41 oz | Butterball | $64.95 | 2025-08-20 |
 | Dare Vinta Crackers with Cereals and Seeds 2 Units / 200 g | Dare | $19.70 | 2025-08-18 |
 | Nescafe Latte Assorted Flavors 3 Units / 14.5 g | Nescafé | $79.95 | 2025-08-18 |
 | Nongshim Kimchi Flavor Noodle Soup 4 Units / 120 g / 4.23 oz | Nongshim | $39.95 | 2025-08-18 |
@@ -108,8 +110,11 @@
 | Ginseng Up Mixed Bottles 24 Units/275 ml | Ginseng Up | $151.95 | 2025-08-18 |
 | Nesquik Ice Cream Flavor Chocolate Powder Mix 525 g / 1.15 lb | Nesquik | $44.95 | 2025-08-18 |
 | Bertie's Pimento Peppers Sauce 750 mL | Bertie's | $54.95 | 2025-08-18 |
-| Russco's Honey Mustard Sauce 750 mL / 25 oz | Russco's | $39.95 | 2025-08-18 |
-| Schweppes Chaser Assorted Flavor Soft Drink 24 Units / 237 mL | Schweppes | $84.95 | 2025-08-18 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Fireside Marshmallows 1 kg / 2.2 lb | Fireside | $69.95 | G10D03 |
+| Member's Selection English Muffin Freshly Baked Rolls 12 Units | Member's Selection | $44.95 | G10D03 |
+| Tostitos Snacks White Corn Chips Nachos / 283 g / 10 oz | Tostitos | $64.95 | G10D03 |
