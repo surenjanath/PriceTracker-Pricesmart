@@ -182,23 +182,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1069
-- **Total value**: $115,861.98
-- **Average price**: $108.38
+- **Total products scraped**: 1073
+- **Total value**: $116,233.17
+- **Average price**: $108.33
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1067
-- **Price changes detected**: 55
-- **Stock/availability changes**: 9
-- **Discontinued products**: 8
+- **New products added**: 3
+- **Existing products updated**: 1070
+- **Price changes detected**: 34
+- **Stock/availability changes**: 15
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 182 |
-|  | 131 |
+|  | 132 |
 | Badia | 18 |
 | Swiss | 13 |
 | Kirkland Signature | 12 |
@@ -209,8 +209,8 @@ This project has recently gained unexpected attention. It was created for person
 |-------|-------|-------------|--------------|
 | Lipton Yellow Label Black Tea Sachets 312 Units / 2.2 g / 0.07 oz | Lipton | $104.95 | true |
 | Badia All Purpose Seasoning 14 Spices 567 g / 20 oz | Badia | $69.95 | true |
-| Sensible Portions Vegetable Straws with Sea Salt 666 g / 23.5 oz | Sensible Portions | $109.95 | true |
 | Pringles Mingles Cheddar and Sour Cream Puffed Snacks 2 Units / 155 g / 5.5 oz | Pringles | $69.95 | true |
+| Sensible Portions Vegetable Straws with Sea Salt 666 g / 23.5 oz | Sensible Portions | $109.95 | true |
 | Member's Selection Shredded Mexican-Style Cheese 2 Units / 680 g / 1.5 lb | Member's Selection | $108.95 | true |
 | Member's Selection Shredded Mozzarella Cheese 2 Units / 680 g / 1.5 lb | Member's Selection | $97.95 | true |
 | Member's Selection Shredded Mozzarella Cheese 5 Units / 453 g / 1 lb | Member's Selection | $144.95 | true |
@@ -221,9 +221,9 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 2105
-- **Price increases**: 451
-- **Price decreases**: 501
+- **Total price changes**: 2142
+- **Price increases**: 465
+- **Price decreases**: 521
 - **Average increase**: 5.3%
 - **Average decrease**: -4.2%
 
@@ -231,21 +231,21 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Barista Coffee Salty Caramel-Flavored Cappuccino Mix 2 Units / 320 g / 11.2 oz | $65.95 | $70.95 | $+5.00 | +7.6% | Increase |
-| Apple Jacks Cereal de Manzana y Canela 1.03 kg / 36.5 oz | $0.00 | $97.95 | $+97.95 | +100.0% | New |
-| Serge Vanilla Flavored Liquid Milk 12 Units / 200 mL | $0.00 | $56.95 | $+56.95 | +100.0% | New |
-| Frozen Bone In Pork Shoulder Sliced Tray | $73.46 | $73.56 | $+0.10 | +0.1% | Increase |
-| Frozen Lamb Leg Whole Vacuum Packed | $216.49 | $216.69 | $+0.20 | +0.1% | Increase |
-| Chilled Chicken Gizzard Tray Pack | $55.79 | $55.72 | $-0.07 | -0.1% | Decrease |
-| Gouda Cheese Block | $71.62 | $71.76 | $+0.14 | +0.2% | Increase |
-| Bibigo Beef Dumplings 1.36 kg / 3 lb | $169.95 | $164.95 | $-5.00 | -2.9% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $93.77 | $93.62 | $-0.15 | -0.2% | Decrease |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $117.37 | $117.14 | $-0.23 | -0.2% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $80.83 | $80.66 | $-0.17 | -0.2% | Decrease |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $125.62 | $120.87 | $-4.75 | -3.8% | Decrease |
-| Chilled Skinless Boneless Beef Ribeye Steak Vacuum Package Whole Piece | $2157.01 | $2056.85 | $-100.16 | -4.6% | Decrease |
-| Chobani Greek Yogurt Vanilla 1.13 kg / 40 oz | $85.95 | $86.95 | $+1.00 | +1.2% | Increase |
-| Fresh Ground Chicken Meat Bag | $266.13 | $265.07 | $-1.06 | -0.4% | Decrease |
+| Red Apples 2.26 kg / 5 lb | $0.00 | $59.95 | $+59.95 | +100.0% | New |
+| Cheez-It White and Jack Cheddar Crackers 2 Pack 351 g / 12.4 oz | $0.00 | $89.95 | $+89.95 | +100.0% | New |
+| Frozen Bone In Pork Shoulder Sliced Tray | $73.56 | $73.67 | $+0.11 | +0.1% | Increase |
+| Dietz & Watson Turkey Breast  | $128.61 | $125.20 | $-3.41 | -2.7% | Decrease |
+| Red Globe Grape 907 g / 2 lb | $67.95 | $74.95 | $+7.00 | +10.3% | Increase |
+| Fresh Cantaloupe Melon | $46.95 | $42.95 | $-4.00 | -8.5% | Decrease |
+| Golden Kiwi 1 lb / 453 g | $54.95 | $74.95 | $+20.00 | +36.4% | Increase |
+| Green pepper | $33.77 | $33.70 | $-0.07 | -0.2% | Decrease |
+| Cherry Tomato 500 g / 1.1 lb | $24.95 | $22.95 | $-2.00 | -8.0% | Decrease |
+| Red Potatoes 2.26 kg / 5 lb | $32.95 | $34.95 | $+2.00 | +6.1% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $80.66 | $80.57 | $-0.09 | -0.1% | Decrease |
+| Plum 907 g / 2 lb | $62.95 | $59.95 | $-3.00 | -4.8% | Decrease |
+| Member's Selection Skinless Pork Belly Center-Cut Sliced Tray | $91.77 | $91.58 | $-0.19 | -0.2% | Decrease |
+| Member's Selection Chilled Chicken Liver, Tray Pack | $41.13 | $41.07 | $-0.06 | -0.1% | Decrease |
+| Frozen Lamb Shoulder Chops Tray | $100.65 | $100.80 | $+0.15 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -296,5 +296,6 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Apple Jacks Cereal de Manzana y Canela 1.03 kg / 36.5 oz | Apple Jacks | $97.95 | G10D03 |
-| Serge Vanilla Flavored Liquid Milk 12 Units / 200 mL | Serge | $56.95 | G10D03 |
+| Red Apples 2.26 kg / 5 lb |  | $59.95 | G10D03 |
+| Cheez-It White and Jack Cheddar Crackers 2 Pack 351 g / 12.4 oz | CheezIt | $89.95 | G10D03 |
+| QuinoaClub Loncher Snacks with Quinoa and Probiotics Doughnuts and Puffs 18 Units | QuinoaClub | $80.95 | G10D03 |
