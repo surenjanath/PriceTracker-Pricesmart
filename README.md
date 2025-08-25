@@ -183,22 +183,22 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1075
-- **Total value**: $116,599.55
-- **Average price**: $108.46
+- **Total value**: $116,509.15
+- **Average price**: $108.38
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1073
-- **Price changes detected**: 40
-- **Stock/availability changes**: 10
-- **Discontinued products**: 0
+- **New products added**: 1
+- **Existing products updated**: 1074
+- **Price changes detected**: 21
+- **Stock/availability changes**: 4
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 182 |
-|  | 132 |
+|  | 133 |
 | Badia | 19 |
 | Swiss | 13 |
 | Kirkland Signature | 12 |
@@ -221,31 +221,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 2184
-- **Price increases**: 489
-- **Price decreases**: 537
-- **Average increase**: 5.5%
+- **Total price changes**: 2206
+- **Price increases**: 499
+- **Price decreases**: 548
+- **Average increase**: 5.4%
 - **Average decrease**: -4.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Samyang Spicy Chicken-Flavored Ramen with Cheese Sauce 5 Units / 140 g | $0.00 | $47.95 | $+47.95 | +100.0% | New |
-| Avocado Mesh 5 Units | $47.95 | $42.95 | $-5.00 | -10.4% | Decrease |
-| Bugalu Tomato 1.5 kg / 3.5 lb | $29.95 | $27.95 | $-2.00 | -6.7% | Decrease |
-| Salad Tomato 1.5 kg / 3.5 lb | $29.95 | $27.95 | $-2.00 | -6.7% | Decrease |
-| Frozen Pork Belly Skin On Vacuum Packed | $476.82 | $506.64 | $+29.82 | +6.3% | Increase |
-| Badia Mojo Rub Citrus Blend 680.4 g / 24 oz  | $0.00 | $82.95 | $+82.95 | +100.0% | New |
-| Frozen Skinless Pork Belly Center Cut Case | $2205.97 | $2293.10 | $+87.13 | +3.9% | Increase |
-| Chilled Chicken Gizzard Tray Pack | $55.72 | $55.79 | $+0.07 | +0.1% | Increase |
-| Frozen Sliced Turkey Drumsticks | $98.98 | $99.05 | $+0.07 | +0.1% | Increase |
-| Frozen Lamb Leg Whole Vacuum Packed | $216.69 | $216.49 | $-0.20 | -0.1% | Decrease |
-| Fresh Chicken Thighs Boneless Tray | $72.74 | $72.61 | $-0.13 | -0.2% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $135.40 | $135.54 | $+0.14 | +0.1% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $93.62 | $93.47 | $-0.15 | -0.2% | Decrease |
-| Maggi Vegetable Soup 12 Units / 45 g | $72.95 | $79.95 | $+7.00 | +9.6% | Increase |
-| Green pepper | $33.70 | $28.29 | $-5.41 | -16.1% | Decrease |
+| Fresh Chicken Breast Boneless Skinless Tray | $89.59 | $89.75 | $+0.16 | +0.2% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $73.67 | $73.77 | $+0.10 | +0.1% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $55.79 | $55.72 | $-0.07 | -0.1% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $135.54 | $135.25 | $-0.29 | -0.2% | Decrease |
+| Nutrina Chilled Whole Chicken Bag | $307.29 | $307.59 | $+0.30 | +0.1% | Increase |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $126.14 | $125.62 | $-0.52 | -0.4% | Decrease |
+| Fresh Ground Chicken Meat Bag | $264.64 | $264.11 | $-0.53 | -0.2% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $89.36 | $89.45 | $+0.09 | +0.1% | Increase |
+| Fresh Chicken Drumsticks Tray  | $88.80 | $88.91 | $+0.11 | +0.1% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $201.55 | $201.29 | $-0.26 | -0.1% | Decrease |
+| Member's Selection Frozen Boneless Pork Loin Roast Tray | $102.83 | $102.72 | $-0.11 | -0.1% | Decrease |
+| Fresh Regular Tomato | $36.65 | $36.73 | $+0.08 | +0.2% | Increase |
+| Fresh Whole Chicken 2 Units | $102.54 | $102.61 | $+0.07 | +0.1% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $87.56 | $87.65 | $+0.09 | +0.1% | Increase |
+| Frozen Boneless Skinless Chicken Breast Tray | $174.56 | $174.18 | $-0.38 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -281,6 +281,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Suzy's Cream Cheesecake Assorted Flavors Cheesecake Squares 16 Units | Suzy's Cream Cheesecakes | $140.95 | 2025-08-24 |
 | Lipton Raspberry and Lemon Flavor Tea Powder 2 Units / 670 g | Lipton | $84.95 | 2025-08-21 |
 | Chef's Quality Crinkle Cut Fries 2.5kg / 5.5 lb | Chef's Quality | $49.95 | 2025-08-21 |
 | The Baking Café Cross Buns 6 Units / 70 g / 0.15 lb | The Baking Café | $36.95 | 2025-08-21 |
@@ -290,11 +291,9 @@ This project has recently gained unexpected attention. It was created for person
 | Member's Selection English Muffin Freshly Baked Rolls 12 Units | Member's Selection | $44.95 | 2025-08-21 |
 | Member's Selection Organic Extra Virgin Olive Oil 2L / 67 oz | Member's Selection | $159.95 | 2025-08-21 |
 | Member's Selection Neapolitan Ice Cream / 1.89 L / 64 oz | Member's Selection | $29.70 | 2025-08-20 |
-| Butterball Turkey Sausages 24 Units / 40 g / 1.41 oz | Butterball | $64.95 | 2025-08-20 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Samyang Spicy Chicken-Flavored Ramen with Cheese Sauce 5 Units / 140 g | Samyang | $47.95 | G10D03 |
-| Badia Mojo Rub Citrus Blend 680.4 g / 24 oz  | Badia | $82.95 | G10D03 |
+| Fresh Apple Cosmic Crisp 1.36 kg / 3 lb |  | $52.95 | G10D03 |
