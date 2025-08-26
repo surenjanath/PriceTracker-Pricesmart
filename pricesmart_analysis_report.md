@@ -2,15 +2,15 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1075
-- **Total value**: $116,509.15
-- **Average price**: $108.38
+- **Total value**: $116,726.58
+- **Average price**: $108.58
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1074
-- **Price changes detected**: 21
-- **Stock/availability changes**: 4
-- **Discontinued products**: 1
+- **New products added**: 0
+- **Existing products updated**: 1075
+- **Price changes detected**: 59
+- **Stock/availability changes**: 11
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -29,9 +29,9 @@
 | Lipton Yellow Label Black Tea Sachets 312 Units / 2.2 g / 0.07 oz | Lipton | $104.95 | true |
 | Badia All Purpose Seasoning 14 Spices 567 g / 20 oz | Badia | $69.95 | true |
 | Member's Selection Shredded Mexican-Style Cheese 2 Units / 680 g / 1.5 lb | Member's Selection | $108.95 | true |
+| Member's Selection Shredded Mozzarella Cheese 5 Units / 453 g / 1 lb | Member's Selection | $144.95 | true |
 | Sensible Portions Vegetable Straws with Sea Salt 666 g / 23.5 oz | Sensible Portions | $109.95 | true |
 | Pringles Mingles Cheddar and Sour Cream Puffed Snacks 2 Units / 155 g / 5.5 oz | Pringles | $69.95 | true |
-| Member's Selection Shredded Mozzarella Cheese 5 Units / 453 g / 1 lb | Member's Selection | $144.95 | true |
 | Member's Selection Shredded Mozzarella Cheese 2 Units / 680 g / 1.5 lb | Member's Selection | $97.95 | true |
 | Member's Selection Shredded Cheddar Cheese 2 Units / 680 g / 1.5 lb | Member's Selection | $91.95 | true |
 | Member's Selection Chocolate Cake Covered and Filled with Chocolate Fudge Sweet Freshly Baked 12 Slices | Member's Selection | $87.95 | true |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 2206
-- **Price increases**: 499
-- **Price decreases**: 548
-- **Average increase**: 5.4%
-- **Average decrease**: -4.1%
+- **Total price changes**: 2265
+- **Price increases**: 536
+- **Price decreases**: 570
+- **Average increase**: 6.1%
+- **Average decrease**: -4.2%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Chicken Breast Boneless Skinless Tray | $89.59 | $89.75 | $+0.16 | +0.2% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $73.67 | $73.77 | $+0.10 | +0.1% | Increase |
-| Chilled Chicken Gizzard Tray Pack | $55.79 | $55.72 | $-0.07 | -0.1% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $135.54 | $135.25 | $-0.29 | -0.2% | Decrease |
-| Nutrina Chilled Whole Chicken Bag | $307.29 | $307.59 | $+0.30 | +0.1% | Increase |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $126.14 | $125.62 | $-0.52 | -0.4% | Decrease |
-| Fresh Ground Chicken Meat Bag | $264.64 | $264.11 | $-0.53 | -0.2% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $89.36 | $89.45 | $+0.09 | +0.1% | Increase |
-| Fresh Chicken Drumsticks Tray  | $88.80 | $88.91 | $+0.11 | +0.1% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $201.55 | $201.29 | $-0.26 | -0.1% | Decrease |
-| Member's Selection Frozen Boneless Pork Loin Roast Tray | $102.83 | $102.72 | $-0.11 | -0.1% | Decrease |
-| Fresh Regular Tomato | $36.65 | $36.73 | $+0.08 | +0.2% | Increase |
-| Fresh Whole Chicken 2 Units | $102.54 | $102.61 | $+0.07 | +0.1% | Increase |
-| Fine Choice Fresh Marinated Chicken Tray | $87.56 | $87.65 | $+0.09 | +0.1% | Increase |
-| Frozen Boneless Skinless Chicken Breast Tray | $174.56 | $174.18 | $-0.38 | -0.2% | Decrease |
+| Chocolisto Chocolate Drink Powder with Vitamins A B3 and D3 1 kg | $64.95 | $76.95 | $+12.00 | +18.5% | Increase |
+| LOA Bakers White Pita Bread 12 Units / 900 g | $16.95 | $23.95 | $+7.00 | +41.3% | Increase |
+| Fruta 100% Juices Assorted 24 Units / 200 mL / 6.7 oz | $63.45 | $74.95 | $+11.50 | +18.1% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $73.77 | $73.87 | $+0.10 | +0.1% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $160.59 | $160.32 | $-0.27 | -0.2% | Decrease |
+| Arcor Mogul Extreme Sour Gummy Bears 10 Units / 50g | $37.95 | $25.70 | $-12.25 | -32.3% | Decrease |
+| Eve Evaporated Milk 12 Units / 250 mL | $64.95 | $69.95 | $+5.00 | +7.7% | Increase |
+| Lee Kum Kee Oyster Sauce 2 Units / 510 g | $67.95 | $79.95 | $+12.00 | +17.7% | Increase |
+| Dilmah Pure Green Tea 100 Units | $58.95 | $69.95 | $+11.00 | +18.7% | Increase |
+| Assorted Peppers | $35.92 | $35.84 | $-0.08 | -0.2% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $86.60 | $86.82 | $+0.22 | +0.3% | Increase |
+| Brunswick Canned Chicken Vienna Sausage 12 pieces / 141 g / 4.9 oz | $66.95 | $56.95 | $-10.00 | -14.9% | Decrease |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $218.75 | $219.40 | $+0.65 | +0.3% | Increase |
+| McVitie's Go Ahead Assortment of Crunchy Cookies with Fruity Filling 3 Units / 174 g / 6 oz | $35.95 | $44.95 | $+9.00 | +25.0% | Increase |
+| Kellogg's Corn Flakes 1.21 kg / 43 oz | $70.45 | $86.95 | $+16.50 | +23.4% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -93,8 +93,8 @@
 | Angie's Boom Chicka Pop Sweet and Salty Popcorn 652 g / 23 oz | $99.95 | $49.70 | -50.3% |
 | Fresh Regular Tomato | $47.85 | $28.51 | -40.4% |
 | Fresh Celery  | $15.95 | $9.70 | -39.2% |
+| Arcor Mogul Extreme Sour Gummy Bears 10 Units / 50g | $37.95 | $25.70 | -32.3% |
 | Real Coco Organic Coconut Water 12 Units / 500 mL / 17 oz | $129.95 | $90.70 | -30.2% |
-| Iceberg Lettuce Unit | $27.95 | $19.70 | -29.5% |
 
 ## Recently Discontinued Products
 
@@ -112,7 +112,4 @@
 | Member's Selection Neapolitan Ice Cream / 1.89 L / 64 oz | Member's Selection | $29.70 | 2025-08-20 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Fresh Apple Cosmic Crisp 1.36 kg / 3 lb |  | $52.95 | G10D03 |
+No new products added today.
