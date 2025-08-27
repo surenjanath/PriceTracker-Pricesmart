@@ -182,23 +182,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1075
-- **Total value**: $116,726.58
-- **Average price**: $108.58
+- **Total products scraped**: 1083
+- **Total value**: $118,696.85
+- **Average price**: $109.60
 
 ## Database Changes
-- **New products added**: 0
+- **New products added**: 8
 - **Existing products updated**: 1075
-- **Price changes detected**: 59
-- **Stock/availability changes**: 11
-- **Discontinued products**: 0
+- **Price changes detected**: 24
+- **Stock/availability changes**: 14
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 182 |
-|  | 133 |
+| Member's Selection | 183 |
+|  | 134 |
 | Badia | 19 |
 | Swiss | 13 |
 | Kirkland Signature | 12 |
@@ -215,37 +215,37 @@ This project has recently gained unexpected attention. It was created for person
 | Pringles Mingles Cheddar and Sour Cream Puffed Snacks 2 Units / 155 g / 5.5 oz | Pringles | $69.95 | true |
 | Member's Selection Shredded Mozzarella Cheese 2 Units / 680 g / 1.5 lb | Member's Selection | $97.95 | true |
 | Member's Selection Shredded Cheddar Cheese 2 Units / 680 g / 1.5 lb | Member's Selection | $91.95 | true |
-| Member's Selection Chocolate Cake Covered and Filled with Chocolate Fudge Sweet Freshly Baked 12 Slices | Member's Selection | $87.95 | true |
 | Chobani Zero Sugar Yogurt 16 Units / 150 g / 5.3 oz | Chobani | $169.95 | true |
+| Florida's Natural Orange Juice 2.63 L / 89 oz | Florida's Natural | $87.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 2265
-- **Price increases**: 536
-- **Price decreases**: 570
-- **Average increase**: 6.1%
+- **Total price changes**: 1212
+- **Price increases**: 548
+- **Price decreases**: 582
+- **Average increase**: 6.0%
 - **Average decrease**: -4.2%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Chocolisto Chocolate Drink Powder with Vitamins A B3 and D3 1 kg | $64.95 | $76.95 | $+12.00 | +18.5% | Increase |
-| LOA Bakers White Pita Bread 12 Units / 900 g | $16.95 | $23.95 | $+7.00 | +41.3% | Increase |
-| Fruta 100% Juices Assorted 24 Units / 200 mL / 6.7 oz | $63.45 | $74.95 | $+11.50 | +18.1% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $73.77 | $73.87 | $+0.10 | +0.1% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $160.59 | $160.32 | $-0.27 | -0.2% | Decrease |
-| Arcor Mogul Extreme Sour Gummy Bears 10 Units / 50g | $37.95 | $25.70 | $-12.25 | -32.3% | Decrease |
-| Eve Evaporated Milk 12 Units / 250 mL | $64.95 | $69.95 | $+5.00 | +7.7% | Increase |
-| Lee Kum Kee Oyster Sauce 2 Units / 510 g | $67.95 | $79.95 | $+12.00 | +17.7% | Increase |
-| Dilmah Pure Green Tea 100 Units | $58.95 | $69.95 | $+11.00 | +18.7% | Increase |
-| Assorted Peppers | $35.92 | $35.84 | $-0.08 | -0.2% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $86.60 | $86.82 | $+0.22 | +0.3% | Increase |
-| Brunswick Canned Chicken Vienna Sausage 12 pieces / 141 g / 4.9 oz | $66.95 | $56.95 | $-10.00 | -14.9% | Decrease |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $218.75 | $219.40 | $+0.65 | +0.3% | Increase |
-| McVitie's Go Ahead Assortment of Crunchy Cookies with Fruity Filling 3 Units / 174 g / 6 oz | $35.95 | $44.95 | $+9.00 | +25.0% | Increase |
-| Kellogg's Corn Flakes 1.21 kg / 43 oz | $70.45 | $86.95 | $+16.50 | +23.4% | Increase |
+| Samyang Spicy Chicken-Flavored Ramen with Cheese Sauce 5 Units / 140 g | $47.95 | $56.95 | $+9.00 | +18.8% | Increase |
+| Assorted Peppers | $35.84 | $35.69 | $-0.15 | -0.4% | Decrease |
+| Sincerely Brigitte Trio Cheese with Guava 567 g / 20 oz | $0.00 | $107.95 | $+107.95 | +100.0% | New |
+| Montchevre Goat Cheese 298 g / 10.5 oz | $0.00 | $57.95 | $+57.95 | +100.0% | New |
+| Hormel Party Tray 794 g / 28 oz | $0.00 | $132.95 | $+132.95 | +100.0% | New |
+| Il Boero Chocolates Filled with Cherry and Liquor 1 kg / 35.2 oz | $0.00 | $174.95 | $+174.95 | +100.0% | New |
+| Fratelli Beretta Artisanal Charcuterie Tray 340 g / 12 oz | $0.00 | $92.95 | $+92.95 | +100.0% | New |
+| Parthenon Premium Mediterranean Olive Medley 900 g / 31.74 oz | $0.00 | $105.95 | $+105.95 | +100.0% | New |
+| Member's Selection Thai Jasmine Long Grain Rice 9.07 kg / 20 lb | $0.00 | $149.95 | $+149.95 | +100.0% | New |
+| Nestos Small Gherkins 520 g / 18.34 oz | $0.00 | $56.95 | $+56.95 | +100.0% | New |
+| Dietz & Watson Turkey Breast  | $125.20 | $125.82 | $+0.62 | +0.5% | Increase |
+| String Beans 1 kg / 2.2 lb | $52.95 | $54.95 | $+2.00 | +3.8% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $160.32 | $160.59 | $+0.27 | +0.2% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $135.25 | $135.10 | $-0.15 | -0.1% | Decrease |
+| Frozen Bone-In Pork Shoulder Case | $1469.48 | $1165.29 | $-304.19 | -20.7% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -281,16 +281,26 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Jennies Coconut Bites with Cacao Nibs and Dark Chocolate 680 g / 24 oz | Jennies | $129.95 | 2025-08-26 |
+| Member's Selection Chocolate Cake Covered and Filled with Chocolate Fudge Sweet Freshly Baked 12 Slices | Member's Selection | $87.95 | 2025-08-26 |
 | Suzy's Cream Cheesecake Assorted Flavors Cheesecake Squares 16 Units | Suzy's Cream Cheesecakes | $140.95 | 2025-08-24 |
 | Lipton Raspberry and Lemon Flavor Tea Powder 2 Units / 670 g | Lipton | $84.95 | 2025-08-21 |
 | Chef's Quality Crinkle Cut Fries 2.5kg / 5.5 lb | Chef's Quality | $49.95 | 2025-08-21 |
 | The Baking Café Cross Buns 6 Units / 70 g / 0.15 lb | The Baking Café | $36.95 | 2025-08-21 |
 | Aziz's Assortment Pack of Freshly Baked Traditional Sweets | Aziz's | $58.95 | 2025-08-21 |
 | Fruit Nation Guava Nectar 36 Units / 200 mL | Fruit Nation | $89.70 | 2025-08-21 |
-| Frozen Bone-In Pork Shoulder Case |  | $1469.48 | 2025-08-21 |
 | Member's Selection English Muffin Freshly Baked Rolls 12 Units | Member's Selection | $44.95 | 2025-08-21 |
-| Member's Selection Organic Extra Virgin Olive Oil 2L / 67 oz | Member's Selection | $159.95 | 2025-08-21 |
 | Member's Selection Neapolitan Ice Cream / 1.89 L / 64 oz | Member's Selection | $29.70 | 2025-08-20 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Sincerely Brigitte Trio Cheese with Guava 567 g / 20 oz | Sincerely  Brigitte | $107.95 | G10D03 |
+| Montchevre Goat Cheese 298 g / 10.5 oz | Montchevre | $57.95 | G10D03 |
+| Hormel Party Tray 794 g / 28 oz | Hormel | $132.95 | G10D03 |
+| Il Boero Chocolates Filled with Cherry and Liquor 1 kg / 35.2 oz | Il Boero | $174.95 | G10D03 |
+| Fratelli Beretta Artisanal Charcuterie Tray 340 g / 12 oz | Fratelli Beretta | $92.95 | G10D03 |
+| Parthenon Premium Mediterranean Olive Medley 900 g / 31.74 oz | Parthenon | $105.95 | G10D03 |
+| Member's Selection Thai Jasmine Long Grain Rice 9.07 kg / 20 lb | Member's Selection | $149.95 | G10D03 |
+| Nestos Small Gherkins 520 g / 18.34 oz | Nestos | $56.95 | G10D03 |
