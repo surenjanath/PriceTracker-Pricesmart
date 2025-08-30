@@ -1,22 +1,22 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1089
-- **Total value**: $119,178.89
-- **Average price**: $109.44
+- **Total products scraped**: 1090
+- **Total value**: $119,262.00
+- **Average price**: $109.41
 
 ## Database Changes
-- **New products added**: 5
-- **Existing products updated**: 1084
-- **Price changes detected**: 57
-- **Stock/availability changes**: 20
-- **Discontinued products**: 2
+- **New products added**: 1
+- **Existing products updated**: 1089
+- **Price changes detected**: 40
+- **Stock/availability changes**: 14
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 183 |
+| Member's Selection | 184 |
 |  | 135 |
 | Badia | 19 |
 | Swiss | 13 |
@@ -30,41 +30,41 @@
 | Nilo Coconut Water 12 Units / 320 mL / 10.82 oz | Nilo | $124.95 | true |
 | Tropicland Organic Sweet Potato Fries 1.8 kg / 4 lb | Tropicland | $114.95 | true |
 | Pafritas Paprika Flavor Potato Chips 500 g / 1.1 lb | Pafritas | $86.95 | true |
-| Member's Selection Sliced Assorted Cheese Pack 907 g / 32 oz | Member's Selection | $87.95 | true |
 | Nilo Soursop Juice 12 Units / 320 mL / 10.82 oz | Nilo | $139.95 | true |
-| Jell-O Assorted Desserts 24 Units 2.41 kg / 5 lb | Jell-O | $159.95 | true |
+| Member's Selection Sliced Assorted Cheese Pack 907 g / 32 oz | Member's Selection | $87.95 | true |
 | Crix Steelpan Original Cookies in Collectible Tin 768 g | Crix | $59.95 | true |
+| Jell-O Assorted Desserts 24 Units 2.41 kg / 5 lb | Jell-O | $159.95 | true |
 | Badia All Purpose Marinade Seasoning 591 mL / 20 oz  | Badia | $21.95 | true |
 | Lunchables Cookie Sandwich 6 Units | Lunchables | $159.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1242
-- **Price increases**: 560
-- **Price decreases**: 595
-- **Average increase**: 6.1%
-- **Average decrease**: -4.1%
+- **Total price changes**: 1231
+- **Price increases**: 558
+- **Price decreases**: 588
+- **Average increase**: 6.2%
+- **Average decrease**: -4.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Red Potato 4.5 kg / 10 lb | $0.00 | $69.95 | $+69.95 | +100.0% | New |
-| Member's Selection Hand Picked Whole Strawberries 2.26 kg / 5 lb | $134.95 | $129.95 | $-5.00 | -3.7% | Decrease |
-| Reny Picot Brie with Peppercorns 396 g /14 oz | $68.95 | $69.95 | $+1.00 | +1.5% | Increase |
-| Fresh Chicken Breast Boneless Skinless Tray | $123.93 | $124.09 | $+0.16 | +0.1% | Increase |
-| Fresh Regular Tomato | $36.73 | $31.76 | $-4.97 | -13.5% | Decrease |
-| Activia Low Fat Yogurt 12 Units / 113 g / 4 oz | $79.95 | $78.95 | $-1.00 | -1.3% | Decrease |
-| Cap'n Crunch's Crispy Berry Flavored Cereal 2 Units / 293 g | $52.70 | $29.70 | $-23.00 | -43.6% | Decrease |
-| Russco's Green Pepper Salsa 750 mL | $0.00 | $22.95 | $+22.95 | +100.0% | New |
-| Belgioioso Italian Crumbled Blue Cheese 396 g / 14 oz | $66.95 | $64.95 | $-2.00 | -3.0% | Decrease |
-| Stamina Energy Carbonated Energy Drink 12 Units / 330 mL / 11.16 oz | $0.00 | $55.95 | $+55.95 | +100.0% | New |
-| Lucema Snail Shell Pasta 6 Units / 250 g / 8.8 oz | $30.70 | $19.70 | $-11.00 | -35.8% | Decrease |
-| Edwards Key Lime Pie 861 g / 1.9 lb | $68.95 | $67.95 | $-1.00 | -1.5% | Decrease |
-| Perdue Frozen Popcorn Chicken Bag 734 g / 1.62 lb | $0.00 | $119.95 | $+119.95 | +100.0% | New |
-| Frozen Sliced Turkey Drumsticks | $99.11 | $99.05 | $-0.06 | -0.1% | Decrease |
-| Marismas Manzanilla Pitted Olives 1.82 kg / 64 oz  | $0.00 | $79.95 | $+79.95 | +100.0% | New |
+| Avocado 2 Units | $29.95 | $9.70 | $-20.25 | -67.6% | Decrease |
+| EcoLife Organic Brown Rice 1.81 kg / 32 oz | $84.95 | $89.95 | $+5.00 | +5.9% | Increase |
+| Chips Ahoy Chunky Chips Cookies 2 Units / 333 g / 11.7 oz | $86.95 | $107.95 | $+21.00 | +24.2% | Increase |
+| Frozen Sliced Turkey Drumsticks | $99.05 | $98.98 | $-0.07 | -0.1% | Decrease |
+| Dietz & Watson Turkey Breast  | $125.82 | $125.20 | $-0.62 | -0.5% | Decrease |
+| Nestos Small Gherkins 520 g / 18.34 oz | $56.95 | $59.95 | $+3.00 | +5.3% | Increase |
+| Nectarine 908 g / 2 lb | $59.95 | $57.95 | $-2.00 | -3.3% | Decrease |
+| Avocado Mesh 5 Units | $42.95 | $44.95 | $+2.00 | +4.7% | Increase |
+| Member's Selection Freshly Prepared Fried Chicken with Potato Wedges 4 Pieces | $0.00 | $61.95 | $+61.95 | +100.0% | New |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $219.40 | $219.79 | $+0.39 | +0.2% | Increase |
+| Red Cabbage Unit | $32.95 | $29.95 | $-3.00 | -9.1% | Decrease |
+| Green pepper | $28.29 | $28.16 | $-0.13 | -0.5% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $86.93 | $87.04 | $+0.11 | +0.1% | Increase |
+| Green Cabbage 1.3 kg / 2.9 lb | $29.95 | $31.95 | $+2.00 | +6.7% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $135.10 | $134.96 | $-0.14 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -86,6 +86,7 @@
 | Product | Old Price | New Price | % Decrease |
 |---------|-----------|-----------|------------|
 | Sabra Classic Hummus 850 g / 30 oz | $79.95 | $24.70 | -69.1% |
+| Avocado 2 Units | $29.95 | $9.70 | -67.6% |
 | Curly's Baby Back Pork Ribs 680 g / 24 oz | $129.95 | $59.70 | -54.1% |
 | Purple Cabbage Unit | $29.95 | $14.70 | -50.9% |
 | Activia Low Fat Yogurt 12 Units / 113 g / 4 oz | $79.95 | $39.70 | -50.3% |
@@ -94,7 +95,6 @@
 | Cap'n Crunch's Crispy Berry Flavored Cereal 2 Units / 293 g | $52.70 | $29.70 | -43.6% |
 | Fresh Regular Tomato | $47.85 | $28.51 | -40.4% |
 | Fresh Celery  | $15.95 | $9.70 | -39.2% |
-| Lucema Snail Shell Pasta 6 Units / 250 g / 8.8 oz | $30.70 | $19.70 | -35.8% |
 
 ## Recently Discontinued Products
 
@@ -115,8 +115,4 @@
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Red Potato 4.5 kg / 10 lb |  | $69.95 | G10D03 |
-| Russco's Green Pepper Salsa 750 mL | Russco's | $22.95 | G10D03 |
-| Stamina Energy Carbonated Energy Drink 12 Units / 330 mL / 11.16 oz | Stamina Energy | $55.95 | G10D03 |
-| Perdue Frozen Popcorn Chicken Bag 734 g / 1.62 lb | Perdue | $119.95 | G10D03 |
-| Marismas Manzanilla Pitted Olives 1.82 kg / 64 oz  | Marismas | $79.95 | G10D03 |
+| Member's Selection Freshly Prepared Fried Chicken with Potato Wedges 4 Pieces | Member's Selection | $61.95 | G10D03 |
