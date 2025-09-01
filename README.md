@@ -182,16 +182,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1090
-- **Total value**: $119,301.02
-- **Average price**: $109.45
+- **Total products scraped**: 1091
+- **Total value**: $119,563.08
+- **Average price**: $109.59
 
 ## Database Changes
 - **New products added**: 1
-- **Existing products updated**: 1089
-- **Price changes detected**: 25
-- **Stock/availability changes**: 12
-- **Discontinued products**: 1
+- **Existing products updated**: 1090
+- **Price changes detected**: 22
+- **Stock/availability changes**: 8
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -207,45 +207,45 @@ This project has recently gained unexpected attention. It was created for person
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Tostitos Snacks White Corn Chips Nachos / 283 g / 10 oz | Tostitos | $50.95 | true |
 | Nilo Coconut Water 12 Units / 320 mL / 10.82 oz | Nilo | $124.95 | true |
-| Tropicland Organic Sweet Potato Fries 1.8 kg / 4 lb | Tropicland | $114.95 | true |
+| Tostitos Snacks White Corn Chips Nachos / 283 g / 10 oz | Tostitos | $50.95 | true |
 | Pafritas Paprika Flavor Potato Chips 500 g / 1.1 lb | Pafritas | $86.95 | true |
 | Nilo Soursop Juice 12 Units / 320 mL / 10.82 oz | Nilo | $139.95 | true |
+| Cheez-It White and Jack Cheddar Crackers 2 Pack 351 g / 12.4 oz | CheezIt | $89.95 | true |
 | Member's Selection Sliced Assorted Cheese Pack 907 g / 32 oz | Member's Selection | $87.95 | true |
 | Crix Steelpan Original Cookies in Collectible Tin 768 g | Crix | $59.95 | true |
 | Badia All Purpose Marinade Seasoning 591 mL / 20 oz  | Badia | $21.95 | true |
-| Cheez-It White and Jack Cheddar Crackers 2 Pack 351 g / 12.4 oz | CheezIt | $89.95 | true |
 | Jell-O Assorted Desserts 24 Units 2.41 kg / 5 lb | Jell-O | $159.95 | true |
+| Kawan Plain Paratha 25 Units 2 kg / 4.4 lb | Kawan | $99.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1257
-- **Price increases**: 575
-- **Price decreases**: 596
-- **Average increase**: 6.4%
-- **Average decrease**: -4.0%
+- **Total price changes**: 1170
+- **Price increases**: 533
+- **Price decreases**: 561
+- **Average increase**: 6.2%
+- **Average decrease**: -3.9%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Barista Coffee Salty Caramel-Flavored Cappuccino Mix 2 Units / 320 g / 11.2 oz | $70.95 | $79.82 | $+8.87 | +12.5% | Increase |
-| Avocado 2 Units | $9.70 | $29.95 | $+20.25 | +208.8% | Increase |
-| Freshway Red Dragon Fruit 794 g / 1.75 lb | $0.00 | $79.95 | $+79.95 | +100.0% | New |
-| Frozen Sliced Turkey Drumsticks | $98.98 | $99.05 | $+0.07 | +0.1% | Increase |
-| Chilled Chicken Gizzard Tray Pack | $55.72 | $55.79 | $+0.07 | +0.1% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $80.49 | $80.40 | $-0.09 | -0.1% | Decrease |
-| Fresh Ground Chicken Meat Bag | $263.80 | $264.11 | $+0.31 | +0.1% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $134.96 | $135.10 | $+0.14 | +0.1% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $89.72 | $89.81 | $+0.09 | +0.1% | Increase |
-| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $58.94 | $59.04 | $+0.10 | +0.2% | Increase |
-| Fresh Chicken Drumsticks Tray  | $89.13 | $89.24 | $+0.11 | +0.1% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Case | $1312.59 | $1366.86 | $+54.27 | +4.1% | Increase |
-| Fresh Chicken Breast Bone In Tray | $91.87 | $91.97 | $+0.10 | +0.1% | Increase |
-| Fresh Ground Chicken Tray | $87.01 | $86.89 | $-0.12 | -0.1% | Decrease |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $71.99 | $71.74 | $-0.25 | -0.3% | Decrease |
+| Mountain Peak Instant Coffee 170 g | $37.95 | $53.95 | $+16.00 | +42.2% | Increase |
+| Fresh Chicken Boneless Breast Bag | $410.73 | $409.83 | $-0.90 | -0.2% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $73.87 | $72.11 | $-1.76 | -2.4% | Decrease |
+| Annie's Organic Macaroni and Cheese Variety Pack 12 Units / 170 g | $0.00 | $239.95 | $+239.95 | +100.0% | New |
+| Chilled Chicken Gizzard Tray Pack | $55.79 | $55.72 | $-0.07 | -0.1% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $99.05 | $98.98 | $-0.07 | -0.1% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $87.04 | $87.26 | $+0.22 | +0.3% | Increase |
+| Green pepper | $28.16 | $28.10 | $-0.06 | -0.2% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $80.40 | $80.32 | $-0.08 | -0.1% | Decrease |
+| Fresh Ground Chicken Meat Bag | $264.11 | $264.64 | $+0.53 | +0.2% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $135.10 | $135.40 | $+0.30 | +0.2% | Increase |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $65.94 | $66.05 | $+0.11 | +0.2% | Increase |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $219.79 | $230.83 | $+11.04 | +5.0% | Increase |
+| Fresh Whole Chicken for Frying Bag | $260.86 | $261.01 | $+0.15 | +0.1% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $101.11 | $101.27 | $+0.16 | +0.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -296,4 +296,4 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Freshway Red Dragon Fruit 794 g / 1.75 lb | Freshway | $79.95 | G10D03 |
+| Annie's Organic Macaroni and Cheese Variety Pack 12 Units / 170 g | Annies | $239.95 | G10D03 |
