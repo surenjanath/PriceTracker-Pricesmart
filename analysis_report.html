@@ -1,22 +1,22 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1091
-- **Total value**: $119,563.08
-- **Average price**: $109.59
+- **Total products scraped**: 1088
+- **Total value**: $119,112.30
+- **Average price**: $109.48
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1090
-- **Price changes detected**: 22
-- **Stock/availability changes**: 8
-- **Discontinued products**: 0
+- **New products added**: 0
+- **Existing products updated**: 1088
+- **Price changes detected**: 35
+- **Stock/availability changes**: 12
+- **Discontinued products**: 3
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 184 |
+| Member's Selection | 182 |
 |  | 135 |
 | Badia | 19 |
 | Swiss | 13 |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1170
-- **Price increases**: 533
-- **Price decreases**: 561
-- **Average increase**: 6.2%
+- **Total price changes**: 1205
+- **Price increases**: 549
+- **Price decreases**: 580
+- **Average increase**: 6.1%
 - **Average decrease**: -3.9%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Mountain Peak Instant Coffee 170 g | $37.95 | $53.95 | $+16.00 | +42.2% | Increase |
-| Fresh Chicken Boneless Breast Bag | $410.73 | $409.83 | $-0.90 | -0.2% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $73.87 | $72.11 | $-1.76 | -2.4% | Decrease |
-| Annie's Organic Macaroni and Cheese Variety Pack 12 Units / 170 g | $0.00 | $239.95 | $+239.95 | +100.0% | New |
-| Chilled Chicken Gizzard Tray Pack | $55.79 | $55.72 | $-0.07 | -0.1% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $99.05 | $98.98 | $-0.07 | -0.1% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $87.04 | $87.26 | $+0.22 | +0.3% | Increase |
-| Green pepper | $28.16 | $28.10 | $-0.06 | -0.2% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $80.40 | $80.32 | $-0.08 | -0.1% | Decrease |
-| Fresh Ground Chicken Meat Bag | $264.11 | $264.64 | $+0.53 | +0.2% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $135.10 | $135.40 | $+0.30 | +0.2% | Increase |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $65.94 | $66.05 | $+0.11 | +0.2% | Increase |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $219.79 | $230.83 | $+11.04 | +5.0% | Increase |
-| Fresh Whole Chicken for Frying Bag | $260.86 | $261.01 | $+0.15 | +0.1% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $101.11 | $101.27 | $+0.16 | +0.2% | Increase |
+| Member's Selection Chilled Chicken Liver, Tray Pack | $41.02 | $40.96 | $-0.06 | -0.1% | Decrease |
+| Fresh Chicken Wings Tray | $92.68 | $92.57 | $-0.11 | -0.1% | Decrease |
+| Fresh Chicken Thighs Boneless Bag | $312.08 | $314.79 | $+2.71 | +0.9% | Increase |
+| Fresh Chicken Boneless Breast Bag | $409.83 | $409.23 | $-0.60 | -0.1% | Decrease |
+| Whole Striploin Fresh Vacuum Packed | $1397.70 | $1277.70 | $-120.00 | -8.6% | Decrease |
+| Dietz & Watson Turkey Breast  | $125.20 | $123.65 | $-1.55 | -1.2% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $55.72 | $55.65 | $-0.07 | -0.1% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $160.59 | $162.05 | $+1.46 | +0.9% | Increase |
+| Fresh Chicken Mixed Parts Tray | $87.26 | $87.37 | $+0.11 | +0.1% | Increase |
+| Fresh Chicken Thighs Boneless Tray | $72.61 | $72.48 | $-0.13 | -0.2% | Decrease |
+| Green pepper | $28.10 | $28.04 | $-0.06 | -0.2% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $93.18 | $93.32 | $+0.14 | +0.2% | Increase |
+| Fresh Ground Chicken Meat Bag | $264.64 | $265.60 | $+0.96 | +0.4% | Increase |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $230.83 | $220.70 | $-10.13 | -4.4% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $135.40 | $135.54 | $+0.14 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,9 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Peche Patisserie Fermented Sourdough Bread | Peche Patisserie | $24.95 | 2025-09-01 |
+| Member's Selection Freshly Prepared Fried Chicken with Potato Wedges 4 Pieces | Member's Selection | $61.95 | 2025-09-01 |
+| Member's Selection Lemon Pie Covered with Vanilla Glaze Freshly Baked | Member's Selection | $139.95 | 2025-09-01 |
 | Capri Sun Variety 100% Juice 40 Units / 177 mL / 6 oz | Capri Sun | $104.95 | 2025-08-30 |
 | Nanak Rasmalai 1 kg / 2.2 lb | Nanak | $79.70 | 2025-08-28 |
 | Red Apples 2.26 kg / 5 lb |  | $59.95 | 2025-08-28 |
@@ -107,12 +110,6 @@
 | Member's Selection Chocolate Cake Covered and Filled with Chocolate Fudge Sweet Freshly Baked 12 Slices | Member's Selection | $87.95 | 2025-08-26 |
 | Suzy's Cream Cheesecake Assorted Flavors Cheesecake Squares 16 Units | Suzy's Cream Cheesecakes | $140.95 | 2025-08-24 |
 | Lipton Raspberry and Lemon Flavor Tea Powder 2 Units / 670 g | Lipton | $84.95 | 2025-08-21 |
-| Chef's Quality Crinkle Cut Fries 2.5kg / 5.5 lb | Chef's Quality | $49.95 | 2025-08-21 |
-| The Baking Café Cross Buns 6 Units / 70 g / 0.15 lb | The Baking Café | $36.95 | 2025-08-21 |
-| Aziz's Assortment Pack of Freshly Baked Traditional Sweets | Aziz's | $58.95 | 2025-08-21 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Annie's Organic Macaroni and Cheese Variety Pack 12 Units / 170 g | Annies | $239.95 | G10D03 |
+No new products added today.
