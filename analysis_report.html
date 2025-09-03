@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1088
-- **Total value**: $119,112.30
-- **Average price**: $109.48
+- **Total products scraped**: 1087
+- **Total value**: $116,652.69
+- **Average price**: $107.32
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1088
-- **Price changes detected**: 35
-- **Stock/availability changes**: 12
-- **Discontinued products**: 3
+- **New products added**: 1
+- **Existing products updated**: 1086
+- **Price changes detected**: 62
+- **Stock/availability changes**: 18
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 182 |
-|  | 135 |
+|  | 134 |
 | Badia | 19 |
 | Swiss | 13 |
 | Kirkland Signature | 12 |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1205
-- **Price increases**: 549
-- **Price decreases**: 580
-- **Average increase**: 6.1%
+- **Total price changes**: 1193
+- **Price increases**: 538
+- **Price decreases**: 583
+- **Average increase**: 5.8%
 - **Average decrease**: -3.9%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Member's Selection Chilled Chicken Liver, Tray Pack | $41.02 | $40.96 | $-0.06 | -0.1% | Decrease |
-| Fresh Chicken Wings Tray | $92.68 | $92.57 | $-0.11 | -0.1% | Decrease |
-| Fresh Chicken Thighs Boneless Bag | $312.08 | $314.79 | $+2.71 | +0.9% | Increase |
-| Fresh Chicken Boneless Breast Bag | $409.83 | $409.23 | $-0.60 | -0.1% | Decrease |
-| Whole Striploin Fresh Vacuum Packed | $1397.70 | $1277.70 | $-120.00 | -8.6% | Decrease |
-| Dietz & Watson Turkey Breast  | $125.20 | $123.65 | $-1.55 | -1.2% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $55.72 | $55.65 | $-0.07 | -0.1% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $160.59 | $162.05 | $+1.46 | +0.9% | Increase |
-| Fresh Chicken Mixed Parts Tray | $87.26 | $87.37 | $+0.11 | +0.1% | Increase |
-| Fresh Chicken Thighs Boneless Tray | $72.61 | $72.48 | $-0.13 | -0.2% | Decrease |
-| Green pepper | $28.10 | $28.04 | $-0.06 | -0.2% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $93.18 | $93.32 | $+0.14 | +0.2% | Increase |
-| Fresh Ground Chicken Meat Bag | $264.64 | $265.60 | $+0.96 | +0.4% | Increase |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $230.83 | $220.70 | $-10.13 | -4.4% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $135.40 | $135.54 | $+0.14 | +0.1% | Increase |
+| Barista Coffee Salty Caramel-Flavored Cappuccino Mix 2 Units / 320 g / 11.2 oz | $79.82 | $79.95 | $+0.13 | +0.2% | Increase |
+| Assorted Peppers | $35.62 | $34.36 | $-1.26 | -3.5% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $89.81 | $88.37 | $-1.44 | -1.6% | Decrease |
+| Fresh Chicken Breast Boneless Skinless Tray | $124.09 | $124.43 | $+0.34 | +0.3% | Increase |
+| Fresh Regular Tomato | $31.76 | $32.01 | $+0.25 | +0.8% | Increase |
+| Fresh Chicken Breast Bone In Tray | $91.87 | $92.45 | $+0.58 | +0.6% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $87.83 | $87.38 | $-0.45 | -0.5% | Decrease |
+| Fresh Chicken Boneless Breast Bag | $409.23 | $409.83 | $+0.60 | +0.1% | Increase |
+| Loc Maria Biscuits Assorted French Cookies Butter and Salted Caramel 441 g / 15.6 oz | $0.00 | $139.95 | $+139.95 | +100.0% | New |
+| Frozen Bone In Pork Shoulder Sliced Tray | $72.11 | $73.67 | $+1.56 | +2.2% | Increase |
+| Frozen Lamb Shoulder Case | $1194.81 | $1070.66 | $-124.15 | -10.4% | Decrease |
+| Frozen Bone-In Goat Carcass, Case | $927.77 | $869.33 | $-58.44 | -6.3% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $55.65 | $55.35 | $-0.30 | -0.5% | Decrease |
+| Frozen Lamb Leg Whole Vacuum Packed | $216.49 | $215.89 | $-0.60 | -0.3% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $162.05 | $159.88 | $-2.17 | -1.3% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,8 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Tropicland Whole Strawberries 2.26 kg / 5 lb | Tropicland | $116.95 | 2025-09-02 |
+| Frozen Skinless Pork Belly Center Cut Case |  | $2293.10 | 2025-09-02 |
 | Peche Patisserie Fermented Sourdough Bread | Peche Patisserie | $24.95 | 2025-09-01 |
 | Member's Selection Freshly Prepared Fried Chicken with Potato Wedges 4 Pieces | Member's Selection | $61.95 | 2025-09-01 |
 | Member's Selection Lemon Pie Covered with Vanilla Glaze Freshly Baked | Member's Selection | $139.95 | 2025-09-01 |
@@ -108,8 +110,9 @@
 | Red Apples 2.26 kg / 5 lb |  | $59.95 | 2025-08-28 |
 | Jennies Coconut Bites with Cacao Nibs and Dark Chocolate 680 g / 24 oz | Jennies | $129.95 | 2025-08-26 |
 | Member's Selection Chocolate Cake Covered and Filled with Chocolate Fudge Sweet Freshly Baked 12 Slices | Member's Selection | $87.95 | 2025-08-26 |
-| Suzy's Cream Cheesecake Assorted Flavors Cheesecake Squares 16 Units | Suzy's Cream Cheesecakes | $140.95 | 2025-08-24 |
-| Lipton Raspberry and Lemon Flavor Tea Powder 2 Units / 670 g | Lipton | $84.95 | 2025-08-21 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Loc Maria Biscuits Assorted French Cookies Butter and Salted Caramel 441 g / 15.6 oz | Loc Maria Biscuits | $139.95 | G10D03 |
