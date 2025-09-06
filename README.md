@@ -182,16 +182,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1079
-- **Total value**: $116,207.98
-- **Average price**: $107.70
+- **Total products scraped**: 1081
+- **Total value**: $116,374.63
+- **Average price**: $107.65
 
 ## Database Changes
-- **New products added**: 1
+- **New products added**: 3
 - **Existing products updated**: 1078
-- **Price changes detected**: 67
-- **Stock/availability changes**: 18
-- **Discontinued products**: 5
+- **Price changes detected**: 40
+- **Stock/availability changes**: 14
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -208,44 +208,44 @@ This project has recently gained unexpected attention. It was created for person
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Nilo Coconut Water 12 Units / 320 mL / 10.82 oz | Nilo | $124.95 | true |
+| Cheez-It White and Jack Cheddar Crackers 2 Pack 351 g / 12.4 oz | CheezIt | $89.95 | true |
 | Tostitos Snacks White Corn Chips Nachos / 283 g / 10 oz | Tostitos | $50.95 | true |
 | Pafritas Paprika Flavor Potato Chips 500 g / 1.1 lb | Pafritas | $86.95 | true |
 | Nilo Soursop Juice 12 Units / 320 mL / 10.82 oz | Nilo | $139.95 | true |
-| Cheez-It White and Jack Cheddar Crackers 2 Pack 351 g / 12.4 oz | CheezIt | $89.95 | true |
-| Crix Steelpan Original Cookies in Collectible Tin 768 g | Crix | $59.95 | true |
-| Jell-O Assorted Desserts 24 Units 2.41 kg / 5 lb | Jell-O | $159.95 | true |
-| Kawan Plain Paratha 25 Units 2 kg / 4.4 lb | Kawan | $99.95 | true |
 | Member's Selection Sliced Assorted Cheese Pack 907 g / 32 oz | Member's Selection | $73.95 | true |
+| Crix Steelpan Original Cookies in Collectible Tin 768 g | Crix | $59.95 | true |
+| Member's Selection Thai Jasmine Long Grain Rice 9.07 kg / 20 lb | Member's Selection | $149.95 | true |
+| Kawan Plain Paratha 25 Units 2 kg / 4.4 lb | Kawan | $99.95 | true |
 | Badia All Purpose Marinade Seasoning 591 mL / 20 oz  | Badia | $21.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1221
-- **Price increases**: 575
-- **Price decreases**: 580
-- **Average increase**: 5.7%
-- **Average decrease**: -3.9%
+- **Total price changes**: 1231
+- **Price increases**: 571
+- **Price decreases**: 592
+- **Average increase**: 5.8%
+- **Average decrease**: -4.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Ginger 680 g / 1.5 | $0.00 | $32.95 | $+32.95 | +100.0% | New |
-| Dietz & Watson Sliced Roast Beef 454 g / 1 lb | $124.95 | $127.95 | $+3.00 | +2.4% | Increase |
-| Quaker Simply Granola Oats, Honey, Raisins and Almonds 2 Units / 978 g / 34.5 oz | $111.95 | $112.95 | $+1.00 | +0.9% | Increase |
-| Loc Maria Biscuits Assorted French Cookies Butter and Salted Caramel 441 g / 15.6 oz | $139.95 | $156.95 | $+17.00 | +12.1% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $73.67 | $73.77 | $+0.10 | +0.1% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $159.88 | $160.15 | $+0.27 | +0.2% | Increase |
-| Gouda Cheese Block | $71.76 | $71.89 | $+0.13 | +0.2% | Increase |
-| Green pepper | $27.55 | $27.42 | $-0.13 | -0.5% | Decrease |
-| Kellogg's Corn Flakes 1.21 kg / 43 oz | $86.95 | $87.95 | $+1.00 | +1.2% | Increase |
-| Silk Chocolate Almond 1.89 L / 64 oz | $53.95 | $54.95 | $+1.00 | +1.9% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $135.98 | $136.27 | $+0.29 | +0.2% | Increase |
-| Bibigo Beef Dumplings 1.36 kg / 3 lb | $164.95 | $162.95 | $-2.00 | -1.2% | Decrease |
-| Nestle Cinnamon Toast Crunch Cereal 1.24 kg / 43.7 oz | $124.95 | $125.95 | $+1.00 | +0.8% | Increase |
-| Kellogg's Frosted Flakes Cereal 1.75 kg / 61.7 oz | $114.95 | $116.95 | $+2.00 | +1.7% | Increase |
-| Badia Spice with Lime Pepper Flavor 680.4 g / 24 oz | $69.95 | $72.95 | $+3.00 | +4.3% | Increase |
+| Idahoan Classic Instant Mashed Potatoes 1.47 kg / 3.25 lb | $0.00 | $109.95 | $+109.95 | +100.0% | New |
+| Kellogg’s Assorted Cereals Corn Pops, Froot Loops & Apple Jacks 3 Bags / 1.05 kg / 37.3 oz | $0.00 | $106.95 | $+106.95 | +100.0% | New |
+| Nesquick Liquid Milk Drink with Cocoa Flavor 12 Units / 250 mL | $0.00 | $77.95 | $+77.95 | +100.0% | New |
+| Barista Gold Soft Roasted Instant Coffee 200 g | $49.95 | $59.95 | $+10.00 | +20.0% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $73.77 | $70.93 | $-2.84 | -3.8% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $55.35 | $55.42 | $+0.07 | +0.1% | Increase |
+| Fresh Cantaloupe Melon | $42.95 | $39.95 | $-3.00 | -7.0% | Decrease |
+| Seedless Watermelon  | $79.95 | $89.95 | $+10.00 | +12.5% | Increase |
+| Frozen Bone-In Pork Shoulder Case | $1165.29 | $1139.93 | $-25.36 | -2.2% | Decrease |
+| Nectarine 908 g / 2 lb | $57.95 | $59.95 | $+2.00 | +3.5% | Increase |
+| Red Onion 2.2 kg / 5 lb | $34.95 | $32.95 | $-2.00 | -5.7% | Decrease |
+| Fresh Chicken Thighs Boneless Tray | $72.22 | $72.48 | $+0.26 | +0.4% | Increase |
+| Fresh Chicken Mixed Parts Tray | $84.73 | $84.29 | $-0.44 | -0.5% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $88.37 | $88.46 | $+0.09 | +0.1% | Increase |
+| Iceberg Lettuce Unit | $24.95 | $29.95 | $+5.00 | +20.0% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -281,6 +281,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Florida's Natural Orange Juice 2.63 L / 89 oz | Florida's Natural | $87.95 | 2025-09-05 |
 | Pink Lady Apple 1.81 kg / 4 lb |  | $81.95 | 2025-09-04 |
 | Kretcshmer Wheat Germ Honey 2 units / 311 g | Kretcshmer | $75.95 | 2025-09-04 |
 | Sundays Assorted Ice Creams 16 Units / 90 mL / 3 oz | Sundays | $79.95 | 2025-09-04 |
@@ -290,10 +291,11 @@ This project has recently gained unexpected attention. It was created for person
 | Fresh Red Apples 1.36 kg / 3 lb |  | $49.95 | 2025-09-03 |
 | Mountain Peak Instant Coffee 170 g | Mountain Peak | $53.95 | 2025-09-03 |
 | Frozen Chicken Legs 1 kg / 2.2 lb |  | $44.95 | 2025-09-03 |
-| Tropicland Whole Strawberries 2.26 kg / 5 lb | Tropicland | $116.95 | 2025-09-02 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Ginger 680 g / 1.5 |  | $32.95 | G10D03 |
+| Idahoan Classic Instant Mashed Potatoes 1.47 kg / 3.25 lb | Idahoan | $109.95 | G10D03 |
+| Kellogg’s Assorted Cereals Corn Pops, Froot Loops & Apple Jacks 3 Bags / 1.05 kg / 37.3 oz | Kellogg's | $106.95 | G10D03 |
+| Nesquick Liquid Milk Drink with Cocoa Flavor 12 Units / 250 mL | Nesquik | $77.95 | G10D03 |
