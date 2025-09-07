@@ -1,15 +1,15 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1081
-- **Total value**: $116,374.63
-- **Average price**: $107.65
+- **Total products scraped**: 1084
+- **Total value**: $116,539.24
+- **Average price**: $107.51
 
 ## Database Changes
-- **New products added**: 3
-- **Existing products updated**: 1078
-- **Price changes detected**: 40
-- **Stock/availability changes**: 14
+- **New products added**: 4
+- **Existing products updated**: 1080
+- **Price changes detected**: 34
+- **Stock/availability changes**: 11
 - **Discontinued products**: 1
 
 ## Top 5 Brands
@@ -30,7 +30,7 @@
 | Cheez-It White and Jack Cheddar Crackers 2 Pack 351 g / 12.4 oz | CheezIt | $89.95 | true |
 | Tostitos Snacks White Corn Chips Nachos / 283 g / 10 oz | Tostitos | $50.95 | true |
 | Pafritas Paprika Flavor Potato Chips 500 g / 1.1 lb | Pafritas | $86.95 | true |
-| Nilo Soursop Juice 12 Units / 320 mL / 10.82 oz | Nilo | $139.95 | true |
+| Nilo Soursop Juice 12 Units / 320 mL / 10.82 oz | Nilo | $129.95 | true |
 | Member's Selection Sliced Assorted Cheese Pack 907 g / 32 oz | Member's Selection | $73.95 | true |
 | Crix Steelpan Original Cookies in Collectible Tin 768 g | Crix | $59.95 | true |
 | Member's Selection Thai Jasmine Long Grain Rice 9.07 kg / 20 lb | Member's Selection | $149.95 | true |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1231
-- **Price increases**: 571
-- **Price decreases**: 592
-- **Average increase**: 5.8%
-- **Average decrease**: -4.0%
+- **Total price changes**: 1243
+- **Price increases**: 575
+- **Price decreases**: 597
+- **Average increase**: 5.9%
+- **Average decrease**: -4.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Idahoan Classic Instant Mashed Potatoes 1.47 kg / 3.25 lb | $0.00 | $109.95 | $+109.95 | +100.0% | New |
-| Kellogg’s Assorted Cereals Corn Pops, Froot Loops & Apple Jacks 3 Bags / 1.05 kg / 37.3 oz | $0.00 | $106.95 | $+106.95 | +100.0% | New |
-| Nesquick Liquid Milk Drink with Cocoa Flavor 12 Units / 250 mL | $0.00 | $77.95 | $+77.95 | +100.0% | New |
-| Barista Gold Soft Roasted Instant Coffee 200 g | $49.95 | $59.95 | $+10.00 | +20.0% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $73.77 | $70.93 | $-2.84 | -3.8% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $55.35 | $55.42 | $+0.07 | +0.1% | Increase |
-| Fresh Cantaloupe Melon | $42.95 | $39.95 | $-3.00 | -7.0% | Decrease |
-| Seedless Watermelon  | $79.95 | $89.95 | $+10.00 | +12.5% | Increase |
-| Frozen Bone-In Pork Shoulder Case | $1165.29 | $1139.93 | $-25.36 | -2.2% | Decrease |
-| Nectarine 908 g / 2 lb | $57.95 | $59.95 | $+2.00 | +3.5% | Increase |
-| Red Onion 2.2 kg / 5 lb | $34.95 | $32.95 | $-2.00 | -5.7% | Decrease |
-| Fresh Chicken Thighs Boneless Tray | $72.22 | $72.48 | $+0.26 | +0.4% | Increase |
-| Fresh Chicken Mixed Parts Tray | $84.73 | $84.29 | $-0.44 | -0.5% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $88.37 | $88.46 | $+0.09 | +0.1% | Increase |
-| Iceberg Lettuce Unit | $24.95 | $29.95 | $+5.00 | +20.0% | Increase |
+| Mandarin Orange Chicken 1.2 kg / 2.6 lb | $157.95 | $179.95 | $+22.00 | +13.9% | Increase |
+| Carolina Ground Turkey Meat, 2.3 kg / 5 lb | $0.00 | $111.07 | $+111.07 | +100.0% | New |
+| President Brie Cheese 555 g / 1.2 lb | $74.95 | $75.95 | $+1.00 | +1.3% | Increase |
+|  Eggplant 793 g / 1.75 lb | $0.00 | $67.95 | $+67.95 | +100.0% | New |
+| Dewlands Passion Fruit and Apple Juice 3 Units / 1 L | $0.00 | $59.95 | $+59.95 | +100.0% | New |
+| Tostitos Santa Elena Chips 430 g  / 15.17 oz | $0.00 | $34.95 | $+34.95 | +100.0% | New |
+| Ginger 680 g / 1.5 | $32.95 | $34.95 | $+2.00 | +6.1% | Increase |
+| Leclerc Summer Cookies with Raspberry and Berry Flavor 2 Units / 300 g | $47.95 | $41.70 | $-6.25 | -13.0% | Decrease |
+| Gouda Cheese Block | $71.89 | $72.03 | $+0.14 | +0.2% | Increase |
+| Avocado Mesh 5 Units | $44.95 | $47.95 | $+3.00 | +6.7% | Increase |
+| Fresh Chicken Mixed Parts Tray | $84.29 | $84.07 | $-0.22 | -0.3% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $88.46 | $88.55 | $+0.09 | +0.1% | Increase |
+| Fresh Ground Chicken Meat Bag | $262.42 | $265.81 | $+3.39 | +1.3% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $136.27 | $136.42 | $+0.15 | +0.1% | Increase |
+| Green Cabbage 1.3 kg / 2.9 lb | $31.95 | $19.70 | $-12.25 | -38.3% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Frozen Sliced Turkey Drumsticks |  | $98.45 | 2025-09-06 |
 | Florida's Natural Orange Juice 2.63 L / 89 oz | Florida's Natural | $87.95 | 2025-09-05 |
 | Pink Lady Apple 1.81 kg / 4 lb |  | $81.95 | 2025-09-04 |
 | Kretcshmer Wheat Germ Honey 2 units / 311 g | Kretcshmer | $75.95 | 2025-09-04 |
@@ -109,12 +110,12 @@
 | Sea Best Raw Lobster Cake 762 g / 1.68 lb | Sea Best | $94.95 | 2025-09-03 |
 | Fresh Red Apples 1.36 kg / 3 lb |  | $49.95 | 2025-09-03 |
 | Mountain Peak Instant Coffee 170 g | Mountain Peak | $53.95 | 2025-09-03 |
-| Frozen Chicken Legs 1 kg / 2.2 lb |  | $44.95 | 2025-09-03 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Idahoan Classic Instant Mashed Potatoes 1.47 kg / 3.25 lb | Idahoan | $109.95 | G10D03 |
-| Kellogg’s Assorted Cereals Corn Pops, Froot Loops & Apple Jacks 3 Bags / 1.05 kg / 37.3 oz | Kellogg's | $106.95 | G10D03 |
-| Nesquick Liquid Milk Drink with Cocoa Flavor 12 Units / 250 mL | Nesquik | $77.95 | G10D03 |
+| Carolina Ground Turkey Meat, 2.3 kg / 5 lb | Carolina Turkey | $111.07 | G10D03 |
+|  Eggplant 793 g / 1.75 lb |  | $67.95 | G10D03 |
+| Dewlands Passion Fruit and Apple Juice 3 Units / 1 L | Dewlands | $59.95 | G10D03 |
+| Tostitos Santa Elena Chips 430 g  / 15.17 oz | Tostitos | $34.95 | G10D03 |
