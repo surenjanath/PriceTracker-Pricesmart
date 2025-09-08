@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1084
-- **Total value**: $116,539.24
-- **Average price**: $107.51
+- **Total products scraped**: 1085
+- **Total value**: $116,554.56
+- **Average price**: $107.42
 
 ## Database Changes
-- **New products added**: 4
-- **Existing products updated**: 1080
-- **Price changes detected**: 34
-- **Stock/availability changes**: 11
-- **Discontinued products**: 1
+- **New products added**: 1
+- **Existing products updated**: 1084
+- **Price changes detected**: 31
+- **Stock/availability changes**: 21
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1243
-- **Price increases**: 575
-- **Price decreases**: 597
-- **Average increase**: 5.9%
+- **Total price changes**: 1219
+- **Price increases**: 569
+- **Price decreases**: 581
+- **Average increase**: 5.8%
 - **Average decrease**: -4.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Mandarin Orange Chicken 1.2 kg / 2.6 lb | $157.95 | $179.95 | $+22.00 | +13.9% | Increase |
-| Carolina Ground Turkey Meat, 2.3 kg / 5 lb | $0.00 | $111.07 | $+111.07 | +100.0% | New |
-| President Brie Cheese 555 g / 1.2 lb | $74.95 | $75.95 | $+1.00 | +1.3% | Increase |
-|  Eggplant 793 g / 1.75 lb | $0.00 | $67.95 | $+67.95 | +100.0% | New |
-| Dewlands Passion Fruit and Apple Juice 3 Units / 1 L | $0.00 | $59.95 | $+59.95 | +100.0% | New |
-| Tostitos Santa Elena Chips 430 g  / 15.17 oz | $0.00 | $34.95 | $+34.95 | +100.0% | New |
-| Ginger 680 g / 1.5 | $32.95 | $34.95 | $+2.00 | +6.1% | Increase |
-| Leclerc Summer Cookies with Raspberry and Berry Flavor 2 Units / 300 g | $47.95 | $41.70 | $-6.25 | -13.0% | Decrease |
-| Gouda Cheese Block | $71.89 | $72.03 | $+0.14 | +0.2% | Increase |
-| Avocado Mesh 5 Units | $44.95 | $47.95 | $+3.00 | +6.7% | Increase |
-| Fresh Chicken Mixed Parts Tray | $84.29 | $84.07 | $-0.22 | -0.3% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $88.46 | $88.55 | $+0.09 | +0.1% | Increase |
-| Fresh Ground Chicken Meat Bag | $262.42 | $265.81 | $+3.39 | +1.3% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $136.27 | $136.42 | $+0.15 | +0.1% | Increase |
-| Green Cabbage 1.3 kg / 2.9 lb | $31.95 | $19.70 | $-12.25 | -38.3% | Decrease |
+| Fresh Chicken Breast Boneless Skinless Tray | $124.43 | $124.26 | $-0.17 | -0.1% | Decrease |
+| Karnis Hummus Mix 3 Units / 226 g / 7.97 oz | $0.00 | $82.95 | $+82.95 | +100.0% | New |
+| Frozen Bone In Pork Shoulder Sliced Tray | $70.93 | $70.83 | $-0.10 | -0.1% | Decrease |
+| Dietz & Watson Turkey Breast  | $123.65 | $125.20 | $+1.55 | +1.3% | Increase |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $116.62 | $110.40 | $-6.22 | -5.3% | Decrease |
+| Gouda Cheese Block | $72.03 | $72.16 | $+0.13 | +0.2% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $160.15 | $159.88 | $-0.27 | -0.2% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $94.66 | $94.80 | $+0.14 | +0.1% | Increase |
+| Fresh Chicken Thighs Boneless Tray | $72.48 | $72.35 | $-0.13 | -0.2% | Decrease |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $225.64 | $226.68 | $+1.04 | +0.5% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $88.55 | $88.64 | $+0.09 | +0.1% | Increase |
+| Fresh Ground Chicken Meat Bag | $265.81 | $262.42 | $-3.39 | -1.3% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $136.42 | $136.56 | $+0.14 | +0.1% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $78.68 | $78.60 | $-0.08 | -0.1% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $90.01 | $90.11 | $+0.10 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -115,7 +115,4 @@
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Carolina Ground Turkey Meat, 2.3 kg / 5 lb | Carolina Turkey | $111.07 | G10D03 |
-|  Eggplant 793 g / 1.75 lb |  | $67.95 | G10D03 |
-| Dewlands Passion Fruit and Apple Juice 3 Units / 1 L | Dewlands | $59.95 | G10D03 |
-| Tostitos Santa Elena Chips 430 g  / 15.17 oz | Tostitos | $34.95 | G10D03 |
+| Karnis Hummus Mix 3 Units / 226 g / 7.97 oz | Karnis | $82.95 | G10D03 |
