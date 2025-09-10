@@ -183,22 +183,22 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1083
-- **Total value**: $116,218.87
-- **Average price**: $107.31
+- **Total value**: $116,203.84
+- **Average price**: $107.30
 
 ## Database Changes
 - **New products added**: 0
 - **Existing products updated**: 1083
-- **Price changes detected**: 54
-- **Stock/availability changes**: 12
-- **Discontinued products**: 2
+- **Price changes detected**: 30
+- **Stock/availability changes**: 21
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 182 |
-|  | 132 |
+| Member's Selection | 181 |
+|  | 133 |
 | Badia | 19 |
 | Swiss | 13 |
 | Kirkland Signature | 12 |
@@ -210,42 +210,42 @@ This project has recently gained unexpected attention. It was created for person
 | Member's Selection Thai Jasmine Long Grain Rice 9.07 kg / 20 lb | Member's Selection | $149.95 | true |
 | Nilo Coconut Water 12 Units / 320 mL / 10.82 oz | Nilo | $124.95 | true |
 | Cheez-It White and Jack Cheddar Crackers 2 Pack 351 g / 12.4 oz | CheezIt | $89.95 | true |
-| Nilo Soursop Juice 12 Units / 320 mL / 10.82 oz | Nilo | $129.95 | true |
-| Pafritas Paprika Flavor Potato Chips 500 g / 1.1 lb | Pafritas | $86.95 | true |
-| Badia All Purpose Marinade Seasoning 591 mL / 20 oz  | Badia | $21.95 | true |
 | Member's Selection Sliced Assorted Cheese Pack 907 g / 32 oz | Member's Selection | $73.95 | true |
+| Nilo Soursop Juice 12 Units / 320 mL / 10.82 oz | Nilo | $129.95 | true |
+| Badia All Purpose Marinade Seasoning 591 mL / 20 oz  | Badia | $21.95 | true |
+| Pafritas Paprika Flavor Potato Chips 500 g / 1.1 lb | Pafritas | $86.95 | true |
 | Tostitos Snacks White Corn Chips Nachos / 283 g / 10 oz | Tostitos | $50.95 | true |
 | Crix Steelpan Original Cookies in Collectible Tin 768 g | Crix | $59.95 | true |
-| Jell-O Assorted Desserts 24 Units 2.41 kg / 5 lb | Jell-O | $159.95 | true |
+| Kawan Plain Paratha 25 Units 2 kg / 4.4 lb | Kawan | $99.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1216
-- **Price increases**: 581
-- **Price decreases**: 573
-- **Average increase**: 5.9%
-- **Average decrease**: -4.0%
+- **Total price changes**: 1214
+- **Price increases**: 577
+- **Price decreases**: 576
+- **Average increase**: 6.0%
+- **Average decrease**: -4.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Gwaltney Chicken Bologna 2 Units / 567 g | $47.95 | $48.95 | $+1.00 | +2.1% | Increase |
-| The English Cheese Company Cheddar Cheese 1 kg / 2.2 lb | $69.95 | $79.95 | $+10.00 | +14.3% | Increase |
-| Fresh Chicken Breast Boneless Skinless Tray | $89.92 | $89.75 | $-0.17 | -0.2% | Decrease |
-| Whole Striploin Fresh Vacuum Packed | $1277.70 | $1169.70 | $-108.00 | -8.5% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $70.83 | $70.63 | $-0.20 | -0.3% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $55.42 | $55.72 | $+0.30 | +0.5% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $159.88 | $160.15 | $+0.27 | +0.2% | Increase |
-| Gouda Cheese Block | $72.16 | $72.30 | $+0.14 | +0.2% | Increase |
-| Dietz & Watson Turkey Breast  | $125.20 | $125.82 | $+0.62 | +0.5% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $94.80 | $94.95 | $+0.15 | +0.2% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $88.64 | $89.00 | $+0.36 | +0.4% | Increase |
-| Fresh Chicken Mixed Parts Tray | $84.07 | $83.74 | $-0.33 | -0.4% | Decrease |
-| Green pepper | $27.42 | $27.36 | $-0.06 | -0.2% | Decrease |
-| Fresh Chicken Thighs Boneless Tray | $72.35 | $72.48 | $+0.13 | +0.2% | Increase |
-| Nutrina Chilled Whole Chicken Bag | $305.34 | $305.64 | $+0.30 | +0.1% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $87.83 | $88.01 | $+0.18 | +0.2% | Increase |
+| Treasured Harvest Shelled Natural Hazelnuts 680 g | $67.95 | $59.70 | $-8.25 | -12.1% | Decrease |
+|  Eggplant 793 g / 1.75 lb | $67.95 | $59.95 | $-8.00 | -11.8% | Decrease |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $110.40 | $110.63 | $+0.23 | +0.2% | Increase |
+| Bosc Pear 1.36 kg / 3 lb | $92.95 | $89.95 | $-3.00 | -3.2% | Decrease |
+| Freshway Red Dragon Fruit 794 g / 1.75 lb | $79.95 | $69.95 | $-10.00 | -12.5% | Decrease |
+| Gouda Cheese Block | $72.30 | $72.43 | $+0.13 | +0.2% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $94.95 | $94.80 | $-0.15 | -0.2% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $89.00 | $89.09 | $+0.09 | +0.1% | Increase |
+| Fresh Chicken Mixed Parts Tray | $83.74 | $83.52 | $-0.22 | -0.3% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $136.56 | $136.85 | $+0.29 | +0.2% | Increase |
+| Green Cabbage 1.3 kg / 2.9 lb | $19.70 | $31.95 | $+12.25 | +62.2% | Increase |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $64.70 | $64.81 | $+0.11 | +0.2% | Increase |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $386.29 | $392.61 | $+6.32 | +1.6% | Increase |
+| Gala Apples 1.36 kg / 3 lb | $52.95 | $49.95 | $-3.00 | -5.7% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -260,7 +260,7 @@ This project has recently gained unexpected attention. It was created for person
 | Activia Low Fat Yogurt 12 Units / 113 g / 4 oz | $39.70 | $79.95 | +101.4% |
 | Frito Lay Assortment Box 24 Units | $49.70 | $99.95 | +101.1% |
 | Member's Selection Mocha Flavor Cold Coffee Drink 9 Units / 405 mL / 13.7 oz | $105.70 | $176.95 | +67.4% |
-| Fresh Celery  | $9.70 | $14.95 | +54.1% |
+| Green Cabbage 1.3 kg / 2.9 lb | $19.70 | $31.95 | +62.2% |
 
 ## Biggest Price Decreases (All Time)
 
