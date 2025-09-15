@@ -2,15 +2,15 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1095
-- **Total value**: $117,847.84
-- **Average price**: $107.62
+- **Total value**: $117,919.96
+- **Average price**: $107.69
 
 ## Database Changes
-- **New products added**: 7
-- **Existing products updated**: 1088
-- **Price changes detected**: 16
-- **Stock/availability changes**: 10
-- **Discontinued products**: 0
+- **New products added**: 1
+- **Existing products updated**: 1094
+- **Price changes detected**: 26
+- **Stock/availability changes**: 11
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -28,43 +28,43 @@
 |-------|-------|-------------|--------------|
 | Member's Selection Thai Jasmine Long Grain Rice 9.07 kg / 20 lb | Member's Selection | $149.95 | true |
 | Nilo Soursop Juice 12 Units / 320 mL / 10.82 oz | Nilo | $129.95 | true |
+| Idahoan Classic Instant Mashed Potatoes 1.47 kg / 3.25 lb | Idahoan | $109.95 | true |
 | Loc Maria Biscuits Assorted French Cookies Butter and Salted Caramel 441 g / 15.6 oz | Loc Maria Biscuits | $156.95 | true |
 | Karnis Hummus Mix 3 Units / 226 g / 7.97 oz | Karnis | $82.95 | true |
+| Dewlands Passion Fruit and Apple Juice 3 Units / 1 L | Dewlands | $59.95 | true |
 | Nesquick Liquid Milk Drink with Cocoa Flavor 12 Units / 250 mL | Nesquik | $77.95 | true |
 | Kellogg’s Assorted Cereals Corn Pops, Froot Loops & Apple Jacks 3 Bags / 1.05 kg / 37.3 oz | Kellogg's | $106.95 | true |
-| Dewlands Passion Fruit and Apple Juice 3 Units / 1 L | Dewlands | $59.95 | true |
 | Badia Mojo Rub Citrus Blend 680.4 g / 24 oz  | Badia | $89.95 | true |
-| Idahoan Classic Instant Mashed Potatoes 1.47 kg / 3.25 lb | Idahoan | $109.95 | true |
 | Annie's Organic Macaroni and Cheese Variety Pack 12 Units / 170 g | Annies | $239.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1275
-- **Price increases**: 660
-- **Price decreases**: 551
+- **Total price changes**: 1250
+- **Price increases**: 644
+- **Price decreases**: 543
 - **Average increase**: 6.5%
-- **Average decrease**: -3.9%
+- **Average decrease**: -3.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Libby´s Corned Beef 3 Units / 340 g | $0.00 | $109.95 | $+109.95 | +100.0% | New |
-| Kellogg's Chocolatey Chip Waffles 2 Pack / 349 g / 12.3 oz | $0.00 | $97.95 | $+97.95 | +100.0% | New |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $148.45 | $148.35 | $-0.10 | -0.1% | Decrease |
-| Member's Selection Mayonnaise 12 Units / 591 mL / 20 oz | $0.00 | $334.95 | $+334.95 | +100.0% | New |
-| Frozen Bone In Pork Shoulder Sliced Tray | $70.43 | $70.33 | $-0.10 | -0.1% | Decrease |
-| Bartlett Pear 1.3 kg / 3 lb | $0.00 | $72.95 | $+72.95 | +100.0% | New |
-| Tropical Frying Cheese 907 g / 32 oz | $19.70 | $89.95 | $+70.25 | +356.6% | Increase |
-| Edwards Signatures Pecan Pie 907g / 2 lb | $0.00 | $69.95 | $+69.95 | +100.0% | New |
-| Pier 33 Coho Salmon Steak Frozen, Skin on 1 kg / 2.2 lb | $0.00 | $224.95 | $+224.95 | +100.0% | New |
-| Frozen Sliced Turkey Drumsticks | $98.45 | $154.75 | $+56.30 | +57.2% | Increase |
-| Fresh Chicken Mixed Parts Tray | $84.07 | $84.18 | $+0.11 | +0.1% | Increase |
-| Fresh Chicken Wings Tray | $92.68 | $92.57 | $-0.11 | -0.1% | Decrease |
-| Fresh Ground Chicken Meat Bag | $262.42 | $261.57 | $-0.85 | -0.3% | Decrease |
-| Butterball Frozen Natural Ground Turkey Vacuum Packed 3 Units / 453 g / 16 oz | $119.95 | $122.95 | $+3.00 | +2.5% | Increase |
-| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $140.18 | $140.42 | $+0.24 | +0.2% | Increase |
+| Tropicland Blueberries 1.36 kg / 48 oz | $0.00 | $87.95 | $+87.95 | +100.0% | New |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $148.35 | $148.75 | $+0.40 | +0.3% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $70.33 | $70.23 | $-0.10 | -0.1% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $161.05 | $160.78 | $-0.27 | -0.2% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $154.75 | $154.85 | $+0.10 | +0.1% | Increase |
+| Green pepper | $27.30 | $27.17 | $-0.13 | -0.5% | Decrease |
+| Frozen Bone-In Pork Shoulder Vacuum Packed | $175.03 | $244.23 | $+69.20 | +39.5% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $137.44 | $137.29 | $-0.15 | -0.1% | Decrease |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $64.70 | $64.60 | $-0.10 | -0.2% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $262.96 | $262.81 | $-0.15 | -0.1% | Decrease |
+| Fresh Ground Chicken Tray | $84.77 | $84.89 | $+0.12 | +0.1% | Increase |
+| Member's Selection Frozen Boneless Pork Loin Roast Tray | $99.33 | $99.12 | $-0.21 | -0.2% | Decrease |
+| Fresh Whole Chicken 2 Units | $102.89 | $102.96 | $+0.07 | +0.1% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $88.10 | $88.19 | $+0.09 | +0.1% | Increase |
+| Fresh Ground Chicken Meat Bag | $261.57 | $262.10 | $+0.53 | +0.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Sunberry Farms Organic Guava Nectar Juice - Gluten Free 3.78 L / 128 oz | Sunberry Farms | $84.95 | 2025-09-14 |
 | Hoody's Keto Matcha Trail Mix 907 g / 32 oz  | Hoody's | $114.70 | 2025-09-12 |
 | Chobani Zero Sugar Yogurt 16 Units /  150 g / 5.3 oz | Chobani | $164.95 | 2025-09-11 |
 | Ocean Delight Frozen Panko Breaded Squid Rings 680 g / 1.5 lb | Ocean Delight | $79.95 | 2025-09-11 |
@@ -109,16 +110,9 @@
 | Florida's Natural Orange Juice 2.63 L / 89 oz | Florida's Natural | $87.95 | 2025-09-05 |
 | Kretcshmer Wheat Germ Honey 2 units / 311 g | Kretcshmer | $75.95 | 2025-09-04 |
 | Sundays Assorted Ice Creams 16 Units / 90 mL / 3 oz | Sundays | $79.95 | 2025-09-04 |
-| Ankara Shell Pasta 4 Units / 500 g | Ankara | $35.70 | 2025-09-04 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Libby´s Corned Beef 3 Units / 340 g | Libby's | $109.95 | G10D03 |
-| Kellogg's Chocolatey Chip Waffles 2 Pack / 349 g / 12.3 oz | Kellogg's | $97.95 | G10D03 |
-| Member's Selection Mayonnaise 12 Units / 591 mL / 20 oz | Member's Selection | $334.95 | G10D03 |
-| Bartlett Pear 1.3 kg / 3 lb |  | $72.95 | G10D03 |
-| Edwards Signatures Pecan Pie 907g / 2 lb | Edward's | $69.95 | G10D03 |
-| Pier 33 Coho Salmon Steak Frozen, Skin on 1 kg / 2.2 lb | Pier 33 | $224.95 | G10D03 |
-| Blue Ribbon Classic Vanilla Sandwich Ice Cream 16 Units / 99 g / 3.5 oz | Blue Ribbon | $59.95 | G10D03 |
+| Tropicland Blueberries 1.36 kg / 48 oz | Tropicland | $87.95 | G10D03 |
