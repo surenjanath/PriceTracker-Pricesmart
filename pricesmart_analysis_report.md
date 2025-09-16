@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1095
-- **Total value**: $117,919.96
-- **Average price**: $107.69
+- **Total products scraped**: 1094
+- **Total value**: $117,494.08
+- **Average price**: $107.40
 
 ## Database Changes
 - **New products added**: 1
-- **Existing products updated**: 1094
-- **Price changes detected**: 26
-- **Stock/availability changes**: 11
-- **Discontinued products**: 1
+- **Existing products updated**: 1093
+- **Price changes detected**: 39
+- **Stock/availability changes**: 9
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 182 |
-|  | 137 |
+|  | 136 |
 | Badia | 19 |
 | Swiss | 13 |
 | Kiss | 13 |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1250
-- **Price increases**: 644
-- **Price decreases**: 543
-- **Average increase**: 6.5%
-- **Average decrease**: -3.5%
+- **Total price changes**: 1254
+- **Price increases**: 654
+- **Price decreases**: 536
+- **Average increase**: 6.3%
+- **Average decrease**: -3.4%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Tropicland Blueberries 1.36 kg / 48 oz | $0.00 | $87.95 | $+87.95 | +100.0% | New |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $148.35 | $148.75 | $+0.40 | +0.3% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $70.33 | $70.23 | $-0.10 | -0.1% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $161.05 | $160.78 | $-0.27 | -0.2% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $154.75 | $154.85 | $+0.10 | +0.1% | Increase |
-| Green pepper | $27.30 | $27.17 | $-0.13 | -0.5% | Decrease |
-| Frozen Bone-In Pork Shoulder Vacuum Packed | $175.03 | $244.23 | $+69.20 | +39.5% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $137.44 | $137.29 | $-0.15 | -0.1% | Decrease |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $64.70 | $64.60 | $-0.10 | -0.2% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $262.96 | $262.81 | $-0.15 | -0.1% | Decrease |
-| Fresh Ground Chicken Tray | $84.77 | $84.89 | $+0.12 | +0.1% | Increase |
-| Member's Selection Frozen Boneless Pork Loin Roast Tray | $99.33 | $99.12 | $-0.21 | -0.2% | Decrease |
-| Fresh Whole Chicken 2 Units | $102.89 | $102.96 | $+0.07 | +0.1% | Increase |
-| Fine Choice Fresh Marinated Chicken Tray | $88.10 | $88.19 | $+0.09 | +0.1% | Increase |
-| Fresh Ground Chicken Meat Bag | $261.57 | $262.10 | $+0.53 | +0.2% | Increase |
+| Heinz Tomato Ketchup 12 Units 591.5 mL / 20 oz | $0.00 | $379.95 | $+379.95 | +100.0% | New |
+| Whole Striploin Fresh Vacuum Packed | $1169.70 | $1157.70 | $-12.00 | -1.0% | Decrease |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $148.75 | $148.95 | $+0.20 | +0.1% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $70.23 | $70.13 | $-0.10 | -0.1% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $55.72 | $55.79 | $+0.07 | +0.1% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $160.78 | $161.95 | $+1.17 | +0.7% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $94.80 | $95.94 | $+1.14 | +1.2% | Increase |
+| Dietz & Watson Turkey Breast  | $128.92 | $128.61 | $-0.31 | -0.2% | Decrease |
+| Frozen Pork Belly Skin On Vacuum Packed | $509.70 | $506.64 | $-3.06 | -0.6% | Decrease |
+| Frozen Bone-In Pork Shoulder Vacuum Packed | $244.23 | $249.44 | $+5.21 | +2.1% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $137.29 | $137.44 | $+0.15 | +0.1% | Increase |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $64.60 | $64.49 | $-0.11 | -0.2% | Decrease |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $389.71 | $399.97 | $+10.26 | +2.6% | Increase |
+| Fresh Chicken Mixed Parts Tray | $84.18 | $84.40 | $+0.22 | +0.3% | Increase |
+| Fresh Chicken Thighs Boneless Tray | $72.61 | $72.74 | $+0.13 | +0.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,8 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Maison Perrier Sparkling Flavored Water Strawberry Flavor 10 Units / 250 mL | Maison Perrier | $89.95 | 2025-09-15 |
+| Frozen Bone-In Pork Loin Center Cut Whole Piece Vacuum Packaged |  | $751.20 | 2025-09-15 |
 | Sunberry Farms Organic Guava Nectar Juice - Gluten Free 3.78 L / 128 oz | Sunberry Farms | $84.95 | 2025-09-14 |
 | Hoody's Keto Matcha Trail Mix 907 g / 32 oz  | Hoody's | $114.70 | 2025-09-12 |
 | Chobani Zero Sugar Yogurt 16 Units /  150 g / 5.3 oz | Chobani | $164.95 | 2025-09-11 |
@@ -108,11 +110,9 @@
 | Royal Asia Coconut Shrimp with Sweet Thai Chili Sauce 907 g / 2 lb | Royal Asia | $169.95 | 2025-09-08 |
 | Tropicland Organic Sweet Potato Fries 1.8 kg / 4 lb | Tropicland | $114.95 | 2025-09-08 |
 | Florida's Natural Orange Juice 2.63 L / 89 oz | Florida's Natural | $87.95 | 2025-09-05 |
-| Kretcshmer Wheat Germ Honey 2 units / 311 g | Kretcshmer | $75.95 | 2025-09-04 |
-| Sundays Assorted Ice Creams 16 Units / 90 mL / 3 oz | Sundays | $79.95 | 2025-09-04 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Tropicland Blueberries 1.36 kg / 48 oz | Tropicland | $87.95 | G10D03 |
+| Heinz Tomato Ketchup 12 Units 591.5 mL / 20 oz | Heinz | $379.95 | G10D03 |
