@@ -1,22 +1,22 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1094
-- **Total value**: $117,494.08
-- **Average price**: $107.40
+- **Total products scraped**: 1095
+- **Total value**: $117,862.85
+- **Average price**: $107.64
 
 ## Database Changes
 - **New products added**: 1
-- **Existing products updated**: 1093
-- **Price changes detected**: 39
-- **Stock/availability changes**: 9
-- **Discontinued products**: 2
+- **Existing products updated**: 1094
+- **Price changes detected**: 36
+- **Stock/availability changes**: 11
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 182 |
+| Member's Selection | 183 |
 |  | 136 |
 | Badia | 19 |
 | Swiss | 13 |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1254
-- **Price increases**: 654
-- **Price decreases**: 536
+- **Total price changes**: 1249
+- **Price increases**: 649
+- **Price decreases**: 539
 - **Average increase**: 6.3%
-- **Average decrease**: -3.4%
+- **Average decrease**: -3.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Heinz Tomato Ketchup 12 Units 591.5 mL / 20 oz | $0.00 | $379.95 | $+379.95 | +100.0% | New |
-| Whole Striploin Fresh Vacuum Packed | $1169.70 | $1157.70 | $-12.00 | -1.0% | Decrease |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $148.75 | $148.95 | $+0.20 | +0.1% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $70.23 | $70.13 | $-0.10 | -0.1% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $55.72 | $55.79 | $+0.07 | +0.1% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $160.78 | $161.95 | $+1.17 | +0.7% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $94.80 | $95.94 | $+1.14 | +1.2% | Increase |
-| Dietz & Watson Turkey Breast  | $128.92 | $128.61 | $-0.31 | -0.2% | Decrease |
-| Frozen Pork Belly Skin On Vacuum Packed | $509.70 | $506.64 | $-3.06 | -0.6% | Decrease |
-| Frozen Bone-In Pork Shoulder Vacuum Packed | $244.23 | $249.44 | $+5.21 | +2.1% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $137.29 | $137.44 | $+0.15 | +0.1% | Increase |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $64.60 | $64.49 | $-0.11 | -0.2% | Decrease |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $389.71 | $399.97 | $+10.26 | +2.6% | Increase |
-| Fresh Chicken Mixed Parts Tray | $84.18 | $84.40 | $+0.22 | +0.3% | Increase |
-| Fresh Chicken Thighs Boneless Tray | $72.61 | $72.74 | $+0.13 | +0.2% | Increase |
+| String Beans 1 kg / 2.2 lb | $54.95 | $58.95 | $+4.00 | +7.3% | Increase |
+| Portobellas Mushroom 454 g / 1 lb | $36.95 | $37.95 | $+1.00 | +2.7% | Increase |
+| Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | $0.00 | $399.95 | $+399.95 | +100.0% | New |
+| Frozen Bone In Pork Shoulder Sliced Tray | $70.13 | $70.03 | $-0.10 | -0.1% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $55.79 | $55.72 | $-0.07 | -0.1% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $161.95 | $161.68 | $-0.27 | -0.2% | Decrease |
+| Okra 30 Units | $18.95 | $16.95 | $-2.00 | -10.6% | Decrease |
+| Green pepper | $27.17 | $27.11 | $-0.06 | -0.2% | Decrease |
+| Green Cabbage 1.3 kg / 2.9 lb | $39.95 | $37.95 | $-2.00 | -5.0% | Decrease |
+| Nestle Orange Drink 6 Units / 1 L / 33.8 oz | $64.95 | $59.95 | $-5.00 | -7.7% | Decrease |
+| Fresh Cucumber 1 kg / 2.2 lb | $18.95 | $19.95 | $+1.00 | +5.3% | Increase |
+| Pimento Peppers 40 Units | $29.95 | $26.95 | $-3.00 | -10.0% | Decrease |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $399.97 | $397.16 | $-2.81 | -0.7% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $84.40 | $84.51 | $+0.11 | +0.1% | Increase |
+| Fresh Cello Carrots 1.3 kg / 3 lb | $24.95 | $14.95 | $-10.00 | -40.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -115,4 +115,4 @@
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Heinz Tomato Ketchup 12 Units 591.5 mL / 20 oz | Heinz | $379.95 | G10D03 |
+| Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | G10D03 |
