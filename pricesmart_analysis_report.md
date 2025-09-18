@@ -2,22 +2,22 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1095
-- **Total value**: $117,862.85
-- **Average price**: $107.64
+- **Total value**: $117,565.62
+- **Average price**: $107.37
 
 ## Database Changes
 - **New products added**: 1
 - **Existing products updated**: 1094
-- **Price changes detected**: 36
+- **Price changes detected**: 23
 - **Stock/availability changes**: 11
-- **Discontinued products**: 0
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 183 |
-|  | 136 |
+| Member's Selection | 182 |
+|  | 137 |
 | Badia | 19 |
 | Swiss | 13 |
 | Kiss | 13 |
@@ -31,40 +31,40 @@
 | Idahoan Classic Instant Mashed Potatoes 1.47 kg / 3.25 lb | Idahoan | $109.95 | true |
 | Loc Maria Biscuits Assorted French Cookies Butter and Salted Caramel 441 g / 15.6 oz | Loc Maria Biscuits | $156.95 | true |
 | Karnis Hummus Mix 3 Units / 226 g / 7.97 oz | Karnis | $82.95 | true |
-| Dewlands Passion Fruit and Apple Juice 3 Units / 1 L | Dewlands | $59.95 | true |
-| Nesquick Liquid Milk Drink with Cocoa Flavor 12 Units / 250 mL | Nesquik | $77.95 | true |
-| Kellogg’s Assorted Cereals Corn Pops, Froot Loops & Apple Jacks 3 Bags / 1.05 kg / 37.3 oz | Kellogg's | $106.95 | true |
-| Badia Mojo Rub Citrus Blend 680.4 g / 24 oz  | Badia | $89.95 | true |
 | Annie's Organic Macaroni and Cheese Variety Pack 12 Units / 170 g | Annies | $239.95 | true |
+| Kellogg’s Assorted Cereals Corn Pops, Froot Loops & Apple Jacks 3 Bags / 1.05 kg / 37.3 oz | Kellogg's | $106.95 | true |
+| Dewlands Passion Fruit and Apple Juice 3 Units / 1 L | Dewlands | $59.95 | true |
+| Badia Mojo Rub Citrus Blend 680.4 g / 24 oz  | Badia | $89.95 | true |
+| Nesquick Liquid Milk Drink with Cocoa Flavor 12 Units / 250 mL | Nesquik | $77.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1249
-- **Price increases**: 649
-- **Price decreases**: 539
-- **Average increase**: 6.3%
+- **Total price changes**: 1248
+- **Price increases**: 648
+- **Price decreases**: 540
+- **Average increase**: 6.4%
 - **Average decrease**: -3.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| String Beans 1 kg / 2.2 lb | $54.95 | $58.95 | $+4.00 | +7.3% | Increase |
-| Portobellas Mushroom 454 g / 1 lb | $36.95 | $37.95 | $+1.00 | +2.7% | Increase |
-| Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | $0.00 | $399.95 | $+399.95 | +100.0% | New |
-| Frozen Bone In Pork Shoulder Sliced Tray | $70.13 | $70.03 | $-0.10 | -0.1% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $55.79 | $55.72 | $-0.07 | -0.1% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $161.95 | $161.68 | $-0.27 | -0.2% | Decrease |
-| Okra 30 Units | $18.95 | $16.95 | $-2.00 | -10.6% | Decrease |
-| Green pepper | $27.17 | $27.11 | $-0.06 | -0.2% | Decrease |
-| Green Cabbage 1.3 kg / 2.9 lb | $39.95 | $37.95 | $-2.00 | -5.0% | Decrease |
-| Nestle Orange Drink 6 Units / 1 L / 33.8 oz | $64.95 | $59.95 | $-5.00 | -7.7% | Decrease |
-| Fresh Cucumber 1 kg / 2.2 lb | $18.95 | $19.95 | $+1.00 | +5.3% | Increase |
-| Pimento Peppers 40 Units | $29.95 | $26.95 | $-3.00 | -10.0% | Decrease |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $399.97 | $397.16 | $-2.81 | -0.7% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $84.40 | $84.51 | $+0.11 | +0.1% | Increase |
-| Fresh Cello Carrots 1.3 kg / 3 lb | $24.95 | $14.95 | $-10.00 | -40.1% | Decrease |
+| Cantaloupe 2 Units | $0.00 | $45.96 | $+45.96 | +100.0% | New |
+| Ocean Delight Peeled Shrimps 31-40 Bag 907 g / 1.9 lb | $114.95 | $126.95 | $+12.00 | +10.4% | Increase |
+| Ocean Delight Raw Shrimp 61-70 Peeled Deveined Frozen 794 g / 1.7 lb | $99.95 | $112.95 | $+13.00 | +13.0% | Increase |
+| Heinz Tomato Ketchup 12 Units 591.5 mL / 20 oz | $379.95 | $399.95 | $+20.00 | +5.3% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $161.68 | $161.40 | $-0.28 | -0.2% | Decrease |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $64.49 | $64.39 | $-0.10 | -0.2% | Decrease |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $397.16 | $396.93 | $-0.23 | -0.1% | Decrease |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $229.90 | $229.77 | $-0.13 | -0.1% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $78.60 | $78.68 | $+0.08 | +0.1% | Increase |
+| Fresh Whole Chicken for Frying Bag | $262.81 | $262.66 | $-0.15 | -0.1% | Decrease |
+| Fresh Ground Chicken Meat Bag | $262.10 | $261.57 | $-0.53 | -0.2% | Decrease |
+| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $162.56 | $162.35 | $-0.21 | -0.1% | Decrease |
+| Ocean Delight Frozen Peel Shrimp 26-30 Bag 907 g / 1.9 lb | $123.95 | $134.95 | $+11.00 | +8.9% | Increase |
+| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | $138.47 | $138.81 | $+0.34 | +0.2% | Increase |
+| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $140.65 | $140.77 | $+0.12 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2025-09-17 |
 | Maison Perrier Sparkling Flavored Water Strawberry Flavor 10 Units / 250 mL | Maison Perrier | $89.95 | 2025-09-15 |
 | Frozen Bone-In Pork Loin Center Cut Whole Piece Vacuum Packaged |  | $751.20 | 2025-09-15 |
 | Sunberry Farms Organic Guava Nectar Juice - Gluten Free 3.78 L / 128 oz | Sunberry Farms | $84.95 | 2025-09-14 |
@@ -109,10 +110,9 @@
 | Uno Calzone Steak and Cheese 8 Units / 106 g / 3.7 oz | UNO | $134.95 | 2025-09-10 |
 | Royal Asia Coconut Shrimp with Sweet Thai Chili Sauce 907 g / 2 lb | Royal Asia | $169.95 | 2025-09-08 |
 | Tropicland Organic Sweet Potato Fries 1.8 kg / 4 lb | Tropicland | $114.95 | 2025-09-08 |
-| Florida's Natural Orange Juice 2.63 L / 89 oz | Florida's Natural | $87.95 | 2025-09-05 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | G10D03 |
+| Cantaloupe 2 Units |  | $45.96 | G10D03 |
