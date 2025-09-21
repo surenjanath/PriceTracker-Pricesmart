@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1096
-- **Total value**: $118,068.81
-- **Average price**: $107.73
+- **Total products scraped**: 1098
+- **Total value**: $118,270.79
+- **Average price**: $107.71
 
 ## Database Changes
 - **New products added**: 1
-- **Existing products updated**: 1095
-- **Price changes detected**: 43
-- **Stock/availability changes**: 15
-- **Discontinued products**: 2
+- **Existing products updated**: 1097
+- **Price changes detected**: 39
+- **Stock/availability changes**: 11
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 183 |
-|  | 136 |
+|  | 137 |
 | Badia | 19 |
 | Swiss | 13 |
 | Kiss | 13 |
@@ -27,7 +27,7 @@
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Member's Selection Thai Jasmine Long Grain Rice 9.07 kg / 20 lb | Member's Selection | $149.95 | true |
-| Nilo Soursop Juice 12 Units / 320 mL / 10.82 oz | Nilo | $139.95 | true |
+| Nilo Soursop Juice 12 Units / 320 mL / 10.82 oz | Nilo | $144.95 | true |
 | Idahoan Classic Instant Mashed Potatoes 1.47 kg / 3.25 lb | Idahoan | $109.95 | true |
 | Loc Maria Biscuits Assorted French Cookies Butter and Salted Caramel 441 g / 15.6 oz | Loc Maria Biscuits | $158.95 | true |
 | Karnis Hummus Mix 3 Units / 226 g / 7.97 oz | Karnis | $82.95 | true |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1338
-- **Price increases**: 722
-- **Price decreases**: 553
-- **Average increase**: 6.1%
+- **Total price changes**: 1290
+- **Price increases**: 698
+- **Price decreases**: 533
+- **Average increase**: 5.9%
 - **Average decrease**: -3.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Island Pride Sardines in Tomato Sauce, Oil and Brine 4 Units / 425 g | $0.00 | $39.95 | $+39.95 | +100.0% | New |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $149.85 | $148.25 | $-1.60 | -1.1% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $155.34 | $149.75 | $-5.59 | -3.6% | Decrease |
-| Red Globe Grape 907 g / 2 lb | $74.95 | $67.95 | $-7.00 | -9.3% | Decrease |
-| Gouda Cheese Block | $72.43 | $72.57 | $+0.14 | +0.2% | Increase |
-| Nutrina Chilled Whole Chicken Bag | $306.99 | $307.14 | $+0.15 | +0.0% | Increase |
-| Bosc Pear 1.36 kg / 3 lb | $89.95 | $87.95 | $-2.00 | -2.2% | Decrease |
-| Avocado Mesh 5 Units | $44.95 | $47.95 | $+3.00 | +6.7% | Increase |
-| Peach 908 g / 2 lb | $62.95 | $59.95 | $-3.00 | -4.8% | Decrease |
-| Nectarine 908 g / 2 lb | $62.95 | $69.95 | $+7.00 | +11.1% | Increase |
-| Red Cabbage Unit | $27.95 | $29.95 | $+2.00 | +7.2% | Increase |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $64.39 | $64.28 | $-0.11 | -0.2% | Decrease |
-| Green pepper | $27.05 | $26.99 | $-0.06 | -0.2% | Decrease |
-| Plum 907 g / 2 lb | $67.95 | $62.95 | $-5.00 | -7.4% | Decrease |
-| Cauliflower 1 Unit | $34.95 | $37.95 | $+3.00 | +8.6% | Increase |
+| Fresh Kiwi 907 g / 2 lb | $0.00 | $89.95 | $+89.95 | +100.0% | New |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $148.25 | $150.25 | $+2.00 | +1.3% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $70.03 | $69.93 | $-0.10 | -0.1% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $149.75 | $150.55 | $+0.80 | +0.5% | Increase |
+| Dietz & Watson Turkey Breast  | $128.30 | $129.23 | $+0.93 | +0.7% | Increase |
+| Gouda Cheese Block | $72.57 | $72.43 | $-0.14 | -0.2% | Decrease |
+| Nutrina Chilled Whole Chicken Bag | $307.14 | $307.44 | $+0.30 | +0.1% | Increase |
+| Coke Zero 12 Units / 355 mL | $44.95 | $46.95 | $+2.00 | +4.4% | Increase |
+| Panamei Frozen Seafood Mix 1.36 kg / 3 lb | $113.95 | $116.95 | $+3.00 | +2.6% | Increase |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $64.28 | $64.18 | $-0.10 | -0.2% | Decrease |
+| Green pepper | $26.99 | $26.93 | $-0.06 | -0.2% | Decrease |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $396.93 | $393.42 | $-3.51 | -0.9% | Decrease |
+| Maggi Season-Up Chicken Seasoning 2 Units / 430 g | $85.95 | $84.95 | $-1.00 | -1.2% | Decrease |
+| Orchard Assorted Flavor Juices 6 Units / 1 L  | $65.95 | $62.95 | $-3.00 | -4.5% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $137.44 | $137.58 | $+0.14 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -115,4 +115,4 @@
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Island Pride Sardines in Tomato Sauce, Oil and Brine 4 Units / 425 g | Island Pride | $39.95 | G10D03 |
+| Fresh Kiwi 907 g / 2 lb |  | $89.95 | G10D03 |
