@@ -1,15 +1,15 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1098
-- **Total value**: $118,270.79
-- **Average price**: $107.71
+- **Total products scraped**: 1100
+- **Total value**: $118,414.18
+- **Average price**: $107.65
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1097
-- **Price changes detected**: 39
-- **Stock/availability changes**: 11
+- **New products added**: 2
+- **Existing products updated**: 1098
+- **Price changes detected**: 17
+- **Stock/availability changes**: 8
 - **Discontinued products**: 0
 
 ## Top 5 Brands
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1290
-- **Price increases**: 698
-- **Price decreases**: 533
-- **Average increase**: 5.9%
-- **Average decrease**: -3.6%
+- **Total price changes**: 1272
+- **Price increases**: 696
+- **Price decreases**: 518
+- **Average increase**: 5.8%
+- **Average decrease**: -3.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Kiwi 907 g / 2 lb | $0.00 | $89.95 | $+89.95 | +100.0% | New |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $148.25 | $150.25 | $+2.00 | +1.3% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $70.03 | $69.93 | $-0.10 | -0.1% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $149.75 | $150.55 | $+0.80 | +0.5% | Increase |
-| Dietz & Watson Turkey Breast  | $128.30 | $129.23 | $+0.93 | +0.7% | Increase |
-| Gouda Cheese Block | $72.57 | $72.43 | $-0.14 | -0.2% | Decrease |
-| Nutrina Chilled Whole Chicken Bag | $307.14 | $307.44 | $+0.30 | +0.1% | Increase |
-| Coke Zero 12 Units / 355 mL | $44.95 | $46.95 | $+2.00 | +4.4% | Increase |
-| Panamei Frozen Seafood Mix 1.36 kg / 3 lb | $113.95 | $116.95 | $+3.00 | +2.6% | Increase |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $64.28 | $64.18 | $-0.10 | -0.2% | Decrease |
-| Green pepper | $26.99 | $26.93 | $-0.06 | -0.2% | Decrease |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $396.93 | $393.42 | $-3.51 | -0.9% | Decrease |
-| Maggi Season-Up Chicken Seasoning 2 Units / 430 g | $85.95 | $84.95 | $-1.00 | -1.2% | Decrease |
-| Orchard Assorted Flavor Juices 6 Units / 1 L  | $65.95 | $62.95 | $-3.00 | -4.5% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $137.44 | $137.58 | $+0.14 | +0.1% | Increase |
+| Alessi Biscotti Savoiardi Cookies 400 g / 14 oz | $0.00 | $41.95 | $+41.95 | +100.0% | New |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $150.25 | $150.55 | $+0.30 | +0.2% | Increase |
+| Frozen Sliced Turkey Drumsticks | $150.55 | $151.05 | $+0.50 | +0.3% | Increase |
+| Dietz & Watson Turkey Breast  | $129.23 | $128.92 | $-0.31 | -0.2% | Decrease |
+| Nutrina Chilled Whole Chicken Bag | $307.44 | $307.59 | $+0.15 | +0.0% | Increase |
+| Fresh Chicken Wings Tray | $92.57 | $92.68 | $+0.11 | +0.1% | Increase |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $229.77 | $229.37 | $-0.40 | -0.2% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $85.39 | $85.50 | $+0.11 | +0.1% | Increase |
+| Fresh Whole Chicken 2 Units | $103.38 | $103.45 | $+0.07 | +0.1% | Increase |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $72.98 | $73.10 | $+0.12 | +0.2% | Increase |
+| Fresh Whole Chicken for Frying Bag | $261.46 | $261.01 | $-0.45 | -0.2% | Decrease |
+| Fresh Chicken Thighs Boneless Bag | $313.97 | $314.56 | $+0.59 | +0.2% | Increase |
+| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $143.40 | $143.52 | $+0.12 | +0.1% | Increase |
+| Swiss Miss Dark Chocolate Flavor Cocoa Powder 50 Units 31 g / 1 oz  | $0.00 | $99.95 | $+99.95 | +100.0% | New |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $196.39 | $196.11 | $-0.28 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -115,4 +115,5 @@
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Fresh Kiwi 907 g / 2 lb |  | $89.95 | G10D03 |
+| Alessi Biscotti Savoiardi Cookies 400 g / 14 oz | Alessi | $41.95 | G10D03 |
+| Swiss Miss Dark Chocolate Flavor Cocoa Powder 50 Units 31 g / 1 oz  | Swiss Miss | $99.95 | G10D03 |
