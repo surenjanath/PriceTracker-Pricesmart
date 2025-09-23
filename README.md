@@ -183,22 +183,22 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1100
-- **Total value**: $118,414.18
-- **Average price**: $107.65
+- **Total value**: $118,423.51
+- **Average price**: $107.66
 
 ## Database Changes
 - **New products added**: 2
 - **Existing products updated**: 1098
-- **Price changes detected**: 17
-- **Stock/availability changes**: 8
-- **Discontinued products**: 0
+- **Price changes detected**: 43
+- **Stock/availability changes**: 15
+- **Discontinued products**: 3
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 183 |
-|  | 137 |
+| Member's Selection | 185 |
+|  | 136 |
 | Badia | 19 |
 | Swiss | 13 |
 | Kiss | 13 |
@@ -211,41 +211,41 @@ This project has recently gained unexpected attention. It was created for person
 | Nilo Soursop Juice 12 Units / 320 mL / 10.82 oz | Nilo | $144.95 | true |
 | Idahoan Classic Instant Mashed Potatoes 1.47 kg / 3.25 lb | Idahoan | $109.95 | true |
 | Loc Maria Biscuits Assorted French Cookies Butter and Salted Caramel 441 g / 15.6 oz | Loc Maria Biscuits | $158.95 | true |
-| Karnis Hummus Mix 3 Units / 226 g / 7.97 oz | Karnis | $82.95 | true |
 | Annie's Organic Macaroni and Cheese Variety Pack 12 Units / 170 g | Annies | $239.95 | true |
 | Kellogg’s Assorted Cereals Corn Pops, Froot Loops & Apple Jacks 3 Bags / 1.05 kg / 37.3 oz | Kellogg's | $106.95 | true |
 | Nesquick Liquid Milk Drink with Cocoa Flavor 12 Units / 250 mL | Nesquik | $77.95 | true |
 | Dewlands Passion Fruit and Apple Juice 3 Units / 1 L | Dewlands | $59.95 | true |
 | Badia Mojo Rub Citrus Blend 680.4 g / 24 oz  | Badia | $89.95 | true |
+| Member's Selection Shredded Mozzarella Cheese 2.26 kg / 5 lb | Member's Selection | $119.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1272
-- **Price increases**: 696
-- **Price decreases**: 518
+- **Total price changes**: 1317
+- **Price increases**: 713
+- **Price decreases**: 544
 - **Average increase**: 5.8%
-- **Average decrease**: -3.5%
+- **Average decrease**: -3.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Alessi Biscotti Savoiardi Cookies 400 g / 14 oz | $0.00 | $41.95 | $+41.95 | +100.0% | New |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $150.25 | $150.55 | $+0.30 | +0.2% | Increase |
-| Frozen Sliced Turkey Drumsticks | $150.55 | $151.05 | $+0.50 | +0.3% | Increase |
-| Dietz & Watson Turkey Breast  | $129.23 | $128.92 | $-0.31 | -0.2% | Decrease |
-| Nutrina Chilled Whole Chicken Bag | $307.44 | $307.59 | $+0.15 | +0.0% | Increase |
-| Fresh Chicken Wings Tray | $92.57 | $92.68 | $+0.11 | +0.1% | Increase |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $229.77 | $229.37 | $-0.40 | -0.2% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $85.39 | $85.50 | $+0.11 | +0.1% | Increase |
-| Fresh Whole Chicken 2 Units | $103.38 | $103.45 | $+0.07 | +0.1% | Increase |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $72.98 | $73.10 | $+0.12 | +0.2% | Increase |
-| Fresh Whole Chicken for Frying Bag | $261.46 | $261.01 | $-0.45 | -0.2% | Decrease |
-| Fresh Chicken Thighs Boneless Bag | $313.97 | $314.56 | $+0.59 | +0.2% | Increase |
-| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $143.40 | $143.52 | $+0.12 | +0.1% | Increase |
-| Swiss Miss Dark Chocolate Flavor Cocoa Powder 50 Units 31 g / 1 oz  | $0.00 | $99.95 | $+99.95 | +100.0% | New |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $196.39 | $196.11 | $-0.28 | -0.1% | Decrease |
+| Member's Selection Salad Tomato 1.5 kg / 3.5 lb | $0.00 | $32.57 | $+32.57 | +100.0% | New |
+| Southco Parboiled Rice 9 kg / 19.8 lb | $76.95 | $81.95 | $+5.00 | +6.5% | Increase |
+| Fratelli Beretta Roll & Go Charcuterie Board 425 g / 15 oz | $0.00 | $108.95 | $+108.95 | +100.0% | New |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $150.55 | $150.65 | $+0.10 | +0.1% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $69.93 | $69.83 | $-0.10 | -0.1% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $95.94 | $95.79 | $-0.15 | -0.2% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $151.05 | $155.34 | $+4.29 | +2.8% | Increase |
+| Tostitos Scoops 411 g | $49.95 | $42.45 | $-7.50 | -15.0% | Decrease |
+| Dietz & Watson Turkey Breast  | $128.92 | $129.54 | $+0.62 | +0.5% | Increase |
+| Gouda Cheese Block | $72.43 | $72.30 | $-0.13 | -0.2% | Decrease |
+| Frozen Bone-In Pork Shoulder Vacuum Packed | $249.44 | $244.23 | $-5.21 | -2.1% | Decrease |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $64.18 | $62.86 | $-1.32 | -2.1% | Decrease |
+| Fresh Ground Chicken Tray | $84.89 | $84.77 | $-0.12 | -0.1% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $90.21 | $90.31 | $+0.10 | +0.1% | Increase |
+| Fresh Chicken Thighs Boneless Tray | $72.87 | $73.00 | $+0.13 | +0.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -281,20 +281,20 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Samyang Buldak Stir-Fried Ramen with Creamy Carbonara Spicy Chicken Flavor 5 Units / 140 g | Samyang | $69.95 | 2025-09-22 |
+| Bolthouse Farms Carrot Ginger Juice 1.54 L / 52 oz | Bolthouse Farms | $72.95 | 2025-09-22 |
+| Baby Carrots 450 g / 16 oz |  | $14.95 | 2025-09-22 |
 | Cantaloupe 2 Units |  | $45.96 | 2025-09-19 |
 | Frozen Chicken Legs 1 kg / 2.2 lb |  | $39.95 | 2025-09-19 |
 | Mowi Lightly Smoked Salmon 680 g / 1.5 lb | Mowi | $144.70 | 2025-09-18 |
-| Member’s Selection Coconut Swiss Roll  | Member's Selection | $31.95 | 2025-09-18 |
 | Member's Selection Red Velvet Swiss Roll 230 g / 0.50 lb | Member's Selection | $41.95 | 2025-09-18 |
 | Arcor Mogul Extreme Sour Gummy Bears 10 Units / 50g | Arcor | $25.70 | 2025-09-18 |
 | Cap'n Crunch's Crispy Berry Flavored Cereal 2 Units / 293 g | Capn Crunch | $29.70 | 2025-09-18 |
 | Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2025-09-17 |
-| Maison Perrier Sparkling Flavored Water Strawberry Flavor 10 Units / 250 mL | Maison Perrier | $89.95 | 2025-09-15 |
-| Frozen Bone-In Pork Loin Center Cut Whole Piece Vacuum Packaged |  | $751.20 | 2025-09-15 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Alessi Biscotti Savoiardi Cookies 400 g / 14 oz | Alessi | $41.95 | G10D03 |
-| Swiss Miss Dark Chocolate Flavor Cocoa Powder 50 Units 31 g / 1 oz  | Swiss Miss | $99.95 | G10D03 |
+| Member's Selection Salad Tomato 1.5 kg / 3.5 lb | Member's Selection | $32.57 | G10D03 |
+| Fratelli Beretta Roll & Go Charcuterie Board 425 g / 15 oz | Fratelli Beretta | $108.95 | G10D03 |
