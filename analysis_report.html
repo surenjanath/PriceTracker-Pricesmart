@@ -2,22 +2,22 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1100
-- **Total value**: $118,423.51
-- **Average price**: $107.66
+- **Total value**: $117,595.96
+- **Average price**: $106.91
 
 ## Database Changes
 - **New products added**: 2
 - **Existing products updated**: 1098
-- **Price changes detected**: 43
-- **Stock/availability changes**: 15
-- **Discontinued products**: 3
+- **Price changes detected**: 22
+- **Stock/availability changes**: 8
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 185 |
-|  | 136 |
+| Member's Selection | 184 |
+|  | 135 |
 | Badia | 19 |
 | Swiss | 13 |
 | Kiss | 13 |
@@ -26,45 +26,45 @@
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Member's Selection Thai Jasmine Long Grain Rice 9.07 kg / 20 lb | Member's Selection | $149.95 | true |
-| Nilo Soursop Juice 12 Units / 320 mL / 10.82 oz | Nilo | $144.95 | true |
-| Idahoan Classic Instant Mashed Potatoes 1.47 kg / 3.25 lb | Idahoan | $109.95 | true |
-| Loc Maria Biscuits Assorted French Cookies Butter and Salted Caramel 441 g / 15.6 oz | Loc Maria Biscuits | $158.95 | true |
-| Annie's Organic Macaroni and Cheese Variety Pack 12 Units / 170 g | Annies | $239.95 | true |
+| Swiss Miss Dark Chocolate Flavor Cocoa Powder 50 Units 31 g / 1 oz  | Swiss Miss | $99.95 | true |
+| Member's Selection Pepperoni Pizza 2 Units / 656 g / 1.44 lb | Member's Selection | $123.95 | true |
+| Kellogg's Assorted Flavors Crackers 13 Packages / 1.47 kg / 52 oz | Kellogg's | $169.95 | true |
+| Trias Assorted Flavor Special Cookies 2 Units / 300 g / 10.59 oz | Trias | $133.95 | true |
+| Member's Selection Supreme Pizza 2 Units / 716 g / 1.57 lb | Member's Selection | $123.95 | true |
+| Heinz Tomato Ketchup 12 Units 591.5 mL / 20 oz | Heinz | $399.95 | true |
 | Kellogg’s Assorted Cereals Corn Pops, Froot Loops & Apple Jacks 3 Bags / 1.05 kg / 37.3 oz | Kellogg's | $106.95 | true |
-| Nesquick Liquid Milk Drink with Cocoa Flavor 12 Units / 250 mL | Nesquik | $77.95 | true |
-| Dewlands Passion Fruit and Apple Juice 3 Units / 1 L | Dewlands | $59.95 | true |
-| Badia Mojo Rub Citrus Blend 680.4 g / 24 oz  | Badia | $89.95 | true |
-| Member's Selection Shredded Mozzarella Cheese 2.26 kg / 5 lb | Member's Selection | $119.95 | true |
+| Sincerely Brigitte Trio Cheese with Guava 567 g / 20 oz | Sincerely  Brigitte | $107.95 | true |
+| Pop-Tarts Snack Crunchy Poppers Filled with Strawberry and Brownie 2 Units 360 g / 12.6 oz  | Pop Tarts | $174.95 | true |
+| Upper Crust Bakery Mini Soft and Creamy Brownie Pastries 32 Units | Upper Crust Bakery | $102.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1317
-- **Price increases**: 713
-- **Price decreases**: 544
-- **Average increase**: 5.8%
+- **Total price changes**: 1299
+- **Price increases**: 704
+- **Price decreases**: 535
+- **Average increase**: 5.6%
 - **Average decrease**: -3.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Member's Selection Salad Tomato 1.5 kg / 3.5 lb | $0.00 | $32.57 | $+32.57 | +100.0% | New |
-| Southco Parboiled Rice 9 kg / 19.8 lb | $76.95 | $81.95 | $+5.00 | +6.5% | Increase |
-| Fratelli Beretta Roll & Go Charcuterie Board 425 g / 15 oz | $0.00 | $108.95 | $+108.95 | +100.0% | New |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $150.55 | $150.65 | $+0.10 | +0.1% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $69.93 | $69.83 | $-0.10 | -0.1% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $95.94 | $95.79 | $-0.15 | -0.2% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $151.05 | $155.34 | $+4.29 | +2.8% | Increase |
-| Tostitos Scoops 411 g | $49.95 | $42.45 | $-7.50 | -15.0% | Decrease |
-| Dietz & Watson Turkey Breast  | $128.92 | $129.54 | $+0.62 | +0.5% | Increase |
-| Gouda Cheese Block | $72.43 | $72.30 | $-0.13 | -0.2% | Decrease |
-| Frozen Bone-In Pork Shoulder Vacuum Packed | $249.44 | $244.23 | $-5.21 | -2.1% | Decrease |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $64.18 | $62.86 | $-1.32 | -2.1% | Decrease |
-| Fresh Ground Chicken Tray | $84.89 | $84.77 | $-0.12 | -0.1% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $90.21 | $90.31 | $+0.10 | +0.1% | Increase |
-| Fresh Chicken Thighs Boneless Tray | $72.87 | $73.00 | $+0.13 | +0.2% | Increase |
+| Green pepper | $26.93 | $27.05 | $+0.12 | +0.4% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $161.40 | $161.13 | $-0.27 | -0.2% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $155.34 | $149.12 | $-6.22 | -4.0% | Decrease |
+| Gouda Cheese Block | $72.30 | $72.43 | $+0.13 | +0.2% | Increase |
+| Bosc Pear 1.36 kg / 3 lb | $87.95 | $79.95 | $-8.00 | -9.1% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $137.58 | $137.73 | $+0.15 | +0.1% | Increase |
+| Frozen Bone-In Goat Carcass, Case | $869.33 | $1023.96 | $+154.63 | +17.8% | Increase |
+| Fresh Whole Chicken for Frying Bag | $261.01 | $261.16 | $+0.15 | +0.1% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $88.19 | $88.28 | $+0.09 | +0.1% | Increase |
+| Fresh Chicken Mixed Parts Tray | $85.72 | $85.83 | $+0.11 | +0.1% | Increase |
+| Fresh Ground Chicken Meat Bag | $262.42 | $268.03 | $+5.61 | +2.1% | Increase |
+| Fresh Whole Chicken 2 Units | $103.45 | $103.38 | $-0.07 | -0.1% | Decrease |
+| Portobellas Mushroom 454 g / 1 lb | $37.95 | $39.95 | $+2.00 | +5.3% | Increase |
+| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $143.64 | $143.88 | $+0.24 | +0.2% | Increase |
+| Frozen Boneless Skinless Chicken Breast Tray | $154.11 | $153.74 | $-0.37 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,8 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Frozen Bone-In Pork Shoulder Case |  | $1139.93 | 2025-09-23 |
+| Member’s Selection Freshly Prepared Holiday Cake | Member's Selection | $89.95 | 2025-09-23 |
 | Samyang Buldak Stir-Fried Ramen with Creamy Carbonara Spicy Chicken Flavor 5 Units / 140 g | Samyang | $69.95 | 2025-09-22 |
 | Bolthouse Farms Carrot Ginger Juice 1.54 L / 52 oz | Bolthouse Farms | $72.95 | 2025-09-22 |
 | Baby Carrots 450 g / 16 oz |  | $14.95 | 2025-09-22 |
@@ -108,12 +110,10 @@
 | Mowi Lightly Smoked Salmon 680 g / 1.5 lb | Mowi | $144.70 | 2025-09-18 |
 | Member's Selection Red Velvet Swiss Roll 230 g / 0.50 lb | Member's Selection | $41.95 | 2025-09-18 |
 | Arcor Mogul Extreme Sour Gummy Bears 10 Units / 50g | Arcor | $25.70 | 2025-09-18 |
-| Cap'n Crunch's Crispy Berry Flavored Cereal 2 Units / 293 g | Capn Crunch | $29.70 | 2025-09-18 |
-| Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2025-09-17 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Member's Selection Salad Tomato 1.5 kg / 3.5 lb | Member's Selection | $32.57 | G10D03 |
-| Fratelli Beretta Roll & Go Charcuterie Board 425 g / 15 oz | Fratelli Beretta | $108.95 | G10D03 |
+| Bombolo Biscotti Decorated Cookies with Autumn Patterns 18 Units | Bombolo Biscotti | $73.95 | G10D03 |
+| Pop-Tarts Snack Crunchy Poppers Filled with Strawberry and Brownie 2 Units 360 g / 12.6 oz  | Pop Tarts | $174.95 | G10D03 |
