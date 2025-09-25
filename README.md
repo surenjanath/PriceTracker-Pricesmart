@@ -183,15 +183,15 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1100
-- **Total value**: $117,595.96
-- **Average price**: $106.91
+- **Total value**: $117,556.25
+- **Average price**: $106.87
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1098
-- **Price changes detected**: 22
+- **New products added**: 0
+- **Existing products updated**: 1100
+- **Price changes detected**: 23
 - **Stock/availability changes**: 8
-- **Discontinued products**: 2
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -212,7 +212,7 @@ This project has recently gained unexpected attention. It was created for person
 | Kellogg's Assorted Flavors Crackers 13 Packages / 1.47 kg / 52 oz | Kellogg's | $169.95 | true |
 | Trias Assorted Flavor Special Cookies 2 Units / 300 g / 10.59 oz | Trias | $133.95 | true |
 | Member's Selection Supreme Pizza 2 Units / 716 g / 1.57 lb | Member's Selection | $123.95 | true |
-| Heinz Tomato Ketchup 12 Units 591.5 mL / 20 oz | Heinz | $399.95 | true |
+| Heinz Tomato Ketchup 12 Units 591.5 mL / 20 oz | Heinz | $394.95 | true |
 | Kellogg’s Assorted Cereals Corn Pops, Froot Loops & Apple Jacks 3 Bags / 1.05 kg / 37.3 oz | Kellogg's | $106.95 | true |
 | Sincerely Brigitte Trio Cheese with Guava 567 g / 20 oz | Sincerely  Brigitte | $107.95 | true |
 | Pop-Tarts Snack Crunchy Poppers Filled with Strawberry and Brownie 2 Units 360 g / 12.6 oz  | Pop Tarts | $174.95 | true |
@@ -221,31 +221,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1299
-- **Price increases**: 704
-- **Price decreases**: 535
+- **Total price changes**: 1300
+- **Price increases**: 701
+- **Price decreases**: 540
 - **Average increase**: 5.6%
-- **Average decrease**: -3.6%
+- **Average decrease**: -3.7%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Green pepper | $26.93 | $27.05 | $+0.12 | +0.4% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $161.40 | $161.13 | $-0.27 | -0.2% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $155.34 | $149.12 | $-6.22 | -4.0% | Decrease |
-| Gouda Cheese Block | $72.30 | $72.43 | $+0.13 | +0.2% | Increase |
-| Bosc Pear 1.36 kg / 3 lb | $87.95 | $79.95 | $-8.00 | -9.1% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $137.58 | $137.73 | $+0.15 | +0.1% | Increase |
-| Frozen Bone-In Goat Carcass, Case | $869.33 | $1023.96 | $+154.63 | +17.8% | Increase |
-| Fresh Whole Chicken for Frying Bag | $261.01 | $261.16 | $+0.15 | +0.1% | Increase |
-| Fine Choice Fresh Marinated Chicken Tray | $88.19 | $88.28 | $+0.09 | +0.1% | Increase |
-| Fresh Chicken Mixed Parts Tray | $85.72 | $85.83 | $+0.11 | +0.1% | Increase |
-| Fresh Ground Chicken Meat Bag | $262.42 | $268.03 | $+5.61 | +2.1% | Increase |
-| Fresh Whole Chicken 2 Units | $103.45 | $103.38 | $-0.07 | -0.1% | Decrease |
-| Portobellas Mushroom 454 g / 1 lb | $37.95 | $39.95 | $+2.00 | +5.3% | Increase |
-| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $143.64 | $143.88 | $+0.24 | +0.2% | Increase |
-| Frozen Boneless Skinless Chicken Breast Tray | $154.11 | $153.74 | $-0.37 | -0.2% | Decrease |
+| Green pepper | $27.05 | $27.17 | $+0.12 | +0.4% | Increase |
+| Frozen Sliced Turkey Drumsticks | $149.12 | $145.86 | $-3.26 | -2.2% | Decrease |
+| Nutrina Chilled Whole Chicken Bag | $307.59 | $308.48 | $+0.89 | +0.3% | Increase |
+| United With Earth Date and Almond Rolls 340 g / 12 oz | $54.95 | $26.70 | $-28.25 | -51.4% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $78.60 | $78.51 | $-0.09 | -0.1% | Decrease |
+| Fresh Chicken Thighs Boneless Tray | $73.00 | $73.13 | $+0.13 | +0.2% | Increase |
+| Fresh Chicken Breast Bone In Tray | $92.45 | $92.35 | $-0.10 | -0.1% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $261.16 | $261.31 | $+0.15 | +0.1% | Increase |
+| Frozen Boneless Skinless Chicken Breast Tray | $153.74 | $153.56 | $-0.18 | -0.1% | Decrease |
+| Gatorade Assorted 12 units / 600 ml / 21 oz | $94.95 | $89.95 | $-5.00 | -5.3% | Decrease |
+| Country Pride All Purpose Flour 10 kg / 22 lb | $59.95 | $61.95 | $+2.00 | +3.3% | Increase |
+| Member's Selection Frozen Boneless Pork Loin Roast Tray | $101.64 | $101.53 | $-0.11 | -0.1% | Decrease |
+| Member's Selection Frozen Skin On Boneless Trout Fillet Vacuum Packaged Bag | $201.55 | $201.95 | $+0.40 | +0.2% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $195.84 | $195.56 | $-0.28 | -0.1% | Decrease |
+| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $58.35 | $58.25 | $-0.10 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -271,11 +271,11 @@ This project has recently gained unexpected attention. It was created for person
 | Avocado 2 Units | $29.95 | $9.70 | -67.6% |
 | Kozyshack Cinnamon Rice Pudding 1.36 kg / 3 lb | $87.95 | $29.70 | -66.2% |
 | Curly's Baby Back Pork Ribs 680 g / 24 oz | $129.95 | $59.70 | -54.1% |
+| United With Earth Date and Almond Rolls 340 g / 12 oz | $54.95 | $26.70 | -51.4% |
 | Purple Cabbage Unit | $29.95 | $14.70 | -50.9% |
 |  Eggplant 793 g / 1.75 lb | $59.95 | $29.70 | -50.5% |
 | Activia Low Fat Yogurt 12 Units / 113 g / 4 oz | $79.95 | $39.70 | -50.3% |
 | Frito Lay Assortment Box 24 Units | $99.95 | $49.70 | -50.3% |
-| Angie's Boom Chicka Pop Sweet and Salty Popcorn 652 g / 23 oz | $99.95 | $49.70 | -50.3% |
 
 ## Recently Discontinued Products
 
@@ -293,8 +293,4 @@ This project has recently gained unexpected attention. It was created for person
 | Arcor Mogul Extreme Sour Gummy Bears 10 Units / 50g | Arcor | $25.70 | 2025-09-18 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Bombolo Biscotti Decorated Cookies with Autumn Patterns 18 Units | Bombolo Biscotti | $73.95 | G10D03 |
-| Pop-Tarts Snack Crunchy Poppers Filled with Strawberry and Brownie 2 Units 360 g / 12.6 oz  | Pop Tarts | $174.95 | G10D03 |
+No new products added today.
