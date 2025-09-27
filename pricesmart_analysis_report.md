@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1104
-- **Total value**: $117,808.01
-- **Average price**: $106.71
+- **Total products scraped**: 1105
+- **Total value**: $117,695.37
+- **Average price**: $106.51
 
 ## Database Changes
-- **New products added**: 7
-- **Existing products updated**: 1097
-- **Price changes detected**: 117
-- **Stock/availability changes**: 9
-- **Discontinued products**: 3
+- **New products added**: 2
+- **Existing products updated**: 1103
+- **Price changes detected**: 54
+- **Stock/availability changes**: 14
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 184 |
-|  | 139 |
+|  | 140 |
 | Badia | 19 |
 | Swiss | 13 |
 | Kiss | 13 |
@@ -40,9 +40,9 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1365
-- **Price increases**: 757
-- **Price decreases**: 542
+- **Total price changes**: 1389
+- **Price increases**: 779
+- **Price decreases**: 550
 - **Average increase**: 5.0%
 - **Average decrease**: -3.5%
 
@@ -50,21 +50,21 @@
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Sabra Classic Hummus 850 g / 30 oz | $82.95 | $84.95 | $+2.00 | +2.4% | Increase |
-| Fresh Start Pink Grapefruit and Dragon Fruit Drink 1.8 L / 60.8 oz | $0.00 | $39.95 | $+39.95 | +100.0% | New |
-| Currants 1 kg / 2.2 lb | $0.00 | $59.95 | $+59.95 | +100.0% | New |
-| Golden Raisins 1 kg / 2.2 lb | $0.00 | $44.95 | $+44.95 | +100.0% | New |
-| Black Raisins 1 kg / 2.2 lb | $0.00 | $49.95 | $+49.95 | +100.0% | New |
-| Prunes 1 kg / 2.2 lb | $0.00 | $54.95 | $+54.95 | +100.0% | New |
-| Devon Digestive Bites 12 Units / 50 g | $0.00 | $54.95 | $+54.95 | +100.0% | New |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $150.65 | $150.95 | $+0.30 | +0.2% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $69.83 | $69.73 | $-0.10 | -0.1% | Decrease |
-| Welch's Concord Grape Fruit Juice 1.75 L / 59 oz | $0.00 | $32.95 | $+32.95 | +100.0% | New |
-| Frozen Sliced Turkey Drumsticks | $145.86 | $150.18 | $+4.32 | +3.0% | Increase |
-| Sprite Zero Sugar Soda in Cans 12 Units / 355 mL / 12 oz | $44.95 | $46.95 | $+2.00 | +4.4% | Increase |
-| Edwards Key Lime Pie 861 g / 1.9 lb | $69.95 | $68.95 | $-1.00 | -1.4% | Decrease |
-| Frozen Salmon Fillet Bag 1 kg / 2.2 lb | $76.95 | $69.95 | $-7.00 | -9.1% | Decrease |
-| Badia Basil Leaves 113 g / 4 oz | $13.95 | $14.95 | $+1.00 | +7.2% | Increase |
+| Whole Striploin Fresh Vacuum Packed | $1157.70 | $1121.70 | $-36.00 | -3.1% | Decrease |
+| Dried Organic Sorrel 4 Units / 114 g / 4 oz | $0.00 | $64.95 | $+64.95 | +100.0% | New |
+| Best Fruit Premium Dehydrated Coconut 5 Units / 80 g / 2.82 oz | $0.00 | $84.95 | $+84.95 | +100.0% | New |
+| Frozen Bone In Pork Shoulder Sliced Tray | $69.73 | $69.83 | $+0.10 | +0.1% | Increase |
+| Sea Best Snapper Fingers 907 g / 2 lb | $162.95 | $166.95 | $+4.00 | +2.5% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $161.13 | $173.68 | $+12.55 | +7.8% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $55.72 | $55.65 | $-0.07 | -0.1% | Decrease |
+| Hot Scotch Bonnet Peppers | $36.95 | $32.95 | $-4.00 | -10.8% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $95.79 | $95.64 | $-0.15 | -0.2% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $89.09 | $89.00 | $-0.09 | -0.1% | Decrease |
+| Frozen Pork Belly Skin On Vacuum Packed | $506.64 | $518.57 | $+11.93 | +2.4% | Increase |
+| Jo-Sing Chow Mein Noodles 6 Units / 400 g | $43.70 | $39.95 | $-3.75 | -8.6% | Decrease |
+| Nutrina Chilled Whole Chicken Bag | $308.48 | $308.34 | $-0.14 | -0.0% | Decrease |
+| Cherry Tomato 500 g / 1.1 lb | $22.95 | $21.95 | $-1.00 | -4.4% | Decrease |
+| Plum 907 g / 2 lb | $62.95 | $59.95 | $-3.00 | -4.8% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Snapple Fruit Flavored Juice 24 Units / 591 mL / 20 oz | Snapple | $269.95 | 2025-09-26 |
 | Orchard 100% Orange Juice 3 Units/ 1 L | Orchard | $62.95 | 2025-09-25 |
 | Trinidad Fresh Orange and Apple Juices 24 Units / 330 mL / 11.1 oz | Trinidad Fresh | $134.95 | 2025-09-25 |
 | Dietz & Watson Turkey Breast  | Dietz and Watson | $129.54 | 2025-09-25 |
@@ -109,16 +110,10 @@
 | Bolthouse Farms Carrot Ginger Juice 1.54 L / 52 oz | Bolthouse Farms | $72.95 | 2025-09-22 |
 | Baby Carrots 450 g / 16 oz |  | $14.95 | 2025-09-22 |
 | Cantaloupe 2 Units |  | $45.96 | 2025-09-19 |
-| Frozen Chicken Legs 1 kg / 2.2 lb |  | $39.95 | 2025-09-19 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Fresh Start Pink Grapefruit and Dragon Fruit Drink 1.8 L / 60.8 oz | Fresh Start | $39.95 | G10D03 |
-| Currants 1 kg / 2.2 lb |  | $59.95 | G10D03 |
-| Golden Raisins 1 kg / 2.2 lb |  | $44.95 | G10D03 |
-| Black Raisins 1 kg / 2.2 lb |  | $49.95 | G10D03 |
-| Prunes 1 kg / 2.2 lb |  | $54.95 | G10D03 |
-| Devon Digestive Bites 12 Units / 50 g | Devon | $54.95 | G10D03 |
-| Welch's Concord Grape Fruit Juice 1.75 L / 59 oz | Welch's | $32.95 | G10D03 |
+| Dried Organic Sorrel 4 Units / 114 g / 4 oz |  | $64.95 | G10D03 |
+| Best Fruit Premium Dehydrated Coconut 5 Units / 80 g / 2.82 oz | Best Fruit | $84.95 | G10D03 |
