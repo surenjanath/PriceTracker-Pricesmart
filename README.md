@@ -182,23 +182,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1105
-- **Total value**: $117,695.37
-- **Average price**: $106.51
+- **Total products scraped**: 1108
+- **Total value**: $117,892.76
+- **Average price**: $106.40
 
 ## Database Changes
 - **New products added**: 2
-- **Existing products updated**: 1103
-- **Price changes detected**: 54
-- **Stock/availability changes**: 14
-- **Discontinued products**: 1
+- **Existing products updated**: 1106
+- **Price changes detected**: 23
+- **Stock/availability changes**: 13
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 184 |
-|  | 140 |
+|  | 142 |
 | Badia | 19 |
 | Swiss | 13 |
 | Kiss | 13 |
@@ -221,31 +221,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1389
-- **Price increases**: 779
-- **Price decreases**: 550
-- **Average increase**: 5.0%
+- **Total price changes**: 1331
+- **Price increases**: 756
+- **Price decreases**: 519
+- **Average increase**: 4.6%
 - **Average decrease**: -3.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Whole Striploin Fresh Vacuum Packed | $1157.70 | $1121.70 | $-36.00 | -3.1% | Decrease |
-| Dried Organic Sorrel 4 Units / 114 g / 4 oz | $0.00 | $64.95 | $+64.95 | +100.0% | New |
-| Best Fruit Premium Dehydrated Coconut 5 Units / 80 g / 2.82 oz | $0.00 | $84.95 | $+84.95 | +100.0% | New |
-| Frozen Bone In Pork Shoulder Sliced Tray | $69.73 | $69.83 | $+0.10 | +0.1% | Increase |
-| Sea Best Snapper Fingers 907 g / 2 lb | $162.95 | $166.95 | $+4.00 | +2.5% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $161.13 | $173.68 | $+12.55 | +7.8% | Increase |
-| Chilled Chicken Gizzard Tray Pack | $55.72 | $55.65 | $-0.07 | -0.1% | Decrease |
-| Hot Scotch Bonnet Peppers | $36.95 | $32.95 | $-4.00 | -10.8% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $95.79 | $95.64 | $-0.15 | -0.2% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $89.09 | $89.00 | $-0.09 | -0.1% | Decrease |
-| Frozen Pork Belly Skin On Vacuum Packed | $506.64 | $518.57 | $+11.93 | +2.4% | Increase |
-| Jo-Sing Chow Mein Noodles 6 Units / 400 g | $43.70 | $39.95 | $-3.75 | -8.6% | Decrease |
-| Nutrina Chilled Whole Chicken Bag | $308.48 | $308.34 | $-0.14 | -0.0% | Decrease |
-| Cherry Tomato 500 g / 1.1 lb | $22.95 | $21.95 | $-1.00 | -4.4% | Decrease |
-| Plum 907 g / 2 lb | $62.95 | $59.95 | $-3.00 | -4.8% | Decrease |
+| Fresh Halloween Pumpkin | $0.00 | $127.95 | $+127.95 | +100.0% | New |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $150.95 | $151.25 | $+0.30 | +0.2% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $95.64 | $95.79 | $+0.15 | +0.2% | Increase |
+| Reny Picot Brie with Peppercorns 396 g /14 oz | $69.95 | $34.70 | $-35.25 | -50.4% | Decrease |
+| Gala Apple 1.8 kg / 4 lb | $0.00 | $59.95 | $+59.95 | +100.0% | New |
+| Nutrina Chilled Whole Chicken Bag | $308.34 | $313.43 | $+5.09 | +1.7% | Increase |
+| Gouda Cheese Block | $72.43 | $72.30 | $-0.13 | -0.2% | Decrease |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $62.76 | $62.65 | $-0.11 | -0.2% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $78.60 | $78.51 | $-0.09 | -0.1% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $261.61 | $265.81 | $+4.20 | +1.6% | Increase |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.03 | $74.16 | $+0.13 | +0.2% | Increase |
+| Fresh Chicken Breast Bone In Tray | $92.45 | $92.54 | $+0.09 | +0.1% | Increase |
+| Fresh Ground Chicken Meat Bag | $262.84 | $268.03 | $+5.19 | +2.0% | Increase |
+| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | $138.81 | $139.66 | $+0.85 | +0.6% | Increase |
+| Mixed Bell Pepper 1.36 kg / 3 lb | $37.95 | $39.95 | $+2.00 | +5.3% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -270,12 +270,12 @@ This project has recently gained unexpected attention. It was created for person
 | Sabra Classic Hummus 850 g / 30 oz | $79.95 | $24.70 | -69.1% |
 | Avocado 2 Units | $29.95 | $9.70 | -67.6% |
 | Kozyshack Cinnamon Rice Pudding 1.36 kg / 3 lb | $87.95 | $29.70 | -66.2% |
+| Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $89.95 | $34.70 | -61.4% |
 | Curly's Baby Back Pork Ribs 680 g / 24 oz | $129.95 | $59.70 | -54.1% |
 | United With Earth Date and Almond Rolls 340 g / 12 oz | $54.95 | $26.70 | -51.4% |
 | Purple Cabbage Unit | $29.95 | $14.70 | -50.9% |
 |  Eggplant 793 g / 1.75 lb | $59.95 | $29.70 | -50.5% |
-| Activia Low Fat Yogurt 12 Units / 113 g / 4 oz | $79.95 | $39.70 | -50.3% |
-| Frito Lay Assortment Box 24 Units | $99.95 | $49.70 | -50.3% |
+| Reny Picot Brie with Peppercorns 396 g /14 oz | $69.95 | $34.70 | -50.4% |
 
 ## Recently Discontinued Products
 
@@ -296,5 +296,5 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Dried Organic Sorrel 4 Units / 114 g / 4 oz |  | $64.95 | G10D03 |
-| Best Fruit Premium Dehydrated Coconut 5 Units / 80 g / 2.82 oz | Best Fruit | $84.95 | G10D03 |
+| Fresh Halloween Pumpkin |  | $127.95 | G10D03 |
+| Gala Apple 1.8 kg / 4 lb |  | $59.95 | G10D03 |
