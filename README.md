@@ -182,16 +182,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1108
-- **Total value**: $117,892.76
-- **Average price**: $106.40
+- **Total products scraped**: 1109
+- **Total value**: $118,098.90
+- **Average price**: $106.49
 
 ## Database Changes
 - **New products added**: 2
-- **Existing products updated**: 1106
-- **Price changes detected**: 23
-- **Stock/availability changes**: 13
-- **Discontinued products**: 0
+- **Existing products updated**: 1107
+- **Price changes detected**: 27
+- **Stock/availability changes**: 17
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -208,44 +208,44 @@ This project has recently gained unexpected attention. It was created for person
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Member's Selection Pepperoni Pizza 2 Units / 656 g / 1.44 lb | Member's Selection | $123.95 | true |
-| Swiss Miss Dark Chocolate Flavor Cocoa Powder 50 Units 31 g / 1 oz  | Swiss Miss | $99.95 | true |
-| Trias Assorted Flavor Special Cookies 2 Units / 300 g / 10.59 oz | Trias | $133.95 | true |
-| Kellogg's Assorted Flavors Crackers 13 Packages / 1.47 kg / 52 oz | Kellogg's | $169.95 | true |
 | Member's Selection Supreme Pizza 2 Units / 716 g / 1.57 lb | Member's Selection | $123.95 | true |
+| Fratelli Beretta Roll & Go Charcuterie Board 425 g / 15 oz | Fratelli Beretta | $108.95 | true |
+| Swiss Miss Dark Chocolate Flavor Cocoa Powder 50 Units 31 g / 1 oz  | Swiss Miss | $99.95 | true |
+| Kellogg's Assorted Flavors Crackers 13 Packages / 1.47 kg / 52 oz | Kellogg's | $169.95 | true |
+| Trias Assorted Flavor Special Cookies 2 Units / 300 g / 10.59 oz | Trias | $133.95 | true |
+| My Mochi Peppermint Ice Cream 420 g / 15 oz | My Mochi | $99.95 | true |
+| Kellogg's Chocolatey Chip Waffles 2 Pack / 349 g / 12.3 oz | Kellogg's | $97.95 | true |
 | Heinz Tomato Ketchup 12 Units 591.5 mL / 20 oz | Heinz | $394.95 | true |
-| Kellogg’s Assorted Cereals Corn Pops, Froot Loops & Apple Jacks 3 Bags / 1.05 kg / 37.3 oz | Kellogg's | $108.95 | true |
 | Pop-Tarts Snack Crunchy Poppers Filled with Strawberry and Brownie 2 Units 360 g / 12.6 oz  | Pop Tarts | $174.95 | true |
-| Sincerely Brigitte Trio Cheese with Guava 567 g / 20 oz | Sincerely  Brigitte | $107.95 | true |
-| Upper Crust Bakery Mini Soft and Creamy Brownie Pastries 32 Units | Upper Crust Bakery | $102.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1331
-- **Price increases**: 756
-- **Price decreases**: 519
-- **Average increase**: 4.6%
-- **Average decrease**: -3.5%
+- **Total price changes**: 1319
+- **Price increases**: 751
+- **Price decreases**: 511
+- **Average increase**: 4.5%
+- **Average decrease**: -3.3%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Halloween Pumpkin | $0.00 | $127.95 | $+127.95 | +100.0% | New |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $150.95 | $151.25 | $+0.30 | +0.2% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $95.64 | $95.79 | $+0.15 | +0.2% | Increase |
-| Reny Picot Brie with Peppercorns 396 g /14 oz | $69.95 | $34.70 | $-35.25 | -50.4% | Decrease |
-| Gala Apple 1.8 kg / 4 lb | $0.00 | $59.95 | $+59.95 | +100.0% | New |
-| Nutrina Chilled Whole Chicken Bag | $308.34 | $313.43 | $+5.09 | +1.7% | Increase |
-| Gouda Cheese Block | $72.43 | $72.30 | $-0.13 | -0.2% | Decrease |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $62.76 | $62.65 | $-0.11 | -0.2% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $78.60 | $78.51 | $-0.09 | -0.1% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $261.61 | $265.81 | $+4.20 | +1.6% | Increase |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.03 | $74.16 | $+0.13 | +0.2% | Increase |
-| Fresh Chicken Breast Bone In Tray | $92.45 | $92.54 | $+0.09 | +0.1% | Increase |
-| Fresh Ground Chicken Meat Bag | $262.84 | $268.03 | $+5.19 | +2.0% | Increase |
-| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | $138.81 | $139.66 | $+0.85 | +0.6% | Increase |
-| Mixed Bell Pepper 1.36 kg / 3 lb | $37.95 | $39.95 | $+2.00 | +5.3% | Increase |
+| Krusteaz Butter and Honey Pancake Mix 907 g / 2 lb | $0.00 | $209.95 | $+209.95 | +100.0% | New |
+| Fresh Chicken Breast Boneless Skinless Tray | $89.59 | $89.42 | $-0.17 | -0.2% | Decrease |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $151.25 | $151.35 | $+0.10 | +0.1% | Increase |
+| De Carlo White Truffle Flavor Extra Virgin Olive Oil 500 mL / 16 oz | $0.00 | $109.95 | $+109.95 | +100.0% | New |
+| Frozen Sliced Turkey Drumsticks | $150.18 | $151.33 | $+1.15 | +0.8% | Increase |
+| Nutrina Chilled Whole Chicken Bag | $313.43 | $313.58 | $+0.15 | +0.0% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $89.00 | $89.09 | $+0.09 | +0.1% | Increase |
+| Gouda Cheese Block | $72.30 | $72.16 | $-0.14 | -0.2% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $137.73 | $137.58 | $-0.15 | -0.1% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $265.81 | $261.61 | $-4.20 | -1.6% | Decrease |
+| Fresh Whole Chicken 2 Units | $103.31 | $103.38 | $+0.07 | +0.1% | Increase |
+| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $156.69 | $156.90 | $+0.21 | +0.1% | Increase |
+| Frozen Boneless Skinless Chicken Breast Tray | $156.52 | $156.33 | $-0.19 | -0.1% | Decrease |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $229.77 | $229.90 | $+0.13 | +0.1% | Increase |
+| Fresh Chicken Drumsticks Tray  | $89.79 | $89.90 | $+0.11 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -281,6 +281,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Carolina Ground Turkey Meat, 2.3 kg / 5 lb | Carolina Turkey | $111.07 | 2025-09-28 |
 | Snapple Fruit Flavored Juice 24 Units / 591 mL / 20 oz | Snapple | $269.95 | 2025-09-26 |
 | Orchard 100% Orange Juice 3 Units/ 1 L | Orchard | $62.95 | 2025-09-25 |
 | Trinidad Fresh Orange and Apple Juices 24 Units / 330 mL / 11.1 oz | Trinidad Fresh | $134.95 | 2025-09-25 |
@@ -290,11 +291,10 @@ This project has recently gained unexpected attention. It was created for person
 | Samyang Buldak Stir-Fried Ramen with Creamy Carbonara Spicy Chicken Flavor 5 Units / 140 g | Samyang | $69.95 | 2025-09-22 |
 | Bolthouse Farms Carrot Ginger Juice 1.54 L / 52 oz | Bolthouse Farms | $72.95 | 2025-09-22 |
 | Baby Carrots 450 g / 16 oz |  | $14.95 | 2025-09-22 |
-| Cantaloupe 2 Units |  | $45.96 | 2025-09-19 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Fresh Halloween Pumpkin |  | $127.95 | G10D03 |
-| Gala Apple 1.8 kg / 4 lb |  | $59.95 | G10D03 |
+| Krusteaz Butter and Honey Pancake Mix 907 g / 2 lb | Krusteaz | $209.95 | G10D03 |
+| De Carlo White Truffle Flavor Extra Virgin Olive Oil 500 mL / 16 oz | De Carlo | $109.95 | G10D03 |
