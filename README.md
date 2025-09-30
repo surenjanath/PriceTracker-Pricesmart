@@ -182,16 +182,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1109
-- **Total value**: $118,098.90
-- **Average price**: $106.49
+- **Total products scraped**: 1101
+- **Total value**: $117,728.23
+- **Average price**: $106.93
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1107
-- **Price changes detected**: 27
-- **Stock/availability changes**: 17
-- **Discontinued products**: 1
+- **New products added**: 0
+- **Existing products updated**: 1101
+- **Price changes detected**: 29
+- **Stock/availability changes**: 9
+- **Discontinued products**: 8
 
 ## Top 5 Brands
 
@@ -201,7 +201,7 @@ This project has recently gained unexpected attention. It was created for person
 |  | 142 |
 | Badia | 19 |
 | Swiss | 13 |
-| Kiss | 13 |
+| Kirkland Signature | 12 |
 
 ## Recent Products
 
@@ -221,31 +221,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1319
-- **Price increases**: 751
-- **Price decreases**: 511
-- **Average increase**: 4.5%
+- **Total price changes**: 1348
+- **Price increases**: 769
+- **Price decreases**: 522
+- **Average increase**: 4.7%
 - **Average decrease**: -3.3%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Krusteaz Butter and Honey Pancake Mix 907 g / 2 lb | $0.00 | $209.95 | $+209.95 | +100.0% | New |
-| Fresh Chicken Breast Boneless Skinless Tray | $89.59 | $89.42 | $-0.17 | -0.2% | Decrease |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $151.25 | $151.35 | $+0.10 | +0.1% | Increase |
-| De Carlo White Truffle Flavor Extra Virgin Olive Oil 500 mL / 16 oz | $0.00 | $109.95 | $+109.95 | +100.0% | New |
-| Frozen Sliced Turkey Drumsticks | $150.18 | $151.33 | $+1.15 | +0.8% | Increase |
-| Nutrina Chilled Whole Chicken Bag | $313.43 | $313.58 | $+0.15 | +0.0% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $89.00 | $89.09 | $+0.09 | +0.1% | Increase |
-| Gouda Cheese Block | $72.30 | $72.16 | $-0.14 | -0.2% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $137.73 | $137.58 | $-0.15 | -0.1% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $265.81 | $261.61 | $-4.20 | -1.6% | Decrease |
-| Fresh Whole Chicken 2 Units | $103.31 | $103.38 | $+0.07 | +0.1% | Increase |
-| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $156.69 | $156.90 | $+0.21 | +0.1% | Increase |
-| Frozen Boneless Skinless Chicken Breast Tray | $156.52 | $156.33 | $-0.19 | -0.1% | Decrease |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $229.77 | $229.90 | $+0.13 | +0.1% | Increase |
-| Fresh Chicken Drumsticks Tray  | $89.79 | $89.90 | $+0.11 | +0.1% | Increase |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $151.35 | $152.85 | $+1.50 | +1.0% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $69.83 | $69.73 | $-0.10 | -0.1% | Decrease |
+|  Eggplant 793 g / 1.75 lb | $29.70 | $59.95 | $+30.25 | +101.9% | Increase |
+| Nutrina Chilled Whole Chicken Bag | $313.58 | $314.62 | $+1.04 | +0.3% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $89.09 | $89.18 | $+0.09 | +0.1% | Increase |
+| Gouda Cheese Block | $72.16 | $71.89 | $-0.27 | -0.4% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $137.58 | $137.29 | $-0.29 | -0.2% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $78.51 | $78.43 | $-0.08 | -0.1% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $90.61 | $90.51 | $-0.10 | -0.1% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $261.61 | $261.46 | $-0.15 | -0.1% | Decrease |
+| Pork Chop with Bone Frozen Tray | $81.21 | $81.46 | $+0.25 | +0.3% | Increase |
+| Fresh Chicken Mixed Parts Tray | $87.04 | $87.37 | $+0.33 | +0.4% | Increase |
+| Fresh Whole Chicken 2 Units | $103.38 | $103.24 | $-0.14 | -0.1% | Decrease |
+| Fresh Chicken Thighs Boneless Bag | $314.56 | $314.79 | $+0.23 | +0.1% | Increase |
+| Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $34.70 | $89.95 | $+55.25 | +159.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -256,11 +256,11 @@ This project has recently gained unexpected attention. It was created for person
 | Sabra Classic Hummus 850 g / 30 oz | $24.70 | $79.95 | +223.7% |
 | Avocado 2 Units | $9.70 | $29.95 | +208.8% |
 | Kozyshack Cinnamon Rice Pudding 1.36 kg / 3 lb | $29.70 | $89.95 | +202.9% |
+| Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $34.70 | $89.95 | +159.2% |
 | Nestos Capers in Brine 2 Units / 350 g / 12.4 oz | $29.70 | $64.95 | +118.7% |
 | Curly's Baby Back Pork Ribs 680 g / 24 oz | $59.70 | $129.95 | +117.7% |
 | United With Earth Date and Almond Rolls 340 g / 12 oz | $26.70 | $54.95 | +105.8% |
 | Purple Cabbage Unit | $14.70 | $29.95 | +103.7% |
-| Activia Low Fat Yogurt 12 Units / 113 g / 4 oz | $39.70 | $79.95 | +101.4% |
 
 ## Biggest Price Decreases (All Time)
 
@@ -281,20 +281,16 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| RW Garcia Sweet Potato Gluten-Free Crackers 2 Units / 425 g / 15 oz | RW Garcia | $106.95 | 2025-09-29 |
+| Best Fruit Tamarind Chili Snacks 453 g / 15.97 oz | Best Fruit | $64.95 | 2025-09-29 |
+| Lush Mango Flavor Fruit Drink 3 Units / 1 L / 33.8 oz | Lush | $38.95 | 2025-09-29 |
+| Celorrio Spanish Tomato Sauce 6 Units / 400 g / 14 oz | Celorrio | $29.70 | 2025-09-29 |
+| Better Living Flavored Instant Oats Assortment 50 Units / 45 g | Better Living | $99.95 | 2025-09-29 |
+| Kiss White Bread 665 g | Kiss | $16.45 | 2025-09-29 |
+| Goya Coconut Milk 3 Units / 400 mL / 13.5 oz | Goya | $65.95 | 2025-09-29 |
+| Jayone Honey Rice Rolls 2 Units / 80 g | Jayone | $39.95 | 2025-09-29 |
 | Carolina Ground Turkey Meat, 2.3 kg / 5 lb | Carolina Turkey | $111.07 | 2025-09-28 |
 | Snapple Fruit Flavored Juice 24 Units / 591 mL / 20 oz | Snapple | $269.95 | 2025-09-26 |
-| Orchard 100% Orange Juice 3 Units/ 1 L | Orchard | $62.95 | 2025-09-25 |
-| Trinidad Fresh Orange and Apple Juices 24 Units / 330 mL / 11.1 oz | Trinidad Fresh | $134.95 | 2025-09-25 |
-| Dietz & Watson Turkey Breast  | Dietz and Watson | $129.54 | 2025-09-25 |
-| Frozen Bone-In Pork Shoulder Case |  | $1139.93 | 2025-09-23 |
-| Member’s Selection Freshly Prepared Holiday Cake | Member's Selection | $89.95 | 2025-09-23 |
-| Samyang Buldak Stir-Fried Ramen with Creamy Carbonara Spicy Chicken Flavor 5 Units / 140 g | Samyang | $69.95 | 2025-09-22 |
-| Bolthouse Farms Carrot Ginger Juice 1.54 L / 52 oz | Bolthouse Farms | $72.95 | 2025-09-22 |
-| Baby Carrots 450 g / 16 oz |  | $14.95 | 2025-09-22 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Krusteaz Butter and Honey Pancake Mix 907 g / 2 lb | Krusteaz | $209.95 | G10D03 |
-| De Carlo White Truffle Flavor Extra Virgin Olive Oil 500 mL / 16 oz | De Carlo | $109.95 | G10D03 |
+No new products added today.
