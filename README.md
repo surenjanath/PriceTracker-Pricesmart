@@ -182,23 +182,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1101
-- **Total value**: $117,728.23
-- **Average price**: $106.93
+- **Total products scraped**: 1105
+- **Total value**: $117,983.55
+- **Average price**: $106.77
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1101
-- **Price changes detected**: 29
-- **Stock/availability changes**: 9
-- **Discontinued products**: 8
+- **New products added**: 3
+- **Existing products updated**: 1102
+- **Price changes detected**: 19
+- **Stock/availability changes**: 20
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 184 |
-|  | 142 |
+| Member's Selection | 185 |
+|  | 143 |
 | Badia | 19 |
 | Swiss | 13 |
 | Kirkland Signature | 12 |
@@ -210,42 +210,42 @@ This project has recently gained unexpected attention. It was created for person
 | Member's Selection Pepperoni Pizza 2 Units / 656 g / 1.44 lb | Member's Selection | $123.95 | true |
 | Member's Selection Supreme Pizza 2 Units / 716 g / 1.57 lb | Member's Selection | $123.95 | true |
 | Fratelli Beretta Roll & Go Charcuterie Board 425 g / 15 oz | Fratelli Beretta | $108.95 | true |
-| Swiss Miss Dark Chocolate Flavor Cocoa Powder 50 Units 31 g / 1 oz  | Swiss Miss | $99.95 | true |
 | Kellogg's Assorted Flavors Crackers 13 Packages / 1.47 kg / 52 oz | Kellogg's | $169.95 | true |
 | Trias Assorted Flavor Special Cookies 2 Units / 300 g / 10.59 oz | Trias | $133.95 | true |
+| Swiss Miss Dark Chocolate Flavor Cocoa Powder 50 Units 31 g / 1 oz  | Swiss Miss | $99.95 | true |
 | My Mochi Peppermint Ice Cream 420 g / 15 oz | My Mochi | $99.95 | true |
 | Kellogg's Chocolatey Chip Waffles 2 Pack / 349 g / 12.3 oz | Kellogg's | $97.95 | true |
+| Member's Selection Mayonnaise 12 Units / 591 mL / 20 oz | Member's Selection | $349.95 | true |
 | Heinz Tomato Ketchup 12 Units 591.5 mL / 20 oz | Heinz | $394.95 | true |
-| Pop-Tarts Snack Crunchy Poppers Filled with Strawberry and Brownie 2 Units 360 g / 12.6 oz  | Pop Tarts | $174.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1348
-- **Price increases**: 769
-- **Price decreases**: 522
-- **Average increase**: 4.7%
+- **Total price changes**: 1344
+- **Price increases**: 760
+- **Price decreases**: 525
+- **Average increase**: 4.5%
 - **Average decrease**: -3.3%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $151.35 | $152.85 | $+1.50 | +1.0% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $69.83 | $69.73 | $-0.10 | -0.1% | Decrease |
-|  Eggplant 793 g / 1.75 lb | $29.70 | $59.95 | $+30.25 | +101.9% | Increase |
-| Nutrina Chilled Whole Chicken Bag | $313.58 | $314.62 | $+1.04 | +0.3% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $89.09 | $89.18 | $+0.09 | +0.1% | Increase |
-| Gouda Cheese Block | $72.16 | $71.89 | $-0.27 | -0.4% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $137.58 | $137.29 | $-0.29 | -0.2% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $78.51 | $78.43 | $-0.08 | -0.1% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $90.61 | $90.51 | $-0.10 | -0.1% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $261.61 | $261.46 | $-0.15 | -0.1% | Decrease |
-| Pork Chop with Bone Frozen Tray | $81.21 | $81.46 | $+0.25 | +0.3% | Increase |
-| Fresh Chicken Mixed Parts Tray | $87.04 | $87.37 | $+0.33 | +0.4% | Increase |
-| Fresh Whole Chicken 2 Units | $103.38 | $103.24 | $-0.14 | -0.1% | Decrease |
-| Fresh Chicken Thighs Boneless Bag | $314.56 | $314.79 | $+0.23 | +0.1% | Increase |
-| Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $34.70 | $89.95 | $+55.25 | +159.2% | Increase |
+| Glazed Fruits 908 g / 2 lb | $0.00 | $47.95 | $+47.95 | +100.0% | New |
+| Fresh Chicken Thighs Boneless Tray | $73.26 | $73.39 | $+0.13 | +0.2% | Increase |
+| Member's Selection Grade A Fancy Blueberries 1.36 kg / 3 lb | $0.00 | $83.95 | $+83.95 | +100.0% | New |
+| Great Foods Frozen Smoked Chicken Ham 1.36 kg / 3 lb | $0.00 | $89.95 | $+89.95 | +100.0% | New |
+| Chilled Chicken Gizzard Tray Pack | $55.65 | $55.57 | $-0.08 | -0.1% | Decrease |
+|  Eggplant 793 g / 1.75 lb | $59.95 | $39.70 | $-20.25 | -33.8% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $69.73 | $69.53 | $-0.20 | -0.3% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $151.33 | $148.17 | $-3.16 | -2.1% | Decrease |
+| Gouda Cheese Block | $71.89 | $71.76 | $-0.13 | -0.2% | Decrease |
+| Iceberg Lettuce Unit | $24.95 | $22.95 | $-2.00 | -8.0% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $261.46 | $261.16 | $-0.30 | -0.1% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $92.54 | $92.45 | $-0.09 | -0.1% | Decrease |
+| Pork Chop with Bone Frozen Tray | $81.46 | $81.58 | $+0.12 | +0.1% | Increase |
+| Fresh Celery  | $16.95 | $17.95 | $+1.00 | +5.9% | Increase |
+| Fresh Chicken Mixed Parts Tray | $87.37 | $87.48 | $+0.11 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -293,4 +293,9 @@ This project has recently gained unexpected attention. It was created for person
 | Snapple Fruit Flavored Juice 24 Units / 591 mL / 20 oz | Snapple | $269.95 | 2025-09-26 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Glazed Fruits 908 g / 2 lb |  | $47.95 | G10D03 |
+| Member's Selection Grade A Fancy Blueberries 1.36 kg / 3 lb | Member's Selection | $83.95 | G10D03 |
+| Great Foods Frozen Smoked Chicken Ham 1.36 kg / 3 lb | Great Foods | $89.95 | G10D03 |
