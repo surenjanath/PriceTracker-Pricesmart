@@ -182,15 +182,15 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1105
-- **Total value**: $117,983.55
-- **Average price**: $106.77
+- **Total products scraped**: 1110
+- **Total value**: $118,469.57
+- **Average price**: $106.73
 
 ## Database Changes
-- **New products added**: 3
-- **Existing products updated**: 1102
-- **Price changes detected**: 19
-- **Stock/availability changes**: 20
+- **New products added**: 5
+- **Existing products updated**: 1105
+- **Price changes detected**: 22
+- **Stock/availability changes**: 15
 - **Discontinued products**: 0
 
 ## Top 5 Brands
@@ -198,7 +198,7 @@ This project has recently gained unexpected attention. It was created for person
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 185 |
-|  | 143 |
+|  | 144 |
 | Badia | 19 |
 | Swiss | 13 |
 | Kirkland Signature | 12 |
@@ -221,31 +221,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1344
-- **Price increases**: 760
-- **Price decreases**: 525
+- **Total price changes**: 1348
+- **Price increases**: 765
+- **Price decreases**: 520
 - **Average increase**: 4.5%
-- **Average decrease**: -3.3%
+- **Average decrease**: -3.4%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Glazed Fruits 908 g / 2 lb | $0.00 | $47.95 | $+47.95 | +100.0% | New |
-| Fresh Chicken Thighs Boneless Tray | $73.26 | $73.39 | $+0.13 | +0.2% | Increase |
-| Member's Selection Grade A Fancy Blueberries 1.36 kg / 3 lb | $0.00 | $83.95 | $+83.95 | +100.0% | New |
-| Great Foods Frozen Smoked Chicken Ham 1.36 kg / 3 lb | $0.00 | $89.95 | $+89.95 | +100.0% | New |
-| Chilled Chicken Gizzard Tray Pack | $55.65 | $55.57 | $-0.08 | -0.1% | Decrease |
-|  Eggplant 793 g / 1.75 lb | $59.95 | $39.70 | $-20.25 | -33.8% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $69.73 | $69.53 | $-0.20 | -0.3% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $151.33 | $148.17 | $-3.16 | -2.1% | Decrease |
-| Gouda Cheese Block | $71.89 | $71.76 | $-0.13 | -0.2% | Decrease |
-| Iceberg Lettuce Unit | $24.95 | $22.95 | $-2.00 | -8.0% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $261.46 | $261.16 | $-0.30 | -0.1% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $92.54 | $92.45 | $-0.09 | -0.1% | Decrease |
-| Pork Chop with Bone Frozen Tray | $81.46 | $81.58 | $+0.12 | +0.1% | Increase |
-| Fresh Celery  | $16.95 | $17.95 | $+1.00 | +5.9% | Increase |
-| Fresh Chicken Mixed Parts Tray | $87.37 | $87.48 | $+0.11 | +0.1% | Increase |
+| Blueberries 170 g / 6 oz | $0.00 | $42.95 | $+42.95 | +100.0% | New |
+| Pafritas Potatoes with Black Truffle Flavor 500 g / 1.1 lb | $0.00 | $112.95 | $+112.95 | +100.0% | New |
+| Lifeway Strawberry Kefir 2 Units / 946 mL / 32 oz | $0.00 | $85.95 | $+85.95 | +100.0% | New |
+| Amare Probiotics Sorrel Hibiscus with Infused Water Kefir 3 Units / 355 mL / 12 oz | $0.00 | $76.95 | $+76.95 | +100.0% | New |
+| Nanak Gulabjamun 12 Units 908 g / 2 lb | $0.00 | $79.95 | $+79.95 | +100.0% | New |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $152.85 | $153.75 | $+0.90 | +0.6% | Increase |
+| Fresh Halloween Pumpkin | $127.95 | $119.95 | $-8.00 | -6.3% | Decrease |
+| Frozen Lamb Leg Whole Vacuum Packed | $215.89 | $310.93 | $+95.04 | +44.0% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $89.18 | $89.27 | $+0.09 | +0.1% | Increase |
+| Frozen Sliced Turkey Drumsticks | $148.17 | $148.45 | $+0.28 | +0.2% | Increase |
+| Fresh Chicken Leg Quarters Tray | $90.51 | $90.41 | $-0.10 | -0.1% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $261.16 | $261.01 | $-0.15 | -0.1% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $87.48 | $87.59 | $+0.11 | +0.1% | Increase |
+| Fresh Whole Chicken 2 Units | $103.24 | $103.17 | $-0.07 | -0.1% | Decrease |
+| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $156.90 | $157.10 | $+0.20 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -296,6 +296,8 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Glazed Fruits 908 g / 2 lb |  | $47.95 | G10D03 |
-| Member's Selection Grade A Fancy Blueberries 1.36 kg / 3 lb | Member's Selection | $83.95 | G10D03 |
-| Great Foods Frozen Smoked Chicken Ham 1.36 kg / 3 lb | Great Foods | $89.95 | G10D03 |
+| Blueberries 170 g / 6 oz |  | $42.95 | G10D03 |
+| Pafritas Potatoes with Black Truffle Flavor 500 g / 1.1 lb | Pafritas | $112.95 | G10D03 |
+| Lifeway Strawberry Kefir 2 Units / 946 mL / 32 oz | Lifeway | $85.95 | G10D03 |
+| Amare Probiotics Sorrel Hibiscus with Infused Water Kefir 3 Units / 355 mL / 12 oz | Amare Probiotics | $76.95 | G10D03 |
+| Nanak Gulabjamun 12 Units 908 g / 2 lb | Nanak | $79.95 | G10D03 |
