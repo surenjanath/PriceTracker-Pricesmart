@@ -1,24 +1,24 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1110
-- **Total value**: $118,469.57
-- **Average price**: $106.73
+- **Total products scraped**: 1104
+- **Total value**: $117,940.50
+- **Average price**: $106.83
 
 ## Database Changes
-- **New products added**: 5
-- **Existing products updated**: 1105
-- **Price changes detected**: 22
-- **Stock/availability changes**: 15
-- **Discontinued products**: 0
+- **New products added**: 1
+- **Existing products updated**: 1103
+- **Price changes detected**: 84
+- **Stock/availability changes**: 9
+- **Discontinued products**: 9
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 185 |
-|  | 144 |
-| Badia | 19 |
+| Member's Selection | 184 |
+|  | 145 |
+| Badia | 18 |
 | Swiss | 13 |
 | Kirkland Signature | 12 |
 
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1348
-- **Price increases**: 765
-- **Price decreases**: 520
-- **Average increase**: 4.5%
-- **Average decrease**: -3.4%
+- **Total price changes**: 1335
+- **Price increases**: 782
+- **Price decreases**: 490
+- **Average increase**: 4.6%
+- **Average decrease**: -3.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Blueberries 170 g / 6 oz | $0.00 | $42.95 | $+42.95 | +100.0% | New |
-| Pafritas Potatoes with Black Truffle Flavor 500 g / 1.1 lb | $0.00 | $112.95 | $+112.95 | +100.0% | New |
-| Lifeway Strawberry Kefir 2 Units / 946 mL / 32 oz | $0.00 | $85.95 | $+85.95 | +100.0% | New |
-| Amare Probiotics Sorrel Hibiscus with Infused Water Kefir 3 Units / 355 mL / 12 oz | $0.00 | $76.95 | $+76.95 | +100.0% | New |
-| Nanak Gulabjamun 12 Units 908 g / 2 lb | $0.00 | $79.95 | $+79.95 | +100.0% | New |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $152.85 | $153.75 | $+0.90 | +0.6% | Increase |
-| Fresh Halloween Pumpkin | $127.95 | $119.95 | $-8.00 | -6.3% | Decrease |
-| Frozen Lamb Leg Whole Vacuum Packed | $215.89 | $310.93 | $+95.04 | +44.0% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $89.18 | $89.27 | $+0.09 | +0.1% | Increase |
-| Frozen Sliced Turkey Drumsticks | $148.17 | $148.45 | $+0.28 | +0.2% | Increase |
-| Fresh Chicken Leg Quarters Tray | $90.51 | $90.41 | $-0.10 | -0.1% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $261.16 | $261.01 | $-0.15 | -0.1% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $87.48 | $87.59 | $+0.11 | +0.1% | Increase |
-| Fresh Whole Chicken 2 Units | $103.24 | $103.17 | $-0.07 | -0.1% | Decrease |
-| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $156.90 | $157.10 | $+0.20 | +0.1% | Increase |
+| Bumble Bee Tuna Salad Snack 6 Units / 100 g / 3.5 oz | $45.70 | $79.95 | $+34.25 | +74.9% | Increase |
+| Welch's Concord Grape Fruit Juice 1.75 L / 59 oz | $32.95 | $28.95 | $-4.00 | -12.1% | Decrease |
+| Green pepper | $27.17 | $27.11 | $-0.06 | -0.2% | Decrease |
+| Fresh Regular Tomato | $32.01 | $33.61 | $+1.60 | +5.0% | Increase |
+| Assorted Peppers | $34.36 | $33.62 | $-0.74 | -2.2% | Decrease |
+| Land O' Frost Honey Ham 567 g / 20 oz | $56.95 | $57.95 | $+1.00 | +1.8% | Increase |
+| Member’s Selection Breaded Mozzarella Sticks 2.04 kg / 4.5 lb | $152.95 | $154.95 | $+2.00 | +1.3% | Increase |
+| Milo Chocolate Flavored Drink 12 Units / 250 mL | $0.00 | $77.95 | $+77.95 | +100.0% | New |
+| Nanak Rasmalai 1 kg / 2.2 lb | $79.70 | $99.95 | $+20.25 | +25.4% | Increase |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $153.75 | $154.15 | $+0.40 | +0.3% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $173.68 | $171.89 | $-1.79 | -1.0% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $55.57 | $55.65 | $+0.08 | +0.1% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $95.79 | $95.49 | $-0.30 | -0.3% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $69.53 | $68.83 | $-0.70 | -1.0% | Decrease |
+| Frozen Pork Belly Skin On Vacuum Packed | $518.57 | $512.66 | $-5.91 | -1.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,23 +100,19 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Bermudez Vanilla Cookies 6 Units / 142 g / 5 oz | Bermudez | $53.95 | 2025-10-02 |
+| De Carlo Extra Virgin Olive Oil 750 mL / 25.3 oz | De Carlo | $139.95 | 2025-10-02 |
+| Badia Chia Seed with ALA Omega 3 623.7 g / 22 oz | Badia | $59.95 | 2025-10-02 |
+| Finest Call Margarita Mix 1 L | Finest Call | $51.95 | 2025-10-02 |
+| Ankara Twists Fusilli Short Pasta 4 Units / 500 g | Ankara | $39.95 | 2025-10-02 |
+| Mr. Brownies Chocolate Brownies 40 Units / 25 g / 0.88 oz | Mr. Brownie | $108.95 | 2025-10-02 |
+| Kiss Whole Wheat Bread 665 g | Kiss | $17.45 | 2025-10-02 |
+| Member's Selection Grade A Fancy Blueberries 1.36 kg / 3 lb | Member's Selection | $83.95 | 2025-10-02 |
+| Dietz & Watson Carved Mini Dinner Ham | Dietz and Watson | $69.12 | 2025-10-02 |
 | RW Garcia Sweet Potato Gluten-Free Crackers 2 Units / 425 g / 15 oz | RW Garcia | $106.95 | 2025-09-29 |
-| Best Fruit Tamarind Chili Snacks 453 g / 15.97 oz | Best Fruit | $64.95 | 2025-09-29 |
-| Lush Mango Flavor Fruit Drink 3 Units / 1 L / 33.8 oz | Lush | $38.95 | 2025-09-29 |
-| Celorrio Spanish Tomato Sauce 6 Units / 400 g / 14 oz | Celorrio | $29.70 | 2025-09-29 |
-| Better Living Flavored Instant Oats Assortment 50 Units / 45 g | Better Living | $99.95 | 2025-09-29 |
-| Kiss White Bread 665 g | Kiss | $16.45 | 2025-09-29 |
-| Goya Coconut Milk 3 Units / 400 mL / 13.5 oz | Goya | $65.95 | 2025-09-29 |
-| Jayone Honey Rice Rolls 2 Units / 80 g | Jayone | $39.95 | 2025-09-29 |
-| Carolina Ground Turkey Meat, 2.3 kg / 5 lb | Carolina Turkey | $111.07 | 2025-09-28 |
-| Snapple Fruit Flavored Juice 24 Units / 591 mL / 20 oz | Snapple | $269.95 | 2025-09-26 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Blueberries 170 g / 6 oz |  | $42.95 | G10D03 |
-| Pafritas Potatoes with Black Truffle Flavor 500 g / 1.1 lb | Pafritas | $112.95 | G10D03 |
-| Lifeway Strawberry Kefir 2 Units / 946 mL / 32 oz | Lifeway | $85.95 | G10D03 |
-| Amare Probiotics Sorrel Hibiscus with Infused Water Kefir 3 Units / 355 mL / 12 oz | Amare Probiotics | $76.95 | G10D03 |
-| Nanak Gulabjamun 12 Units 908 g / 2 lb | Nanak | $79.95 | G10D03 |
+| Milo Chocolate Flavored Drink 12 Units / 250 mL | Milo | $77.95 | G10D03 |
