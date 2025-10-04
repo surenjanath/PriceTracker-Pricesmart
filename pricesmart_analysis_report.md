@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1104
-- **Total value**: $117,940.50
-- **Average price**: $106.83
+- **Total products scraped**: 1107
+- **Total value**: $118,235.04
+- **Average price**: $106.81
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1103
-- **Price changes detected**: 84
-- **Stock/availability changes**: 9
-- **Discontinued products**: 9
+- **New products added**: 6
+- **Existing products updated**: 1101
+- **Price changes detected**: 54
+- **Stock/availability changes**: 5
+- **Discontinued products**: 3
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 184 |
-|  | 145 |
+|  | 144 |
 | Badia | 18 |
 | Swiss | 13 |
 | Kirkland Signature | 12 |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1335
-- **Price increases**: 782
-- **Price decreases**: 490
-- **Average increase**: 4.6%
-- **Average decrease**: -3.5%
+- **Total price changes**: 1395
+- **Price increases**: 810
+- **Price decreases**: 516
+- **Average increase**: 4.5%
+- **Average decrease**: -3.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Bumble Bee Tuna Salad Snack 6 Units / 100 g / 3.5 oz | $45.70 | $79.95 | $+34.25 | +74.9% | Increase |
-| Welch's Concord Grape Fruit Juice 1.75 L / 59 oz | $32.95 | $28.95 | $-4.00 | -12.1% | Decrease |
-| Green pepper | $27.17 | $27.11 | $-0.06 | -0.2% | Decrease |
-| Fresh Regular Tomato | $32.01 | $33.61 | $+1.60 | +5.0% | Increase |
-| Assorted Peppers | $34.36 | $33.62 | $-0.74 | -2.2% | Decrease |
-| Land O' Frost Honey Ham 567 g / 20 oz | $56.95 | $57.95 | $+1.00 | +1.8% | Increase |
-| Member’s Selection Breaded Mozzarella Sticks 2.04 kg / 4.5 lb | $152.95 | $154.95 | $+2.00 | +1.3% | Increase |
-| Milo Chocolate Flavored Drink 12 Units / 250 mL | $0.00 | $77.95 | $+77.95 | +100.0% | New |
-| Nanak Rasmalai 1 kg / 2.2 lb | $79.70 | $99.95 | $+20.25 | +25.4% | Increase |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $153.75 | $154.15 | $+0.40 | +0.3% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $173.68 | $171.89 | $-1.79 | -1.0% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $55.57 | $55.65 | $+0.08 | +0.1% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $95.79 | $95.49 | $-0.30 | -0.3% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $69.53 | $68.83 | $-0.70 | -1.0% | Decrease |
-| Frozen Pork Belly Skin On Vacuum Packed | $518.57 | $512.66 | $-5.91 | -1.1% | Decrease |
+| String Beans 1 kg / 2.2 lb | $58.95 | $61.95 | $+3.00 | +5.1% | Increase |
+| Glazed Fruits 908 g / 2 lb | $47.95 | $53.95 | $+6.00 | +12.5% | Increase |
+| KFI Gluten-Free Curry and Coconut Sauce 2 Units / 695 g | $0.00 | $104.95 | $+104.95 | +100.0% | New |
+| Donafe's Egg Free Chocolate Cake 10 to 12 Slices | $0.00 | $109.95 | $+109.95 | +100.0% | New |
+| Peche Patisserie Square Artisan Sourdough Bread with Garlic and Rosemary 6 Units | $0.00 | $29.95 | $+29.95 | +100.0% | New |
+| Donafe's Egg Free Carrot Cake 10 to 12 Slices | $0.00 | $151.95 | $+151.95 | +100.0% | New |
+| KFI Gluten-Free Butter Chicken Sauce 2 Units / 695 g | $0.00 | $104.95 | $+104.95 | +100.0% | New |
+| Peardrax Sparkling Pear Drink 3 units/ 1 lt | $0.00 | $68.95 | $+68.95 | +100.0% | New |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $154.15 | $153.65 | $-0.50 | -0.3% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $171.89 | $172.19 | $+0.30 | +0.2% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $55.65 | $55.72 | $+0.07 | +0.1% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $95.49 | $95.79 | $+0.30 | +0.3% | Increase |
+|  Eggplant 793 g / 1.75 lb | $39.70 | $19.70 | $-20.00 | -50.4% | Decrease |
+| Fresh Halloween Pumpkin | $119.95 | $129.95 | $+10.00 | +8.3% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $68.83 | $68.93 | $+0.10 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,9 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Mowi Tuscan Frozen Herb Salmon Portions 710 g / 1.56 lb | Mowi | $185.95 | 2025-10-03 |
+| MacKnight Roasted Salmon Flakes 454 g / 1 lb | MacKnight | $49.70 | 2025-10-03 |
+| Assorted Peppers |  | $33.62 | 2025-10-03 |
 | Bermudez Vanilla Cookies 6 Units / 142 g / 5 oz | Bermudez | $53.95 | 2025-10-02 |
 | De Carlo Extra Virgin Olive Oil 750 mL / 25.3 oz | De Carlo | $139.95 | 2025-10-02 |
 | Badia Chia Seed with ALA Omega 3 623.7 g / 22 oz | Badia | $59.95 | 2025-10-02 |
@@ -107,12 +110,14 @@
 | Ankara Twists Fusilli Short Pasta 4 Units / 500 g | Ankara | $39.95 | 2025-10-02 |
 | Mr. Brownies Chocolate Brownies 40 Units / 25 g / 0.88 oz | Mr. Brownie | $108.95 | 2025-10-02 |
 | Kiss Whole Wheat Bread 665 g | Kiss | $17.45 | 2025-10-02 |
-| Member's Selection Grade A Fancy Blueberries 1.36 kg / 3 lb | Member's Selection | $83.95 | 2025-10-02 |
-| Dietz & Watson Carved Mini Dinner Ham | Dietz and Watson | $69.12 | 2025-10-02 |
-| RW Garcia Sweet Potato Gluten-Free Crackers 2 Units / 425 g / 15 oz | RW Garcia | $106.95 | 2025-09-29 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Milo Chocolate Flavored Drink 12 Units / 250 mL | Milo | $77.95 | G10D03 |
+| KFI Gluten-Free Curry and Coconut Sauce 2 Units / 695 g | KFI | $104.95 | G10D03 |
+| Donafe's Egg Free Chocolate Cake 10 to 12 Slices | Donafe's | $109.95 | G10D03 |
+| Peche Patisserie Square Artisan Sourdough Bread with Garlic and Rosemary 6 Units | Peche Patisserie | $29.95 | G10D03 |
+| Donafe's Egg Free Carrot Cake 10 to 12 Slices | Donafe's | $151.95 | G10D03 |
+| KFI Gluten-Free Butter Chicken Sauce 2 Units / 695 g | KFI | $104.95 | G10D03 |
+| Peardrax Sparkling Pear Drink 3 units/ 1 lt | Peardrax | $68.95 | G10D03 |
