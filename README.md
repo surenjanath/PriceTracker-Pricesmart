@@ -182,23 +182,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1114
-- **Total value**: $118,828.06
-- **Average price**: $106.67
+- **Total products scraped**: 1118
+- **Total value**: $119,333.40
+- **Average price**: $106.74
 
 ## Database Changes
-- **New products added**: 9
-- **Existing products updated**: 1105
-- **Price changes detected**: 27
-- **Stock/availability changes**: 15
-- **Discontinued products**: 2
+- **New products added**: 4
+- **Existing products updated**: 1114
+- **Price changes detected**: 20
+- **Stock/availability changes**: 11
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 185 |
-|  | 144 |
+|  | 146 |
 | Badia | 18 |
 | Swiss | 13 |
 | Nestle | 12 |
@@ -212,8 +212,8 @@ This project has recently gained unexpected attention. It was created for person
 | Member's Selection Mayonnaise 12 Units / 591 mL / 20 oz | Member's Selection | $349.95 | true |
 | Kellogg's Assorted Flavors Crackers 13 Packages / 1.47 kg / 52 oz | Kellogg's | $169.95 | true |
 | Fratelli Beretta Roll & Go Charcuterie Board 425 g / 15 oz | Fratelli Beretta | $108.95 | true |
-| Swiss Miss Dark Chocolate Flavor Cocoa Powder 50 Units 31 g / 1 oz  | Swiss Miss | $99.95 | true |
 | Trias Assorted Flavor Special Cookies 2 Units / 300 g / 10.59 oz | Trias | $133.95 | true |
+| Swiss Miss Dark Chocolate Flavor Cocoa Powder 50 Units 31 g / 1 oz  | Swiss Miss | $99.95 | true |
 | My Mochi Peppermint Ice Cream 420 g / 15 oz | My Mochi | $99.95 | true |
 | Pop-Tarts Snack Crunchy Poppers Filled with Strawberry and Brownie 2 Units 360 g / 12.6 oz  | Pop Tarts | $174.95 | true |
 | Kellogg's Chocolatey Chip Waffles 2 Pack / 349 g / 12.3 oz | Kellogg's | $97.95 | true |
@@ -221,31 +221,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1335
-- **Price increases**: 756
-- **Price decreases**: 502
+- **Total price changes**: 1316
+- **Price increases**: 747
+- **Price decreases**: 491
 - **Average increase**: 4.7%
-- **Average decrease**: -3.7%
+- **Average decrease**: -3.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Twinings Christmas Tea Collection 40 Units / 2 g | $0.00 | $62.95 | $+62.95 | +100.0% | New |
-| Twinings Assorted Flavor Christmas Edition Tea 40 Units / 2 g / 0.07 oz | $0.00 | $69.95 | $+69.95 | +100.0% | New |
-| Angel Parboiled Rice 4 kg | $0.00 | $39.95 | $+39.95 | +100.0% | New |
-| Treasured Harvest Mixed Nuts 907 g | $0.00 | $109.95 | $+109.95 | +100.0% | New |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $153.65 | $154.15 | $+0.50 | +0.3% | Increase |
-| Member's Selection Chocolate Chip, Colored Chocolate Chunk and Oatmeal Cookies, Freshly Baked 24 Units | $0.00 | $32.95 | $+32.95 | +100.0% | New |
-| Wellsley Farms Assorted Mini Quiches 1.02 kg / 2.25 lb | $0.00 | $109.95 | $+109.95 | +100.0% | New |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $172.19 | $172.48 | $+0.29 | +0.2% | Increase |
-| Frozen Lamb Leg Whole Vacuum Packed | $303.45 | $304.60 | $+1.15 | +0.4% | Increase |
-| Nutrina Chilled Whole Chicken Bag | $317.32 | $317.02 | $-0.30 | -0.1% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $95.79 | $95.94 | $+0.15 | +0.2% | Increase |
-| Ginger 680 g / 1.5 | $34.95 | $26.95 | $-8.00 | -22.9% | Decrease |
-| Wellsley Farms Spinach & Cheese Spanakopita 822 g / 1.8 lb | $0.00 | $139.95 | $+139.95 | +100.0% | New |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $135.40 | $135.25 | $-0.15 | -0.1% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $78.86 | $77.48 | $-1.38 | -1.7% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $55.72 | $55.65 | $-0.07 | -0.1% | Decrease |
+| International Delight Pumpkin Pie Spice Coffee Creamer 1.4 L / 48 oz | $0.00 | $61.95 | $+61.95 | +100.0% | New |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $0.00 | $306.09 | $+306.09 | +100.0% | New |
+| Pineapple Crownless Fresh | $0.00 | $24.95 | $+24.95 | +100.0% | New |
+| Smithfield Boneless Ham  Smoked 680 g / 24 oz | $0.00 | $87.95 | $+87.95 | +100.0% | New |
+| Frozen Lamb Leg Whole Vacuum Packed | $304.60 | $314.96 | $+10.36 | +3.4% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $135.25 | $135.10 | $-0.15 | -0.1% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $90.62 | $90.71 | $+0.09 | +0.1% | Increase |
+| Fresh Whole Chicken for Frying Bag | $261.46 | $261.01 | $-0.45 | -0.2% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $90.56 | $90.23 | $-0.33 | -0.4% | Decrease |
+| Fresh Whole Chicken 2 Units | $103.10 | $102.96 | $-0.14 | -0.1% | Decrease |
+| Fresh Chicken Wings Tray | $93.09 | $92.99 | $-0.10 | -0.1% | Decrease |
+| Fresh Ground Chicken Meat Bag | $262.84 | $276.40 | $+13.56 | +5.2% | Increase |
+| Fresh Chicken Drumsticks Tray  | $91.11 | $91.00 | $-0.11 | -0.1% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $210.73 | $212.49 | $+1.76 | +0.8% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -296,12 +296,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Twinings Christmas Tea Collection 40 Units / 2 g | Twinings | $62.95 | G10D03 |
-| Twinings Assorted Flavor Christmas Edition Tea 40 Units / 2 g / 0.07 oz | Twinings | $69.95 | G10D03 |
-| Angel Parboiled Rice 4 kg | Angel | $39.95 | G10D03 |
-| Treasured Harvest Mixed Nuts 907 g | Treasured Harvest | $109.95 | G10D03 |
-| Member's Selection Chocolate Chip, Colored Chocolate Chunk and Oatmeal Cookies, Freshly Baked 24 Units | Member's Selection | $32.95 | G10D03 |
-| Wellsley Farms Assorted Mini Quiches 1.02 kg / 2.25 lb | Wellsley Farms | $109.95 | G10D03 |
-| Wellsley Farms Spinach & Cheese Spanakopita 822 g / 1.8 lb | Wellsley Farms | $139.95 | G10D03 |
-| Frito Lay Bold Mix Chips with Assorted Presentations 24 Units | Frito Lay | $99.95 | G10D03 |
-| McCain Mac and Cheese Triangles 2 Units / 400 g / 14 oz | McCain | $119.95 | G10D03 |
+| International Delight Pumpkin Pie Spice Coffee Creamer 1.4 L / 48 oz | International Delight | $61.95 | G10D03 |
+| Frozen Lamb Leg Whole Boneless Tray Pack |  | $306.09 | G10D03 |
+| Pineapple Crownless Fresh |  | $24.95 | G10D03 |
+| Smithfield Boneless Ham  Smoked 680 g / 24 oz | Smithfield | $87.95 | G10D03 |
