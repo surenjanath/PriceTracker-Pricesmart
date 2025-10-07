@@ -182,16 +182,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1118
-- **Total value**: $119,333.40
-- **Average price**: $106.74
+- **Total products scraped**: 1117
+- **Total value**: $122,638.46
+- **Average price**: $109.79
 
 ## Database Changes
-- **New products added**: 4
-- **Existing products updated**: 1114
-- **Price changes detected**: 20
-- **Stock/availability changes**: 11
-- **Discontinued products**: 0
+- **New products added**: 2
+- **Existing products updated**: 1115
+- **Price changes detected**: 55
+- **Stock/availability changes**: 9
+- **Discontinued products**: 3
 
 ## Top 5 Brands
 
@@ -221,31 +221,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1316
-- **Price increases**: 747
-- **Price decreases**: 491
-- **Average increase**: 4.7%
-- **Average decrease**: -3.6%
+- **Total price changes**: 1373
+- **Price increases**: 773
+- **Price decreases**: 520
+- **Average increase**: 4.9%
+- **Average decrease**: -3.8%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Chilled Chicken Gizzard Tray Pack | $55.72 | $55.65 | $-0.07 | -0.1% | Decrease |
-| International Delight Pumpkin Pie Spice Coffee Creamer 1.4 L / 48 oz | $0.00 | $61.95 | $+61.95 | +100.0% | New |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $0.00 | $306.09 | $+306.09 | +100.0% | New |
-| Pineapple Crownless Fresh | $0.00 | $24.95 | $+24.95 | +100.0% | New |
-| Smithfield Boneless Ham  Smoked 680 g / 24 oz | $0.00 | $87.95 | $+87.95 | +100.0% | New |
-| Frozen Lamb Leg Whole Vacuum Packed | $304.60 | $314.96 | $+10.36 | +3.4% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $135.25 | $135.10 | $-0.15 | -0.1% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $90.62 | $90.71 | $+0.09 | +0.1% | Increase |
-| Fresh Whole Chicken for Frying Bag | $261.46 | $261.01 | $-0.45 | -0.2% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $90.56 | $90.23 | $-0.33 | -0.4% | Decrease |
-| Fresh Whole Chicken 2 Units | $103.10 | $102.96 | $-0.14 | -0.1% | Decrease |
-| Fresh Chicken Wings Tray | $93.09 | $92.99 | $-0.10 | -0.1% | Decrease |
-| Fresh Ground Chicken Meat Bag | $262.84 | $276.40 | $+13.56 | +5.2% | Increase |
-| Fresh Chicken Drumsticks Tray  | $91.11 | $91.00 | $-0.11 | -0.1% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $210.73 | $212.49 | $+1.76 | +0.8% | Increase |
+| Reny Picot Brie with Peppercorns 396 g /14 oz | $34.70 | $69.95 | $+35.25 | +101.6% | Increase |
+| Fresh Chicken Thighs Boneless Tray | $74.43 | $74.56 | $+0.13 | +0.2% | Increase |
+| Chilled Boneless Beef Eye of Round, Case | $0.00 | $3378.80 | $+3378.80 | +100.0% | New |
+| Frozen Imported Pork Leg Slices | $0.00 | $74.67 | $+74.67 | +100.0% | New |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $306.09 | $303.52 | $-2.57 | -0.8% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $172.48 | $172.78 | $+0.30 | +0.2% | Increase |
+| Frozen Lamb Leg Whole Vacuum Packed | $314.96 | $317.55 | $+2.59 | +0.8% | Increase |
+| Tostitos Scoops 411 g | $42.45 | $49.95 | $+7.50 | +17.7% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $68.93 | $69.03 | $+0.10 | +0.1% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $95.94 | $95.64 | $-0.30 | -0.3% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $135.10 | $134.81 | $-0.29 | -0.2% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $91.41 | $91.31 | $-0.10 | -0.1% | Decrease |
+| Klim Powdered Milk 1.6 kg / 56.4 oz | $109.95 | $86.95 | $-23.00 | -20.9% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $261.01 | $260.86 | $-0.15 | -0.1% | Decrease |
+| Nescafé Classic Instant Coffee 3 in 1 3 Units / 114 g | $45.95 | $54.95 | $+9.00 | +19.6% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -281,6 +281,9 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Angie's Boom Chicka Pop Sweet and Salty Popcorn 652 g / 23 oz | Angie´s | $49.70 | 2025-10-06 |
+| Ginger 454 g / 1 lb |  | $34.95 | 2025-10-06 |
+| Avocado 2 Units |  | $29.95 | 2025-10-06 |
 | Pringles Potato Chips Mix 3 Units / 158 g / 5.5 oz | Pringles | $69.95 | 2025-10-04 |
 | Town House Assorted Flavor Crackers 3 Units | Town House | $119.95 | 2025-10-04 |
 | Mowi Tuscan Frozen Herb Salmon Portions 710 g / 1.56 lb | Mowi | $185.95 | 2025-10-03 |
@@ -288,15 +291,10 @@ This project has recently gained unexpected attention. It was created for person
 | Assorted Peppers |  | $33.62 | 2025-10-03 |
 | Bermudez Vanilla Cookies 6 Units / 142 g / 5 oz | Bermudez | $53.95 | 2025-10-02 |
 | De Carlo Extra Virgin Olive Oil 750 mL / 25.3 oz | De Carlo | $139.95 | 2025-10-02 |
-| Badia Chia Seed with ALA Omega 3 623.7 g / 22 oz | Badia | $59.95 | 2025-10-02 |
-| Finest Call Margarita Mix 1 L | Finest Call | $51.95 | 2025-10-02 |
-| Ankara Twists Fusilli Short Pasta 4 Units / 500 g | Ankara | $39.95 | 2025-10-02 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| International Delight Pumpkin Pie Spice Coffee Creamer 1.4 L / 48 oz | International Delight | $61.95 | G10D03 |
-| Frozen Lamb Leg Whole Boneless Tray Pack |  | $306.09 | G10D03 |
-| Pineapple Crownless Fresh |  | $24.95 | G10D03 |
-| Smithfield Boneless Ham  Smoked 680 g / 24 oz | Smithfield | $87.95 | G10D03 |
+| Chilled Boneless Beef Eye of Round, Case |  | $3378.80 | G10D03 |
+| Frozen Imported Pork Leg Slices |  | $74.67 | G10D03 |
