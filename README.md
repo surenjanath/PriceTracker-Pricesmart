@@ -182,23 +182,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1117
-- **Total value**: $122,638.46
-- **Average price**: $109.79
+- **Total products scraped**: 1121
+- **Total value**: $123,008.40
+- **Average price**: $109.73
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1115
-- **Price changes detected**: 55
-- **Stock/availability changes**: 9
-- **Discontinued products**: 3
+- **New products added**: 4
+- **Existing products updated**: 1117
+- **Price changes detected**: 26
+- **Stock/availability changes**: 18
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 185 |
-|  | 146 |
+|  | 145 |
 | Badia | 18 |
 | Swiss | 13 |
 | Nestle | 12 |
@@ -221,31 +221,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1373
-- **Price increases**: 773
-- **Price decreases**: 520
+- **Total price changes**: 1365
+- **Price increases**: 768
+- **Price decreases**: 517
 - **Average increase**: 4.9%
-- **Average decrease**: -3.8%
+- **Average decrease**: -3.7%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Reny Picot Brie with Peppercorns 396 g /14 oz | $34.70 | $69.95 | $+35.25 | +101.6% | Increase |
-| Fresh Chicken Thighs Boneless Tray | $74.43 | $74.56 | $+0.13 | +0.2% | Increase |
-| Chilled Boneless Beef Eye of Round, Case | $0.00 | $3378.80 | $+3378.80 | +100.0% | New |
-| Frozen Imported Pork Leg Slices | $0.00 | $74.67 | $+74.67 | +100.0% | New |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $306.09 | $303.52 | $-2.57 | -0.8% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $172.48 | $172.78 | $+0.30 | +0.2% | Increase |
-| Frozen Lamb Leg Whole Vacuum Packed | $314.96 | $317.55 | $+2.59 | +0.8% | Increase |
-| Tostitos Scoops 411 g | $42.45 | $49.95 | $+7.50 | +17.7% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $68.93 | $69.03 | $+0.10 | +0.1% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $95.94 | $95.64 | $-0.30 | -0.3% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $135.10 | $134.81 | $-0.29 | -0.2% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $91.41 | $91.31 | $-0.10 | -0.1% | Decrease |
-| Klim Powdered Milk 1.6 kg / 56.4 oz | $109.95 | $86.95 | $-23.00 | -20.9% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $261.01 | $260.86 | $-0.15 | -0.1% | Decrease |
-| Nescafé Classic Instant Coffee 3 in 1 3 Units / 114 g | $45.95 | $54.95 | $+9.00 | +19.6% | Increase |
+| Classic Cream Chocolate Whipped Cream 2 Units / 368 g / 13 oz | $0.00 | $84.95 | $+84.95 | +100.0% | New |
+| La Yogurt Latin Flavor Mango 907 g / 32 oz | $0.00 | $32.95 | $+32.95 | +100.0% | New |
+| Wellsley Farms Apple Cider 3.8 L / 128 oz | $0.00 | $84.95 | $+84.95 | +100.0% | New |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $303.52 | $306.09 | $+2.57 | +0.8% | Increase |
+| Dietz & Watson Chef Carved Ham 1.36 kg / 3 lb | $0.00 | $165.95 | $+165.95 | +100.0% | New |
+| Frozen Imported Pork Leg Slices | $74.67 | $75.96 | $+1.29 | +1.7% | Increase |
+| Frozen Lamb Leg Whole Vacuum Packed | $317.55 | $318.42 | $+0.87 | +0.3% | Increase |
+| Frozen Sliced Turkey Drumsticks | $151.33 | $150.66 | $-0.67 | -0.4% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $90.71 | $90.89 | $+0.18 | +0.2% | Increase |
+| Maggi Vegetable Soup 12 Units / 45 g | $73.95 | $79.95 | $+6.00 | +8.1% | Increase |
+| Fresh Ground Chicken Tray | $84.18 | $84.06 | $-0.12 | -0.1% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $260.86 | $260.71 | $-0.15 | -0.1% | Decrease |
+| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | $140.00 | $140.17 | $+0.17 | +0.1% | Increase |
+| Fresh Whole Chicken 2 Units | $102.89 | $102.82 | $-0.07 | -0.1% | Decrease |
+| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $155.66 | $155.87 | $+0.21 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -281,6 +281,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Red Potato 4.5 kg / 10 lb |  | $69.95 | 2025-10-07 |
 | Angie's Boom Chicka Pop Sweet and Salty Popcorn 652 g / 23 oz | Angie´s | $49.70 | 2025-10-06 |
 | Ginger 454 g / 1 lb |  | $34.95 | 2025-10-06 |
 | Avocado 2 Units |  | $29.95 | 2025-10-06 |
@@ -290,11 +291,12 @@ This project has recently gained unexpected attention. It was created for person
 | MacKnight Roasted Salmon Flakes 454 g / 1 lb | MacKnight | $49.70 | 2025-10-03 |
 | Assorted Peppers |  | $33.62 | 2025-10-03 |
 | Bermudez Vanilla Cookies 6 Units / 142 g / 5 oz | Bermudez | $53.95 | 2025-10-02 |
-| De Carlo Extra Virgin Olive Oil 750 mL / 25.3 oz | De Carlo | $139.95 | 2025-10-02 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Chilled Boneless Beef Eye of Round, Case |  | $3378.80 | G10D03 |
-| Frozen Imported Pork Leg Slices |  | $74.67 | G10D03 |
+| Classic Cream Chocolate Whipped Cream 2 Units / 368 g / 13 oz | Classic Cream | $84.95 | G10D03 |
+| La Yogurt Latin Flavor Mango 907 g / 32 oz | La Yogurt | $32.95 | G10D03 |
+| Wellsley Farms Apple Cider 3.8 L / 128 oz | Wellsley Farms | $84.95 | G10D03 |
+| Dietz & Watson Chef Carved Ham 1.36 kg / 3 lb | Dietz and Watson | $165.95 | G10D03 |
