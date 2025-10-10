@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1115
-- **Total value**: $122,876.19
-- **Average price**: $110.20
+- **Total products scraped**: 1113
+- **Total value**: $122,792.76
+- **Average price**: $110.33
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1114
-- **Price changes detected**: 22
-- **Stock/availability changes**: 11
-- **Discontinued products**: 7
+- **New products added**: 0
+- **Existing products updated**: 1113
+- **Price changes detected**: 77
+- **Stock/availability changes**: 9
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1356
-- **Price increases**: 765
-- **Price decreases**: 511
-- **Average increase**: 4.9%
-- **Average decrease**: -3.7%
+- **Total price changes**: 1349
+- **Price increases**: 778
+- **Price decreases**: 491
+- **Average increase**: 4.5%
+- **Average decrease**: -3.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Carrot 2.27 kg / 5 lb | $36.95 | $37.95 | $+1.00 | +2.7% | Increase |
-| Chilled Boneless Beef Eye of Round, Case | $3378.80 | $3750.81 | $+372.01 | +11.0% | Increase |
-| Flavorite Cream Punch and Sorrel Ice Cream 2 Units / 1 L / 33.8 oz | $0.00 | $69.95 | $+69.95 | +100.0% | New |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $172.78 | $173.08 | $+0.30 | +0.2% | Increase |
-| Frozen Lamb Leg Whole Vacuum Packed | $318.42 | $321.30 | $+2.88 | +0.9% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $95.64 | $95.49 | $-0.15 | -0.2% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $91.31 | $91.11 | $-0.20 | -0.2% | Decrease |
-| Fresh Ground Chicken Tray | $84.06 | $84.18 | $+0.12 | +0.1% | Increase |
-| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | $140.17 | $140.00 | $-0.17 | -0.1% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $93.12 | $93.02 | $-0.10 | -0.1% | Decrease |
-| Fresh Whole Chicken 2 Units | $102.82 | $102.75 | $-0.07 | -0.1% | Decrease |
-| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $147.60 | $147.36 | $-0.24 | -0.2% | Decrease |
-| Gouda Cheese Block | $72.03 | $72.16 | $+0.13 | +0.2% | Increase |
-| Frozen Boneless Skinless Chicken Breast Tray | $152.95 | $152.76 | $-0.19 | -0.1% | Decrease |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $405.81 | $404.30 | $-1.51 | -0.4% | Decrease |
+| Kirkland Signature Dried Blueberries 567 g / 1 lb  | $107.95 | $104.95 | $-3.00 | -2.8% | Decrease |
+| Orchard Assorted Drinks Juice Mix 6 Units / 1L | $69.95 | $62.95 | $-7.00 | -10.0% | Decrease |
+| Dietz & Watson Sliced Breast Turkey 454 g / 1 lb | $92.95 | $94.95 | $+2.00 | +2.2% | Increase |
+| Arla Havarti & Gouda Snack Cheese 24 Units / 21 g / 0.75 oz  | $109.95 | $112.95 | $+3.00 | +2.7% | Increase |
+| Member's Selection Whole Almonds 907 g / 2 lb | $114.99 | $119.95 | $+4.96 | +4.3% | Increase |
+| Member's Selection Mozzarella Cheese 907 g / 2 lb | $63.95 | $66.95 | $+3.00 | +4.7% | Increase |
+| Member's Selection Sliced Mild Cheddar Cheese 907 g / 2 lb  | $63.95 | $62.95 | $-1.00 | -1.6% | Decrease |
+| Member’s Selection Breaded Mozzarella Sticks 2.04 kg / 4.5 lb | $154.95 | $157.95 | $+3.00 | +1.9% | Increase |
+| Alessi Biscotti Savoiardi Cookies 400 g / 14 oz | $41.95 | $42.95 | $+1.00 | +2.4% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $55.65 | $55.72 | $+0.07 | +0.1% | Increase |
+| Charles Jordan Chocolate Covered Roasted Almonds 1100 g | $74.95 | $75.95 | $+1.00 | +1.3% | Increase |
+| Stauffers Snaps Crunchy Lemon-Flavored Cookies 397 g / 14 oz | $49.95 | $44.70 | $-5.25 | -10.5% | Decrease |
+| Eve Dried Pigeon Peas 6 Units / 400 g / 14 oz | $49.95 | $50.95 | $+1.00 | +2.0% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $134.81 | $134.67 | $-0.14 | -0.1% | Decrease |
+| Caffe D'Vita Piña Colada Powdered Drink Mix 907 g / 32 oz | $45.70 | $35.70 | $-10.00 | -21.9% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,8 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Philadelphia Cream Cheese 2 Units / 453 g / 16 oz | Philadelphia | $99.95 | 2025-10-09 |
+| Ankara Penne Pasta 4 Units / 500 g | Ankara | $41.95 | 2025-10-09 |
 | Galvanina Italian Sparkling Mineral Water 24 Units / 500 mL / 16.9 oz | Galvanina | $144.95 | 2025-10-08 |
 | Rice Krispies Treats Assorted Mini Snacks 52 Units / 11 g / 0.39 oz | Rice Krispies Treats | $134.95 | 2025-10-08 |
 |  Eggplant 793 g / 1.75 lb |  | $19.70 | 2025-10-08 |
@@ -108,11 +110,6 @@
 | Hunt's Tomato Paste 12 Units / 170 g / 6 oz | Hunt's | $39.70 | 2025-10-08 |
 | Member's Selection Chocolate Chip, Colored Chocolate Chunk and Oatmeal Cookies, Freshly Baked 24 Units | Member's Selection | $32.95 | 2025-10-08 |
 | Red Potato 4.5 kg / 10 lb |  | $69.95 | 2025-10-07 |
-| Angie's Boom Chicka Pop Sweet and Salty Popcorn 652 g / 23 oz | Angie´s | $49.70 | 2025-10-06 |
-| Ginger 454 g / 1 lb |  | $34.95 | 2025-10-06 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Flavorite Cream Punch and Sorrel Ice Cream 2 Units / 1 L / 33.8 oz | Flavorite | $69.95 | G10D03 |
+No new products added today.
