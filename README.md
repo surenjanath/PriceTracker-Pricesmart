@@ -182,23 +182,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1113
-- **Total value**: $122,792.76
-- **Average price**: $110.33
+- **Total products scraped**: 1119
+- **Total value**: $123,564.37
+- **Average price**: $110.42
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1113
-- **Price changes detected**: 77
-- **Stock/availability changes**: 9
-- **Discontinued products**: 2
+- **New products added**: 7
+- **Existing products updated**: 1112
+- **Price changes detected**: 40
+- **Stock/availability changes**: 18
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 184 |
-|  | 144 |
+|  | 147 |
 | Badia | 18 |
 | Swiss | 13 |
 | Nestle | 12 |
@@ -221,9 +221,9 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1349
-- **Price increases**: 778
-- **Price decreases**: 491
+- **Total price changes**: 1396
+- **Price increases**: 802
+- **Price decreases**: 507
 - **Average increase**: 4.5%
 - **Average decrease**: -3.6%
 
@@ -231,21 +231,21 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Kirkland Signature Dried Blueberries 567 g / 1 lb  | $107.95 | $104.95 | $-3.00 | -2.8% | Decrease |
-| Orchard Assorted Drinks Juice Mix 6 Units / 1L | $69.95 | $62.95 | $-7.00 | -10.0% | Decrease |
-| Dietz & Watson Sliced Breast Turkey 454 g / 1 lb | $92.95 | $94.95 | $+2.00 | +2.2% | Increase |
-| Arla Havarti & Gouda Snack Cheese 24 Units / 21 g / 0.75 oz  | $109.95 | $112.95 | $+3.00 | +2.7% | Increase |
-| Member's Selection Whole Almonds 907 g / 2 lb | $114.99 | $119.95 | $+4.96 | +4.3% | Increase |
-| Member's Selection Mozzarella Cheese 907 g / 2 lb | $63.95 | $66.95 | $+3.00 | +4.7% | Increase |
-| Member's Selection Sliced Mild Cheddar Cheese 907 g / 2 lb  | $63.95 | $62.95 | $-1.00 | -1.6% | Decrease |
-| Member’s Selection Breaded Mozzarella Sticks 2.04 kg / 4.5 lb | $154.95 | $157.95 | $+3.00 | +1.9% | Increase |
-| Alessi Biscotti Savoiardi Cookies 400 g / 14 oz | $41.95 | $42.95 | $+1.00 | +2.4% | Increase |
-| Chilled Chicken Gizzard Tray Pack | $55.65 | $55.72 | $+0.07 | +0.1% | Increase |
-| Charles Jordan Chocolate Covered Roasted Almonds 1100 g | $74.95 | $75.95 | $+1.00 | +1.3% | Increase |
-| Stauffers Snaps Crunchy Lemon-Flavored Cookies 397 g / 14 oz | $49.95 | $44.70 | $-5.25 | -10.5% | Decrease |
-| Eve Dried Pigeon Peas 6 Units / 400 g / 14 oz | $49.95 | $50.95 | $+1.00 | +2.0% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $134.81 | $134.67 | $-0.14 | -0.1% | Decrease |
-| Caffe D'Vita Piña Colada Powdered Drink Mix 907 g / 32 oz | $45.70 | $35.70 | $-10.00 | -21.9% | Decrease |
+| Fresh Melon | $0.00 | $42.95 | $+42.95 | +100.0% | New |
+| Frozen Pork Belly Skin On Sliced Tray  | $0.00 | $120.98 | $+120.98 | +100.0% | New |
+| Pork Belly with Skin Frozen Vacuum Packaged | $0.00 | $178.78 | $+178.78 | +100.0% | New |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $306.09 | $307.56 | $+1.47 | +0.5% | Increase |
+| Frozen Imported Pork Leg Slices | $75.96 | $86.86 | $+10.90 | +14.3% | Increase |
+| Kellogg's Original Squishmallows Cereal 671 g / 1.4 lb | $0.00 | $79.95 | $+79.95 | +100.0% | New |
+| Donafe’s Eggless Creamy Cheesecake with Cardamom Notes 10 to 12 Slices | $0.00 | $198.95 | $+198.95 | +100.0% | New |
+| Lucozade Carbonated Energy Drink 12 Units / 250 mL | $107.95 | $79.70 | $-28.25 | -26.2% | Decrease |
+| Bella Contadina Italian Antipasto Mix 600 g / 21 oz | $0.00 | $77.95 | $+77.95 | +100.0% | New |
+| Frozen Lamb Leg Whole Vacuum Packed | $321.30 | $338.57 | $+17.27 | +5.4% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $134.67 | $134.81 | $+0.14 | +0.1% | Increase |
+| Bosc Pear 1.36 kg / 3 lb | $79.95 | $87.95 | $+8.00 | +10.0% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $77.40 | $77.31 | $-0.09 | -0.1% | Decrease |
+| Nectarine 908 g / 2 lb | $62.95 | $59.95 | $-3.00 | -4.8% | Decrease |
+| Cherry Tomato 500 g / 1.1 lb | $21.95 | $19.95 | $-2.00 | -9.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -281,6 +281,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Apple & Eve Organic Orange Carrot Juice 2 Units / 2.84 L / 96 oz | Apple & Eve | $79.70 | 2025-10-10 |
 | Philadelphia Cream Cheese 2 Units / 453 g / 16 oz | Philadelphia | $99.95 | 2025-10-09 |
 | Ankara Penne Pasta 4 Units / 500 g | Ankara | $41.95 | 2025-10-09 |
 | Galvanina Italian Sparkling Mineral Water 24 Units / 500 mL / 16.9 oz | Galvanina | $144.95 | 2025-10-08 |
@@ -290,7 +291,15 @@ This project has recently gained unexpected attention. It was created for person
 | Truffettes de France Mallows of French Origin 510 g / 18 oz | Truffettes | $39.70 | 2025-10-08 |
 | Hunt's Tomato Paste 12 Units / 170 g / 6 oz | Hunt's | $39.70 | 2025-10-08 |
 | Member's Selection Chocolate Chip, Colored Chocolate Chunk and Oatmeal Cookies, Freshly Baked 24 Units | Member's Selection | $32.95 | 2025-10-08 |
-| Red Potato 4.5 kg / 10 lb |  | $69.95 | 2025-10-07 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Fresh Melon |  | $42.95 | G10D03 |
+| Frozen Pork Belly Skin On Sliced Tray  |  | $120.98 | G10D03 |
+| Pork Belly with Skin Frozen Vacuum Packaged |  | $178.78 | G10D03 |
+| Kellogg's Original Squishmallows Cereal 671 g / 1.4 lb | Kellogg's | $79.95 | G10D03 |
+| Donafe’s Eggless Creamy Cheesecake with Cardamom Notes 10 to 12 Slices | Donafe's | $198.95 | G10D03 |
+| Bella Contadina Italian Antipasto Mix 600 g / 21 oz | Bella Contadina | $77.95 | G10D03 |
+| Oleoestepa Hojiblanca Extra Virgin Olive Oil 1 L / 34 oz  | Oleoestepa | $87.95 | G10D03 |
