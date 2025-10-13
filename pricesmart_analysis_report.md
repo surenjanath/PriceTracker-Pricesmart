@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1123
-- **Total value**: $125,116.10
-- **Average price**: $111.41
+- **Total products scraped**: 1124
+- **Total value**: $125,169.29
+- **Average price**: $111.36
 
 ## Database Changes
-- **New products added**: 4
-- **Existing products updated**: 1119
-- **Price changes detected**: 25
-- **Stock/availability changes**: 12
-- **Discontinued products**: 1
+- **New products added**: 1
+- **Existing products updated**: 1123
+- **Price changes detected**: 27
+- **Stock/availability changes**: 8
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -20,7 +20,7 @@
 |  | 148 |
 | Badia | 18 |
 | Swiss | 13 |
-| Nestle | 12 |
+| Kirkland Signature | 12 |
 
 ## Recent Products
 
@@ -28,43 +28,43 @@
 |-------|-------|-------------|--------------|
 | Member's Selection Pepperoni Pizza 2 Units / 656 g / 1.44 lb | Member's Selection | $123.95 | true |
 | Member's Selection Supreme Pizza 2 Units / 716 g / 1.57 lb | Member's Selection | $123.95 | true |
-| Fratelli Beretta Roll & Go Charcuterie Board 425 g / 15 oz | Fratelli Beretta | $108.95 | true |
 | Swiss Miss Dark Chocolate Flavor Cocoa Powder 50 Units 31 g / 1 oz  | Swiss Miss | $99.95 | true |
-| My Mochi Peppermint Ice Cream 420 g / 15 oz | My Mochi | $99.95 | true |
+| Fratelli Beretta Roll & Go Charcuterie Board 425 g / 15 oz | Fratelli Beretta | $108.95 | true |
 | Pop-Tarts Snack Crunchy Poppers Filled with Strawberry and Brownie 2 Units 360 g / 12.6 oz  | Pop Tarts | $174.95 | true |
 | McCain Mac and Cheese Triangles 2 Units / 400 g / 14 oz | McCain | $119.95 | true |
-| Kellogg's Chocolatey Chip Waffles 2 Pack / 349 g / 12.3 oz | Kellogg's | $97.95 | true |
 | Pafritas Potatoes with Black Truffle Flavor 500 g / 1.1 lb | Pafritas | $112.95 | true |
-| Tostitos Snacks White Corn Chips Nachos / 283 g / 10 oz | Tostitos | $50.95 | true |
+| My Mochi Peppermint Ice Cream 420 g / 15 oz | My Mochi | $99.95 | true |
+| Bombolo Biscotti Decorated Cookies with Autumn Patterns 18 Units | Bombolo Biscotti | $73.95 | true |
+| KFI Gluten-Free Curry and Coconut Sauce 2 Units / 695 g | KFI | $104.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1280
-- **Price increases**: 702
+- **Total price changes**: 1263
+- **Price increases**: 688
 - **Price decreases**: 490
-- **Average increase**: 4.8%
-- **Average decrease**: -3.3%
+- **Average increase**: 4.3%
+- **Average decrease**: -3.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Frozen Pork Belly Skin On Sliced Tray  | $120.98 | $110.41 | $-10.57 | -8.7% | Decrease |
-| Nescafé Gold Instant Coffee 190 g | $0.00 | $104.95 | $+104.95 | +100.0% | New |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $307.56 | $308.67 | $+1.11 | +0.4% | Increase |
-| Frozen Pork Belly Skin On Case | $0.00 | $1289.96 | $+1289.96 | +100.0% | New |
-| Pork Belly with Skin Frozen Vacuum Packaged | $178.78 | $172.62 | $-6.16 | -3.4% | Decrease |
-| Lava Bits Chocolate Filled Cookies 6 Units / 150 g | $42.95 | $37.70 | $-5.25 | -12.2% | Decrease |
-| Verdant Valley Vacuum Packaged Seasoned Roast Pork | $0.00 | $104.95 | $+104.95 | +100.0% | New |
-| Leclerc Summer Cookies with Raspberry and Berry Flavor 2 Units / 300 g | $41.70 | $19.70 | $-22.00 | -52.8% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $134.81 | $134.67 | $-0.14 | -0.1% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $90.98 | $91.07 | $+0.09 | +0.1% | Increase |
-| Fresh Whole Chicken for Frying Bag | $260.12 | $259.82 | $-0.30 | -0.1% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $93.02 | $93.12 | $+0.10 | +0.1% | Increase |
-| Fresh Whole Chicken 2 Units | $102.61 | $102.54 | $-0.07 | -0.1% | Decrease |
-| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $156.07 | $156.28 | $+0.21 | +0.1% | Increase |
-| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $147.24 | $147.12 | $-0.12 | -0.1% | Decrease |
+| McCormick Whole Oregano 141 g / 5 oz | $0.00 | $34.95 | $+34.95 | +100.0% | New |
+| Frozen Pork Belly Skin On Sliced Tray  | $110.41 | $121.23 | $+10.82 | +9.8% | Increase |
+| Frozen Imported Pork Leg Slices | $86.86 | $83.51 | $-3.35 | -3.9% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $55.72 | $55.79 | $+0.07 | +0.1% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $173.08 | $173.38 | $+0.30 | +0.2% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $134.67 | $134.37 | $-0.30 | -0.2% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $95.49 | $95.34 | $-0.15 | -0.2% | Decrease |
+| Gouda Cheese Block | $72.16 | $72.30 | $+0.14 | +0.2% | Increase |
+| Fresh Chicken Leg Quarters Tray | $91.11 | $90.91 | $-0.20 | -0.2% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $91.07 | $91.16 | $+0.09 | +0.1% | Increase |
+| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | $140.17 | $140.34 | $+0.17 | +0.1% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $101.47 | $101.32 | $-0.15 | -0.1% | Decrease |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $404.30 | $418.15 | $+13.85 | +3.4% | Increase |
+| Fresh Chicken Mixed Parts Tray | $90.01 | $90.23 | $+0.22 | +0.2% | Increase |
+| Fresh Whole Chicken 2 Units | $102.54 | $102.40 | $-0.14 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -115,7 +115,4 @@
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Nescafé Gold Instant Coffee 190 g | Nescafé | $104.95 | G10D03 |
-| Frozen Pork Belly Skin On Case |  | $1289.96 | G10D03 |
-| Verdant Valley Vacuum Packaged Seasoned Roast Pork | Verdant Valley | $104.95 | G10D03 |
-| Nesquik Chocolate-flavored Corn and Whole Wheat Cereal 1.02 kg / 35.9 oz | Nesquik | $62.95 | G10D03 |
+| McCormick Whole Oregano 141 g / 5 oz | McCormick | $34.95 | G10D03 |
