@@ -183,14 +183,14 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1125
-- **Total value**: $125,744.58
-- **Average price**: $111.77
+- **Total value**: $125,642.19
+- **Average price**: $111.68
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1124
-- **Price changes detected**: 23
-- **Stock/availability changes**: 21
+- **New products added**: 0
+- **Existing products updated**: 1125
+- **Price changes detected**: 27
+- **Stock/availability changes**: 16
 - **Discontinued products**: 1
 
 ## Top 5 Brands
@@ -221,31 +221,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1312
-- **Price increases**: 721
-- **Price decreases**: 510
+- **Total price changes**: 1272
+- **Price increases**: 700
+- **Price decreases**: 493
 - **Average increase**: 3.7%
-- **Average decrease**: -3.2%
+- **Average decrease**: -3.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Frozen Pork Belly Skin On Vacuum Packed | $518.55 | $503.25 | $-15.30 | -3.0% | Decrease |
-| Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $0.00 | $55.95 | $+55.95 | +100.0% | New |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $313.82 | $316.76 | $+2.94 | +0.9% | Increase |
-| Frozen Imported Pork Leg Slices | $83.95 | $81.57 | $-2.38 | -2.8% | Decrease |
-| Dare Graham Cookies with Chocolate Coating 2 Units / 280 g | $49.95 | $39.70 | $-10.25 | -20.5% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $138.21 | $138.06 | $-0.15 | -0.1% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $90.91 | $90.81 | $-0.10 | -0.1% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $148.26 | $150.66 | $+2.40 | +1.6% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $215.03 | $215.33 | $+0.30 | +0.1% | Increase |
-| Fresh Ground Chicken Tray | $84.30 | $84.53 | $+0.23 | +0.3% | Increase |
-| Fresh Whole Chicken for Frying Bag | $259.37 | $259.22 | $-0.15 | -0.1% | Decrease |
-| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $145.65 | $145.84 | $+0.19 | +0.1% | Increase |
-| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $146.88 | $146.64 | $-0.24 | -0.2% | Decrease |
-| Fresh Ground Chicken Meat Bag | $274.39 | $273.22 | $-1.17 | -0.4% | Decrease |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $242.01 | $241.74 | $-0.27 | -0.1% | Decrease |
+| Carrot 2.27 kg / 5 lb | $37.95 | $39.95 | $+2.00 | +5.3% | Increase |
+| Black Seedless Grapes 907 g / 2 lb | $64.95 | $29.70 | $-35.25 | -54.3% | Decrease |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $316.76 | $313.82 | $-2.94 | -0.9% | Decrease |
+| Frozen Imported Pork Leg Slices | $81.57 | $83.95 | $+2.38 | +2.9% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $178.03 | $177.73 | $-0.30 | -0.2% | Decrease |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $154.15 | $154.94 | $+0.79 | +0.5% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $215.33 | $216.23 | $+0.90 | +0.4% | Increase |
+| Fresh Ground Chicken Tray | $84.53 | $84.89 | $+0.36 | +0.4% | Increase |
+| Fresh Chicken Mixed Parts Tray | $90.23 | $90.01 | $-0.22 | -0.2% | Decrease |
+| Fresh Chicken Wings Tray | $92.78 | $92.68 | $-0.10 | -0.1% | Decrease |
+| Fresh Halloween Pumpkin | $129.95 | $99.70 | $-30.25 | -23.3% | Decrease |
+| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | $140.51 | $140.68 | $+0.17 | +0.1% | Increase |
+| Fresh Whole Chicken 2 Units | $102.40 | $102.33 | $-0.07 | -0.1% | Decrease |
+| Frozen Boneless Skinless Chicken Breast Tray | $152.57 | $152.39 | $-0.18 | -0.1% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $259.22 | $259.07 | $-0.15 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -271,16 +271,17 @@ This project has recently gained unexpected attention. It was created for person
 | Avocado 2 Units | $29.95 | $9.70 | -67.6% |
 | Kozyshack Cinnamon Rice Pudding 1.36 kg / 3 lb | $87.95 | $29.70 | -66.2% |
 | Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $89.95 | $34.70 | -61.4% |
+| Black Seedless Grapes 907 g / 2 lb | $64.95 | $29.70 | -54.3% |
 | Curly's Baby Back Pork Ribs 680 g / 24 oz | $129.95 | $59.70 | -54.1% |
 | Green Seedless Grapes 907 g / 2 lb | $62.95 | $29.70 | -52.8% |
 | Leclerc Summer Cookies with Raspberry and Berry Flavor 2 Units / 300 g | $41.70 | $19.70 | -52.8% |
 | United With Earth Date and Almond Rolls 340 g / 12 oz | $54.95 | $26.70 | -51.4% |
-| Purple Cabbage Unit | $29.95 | $14.70 | -50.9% |
 
 ## Recently Discontinued Products
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Freshway Red Dragon Fruit 794 g / 1.75 lb | Freshway | $79.95 | 2025-10-15 |
 | Nestle Milo Ready to Drink 12 Units / 200 mL | Nestle | $69.95 | 2025-10-14 |
 | Munchy's Vegetarian Salted Crackers 3 Units / 390 g / 13.75 oz | Munchy's | $49.95 | 2025-10-13 |
 | Seedless Black Grapes 907 g / 2 lb |  | $52.95 | 2025-10-13 |
@@ -290,10 +291,6 @@ This project has recently gained unexpected attention. It was created for person
 | Upper Crust Bakery Mini Soft and Creamy Brownie Pastries 32 Units | Upper Crust Bakery | $102.95 | 2025-10-11 |
 | Apple & Eve Organic Orange Carrot Juice 2 Units / 2.84 L / 96 oz | Apple & Eve | $79.70 | 2025-10-10 |
 | Philadelphia Cream Cheese 2 Units / 453 g / 16 oz | Philadelphia | $99.95 | 2025-10-09 |
-| Ankara Penne Pasta 4 Units / 500 g | Ankara | $41.95 | 2025-10-09 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | Belgioioso | $55.95 | G10D03 |
+No new products added today.
