@@ -182,23 +182,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1125
-- **Total value**: $125,642.19
-- **Average price**: $111.68
+- **Total products scraped**: 1123
+- **Total value**: $125,448.36
+- **Average price**: $111.71
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1125
-- **Price changes detected**: 27
-- **Stock/availability changes**: 16
-- **Discontinued products**: 1
+- **New products added**: 4
+- **Existing products updated**: 1119
+- **Price changes detected**: 96
+- **Stock/availability changes**: 14
+- **Discontinued products**: 7
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 185 |
-|  | 147 |
+| Member's Selection | 186 |
+|  | 148 |
 | Badia | 18 |
 | Swiss | 13 |
 | Kirkland Signature | 12 |
@@ -212,40 +212,40 @@ This project has recently gained unexpected attention. It was created for person
 | Swiss Miss Dark Chocolate Flavor Cocoa Powder 50 Units 31 g / 1 oz  | Swiss Miss | $99.95 | true |
 | McCain Mac and Cheese Triangles 2 Units / 400 g / 14 oz | McCain | $119.95 | true |
 | Pop-Tarts Snack Crunchy Poppers Filled with Strawberry and Brownie 2 Units 360 g / 12.6 oz  | Pop Tarts | $174.95 | true |
+| Pafritas Potatoes with Black Truffle Flavor 500 g / 1.1 lb | Pafritas | $112.95 | true |
 | Fratelli Beretta Roll & Go Charcuterie Board 425 g / 15 oz | Fratelli Beretta | $108.95 | true |
 | Bombolo Biscotti Decorated Cookies with Autumn Patterns 18 Units | Bombolo Biscotti | $73.95 | true |
-| Pafritas Potatoes with Black Truffle Flavor 500 g / 1.1 lb | Pafritas | $112.95 | true |
 | My Mochi Peppermint Ice Cream 420 g / 15 oz | My Mochi | $99.95 | true |
-| Krusteaz Butter and Honey Pancake Mix 8 Units / 907 g / 2 lb | Krusteaz | $209.95 | true |
+| KFI Gluten-Free Curry and Coconut Sauce 2 Units / 695 g | KFI | $104.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1272
-- **Price increases**: 700
-- **Price decreases**: 493
+- **Total price changes**: 1335
+- **Price increases**: 764
+- **Price decreases**: 489
 - **Average increase**: 3.7%
-- **Average decrease**: -3.5%
+- **Average decrease**: -3.7%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Carrot 2.27 kg / 5 lb | $37.95 | $39.95 | $+2.00 | +5.3% | Increase |
-| Black Seedless Grapes 907 g / 2 lb | $64.95 | $29.70 | $-35.25 | -54.3% | Decrease |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $316.76 | $313.82 | $-2.94 | -0.9% | Decrease |
-| Frozen Imported Pork Leg Slices | $81.57 | $83.95 | $+2.38 | +2.9% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $178.03 | $177.73 | $-0.30 | -0.2% | Decrease |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $154.15 | $154.94 | $+0.79 | +0.5% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $215.33 | $216.23 | $+0.90 | +0.4% | Increase |
-| Fresh Ground Chicken Tray | $84.53 | $84.89 | $+0.36 | +0.4% | Increase |
-| Fresh Chicken Mixed Parts Tray | $90.23 | $90.01 | $-0.22 | -0.2% | Decrease |
-| Fresh Chicken Wings Tray | $92.78 | $92.68 | $-0.10 | -0.1% | Decrease |
-| Fresh Halloween Pumpkin | $129.95 | $99.70 | $-30.25 | -23.3% | Decrease |
-| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | $140.51 | $140.68 | $+0.17 | +0.1% | Increase |
-| Fresh Whole Chicken 2 Units | $102.40 | $102.33 | $-0.07 | -0.1% | Decrease |
-| Frozen Boneless Skinless Chicken Breast Tray | $152.57 | $152.39 | $-0.18 | -0.1% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $259.22 | $259.07 | $-0.15 | -0.1% | Decrease |
+| Fratelli Beretta Artisanal Charcuterie Tray 340 g / 12 oz | $92.95 | $94.95 | $+2.00 | +2.2% | Increase |
+| Violife Just Like Mozzarella Shredded 453 g / 1 lb | $94.95 | $97.95 | $+3.00 | +3.2% | Increase |
+| Angel Parboiled Rice Extra Long Grain 9 kg / 19.8 lb | $83.95 | $85.95 | $+2.00 | +2.4% | Increase |
+| Dietz & Watson Maple Smoked Ham 454 g / 1 lb | $64.95 | $66.95 | $+2.00 | +3.1% | Increase |
+| Dietz & Watson Sliced Breast Turkey 454 g / 1 lb | $94.95 | $96.95 | $+2.00 | +2.1% | Increase |
+| Coke Sprite Schweppes  Assorted Sodas 24 Units / 237 mL / 8.34 oz | $86.95 | $88.95 | $+2.00 | +2.3% | Increase |
+| Dietz and Watson Honey Turkey Breast 454 g / 16 oz | $94.95 | $96.95 | $+2.00 | +2.1% | Increase |
+| Kings Basmati Rice 6.8 kg / 15 lb | $174.95 | $179.95 | $+5.00 | +2.9% | Increase |
+| Member's Selection Thai Jasmine Long Grain Rice 9.07 kg / 20 lb | $149.95 | $159.95 | $+10.00 | +6.7% | Increase |
+| Member's Selection Sliced Swiss Cheese 907 g / 2 lb | $92.95 | $89.95 | $-3.00 | -3.2% | Decrease |
+| Member's Selection Variety Cheese Tray - 4 Types of Cheese / 907 g / 2 lb | $109.95 | $112.95 | $+3.00 | +2.7% | Increase |
+| Member's Selection Sliced Mild Cheddar Cheese 907 g / 2 lb  | $62.95 | $64.95 | $+2.00 | +3.2% | Increase |
+| Member's Selection Whole Almonds 907 g / 2 lb | $119.95 | $127.95 | $+8.00 | +6.7% | Increase |
+| Lifeway Strawberry Kefir 2 Units / 946 mL / 32 oz | $86.95 | $89.95 | $+3.00 | +3.5% | Increase |
+| Nongshim Shin Toomba Hot and Creamy Instant Ramen 4 Units / 137 g | $0.00 | $64.95 | $+64.95 | +100.0% | New |
 
 ## Biggest Price Increases (All Time)
 
@@ -270,27 +270,33 @@ This project has recently gained unexpected attention. It was created for person
 | Sabra Classic Hummus 850 g / 30 oz | $79.95 | $24.70 | -69.1% |
 | Avocado 2 Units | $29.95 | $9.70 | -67.6% |
 | Kozyshack Cinnamon Rice Pudding 1.36 kg / 3 lb | $87.95 | $29.70 | -66.2% |
+| Pillsbury Cookie Dough Mix 1.3 kg / 3 lb | $109.95 | $39.70 | -63.9% |
 | Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $89.95 | $34.70 | -61.4% |
 | Black Seedless Grapes 907 g / 2 lb | $64.95 | $29.70 | -54.3% |
 | Curly's Baby Back Pork Ribs 680 g / 24 oz | $129.95 | $59.70 | -54.1% |
 | Green Seedless Grapes 907 g / 2 lb | $62.95 | $29.70 | -52.8% |
 | Leclerc Summer Cookies with Raspberry and Berry Flavor 2 Units / 300 g | $41.70 | $19.70 | -52.8% |
-| United With Earth Date and Almond Rolls 340 g / 12 oz | $54.95 | $26.70 | -51.4% |
 
 ## Recently Discontinued Products
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Arcor Mint Hard Candies 2.26 Kg | Arcor | $89.95 | 2025-10-16 |
+| Old El Paso Soft Flour Tortillas 8 Units / 38.87 g | Old El Paso | $37.95 | 2025-10-16 |
+| Apple and Eve 100% Juice 36 Units / 200 mL / 6.76 oz | Apple & Eve | $149.95 | 2025-10-16 |
+| Serge Vanilla Flavored Liquid Milk 12 Units / 200 mL | Serge | $29.70 | 2025-10-16 |
+| Hunt's Assorted Pasta Sauce 3 Units / 680 g | Hunt's | $76.95 | 2025-10-16 |
+| Sunshine Day Oh Banana Chips Variety Flavors 12 Units / 45 g | Sunshine | $54.95 | 2025-10-16 |
+| Member’s Selection Freshly Prepared Holiday Cake | Member's Selection | $99.95 | 2025-10-16 |
 | Freshway Red Dragon Fruit 794 g / 1.75 lb | Freshway | $79.95 | 2025-10-15 |
 | Nestle Milo Ready to Drink 12 Units / 200 mL | Nestle | $69.95 | 2025-10-14 |
 | Munchy's Vegetarian Salted Crackers 3 Units / 390 g / 13.75 oz | Munchy's | $49.95 | 2025-10-13 |
-| Seedless Black Grapes 907 g / 2 lb |  | $52.95 | 2025-10-13 |
-| Libby´s Corned Beef 3 Units / 340 g | Libby's | $109.95 | 2025-10-13 |
-| Lucema Snail Shell Pasta 6 Units / 250 g / 8.8 oz | Lucema | $19.70 | 2025-10-13 |
-| Fresh Cantaloupe Melon |  | $39.95 | 2025-10-13 |
-| Upper Crust Bakery Mini Soft and Creamy Brownie Pastries 32 Units | Upper Crust Bakery | $102.95 | 2025-10-11 |
-| Apple & Eve Organic Orange Carrot Juice 2 Units / 2.84 L / 96 oz | Apple & Eve | $79.70 | 2025-10-10 |
-| Philadelphia Cream Cheese 2 Units / 453 g / 16 oz | Philadelphia | $99.95 | 2025-10-09 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Nongshim Shin Toomba Hot and Creamy Instant Ramen 4 Units / 137 g | Nongshim | $64.95 | G10D03 |
+| Ankara Tricolor Pasta 4 Units / 350 g | Ankara | $33.95 | G10D03 |
+| Member's Selection Ready-to-Eat Tuna Salad 907 g / 2 lb | Member's Selection | $121.95 | G10D03 |
+| Member's Selection Chicken Caesar Wrap 4 Units | Member's Selection | $65.95 | G10D03 |
