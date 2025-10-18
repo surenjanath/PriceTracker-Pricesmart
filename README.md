@@ -182,23 +182,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1123
-- **Total value**: $125,448.36
-- **Average price**: $111.71
+- **Total products scraped**: 1121
+- **Total value**: $125,822.92
+- **Average price**: $112.24
 
 ## Database Changes
-- **New products added**: 4
-- **Existing products updated**: 1119
-- **Price changes detected**: 96
-- **Stock/availability changes**: 14
-- **Discontinued products**: 7
+- **New products added**: 1
+- **Existing products updated**: 1120
+- **Price changes detected**: 49
+- **Stock/availability changes**: 17
+- **Discontinued products**: 4
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 186 |
-|  | 148 |
+|  | 146 |
 | Badia | 18 |
 | Swiss | 13 |
 | Kirkland Signature | 12 |
@@ -221,31 +221,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1335
-- **Price increases**: 764
-- **Price decreases**: 489
-- **Average increase**: 3.7%
-- **Average decrease**: -3.7%
+- **Total price changes**: 1385
+- **Price increases**: 793
+- **Price decreases**: 509
+- **Average increase**: 4.0%
+- **Average decrease**: -3.9%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fratelli Beretta Artisanal Charcuterie Tray 340 g / 12 oz | $92.95 | $94.95 | $+2.00 | +2.2% | Increase |
-| Violife Just Like Mozzarella Shredded 453 g / 1 lb | $94.95 | $97.95 | $+3.00 | +3.2% | Increase |
-| Angel Parboiled Rice Extra Long Grain 9 kg / 19.8 lb | $83.95 | $85.95 | $+2.00 | +2.4% | Increase |
-| Dietz & Watson Maple Smoked Ham 454 g / 1 lb | $64.95 | $66.95 | $+2.00 | +3.1% | Increase |
-| Dietz & Watson Sliced Breast Turkey 454 g / 1 lb | $94.95 | $96.95 | $+2.00 | +2.1% | Increase |
-| Coke Sprite Schweppes  Assorted Sodas 24 Units / 237 mL / 8.34 oz | $86.95 | $88.95 | $+2.00 | +2.3% | Increase |
-| Dietz and Watson Honey Turkey Breast 454 g / 16 oz | $94.95 | $96.95 | $+2.00 | +2.1% | Increase |
-| Kings Basmati Rice 6.8 kg / 15 lb | $174.95 | $179.95 | $+5.00 | +2.9% | Increase |
-| Member's Selection Thai Jasmine Long Grain Rice 9.07 kg / 20 lb | $149.95 | $159.95 | $+10.00 | +6.7% | Increase |
-| Member's Selection Sliced Swiss Cheese 907 g / 2 lb | $92.95 | $89.95 | $-3.00 | -3.2% | Decrease |
-| Member's Selection Variety Cheese Tray - 4 Types of Cheese / 907 g / 2 lb | $109.95 | $112.95 | $+3.00 | +2.7% | Increase |
-| Member's Selection Sliced Mild Cheddar Cheese 907 g / 2 lb  | $62.95 | $64.95 | $+2.00 | +3.2% | Increase |
-| Member's Selection Whole Almonds 907 g / 2 lb | $119.95 | $127.95 | $+8.00 | +6.7% | Increase |
-| Lifeway Strawberry Kefir 2 Units / 946 mL / 32 oz | $86.95 | $89.95 | $+3.00 | +3.5% | Increase |
-| Nongshim Shin Toomba Hot and Creamy Instant Ramen 4 Units / 137 g | $0.00 | $64.95 | $+64.95 | +100.0% | New |
+| Island Pride Corn Kernels 6 Units / 340 g | $45.95 | $49.95 | $+4.00 | +8.7% | Increase |
+| Red Globe Grape 907 g / 2 lb | $67.95 | $69.95 | $+2.00 | +2.9% | Increase |
+| Anjous Pears 1.36 kg / 3 lb | $84.95 | $67.95 | $-17.00 | -20.0% | Decrease |
+| Fruit Nation Preservative-Free Mango Nectar 36 Units / 200 mL / 6.7 oz | $99.95 | $115.95 | $+16.00 | +16.0% | Increase |
+| Lush Natural Refreshing Apple Flavored Drink 36 Units / 200 ml | $72.95 | $92.95 | $+20.00 | +27.4% | Increase |
+| Ferrero Rocher Hazelnut and Chocolate Cream Filled Chocolates 48 Units / 12.5 g / 0.4 oz | $199.95 | $219.95 | $+20.00 | +10.0% | Increase |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $313.82 | $311.24 | $-2.58 | -0.8% | Decrease |
+| Frozen Lamb Shoulder Case | $1102.21 | $1110.32 | $+8.11 | +0.7% | Increase |
+| Lava Bits Chocolate Filled Cookies 6 Units / 150 g | $37.70 | $24.70 | $-13.00 | -34.5% | Decrease |
+| Member's Selection Frozen Bone-In Pork Leg Vacuum Packed | $0.00 | $436.98 | $+436.98 | +100.0% | New |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $178.03 | $178.34 | $+0.31 | +0.2% | Increase |
+| Apple Jacks Cereal de Manzana y Canela 1.03 kg / 36.5 oz | $97.95 | $98.95 | $+1.00 | +1.0% | Increase |
+| Mini Sweet Peppers 454 g / 1 lb | $44.95 | $32.95 | $-12.00 | -26.7% | Decrease |
+| Frozen Lamb Leg Whole Vacuum Packed | $340.01 | $347.21 | $+7.20 | +2.1% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $137.91 | $137.76 | $-0.15 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -258,9 +258,9 @@ This project has recently gained unexpected attention. It was created for person
 | Kozyshack Cinnamon Rice Pudding 1.36 kg / 3 lb | $29.70 | $89.95 | +202.9% |
 | Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $34.70 | $89.95 | +159.2% |
 | Nestos Capers in Brine 2 Units / 350 g / 12.4 oz | $29.70 | $64.95 | +118.7% |
+| Black Seedless Grapes 907 g / 2 lb | $29.70 | $64.95 | +118.7% |
 | Curly's Baby Back Pork Ribs 680 g / 24 oz | $59.70 | $129.95 | +117.7% |
 | United With Earth Date and Almond Rolls 340 g / 12 oz | $26.70 | $54.95 | +105.8% |
-| Purple Cabbage Unit | $14.70 | $29.95 | +103.7% |
 
 ## Biggest Price Decreases (All Time)
 
@@ -281,22 +281,19 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Golden Harvest Stuffed Flounder Pacifica 340 g / 12 oz | Golden Harvest | $29.70 | 2025-10-17 |
+| Member's Selection Frozen Fruit Chunks 2.2 kg / 5 lb | Member's Selection | $129.95 | 2025-10-17 |
+| Cantaloupe 2 Units |  | $45.96 | 2025-10-17 |
+| Gala Apples 1.36 kg / 3 lb |  | $49.95 | 2025-10-17 |
 | Arcor Mint Hard Candies 2.26 Kg | Arcor | $89.95 | 2025-10-16 |
 | Old El Paso Soft Flour Tortillas 8 Units / 38.87 g | Old El Paso | $37.95 | 2025-10-16 |
 | Apple and Eve 100% Juice 36 Units / 200 mL / 6.76 oz | Apple & Eve | $149.95 | 2025-10-16 |
 | Serge Vanilla Flavored Liquid Milk 12 Units / 200 mL | Serge | $29.70 | 2025-10-16 |
 | Hunt's Assorted Pasta Sauce 3 Units / 680 g | Hunt's | $76.95 | 2025-10-16 |
 | Sunshine Day Oh Banana Chips Variety Flavors 12 Units / 45 g | Sunshine | $54.95 | 2025-10-16 |
-| Member’s Selection Freshly Prepared Holiday Cake | Member's Selection | $99.95 | 2025-10-16 |
-| Freshway Red Dragon Fruit 794 g / 1.75 lb | Freshway | $79.95 | 2025-10-15 |
-| Nestle Milo Ready to Drink 12 Units / 200 mL | Nestle | $69.95 | 2025-10-14 |
-| Munchy's Vegetarian Salted Crackers 3 Units / 390 g / 13.75 oz | Munchy's | $49.95 | 2025-10-13 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Nongshim Shin Toomba Hot and Creamy Instant Ramen 4 Units / 137 g | Nongshim | $64.95 | G10D03 |
-| Ankara Tricolor Pasta 4 Units / 350 g | Ankara | $33.95 | G10D03 |
-| Member's Selection Ready-to-Eat Tuna Salad 907 g / 2 lb | Member's Selection | $121.95 | G10D03 |
-| Member's Selection Chicken Caesar Wrap 4 Units | Member's Selection | $65.95 | G10D03 |
+| Member's Selection Frozen Bone-In Pork Leg Vacuum Packed | Member's Selection | $436.98 | G10D03 |
