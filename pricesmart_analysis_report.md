@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1121
-- **Total value**: $125,822.92
-- **Average price**: $112.24
+- **Total products scraped**: 1124
+- **Total value**: $125,860.44
+- **Average price**: $111.98
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1120
-- **Price changes detected**: 49
-- **Stock/availability changes**: 17
-- **Discontinued products**: 4
+- **New products added**: 3
+- **Existing products updated**: 1121
+- **Price changes detected**: 67
+- **Stock/availability changes**: 20
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -28,43 +28,43 @@
 |-------|-------|-------------|--------------|
 | Member's Selection Pepperoni Pizza 2 Units / 656 g / 1.44 lb | Member's Selection | $123.95 | true |
 | Member's Selection Supreme Pizza 2 Units / 716 g / 1.57 lb | Member's Selection | $123.95 | true |
-| Swiss Miss Dark Chocolate Flavor Cocoa Powder 50 Units 31 g / 1 oz  | Swiss Miss | $99.95 | true |
-| McCain Mac and Cheese Triangles 2 Units / 400 g / 14 oz | McCain | $119.95 | true |
 | Pop-Tarts Snack Crunchy Poppers Filled with Strawberry and Brownie 2 Units 360 g / 12.6 oz  | Pop Tarts | $174.95 | true |
+| McCain Mac and Cheese Triangles 2 Units / 400 g / 14 oz | McCain | $119.95 | true |
+| Kellogg's Chocolatey Chip Waffles 2 Pack / 349 g / 12.3 oz | Kellogg's | $97.95 | true |
+| Swiss Miss Dark Chocolate Flavor Cocoa Powder 50 Units 31 g / 1 oz  | Swiss Miss | $88.84 | true |
+| Krusteaz Butter and Honey Pancake Mix 8 Units / 907 g / 2 lb | Krusteaz | $209.95 | true |
 | Pafritas Potatoes with Black Truffle Flavor 500 g / 1.1 lb | Pafritas | $112.95 | true |
-| Fratelli Beretta Roll & Go Charcuterie Board 425 g / 15 oz | Fratelli Beretta | $108.95 | true |
 | Bombolo Biscotti Decorated Cookies with Autumn Patterns 18 Units | Bombolo Biscotti | $73.95 | true |
 | My Mochi Peppermint Ice Cream 420 g / 15 oz | My Mochi | $99.95 | true |
-| KFI Gluten-Free Curry and Coconut Sauce 2 Units / 695 g | KFI | $104.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1385
-- **Price increases**: 793
-- **Price decreases**: 509
-- **Average increase**: 4.0%
-- **Average decrease**: -3.9%
+- **Total price changes**: 1322
+- **Price increases**: 724
+- **Price decreases**: 519
+- **Average increase**: 4.2%
+- **Average decrease**: -4.4%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Island Pride Corn Kernels 6 Units / 340 g | $45.95 | $49.95 | $+4.00 | +8.7% | Increase |
-| Red Globe Grape 907 g / 2 lb | $67.95 | $69.95 | $+2.00 | +2.9% | Increase |
-| Anjous Pears 1.36 kg / 3 lb | $84.95 | $67.95 | $-17.00 | -20.0% | Decrease |
-| Fruit Nation Preservative-Free Mango Nectar 36 Units / 200 mL / 6.7 oz | $99.95 | $115.95 | $+16.00 | +16.0% | Increase |
-| Lush Natural Refreshing Apple Flavored Drink 36 Units / 200 ml | $72.95 | $92.95 | $+20.00 | +27.4% | Increase |
-| Ferrero Rocher Hazelnut and Chocolate Cream Filled Chocolates 48 Units / 12.5 g / 0.4 oz | $199.95 | $219.95 | $+20.00 | +10.0% | Increase |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $313.82 | $311.24 | $-2.58 | -0.8% | Decrease |
-| Frozen Lamb Shoulder Case | $1102.21 | $1110.32 | $+8.11 | +0.7% | Increase |
-| Lava Bits Chocolate Filled Cookies 6 Units / 150 g | $37.70 | $24.70 | $-13.00 | -34.5% | Decrease |
-| Member's Selection Frozen Bone-In Pork Leg Vacuum Packed | $0.00 | $436.98 | $+436.98 | +100.0% | New |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $178.03 | $178.34 | $+0.31 | +0.2% | Increase |
-| Apple Jacks Cereal de Manzana y Canela 1.03 kg / 36.5 oz | $97.95 | $98.95 | $+1.00 | +1.0% | Increase |
-| Mini Sweet Peppers 454 g / 1 lb | $44.95 | $32.95 | $-12.00 | -26.7% | Decrease |
-| Frozen Lamb Leg Whole Vacuum Packed | $340.01 | $347.21 | $+7.20 | +2.1% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $137.91 | $137.76 | $-0.15 | -0.1% | Decrease |
+| Hershey's Cocoa Powder 652 g / 23 oz | $129.95 | $115.51 | $-14.44 | -11.1% | Decrease |
+| Badia Hot Sriracha Garlic and Cayenne Sauce 500 mL | $44.95 | $39.96 | $-4.99 | -11.1% | Decrease |
+| Donafe’s Eggless Creamy Cheesecake with Cardamom Notes 10 to 12 Slices | $198.95 | $176.84 | $-22.11 | -11.1% | Decrease |
+| Russco's Green Pepper Salsa 750 mL | $22.95 | $20.40 | $-2.55 | -11.1% | Decrease |
+| Orchard Sorrel Drink 6 Units / 1 L | $0.00 | $104.95 | $+104.95 | +100.0% | New |
+| Stauffers Apple and Cinnamon Cookies 397 g | $0.00 | $49.95 | $+49.95 | +100.0% | New |
+| Frozen Lamb Shoulder Case | $1110.32 | $1244.44 | $+134.12 | +12.1% | Increase |
+| Frozen Imported Pork Leg Slices | $82.65 | $81.57 | $-1.08 | -1.3% | Decrease |
+| Berties Scorpion Pepper Sauce 500 ml | $64.95 | $57.73 | $-7.22 | -11.1% | Decrease |
+| Verdant Valley Vacuum Packaged Seasoned Roast Pork | $104.95 | $99.95 | $-5.00 | -4.8% | Decrease |
+| Russco's Caribbean Flavor Garlic Sauce 750 mL | $39.95 | $35.51 | $-4.44 | -11.1% | Decrease |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $311.24 | $313.82 | $+2.58 | +0.8% | Increase |
+| Chief Pink Himalayan Salt 1.2 kg / 2.6 lb | $79.95 | $71.07 | $-8.88 | -11.1% | Decrease |
+| Maison Bruyére Almond Crisps Cookies 360 g / 12.7 oz | $0.00 | $114.95 | $+114.95 | +100.0% | New |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $137.76 | $137.68 | $-0.08 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -79,7 +79,7 @@
 | Nestos Capers in Brine 2 Units / 350 g / 12.4 oz | $29.70 | $64.95 | +118.7% |
 | Black Seedless Grapes 907 g / 2 lb | $29.70 | $64.95 | +118.7% |
 | Curly's Baby Back Pork Ribs 680 g / 24 oz | $59.70 | $129.95 | +117.7% |
-| United With Earth Date and Almond Rolls 340 g / 12 oz | $26.70 | $54.95 | +105.8% |
+| Green Seedless Grapes 907 g / 2 lb | $29.70 | $62.95 | +112.0% |
 
 ## Biggest Price Decreases (All Time)
 
@@ -115,4 +115,6 @@
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Member's Selection Frozen Bone-In Pork Leg Vacuum Packed | Member's Selection | $436.98 | G10D03 |
+| Orchard Sorrel Drink 6 Units / 1 L | Orchard | $104.95 | G10D03 |
+| Stauffers Apple and Cinnamon Cookies 397 g | Stauffers | $49.95 | G10D03 |
+| Maison Bruyére Almond Crisps Cookies 360 g / 12.7 oz | Maison Bruyère | $114.95 | G10D03 |
