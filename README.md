@@ -182,15 +182,15 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1124
-- **Total value**: $125,860.44
-- **Average price**: $111.98
+- **Total products scraped**: 1128
+- **Total value**: $126,151.17
+- **Average price**: $111.84
 
 ## Database Changes
-- **New products added**: 3
-- **Existing products updated**: 1121
-- **Price changes detected**: 67
-- **Stock/availability changes**: 20
+- **New products added**: 4
+- **Existing products updated**: 1124
+- **Price changes detected**: 37
+- **Stock/availability changes**: 7
 - **Discontinued products**: 0
 
 ## Top 5 Brands
@@ -221,31 +221,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1322
-- **Price increases**: 724
-- **Price decreases**: 519
-- **Average increase**: 4.2%
-- **Average decrease**: -4.4%
+- **Total price changes**: 1319
+- **Price increases**: 725
+- **Price decreases**: 512
+- **Average increase**: 4.1%
+- **Average decrease**: -4.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Hershey's Cocoa Powder 652 g / 23 oz | $129.95 | $115.51 | $-14.44 | -11.1% | Decrease |
-| Badia Hot Sriracha Garlic and Cayenne Sauce 500 mL | $44.95 | $39.96 | $-4.99 | -11.1% | Decrease |
-| Donafe’s Eggless Creamy Cheesecake with Cardamom Notes 10 to 12 Slices | $198.95 | $176.84 | $-22.11 | -11.1% | Decrease |
-| Russco's Green Pepper Salsa 750 mL | $22.95 | $20.40 | $-2.55 | -11.1% | Decrease |
-| Orchard Sorrel Drink 6 Units / 1 L | $0.00 | $104.95 | $+104.95 | +100.0% | New |
-| Stauffers Apple and Cinnamon Cookies 397 g | $0.00 | $49.95 | $+49.95 | +100.0% | New |
-| Frozen Lamb Shoulder Case | $1110.32 | $1244.44 | $+134.12 | +12.1% | Increase |
-| Frozen Imported Pork Leg Slices | $82.65 | $81.57 | $-1.08 | -1.3% | Decrease |
-| Berties Scorpion Pepper Sauce 500 ml | $64.95 | $57.73 | $-7.22 | -11.1% | Decrease |
-| Verdant Valley Vacuum Packaged Seasoned Roast Pork | $104.95 | $99.95 | $-5.00 | -4.8% | Decrease |
-| Russco's Caribbean Flavor Garlic Sauce 750 mL | $39.95 | $35.51 | $-4.44 | -11.1% | Decrease |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $311.24 | $313.82 | $+2.58 | +0.8% | Increase |
-| Chief Pink Himalayan Salt 1.2 kg / 2.6 lb | $79.95 | $71.07 | $-8.88 | -11.1% | Decrease |
-| Maison Bruyére Almond Crisps Cookies 360 g / 12.7 oz | $0.00 | $114.95 | $+114.95 | +100.0% | New |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $137.76 | $137.68 | $-0.08 | -0.1% | Decrease |
+| Donafe’s Eggless Creamy Cheesecake with Cardamom Notes 10 to 12 Slices | $176.84 | $176.95 | $+0.11 | +0.1% | Increase |
+| Califia Farms Pumpkin Spice Latte 1.4 L / 48 oz | $0.00 | $69.95 | $+69.95 | +100.0% | New |
+| Jennie's Organic Coconut Bites 24 oz | $0.00 | $119.95 | $+119.95 | +100.0% | New |
+| Pork Belly with Skin Frozen Vacuum Packaged | $173.50 | $174.82 | $+1.32 | +0.8% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $55.79 | $55.72 | $-0.07 | -0.1% | Decrease |
+| Nutrina Chilled Whole Chicken Bag | $317.02 | $314.62 | $-2.40 | -0.8% | Decrease |
+| Rockit Apple 1.36 kg / 3 lb | $0.00 | $77.95 | $+77.95 | +100.0% | New |
+| Muffin Town Mini Bread Cake with Cinnamon Crumbs Topping | $51.51 | $51.95 | $+0.44 | +0.9% | Increase |
+| Frozen Sliced Turkey Drumsticks | $147.78 | $147.59 | $-0.19 | -0.1% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $89.79 | $89.90 | $+0.11 | +0.1% | Increase |
+| Fresh Ground Chicken Tray | $85.60 | $84.42 | $-1.18 | -1.4% | Decrease |
+| Member's Selection Ready-to-Eat Tuna Salad 907 g / 2 lb | $121.95 | $62.95 | $-59.00 | -48.4% | Decrease |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $241.19 | $240.91 | $-0.28 | -0.1% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $258.77 | $258.62 | $-0.15 | -0.1% | Decrease |
+| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $146.61 | $147.00 | $+0.39 | +0.3% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -296,6 +296,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Orchard Sorrel Drink 6 Units / 1 L | Orchard | $104.95 | G10D03 |
-| Stauffers Apple and Cinnamon Cookies 397 g | Stauffers | $49.95 | G10D03 |
-| Maison Bruyére Almond Crisps Cookies 360 g / 12.7 oz | Maison Bruyère | $114.95 | G10D03 |
+| Califia Farms Pumpkin Spice Latte 1.4 L / 48 oz | Califia Farms | $69.95 | G10D03 |
+| Jennie's Organic Coconut Bites 24 oz | Jennies | $119.95 | G10D03 |
+| Rockit Apple 1.36 kg / 3 lb | Rockit | $77.95 | G10D03 |
+| Fratelli Beretta Italian Style Platter 340 g / 12 oz  | Fratelli Beretta | $77.95 | G10D03 |
