@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1128
-- **Total value**: $126,151.17
-- **Average price**: $111.84
+- **Total products scraped**: 1126
+- **Total value**: $125,999.00
+- **Average price**: $111.90
 
 ## Database Changes
-- **New products added**: 4
-- **Existing products updated**: 1124
-- **Price changes detected**: 37
-- **Stock/availability changes**: 7
-- **Discontinued products**: 0
+- **New products added**: 3
+- **Existing products updated**: 1123
+- **Price changes detected**: 57
+- **Stock/availability changes**: 6
+- **Discontinued products**: 5
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 186 |
-|  | 146 |
+| Member's Selection | 187 |
+|  | 142 |
 | Badia | 18 |
 | Swiss | 13 |
 | Kirkland Signature | 12 |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1319
-- **Price increases**: 725
-- **Price decreases**: 512
-- **Average increase**: 4.1%
-- **Average decrease**: -4.5%
+- **Total price changes**: 1379
+- **Price increases**: 749
+- **Price decreases**: 545
+- **Average increase**: 4.3%
+- **Average decrease**: -4.8%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Donafe’s Eggless Creamy Cheesecake with Cardamom Notes 10 to 12 Slices | $176.84 | $176.95 | $+0.11 | +0.1% | Increase |
-| Califia Farms Pumpkin Spice Latte 1.4 L / 48 oz | $0.00 | $69.95 | $+69.95 | +100.0% | New |
-| Jennie's Organic Coconut Bites 24 oz | $0.00 | $119.95 | $+119.95 | +100.0% | New |
-| Pork Belly with Skin Frozen Vacuum Packaged | $173.50 | $174.82 | $+1.32 | +0.8% | Increase |
-| Chilled Chicken Gizzard Tray Pack | $55.79 | $55.72 | $-0.07 | -0.1% | Decrease |
-| Nutrina Chilled Whole Chicken Bag | $317.02 | $314.62 | $-2.40 | -0.8% | Decrease |
-| Rockit Apple 1.36 kg / 3 lb | $0.00 | $77.95 | $+77.95 | +100.0% | New |
-| Muffin Town Mini Bread Cake with Cinnamon Crumbs Topping | $51.51 | $51.95 | $+0.44 | +0.9% | Increase |
-| Frozen Sliced Turkey Drumsticks | $147.78 | $147.59 | $-0.19 | -0.1% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $89.79 | $89.90 | $+0.11 | +0.1% | Increase |
-| Fresh Ground Chicken Tray | $85.60 | $84.42 | $-1.18 | -1.4% | Decrease |
-| Member's Selection Ready-to-Eat Tuna Salad 907 g / 2 lb | $121.95 | $62.95 | $-59.00 | -48.4% | Decrease |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $241.19 | $240.91 | $-0.28 | -0.1% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $258.77 | $258.62 | $-0.15 | -0.1% | Decrease |
-| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $146.61 | $147.00 | $+0.39 | +0.3% | Increase |
+| Jackson's Sweet Potato Chips 454 g / 16 oz | $0.00 | $77.29 | $+77.29 | +100.0% | New |
+| Pork Belly with Skin Frozen Vacuum Packaged | $174.82 | $179.88 | $+5.06 | +2.9% | Increase |
+| Member's Selection Freshly Made Chicken Salad Wraps 4 Units | $0.00 | $65.95 | $+65.95 | +100.0% | New |
+| Frozen Bone In Pork Shoulder Sliced Tray | $71.69 | $71.79 | $+0.10 | +0.1% | Increase |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $313.82 | $314.55 | $+0.73 | +0.2% | Increase |
+| Sundays Peanut Ice Cream 3.78 L / 128 oz | $69.95 | $58.95 | $-11.00 | -15.7% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $97.73 | $97.57 | $-0.16 | -0.2% | Decrease |
+| Brunswick Canned Mackerel in Tomato Sauce 3 Units / 425 g | $34.95 | $27.95 | $-7.00 | -20.0% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $137.68 | $137.76 | $+0.08 | +0.1% | Increase |
+| Frozen Sliced Turkey Drumsticks | $147.59 | $147.40 | $-0.19 | -0.1% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $89.90 | $89.79 | $-0.11 | -0.1% | Decrease |
+| Pascual Greek Yogurt 8 Units / 125 g / 4.4 oz | $57.95 | $48.95 | $-9.00 | -15.5% | Decrease |
+| Klim Powdered Milk 1.6 kg / 56.4 oz | $86.95 | $109.95 | $+23.00 | +26.5% | Increase |
+| Fresh Ground Chicken Tray | $84.42 | $85.95 | $+1.53 | +1.8% | Increase |
+| Pier 33 Coho Salmon Steak Frozen, Skin on 1 kg / 2.2 lb | $224.95 | $179.95 | $-45.00 | -20.0% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,22 +100,21 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Fresh Regular Tomato |  | $33.61 | 2025-10-20 |
+| Russet Potato 2.2 kg / 5 lb |  | $22.95 | 2025-10-20 |
+| Bokchoy, 680 g / 1.3 lb |  | $32.95 | 2025-10-20 |
+| Samyang Four Cheese and Ramen Flavor Instant Noodle Soup 5 Units / 140 g | Samyang | $69.95 | 2025-10-20 |
+| Fresh Kiwi 907 g / 2 lb |  | $89.95 | 2025-10-20 |
 | Golden Harvest Stuffed Flounder Pacifica 340 g / 12 oz | Golden Harvest | $29.70 | 2025-10-17 |
 | Member's Selection Frozen Fruit Chunks 2.2 kg / 5 lb | Member's Selection | $129.95 | 2025-10-17 |
 | Cantaloupe 2 Units |  | $45.96 | 2025-10-17 |
 | Gala Apples 1.36 kg / 3 lb |  | $49.95 | 2025-10-17 |
 | Arcor Mint Hard Candies 2.26 Kg | Arcor | $89.95 | 2025-10-16 |
-| Old El Paso Soft Flour Tortillas 8 Units / 38.87 g | Old El Paso | $37.95 | 2025-10-16 |
-| Apple and Eve 100% Juice 36 Units / 200 mL / 6.76 oz | Apple & Eve | $149.95 | 2025-10-16 |
-| Serge Vanilla Flavored Liquid Milk 12 Units / 200 mL | Serge | $29.70 | 2025-10-16 |
-| Hunt's Assorted Pasta Sauce 3 Units / 680 g | Hunt's | $76.95 | 2025-10-16 |
-| Sunshine Day Oh Banana Chips Variety Flavors 12 Units / 45 g | Sunshine | $54.95 | 2025-10-16 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Califia Farms Pumpkin Spice Latte 1.4 L / 48 oz | Califia Farms | $69.95 | G10D03 |
-| Jennie's Organic Coconut Bites 24 oz | Jennies | $119.95 | G10D03 |
-| Rockit Apple 1.36 kg / 3 lb | Rockit | $77.95 | G10D03 |
-| Fratelli Beretta Italian Style Platter 340 g / 12 oz  | Fratelli Beretta | $77.95 | G10D03 |
+| Jackson's Sweet Potato Chips 454 g / 16 oz | Jackson's | $77.29 | G10D03 |
+| Member's Selection Freshly Made Chicken Salad Wraps 4 Units | Member's Selection | $65.95 | G10D03 |
+| Quaker Quick Oats 2 Units /  1.13 kg / 40 oz | Quaker | $85.95 | G10D03 |
