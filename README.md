@@ -182,22 +182,22 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1126
-- **Total value**: $125,999.00
-- **Average price**: $111.90
+- **Total products scraped**: 1129
+- **Total value**: $126,224.69
+- **Average price**: $111.80
 
 ## Database Changes
-- **New products added**: 3
-- **Existing products updated**: 1123
-- **Price changes detected**: 57
-- **Stock/availability changes**: 6
-- **Discontinued products**: 5
+- **New products added**: 2
+- **Existing products updated**: 1127
+- **Price changes detected**: 35
+- **Stock/availability changes**: 13
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 187 |
+| Member's Selection | 189 |
 |  | 142 |
 | Badia | 18 |
 | Swiss | 13 |
@@ -221,31 +221,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1379
-- **Price increases**: 749
-- **Price decreases**: 545
+- **Total price changes**: 1376
+- **Price increases**: 751
+- **Price decreases**: 539
 - **Average increase**: 4.3%
-- **Average decrease**: -4.8%
+- **Average decrease**: -5.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Jackson's Sweet Potato Chips 454 g / 16 oz | $0.00 | $77.29 | $+77.29 | +100.0% | New |
-| Pork Belly with Skin Frozen Vacuum Packaged | $174.82 | $179.88 | $+5.06 | +2.9% | Increase |
-| Member's Selection Freshly Made Chicken Salad Wraps 4 Units | $0.00 | $65.95 | $+65.95 | +100.0% | New |
-| Frozen Bone In Pork Shoulder Sliced Tray | $71.69 | $71.79 | $+0.10 | +0.1% | Increase |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $313.82 | $314.55 | $+0.73 | +0.2% | Increase |
-| Sundays Peanut Ice Cream 3.78 L / 128 oz | $69.95 | $58.95 | $-11.00 | -15.7% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $97.73 | $97.57 | $-0.16 | -0.2% | Decrease |
-| Brunswick Canned Mackerel in Tomato Sauce 3 Units / 425 g | $34.95 | $27.95 | $-7.00 | -20.0% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $137.68 | $137.76 | $+0.08 | +0.1% | Increase |
-| Frozen Sliced Turkey Drumsticks | $147.59 | $147.40 | $-0.19 | -0.1% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $89.90 | $89.79 | $-0.11 | -0.1% | Decrease |
-| Pascual Greek Yogurt 8 Units / 125 g / 4.4 oz | $57.95 | $48.95 | $-9.00 | -15.5% | Decrease |
-| Klim Powdered Milk 1.6 kg / 56.4 oz | $86.95 | $109.95 | $+23.00 | +26.5% | Increase |
-| Fresh Ground Chicken Tray | $84.42 | $85.95 | $+1.53 | +1.8% | Increase |
-| Pier 33 Coho Salmon Steak Frozen, Skin on 1 kg / 2.2 lb | $224.95 | $179.95 | $-45.00 | -20.0% | Decrease |
+| Pillsbury Cookie Dough Mix 1.3 kg / 3 lb | $39.70 | $19.70 | $-20.00 | -50.4% | Decrease |
+| Russco's Green Pepper Salsa 750 mL | $20.40 | $19.95 | $-0.45 | -2.2% | Decrease |
+| Frozen Imported Pork Leg Slices | $81.57 | $82.22 | $+0.65 | +0.8% | Increase |
+| Berties Scorpion Pepper Sauce 500 ml | $57.73 | $57.95 | $+0.22 | +0.4% | Increase |
+| Anjous Pears 1.36 kg / 3 lb | $67.95 | $64.95 | $-3.00 | -4.4% | Decrease |
+| Member's Selection Freshly Made Fried Chicken 8 Pieces | $0.00 | $105.00 | $+105.00 | +100.0% | New |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $178.34 | $178.65 | $+0.31 | +0.2% | Increase |
+| Russco's Caribbean Flavor Garlic Sauce 750 mL | $35.51 | $35.95 | $+0.44 | +1.2% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $55.72 | $55.79 | $+0.07 | +0.1% | Increase |
+| Chief Pink Himalayan Salt 1.2 kg / 2.6 lb | $71.07 | $71.95 | $+0.88 | +1.2% | Increase |
+| Mini Sweet Peppers 454 g / 1 lb | $32.95 | $27.95 | $-5.00 | -15.2% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $137.76 | $137.68 | $-0.08 | -0.1% | Decrease |
+| Fresh Start Mauby Concentrate 3 Units / 750 mL / 25.3 oz | $33.73 | $33.95 | $+0.22 | +0.7% | Increase |
+| Lee Kum Kee Oyster Sauce 2 Units / 510 g | $71.07 | $71.95 | $+0.88 | +1.2% | Increase |
+| Swiss Mustard Assortment 2 Units / 454 g / 16 oz | $35.51 | $35.95 | $+0.44 | +1.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -296,6 +296,5 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Jackson's Sweet Potato Chips 454 g / 16 oz | Jackson's | $77.29 | G10D03 |
-| Member's Selection Freshly Made Chicken Salad Wraps 4 Units | Member's Selection | $65.95 | G10D03 |
-| Quaker Quick Oats 2 Units /  1.13 kg / 40 oz | Quaker | $85.95 | G10D03 |
+| Member's Selection Freshly Made Fried Chicken 8 Pieces | Member's Selection | $105.00 | G10D03 |
+| Member's Selection Mild Cheddar Cheese 907 g / 2 lb | Member's Selection | $51.95 | G10D03 |
