@@ -2,21 +2,21 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1129
-- **Total value**: $126,224.69
-- **Average price**: $111.80
+- **Total value**: $126,453.17
+- **Average price**: $112.00
 
 ## Database Changes
 - **New products added**: 2
 - **Existing products updated**: 1127
-- **Price changes detected**: 35
-- **Stock/availability changes**: 13
-- **Discontinued products**: 0
+- **Price changes detected**: 80
+- **Stock/availability changes**: 18
+- **Discontinued products**: 3
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 189 |
+| Member's Selection | 188 |
 |  | 142 |
 | Badia | 18 |
 | Swiss | 13 |
@@ -26,50 +26,51 @@
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Member's Selection Pepperoni Pizza 2 Units / 656 g / 1.44 lb | Member's Selection | $123.95 | true |
-| Member's Selection Supreme Pizza 2 Units / 716 g / 1.57 lb | Member's Selection | $123.95 | true |
-| Pop-Tarts Snack Crunchy Poppers Filled with Strawberry and Brownie 2 Units 360 g / 12.6 oz  | Pop Tarts | $174.95 | true |
-| McCain Mac and Cheese Triangles 2 Units / 400 g / 14 oz | McCain | $119.95 | true |
-| Kellogg's Chocolatey Chip Waffles 2 Pack / 349 g / 12.3 oz | Kellogg's | $97.95 | true |
-| Swiss Miss Dark Chocolate Flavor Cocoa Powder 50 Units 31 g / 1 oz  | Swiss Miss | $88.84 | true |
-| Krusteaz Butter and Honey Pancake Mix 8 Units / 907 g / 2 lb | Krusteaz | $209.95 | true |
-| Pafritas Potatoes with Black Truffle Flavor 500 g / 1.1 lb | Pafritas | $112.95 | true |
-| Bombolo Biscotti Decorated Cookies with Autumn Patterns 18 Units | Bombolo Biscotti | $73.95 | true |
-| My Mochi Peppermint Ice Cream 420 g / 15 oz | My Mochi | $99.95 | true |
+| Bella Contadina Italian Antipasto Mix 600 g / 21 oz | Bella Contadina | $77.95 | true |
+| Fratelli Beretta Italian Style Platter 340 g / 12 oz  | Fratelli Beretta | $77.95 | true |
+| Member's Selection Shredded Mozzarella Cheese 2.26 kg / 5 lb | Member's Selection | $126.95 | true |
+| Member's Selection Frozen Boneless Salmon Portions with Skin 680 g / 1.5 lb | Member's Selection | $174.95 | true |
+| Member's Selection Straight Cut Fry 10 kg / 22 lb | Member's Selection | $159.95 | true |
+| Member's Selection Premium Smoked Turkey Breast 2 Units / 340 g / 12 oz | Member's Selection | $81.95 | true |
+| Member's Selection Cold Extracted Extra Virgin Olive Oil 2 L | Member's Selection | $134.95 | true |
+| Member's Selection Tuna in Water 6 Units / 136 g / 6 oz | Member's Selection | $63.95 | true |
+| Member's Selection Semi-sweet Chocolate Chips 2.04 kg / 72 oz | Member's Selection | $284.95 | true |
+| Member's Selection Sliced Smoked Bacon 2 Units / 680 g / 24 oz | Member's Selection | $176.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1376
-- **Price increases**: 751
-- **Price decreases**: 539
-- **Average increase**: 4.3%
-- **Average decrease**: -5.0%
+- **Total price changes**: 1394
+- **Price increases**: 788
+- **Price decreases**: 522
+- **Average increase**: 5.0%
+- **Average decrease**: -5.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Pillsbury Cookie Dough Mix 1.3 kg / 3 lb | $39.70 | $19.70 | $-20.00 | -50.4% | Decrease |
-| Russco's Green Pepper Salsa 750 mL | $20.40 | $19.95 | $-0.45 | -2.2% | Decrease |
-| Frozen Imported Pork Leg Slices | $81.57 | $82.22 | $+0.65 | +0.8% | Increase |
-| Berties Scorpion Pepper Sauce 500 ml | $57.73 | $57.95 | $+0.22 | +0.4% | Increase |
-| Anjous Pears 1.36 kg / 3 lb | $67.95 | $64.95 | $-3.00 | -4.4% | Decrease |
-| Member's Selection Freshly Made Fried Chicken 8 Pieces | $0.00 | $105.00 | $+105.00 | +100.0% | New |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $178.34 | $178.65 | $+0.31 | +0.2% | Increase |
-| Russco's Caribbean Flavor Garlic Sauce 750 mL | $35.51 | $35.95 | $+0.44 | +1.2% | Increase |
-| Chilled Chicken Gizzard Tray Pack | $55.72 | $55.79 | $+0.07 | +0.1% | Increase |
-| Chief Pink Himalayan Salt 1.2 kg / 2.6 lb | $71.07 | $71.95 | $+0.88 | +1.2% | Increase |
-| Mini Sweet Peppers 454 g / 1 lb | $32.95 | $27.95 | $-5.00 | -15.2% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $137.76 | $137.68 | $-0.08 | -0.1% | Decrease |
-| Fresh Start Mauby Concentrate 3 Units / 750 mL / 25.3 oz | $33.73 | $33.95 | $+0.22 | +0.7% | Increase |
-| Lee Kum Kee Oyster Sauce 2 Units / 510 g | $71.07 | $71.95 | $+0.88 | +1.2% | Increase |
-| Swiss Mustard Assortment 2 Units / 454 g / 16 oz | $35.51 | $35.95 | $+0.44 | +1.2% | Increase |
+| Green pepper | $27.11 | $28.41 | $+1.30 | +4.8% | Increase |
+| Pillsbury Cookie Dough Mix 1.3 kg / 3 lb | $19.70 | $109.95 | $+90.25 | +458.1% | Increase |
+| Par Excellence Long Grain White Jasmine Rice 4 kg | $0.00 | $69.95 | $+69.95 | +100.0% | New |
+| Sundays Strawberry Cheesecake Ice Cream 3.78 L / 1 gal | $0.00 | $61.29 | $+61.29 | +100.0% | New |
+| Chilled Chicken Gizzard Tray Pack | $55.79 | $57.05 | $+1.26 | +2.3% | Increase |
+| Pork Belly with Skin Frozen Vacuum Packaged | $179.88 | $185.82 | $+5.94 | +3.3% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $178.65 | $198.53 | $+19.88 | +11.1% | Increase |
+| KFI Gluten-Free Curry and Coconut Sauce 2 Units / 695 g | $93.29 | $93.95 | $+0.66 | +0.7% | Increase |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $314.55 | $311.98 | $-2.57 | -0.8% | Decrease |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $154.94 | $154.15 | $-0.79 | -0.5% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $97.57 | $106.96 | $+9.39 | +9.6% | Increase |
+| Nutrina Chilled Whole Chicken Bag | $314.62 | $320.02 | $+5.40 | +1.7% | Increase |
+| Member’s Selection Freshly Prepared Holiday Cake | $99.95 | $88.95 | $-11.00 | -11.0% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $137.68 | $147.50 | $+9.82 | +7.1% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $77.65 | $80.66 | $+3.01 | +3.9% | Increase |
 
 ## Biggest Price Increases (All Time)
 
 | Product | Old Price | New Price | % Increase |
 |---------|-----------|-----------|------------|
+| Pillsbury Cookie Dough Mix 1.3 kg / 3 lb | $19.70 | $109.95 | +458.1% |
 | Tropical Frying Cheese 907 g / 32 oz | $19.70 | $89.95 | +356.6% |
 | Frozen Boneless Pork Loin Vacuum Packaged | $56.90 | $253.53 | +345.6% |
 | Sabra Classic Hummus 850 g / 30 oz | $24.70 | $79.95 | +223.7% |
@@ -79,7 +80,6 @@
 | Nestos Capers in Brine 2 Units / 350 g / 12.4 oz | $29.70 | $64.95 | +118.7% |
 | Black Seedless Grapes 907 g / 2 lb | $29.70 | $64.95 | +118.7% |
 | Curly's Baby Back Pork Ribs 680 g / 24 oz | $59.70 | $129.95 | +117.7% |
-| Green Seedless Grapes 907 g / 2 lb | $29.70 | $62.95 | +112.0% |
 
 ## Biggest Price Decreases (All Time)
 
@@ -100,6 +100,9 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Post Cereal Fruity Pebbles 1.07 kg / 38 oz | Post | $75.45 | 2025-10-22 |
+| Member's Selection Salad Tomato 1.5 kg / 3.5 lb | Member's Selection | $32.57 | 2025-10-22 |
+| Member's Selection Frozen Skin On Boneless Trout Fillet Vacuum Packaged Bag | Member's Selection | $207.41 | 2025-10-22 |
 | Fresh Regular Tomato |  | $33.61 | 2025-10-20 |
 | Russet Potato 2.2 kg / 5 lb |  | $22.95 | 2025-10-20 |
 | Bokchoy, 680 g / 1.3 lb |  | $32.95 | 2025-10-20 |
@@ -107,13 +110,10 @@
 | Fresh Kiwi 907 g / 2 lb |  | $89.95 | 2025-10-20 |
 | Golden Harvest Stuffed Flounder Pacifica 340 g / 12 oz | Golden Harvest | $29.70 | 2025-10-17 |
 | Member's Selection Frozen Fruit Chunks 2.2 kg / 5 lb | Member's Selection | $129.95 | 2025-10-17 |
-| Cantaloupe 2 Units |  | $45.96 | 2025-10-17 |
-| Gala Apples 1.36 kg / 3 lb |  | $49.95 | 2025-10-17 |
-| Arcor Mint Hard Candies 2.26 Kg | Arcor | $89.95 | 2025-10-16 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Member's Selection Freshly Made Fried Chicken 8 Pieces | Member's Selection | $105.00 | G10D03 |
-| Member's Selection Mild Cheddar Cheese 907 g / 2 lb | Member's Selection | $51.95 | G10D03 |
+| Par Excellence Long Grain White Jasmine Rice 4 kg | Par Excellence | $69.95 | G10D03 |
+| Sundays Strawberry Cheesecake Ice Cream 3.78 L / 1 gal | Sundays | $61.29 | G10D03 |
