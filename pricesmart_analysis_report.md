@@ -1,25 +1,25 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1129
-- **Total value**: $126,453.17
-- **Average price**: $112.00
+- **Total products scraped**: 1135
+- **Total value**: $127,067.40
+- **Average price**: $111.95
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1127
-- **Price changes detected**: 80
-- **Stock/availability changes**: 18
-- **Discontinued products**: 3
+- **New products added**: 7
+- **Existing products updated**: 1128
+- **Price changes detected**: 30
+- **Stock/availability changes**: 12
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 188 |
+| Member's Selection | 187 |
 |  | 142 |
 | Badia | 18 |
-| Swiss | 13 |
+| Swiss | 14 |
 | Kirkland Signature | 12 |
 
 ## Recent Products
@@ -27,44 +27,44 @@
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Bella Contadina Italian Antipasto Mix 600 g / 21 oz | Bella Contadina | $77.95 | true |
+| Pure Squeeze Assorted Flavors Sparkling Juice 12 Units / 330 mL / 11.2 oz | Pure Squeeze | $119.95 | true |
 | Fratelli Beretta Italian Style Platter 340 g / 12 oz  | Fratelli Beretta | $77.95 | true |
 | Member's Selection Shredded Mozzarella Cheese 2.26 kg / 5 lb | Member's Selection | $126.95 | true |
-| Member's Selection Frozen Boneless Salmon Portions with Skin 680 g / 1.5 lb | Member's Selection | $174.95 | true |
-| Member's Selection Straight Cut Fry 10 kg / 22 lb | Member's Selection | $159.95 | true |
+| Member's Selection Frozen Boneless Salmon Portions with Skin 680 g / 1.5 lb | Member's Selection | $176.95 | true |
+| Member's Selection Straight Cut Fry 10 kg / 22 lb | Member's Selection | $162.95 | true |
 | Member's Selection Premium Smoked Turkey Breast 2 Units / 340 g / 12 oz | Member's Selection | $81.95 | true |
 | Member's Selection Cold Extracted Extra Virgin Olive Oil 2 L | Member's Selection | $134.95 | true |
 | Member's Selection Tuna in Water 6 Units / 136 g / 6 oz | Member's Selection | $63.95 | true |
 | Member's Selection Semi-sweet Chocolate Chips 2.04 kg / 72 oz | Member's Selection | $284.95 | true |
-| Member's Selection Sliced Smoked Bacon 2 Units / 680 g / 24 oz | Member's Selection | $176.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1394
-- **Price increases**: 788
-- **Price decreases**: 522
-- **Average increase**: 5.0%
+- **Total price changes**: 1431
+- **Price increases**: 812
+- **Price decreases**: 528
+- **Average increase**: 4.9%
 - **Average decrease**: -5.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Green pepper | $27.11 | $28.41 | $+1.30 | +4.8% | Increase |
-| Pillsbury Cookie Dough Mix 1.3 kg / 3 lb | $19.70 | $109.95 | $+90.25 | +458.1% | Increase |
-| Par Excellence Long Grain White Jasmine Rice 4 kg | $0.00 | $69.95 | $+69.95 | +100.0% | New |
-| Sundays Strawberry Cheesecake Ice Cream 3.78 L / 1 gal | $0.00 | $61.29 | $+61.29 | +100.0% | New |
-| Chilled Chicken Gizzard Tray Pack | $55.79 | $57.05 | $+1.26 | +2.3% | Increase |
-| Pork Belly with Skin Frozen Vacuum Packaged | $179.88 | $185.82 | $+5.94 | +3.3% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $178.65 | $198.53 | $+19.88 | +11.1% | Increase |
-| KFI Gluten-Free Curry and Coconut Sauce 2 Units / 695 g | $93.29 | $93.95 | $+0.66 | +0.7% | Increase |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $314.55 | $311.98 | $-2.57 | -0.8% | Decrease |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $154.94 | $154.15 | $-0.79 | -0.5% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $97.57 | $106.96 | $+9.39 | +9.6% | Increase |
-| Nutrina Chilled Whole Chicken Bag | $314.62 | $320.02 | $+5.40 | +1.7% | Increase |
-| Member’s Selection Freshly Prepared Holiday Cake | $99.95 | $88.95 | $-11.00 | -11.0% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $137.68 | $147.50 | $+9.82 | +7.1% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $77.65 | $80.66 | $+3.01 | +3.9% | Increase |
+| Florida's Natural Lemonade 2 Units 1.75 L / 59 oz | $89.95 | $94.95 | $+5.00 | +5.6% | Increase |
+| Montchevre Goat Cheese with Blueberry and Vanilla 298 g / 10.51 oz | $57.95 | $59.95 | $+2.00 | +3.5% | Increase |
+| Cariherb Madras Curry Powder 1.2 kg / 2.6 lb | $0.00 | $82.95 | $+82.95 | +100.0% | New |
+| Pepe's Marketing Value Pack of Peas and Dry Legumes 5 Units / 1 kg | $0.00 | $129.95 | $+129.95 | +100.0% | New |
+| Barefruit Sorrel Juice 2 L / 67 oz | $0.00 | $28.95 | $+28.95 | +100.0% | New |
+| Swiss Sorrel Drink 3 Units / 750 mL / 25.36 oz | $0.00 | $51.95 | $+51.95 | +100.0% | New |
+| After Eight Chocolate Coated Mints 300 g / 10.58 oz | $0.00 | $52.95 | $+52.95 | +100.0% | New |
+| Mowi Sweet Frozen Bourbon Salmon Portions 710 g / 1.56 lb | $0.00 | $200.95 | $+200.95 | +100.0% | New |
+| Sincerely Brigitte Trio Cheese with Guava 567 g / 20 oz | $107.95 | $109.95 | $+2.00 | +1.9% | Increase |
+| Member’s Selection Freshly Prepared Holiday Cake | $88.95 | $89.95 | $+1.00 | +1.1% | Increase |
+| Eve Dried Pigeon Peas 6 Units / 400 g / 14 oz | $51.95 | $53.95 | $+2.00 | +3.8% | Increase |
+| Concord Bakery Mini Corn Buns 12 Units | $48.95 | $51.95 | $+3.00 | +6.1% | Increase |
+| Chips Ahoy Chunky Chips Cookies 2 Units / 333 g / 11.7 oz | $107.95 | $102.95 | $-5.00 | -4.6% | Decrease |
+| Caribbean Foods Delight Curry Chicken Patties 10 Units / 142 g / 5 oz | $139.95 | $142.95 | $+3.00 | +2.1% | Increase |
+| Caribbean Food Delights Jamaican Style Cocktail Beef Patties 1.2 kg / 2.7 lb  | $139.95 | $142.95 | $+3.00 | +2.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,8 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Member's Selection Freshly Made Fried Chicken 8 Pieces | Member's Selection | $105.00 | 2025-10-23 |
+| Upper Crust Bakery Mini Soft and Creamy Brownie Pastries 32 Units | Upper Crust Bakery | $102.95 | 2025-10-23 |
 | Post Cereal Fruity Pebbles 1.07 kg / 38 oz | Post | $75.45 | 2025-10-22 |
 | Member's Selection Salad Tomato 1.5 kg / 3.5 lb | Member's Selection | $32.57 | 2025-10-22 |
 | Member's Selection Frozen Skin On Boneless Trout Fillet Vacuum Packaged Bag | Member's Selection | $207.41 | 2025-10-22 |
@@ -108,12 +110,15 @@
 | Bokchoy, 680 g / 1.3 lb |  | $32.95 | 2025-10-20 |
 | Samyang Four Cheese and Ramen Flavor Instant Noodle Soup 5 Units / 140 g | Samyang | $69.95 | 2025-10-20 |
 | Fresh Kiwi 907 g / 2 lb |  | $89.95 | 2025-10-20 |
-| Golden Harvest Stuffed Flounder Pacifica 340 g / 12 oz | Golden Harvest | $29.70 | 2025-10-17 |
-| Member's Selection Frozen Fruit Chunks 2.2 kg / 5 lb | Member's Selection | $129.95 | 2025-10-17 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Par Excellence Long Grain White Jasmine Rice 4 kg | Par Excellence | $69.95 | G10D03 |
-| Sundays Strawberry Cheesecake Ice Cream 3.78 L / 1 gal | Sundays | $61.29 | G10D03 |
+| Cariherb Madras Curry Powder 1.2 kg / 2.6 lb | Cariherb | $82.95 | G10D03 |
+| Pepe's Marketing Value Pack of Peas and Dry Legumes 5 Units / 1 kg | Pepe's Nature's Pride | $129.95 | G10D03 |
+| Barefruit Sorrel Juice 2 L / 67 oz | Barefruit | $28.95 | G10D03 |
+| Swiss Sorrel Drink 3 Units / 750 mL / 25.36 oz | Swiss | $51.95 | G10D03 |
+| After Eight Chocolate Coated Mints 300 g / 10.58 oz | After Eight | $52.95 | G10D03 |
+| Mowi Sweet Frozen Bourbon Salmon Portions 710 g / 1.56 lb | Mowi | $200.95 | G10D03 |
+| Pure Squeeze Assorted Flavors Sparkling Juice 12 Units / 330 mL / 11.2 oz | Pure Squeeze | $119.95 | G10D03 |
