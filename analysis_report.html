@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1135
-- **Total value**: $127,067.40
-- **Average price**: $111.95
+- **Total products scraped**: 1133
+- **Total value**: $127,025.71
+- **Average price**: $112.11
 
 ## Database Changes
-- **New products added**: 7
-- **Existing products updated**: 1128
-- **Price changes detected**: 30
+- **New products added**: 1
+- **Existing products updated**: 1132
+- **Price changes detected**: 43
 - **Stock/availability changes**: 12
-- **Discontinued products**: 2
+- **Discontinued products**: 3
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 187 |
-|  | 142 |
+|  | 141 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 12 |
@@ -34,15 +34,15 @@
 | Member's Selection Straight Cut Fry 10 kg / 22 lb | Member's Selection | $162.95 | true |
 | Member's Selection Premium Smoked Turkey Breast 2 Units / 340 g / 12 oz | Member's Selection | $81.95 | true |
 | Member's Selection Cold Extracted Extra Virgin Olive Oil 2 L | Member's Selection | $134.95 | true |
-| Member's Selection Tuna in Water 6 Units / 136 g / 6 oz | Member's Selection | $63.95 | true |
 | Member's Selection Semi-sweet Chocolate Chips 2.04 kg / 72 oz | Member's Selection | $284.95 | true |
+| Member's Selection Tuna in Water 6 Units / 136 g / 6 oz | Member's Selection | $63.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1431
-- **Price increases**: 812
-- **Price decreases**: 528
+- **Total price changes**: 1428
+- **Price increases**: 821
+- **Price decreases**: 517
 - **Average increase**: 4.9%
 - **Average decrease**: -5.1%
 
@@ -50,21 +50,21 @@
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Florida's Natural Lemonade 2 Units 1.75 L / 59 oz | $89.95 | $94.95 | $+5.00 | +5.6% | Increase |
-| Montchevre Goat Cheese with Blueberry and Vanilla 298 g / 10.51 oz | $57.95 | $59.95 | $+2.00 | +3.5% | Increase |
-| Cariherb Madras Curry Powder 1.2 kg / 2.6 lb | $0.00 | $82.95 | $+82.95 | +100.0% | New |
-| Pepe's Marketing Value Pack of Peas and Dry Legumes 5 Units / 1 kg | $0.00 | $129.95 | $+129.95 | +100.0% | New |
-| Barefruit Sorrel Juice 2 L / 67 oz | $0.00 | $28.95 | $+28.95 | +100.0% | New |
-| Swiss Sorrel Drink 3 Units / 750 mL / 25.36 oz | $0.00 | $51.95 | $+51.95 | +100.0% | New |
-| After Eight Chocolate Coated Mints 300 g / 10.58 oz | $0.00 | $52.95 | $+52.95 | +100.0% | New |
-| Mowi Sweet Frozen Bourbon Salmon Portions 710 g / 1.56 lb | $0.00 | $200.95 | $+200.95 | +100.0% | New |
-| Sincerely Brigitte Trio Cheese with Guava 567 g / 20 oz | $107.95 | $109.95 | $+2.00 | +1.9% | Increase |
-| Member’s Selection Freshly Prepared Holiday Cake | $88.95 | $89.95 | $+1.00 | +1.1% | Increase |
-| Eve Dried Pigeon Peas 6 Units / 400 g / 14 oz | $51.95 | $53.95 | $+2.00 | +3.8% | Increase |
-| Concord Bakery Mini Corn Buns 12 Units | $48.95 | $51.95 | $+3.00 | +6.1% | Increase |
-| Chips Ahoy Chunky Chips Cookies 2 Units / 333 g / 11.7 oz | $107.95 | $102.95 | $-5.00 | -4.6% | Decrease |
-| Caribbean Foods Delight Curry Chicken Patties 10 Units / 142 g / 5 oz | $139.95 | $142.95 | $+3.00 | +2.1% | Increase |
-| Caribbean Food Delights Jamaican Style Cocktail Beef Patties 1.2 kg / 2.7 lb  | $139.95 | $142.95 | $+3.00 | +2.1% | Increase |
+| Great Foods Hickory Smoked Turkey Ham | $0.00 | $249.95 | $+249.95 | +100.0% | New |
+| Jackson's Sweet Potato Chips 454 g / 16 oz | $77.29 | $79.95 | $+2.66 | +3.4% | Increase |
+| Mowi Sweet Frozen Bourbon Salmon Portions 710 g / 1.56 lb | $200.95 | $199.95 | $-1.00 | -0.5% | Decrease |
+| Macfoods Black Forest Ham 454 g / 1 lb | $44.95 | $45.95 | $+1.00 | +2.2% | Increase |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $311.98 | $318.97 | $+6.99 | +2.2% | Increase |
+| Erin Farm Chicken Salami 1 kg / 2.2 lb | $44.95 | $45.95 | $+1.00 | +2.2% | Increase |
+| Frozen Lamb Leg Whole Vacuum Packed | $347.21 | $347.78 | $+0.57 | +0.2% | Increase |
+| Golden Ray Margarine 6 Units / 227 g / 8 oz | $109.95 | $110.95 | $+1.00 | +0.9% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $147.50 | $148.10 | $+0.60 | +0.4% | Increase |
+| Erin Farm Back Bacon 500 g / 1.1 lb | $46.95 | $47.95 | $+1.00 | +2.1% | Increase |
+| Fresh Chicken Leg Quarters Tray | $92.61 | $92.71 | $+0.10 | +0.1% | Increase |
+| Kerrygold Butter Unsalted 454 g / 1 lb | $63.95 | $64.95 | $+1.00 | +1.6% | Increase |
+| Red Globe Grape 907 g / 2 lb | $69.95 | $59.95 | $-10.00 | -14.3% | Decrease |
+| Fresh Whole Chicken 2 Units | $104.57 | $105.27 | $+0.70 | +0.7% | Increase |
+| Refreshing Kiwi 453 g / 1 lb | $57.95 | $54.95 | $-3.00 | -5.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,9 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Nature Valley Wafers Crispy and Creamy Bars 20 Units / 36 g / 1.3 oz | Nature Valley | $139.95 | 2025-10-24 |
+| Red Grapes with Seeds 907 g / 2 lb |  | $59.45 | 2025-10-24 |
+| Setton Farms Dark Chocolate Covered Pistachios and Cranberries 680 g / 24 oz | Setton Farms | $129.95 | 2025-10-24 |
 | Member's Selection Freshly Made Fried Chicken 8 Pieces | Member's Selection | $105.00 | 2025-10-23 |
 | Upper Crust Bakery Mini Soft and Creamy Brownie Pastries 32 Units | Upper Crust Bakery | $102.95 | 2025-10-23 |
 | Post Cereal Fruity Pebbles 1.07 kg / 38 oz | Post | $75.45 | 2025-10-22 |
@@ -107,18 +110,9 @@
 | Member's Selection Frozen Skin On Boneless Trout Fillet Vacuum Packaged Bag | Member's Selection | $207.41 | 2025-10-22 |
 | Fresh Regular Tomato |  | $33.61 | 2025-10-20 |
 | Russet Potato 2.2 kg / 5 lb |  | $22.95 | 2025-10-20 |
-| Bokchoy, 680 g / 1.3 lb |  | $32.95 | 2025-10-20 |
-| Samyang Four Cheese and Ramen Flavor Instant Noodle Soup 5 Units / 140 g | Samyang | $69.95 | 2025-10-20 |
-| Fresh Kiwi 907 g / 2 lb |  | $89.95 | 2025-10-20 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Cariherb Madras Curry Powder 1.2 kg / 2.6 lb | Cariherb | $82.95 | G10D03 |
-| Pepe's Marketing Value Pack of Peas and Dry Legumes 5 Units / 1 kg | Pepe's Nature's Pride | $129.95 | G10D03 |
-| Barefruit Sorrel Juice 2 L / 67 oz | Barefruit | $28.95 | G10D03 |
-| Swiss Sorrel Drink 3 Units / 750 mL / 25.36 oz | Swiss | $51.95 | G10D03 |
-| After Eight Chocolate Coated Mints 300 g / 10.58 oz | After Eight | $52.95 | G10D03 |
-| Mowi Sweet Frozen Bourbon Salmon Portions 710 g / 1.56 lb | Mowi | $200.95 | G10D03 |
-| Pure Squeeze Assorted Flavors Sparkling Juice 12 Units / 330 mL / 11.2 oz | Pure Squeeze | $119.95 | G10D03 |
+| Great Foods Hickory Smoked Turkey Ham | Great Foods | $249.95 | G10D03 |
