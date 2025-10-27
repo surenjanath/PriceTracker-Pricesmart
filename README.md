@@ -182,22 +182,22 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1136
-- **Total value**: $127,232.57
-- **Average price**: $112.00
+- **Total products scraped**: 1137
+- **Total value**: $127,662.55
+- **Average price**: $112.28
 
 ## Database Changes
-- **New products added**: 3
-- **Existing products updated**: 1133
-- **Price changes detected**: 34
-- **Stock/availability changes**: 14
+- **New products added**: 0
+- **Existing products updated**: 1137
+- **Price changes detected**: 24
+- **Stock/availability changes**: 16
 - **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 187 |
+| Member's Selection | 188 |
 |  | 143 |
 | Badia | 18 |
 | Swiss | 14 |
@@ -221,31 +221,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1341
-- **Price increases**: 746
-- **Price decreases**: 509
-- **Average increase**: 5.0%
+- **Total price changes**: 1309
+- **Price increases**: 726
+- **Price decreases**: 499
+- **Average increase**: 5.1%
 - **Average decrease**: -5.2%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Pork Leg Frozen  | $0.00 | $66.33 | $+66.33 | +100.0% | New |
-| Mucci Farms Snack Cucumbers 681 g / 1.5 lb | $0.00 | $54.95 | $+54.95 | +100.0% | New |
-| Pork Belly with Skin Frozen Vacuum Packaged | $185.82 | $184.28 | $-1.54 | -0.8% | Decrease |
-| Frozen Lamb Leg Whole Vacuum Packed | $347.78 | $348.36 | $+0.58 | +0.2% | Increase |
-| Mini Potato 1.3 kg / 3 lb | $0.00 | $57.95 | $+57.95 | +100.0% | New |
-| Gouda Cheese Block | $87.79 | $87.66 | $-0.13 | -0.1% | Decrease |
-| Frozen Lamb Shoulder Chops Tray | $123.01 | $122.84 | $-0.17 | -0.1% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $93.41 | $93.50 | $+0.09 | +0.1% | Increase |
-| Fresh Ground Chicken Tray | $88.07 | $87.95 | $-0.12 | -0.1% | Decrease |
-| LAY'S Classic Toasted Chips 425.2 g / 15 oz | $39.95 | $19.70 | $-20.25 | -50.7% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Case | $1415.72 | $1420.93 | $+5.21 | +0.4% | Increase |
-| Dutch Potatoes 4.54 kg / 10 lb | $32.95 | $29.95 | $-3.00 | -9.1% | Decrease |
-| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $150.83 | $151.22 | $+0.39 | +0.3% | Increase |
-| Fresh Whole Chicken for Frying Bag | $263.41 | $263.26 | $-0.15 | -0.1% | Decrease |
-| Fresh Ground Chicken Meat Bag | $280.32 | $279.47 | $-0.85 | -0.3% | Decrease |
+| Frozen Lamb Shoulder Case | $1244.44 | $1253.54 | $+9.10 | +0.7% | Increase |
+| Pork Leg Frozen  | $66.33 | $66.63 | $+0.30 | +0.5% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $57.05 | $56.98 | $-0.07 | -0.1% | Decrease |
+| Pork Belly with Skin Frozen Vacuum Packaged | $184.28 | $185.82 | $+1.54 | +0.8% | Increase |
+| Nutrina Chilled Whole Chicken Bag | $320.02 | $320.17 | $+0.15 | +0.0% | Increase |
+| LAY'S Classic Toasted Chips 425.2 g / 15 oz | $19.70 | $39.95 | $+20.25 | +102.8% | Increase |
+| Fresh Whole Chicken 2 Units | $105.27 | $104.92 | $-0.35 | -0.3% | Decrease |
+| Frozen Boneless Skinless Chicken Breast Tray | $181.89 | $180.76 | $-1.13 | -0.6% | Decrease |
+| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $151.22 | $151.79 | $+0.57 | +0.4% | Increase |
+| Fresh Ground Chicken Meat Bag | $279.47 | $278.41 | $-1.06 | -0.4% | Decrease |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $75.41 | $75.29 | $-0.12 | -0.2% | Decrease |
+| Fine Choice Fresh Marinated Chicken Tray | $92.51 | $92.69 | $+0.18 | +0.2% | Increase |
+| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $158.13 | $157.50 | $-0.63 | -0.4% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $95.71 | $95.61 | $-0.10 | -0.1% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $86.77 | $86.90 | $+0.13 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -293,9 +293,4 @@ This project has recently gained unexpected attention. It was created for person
 | Russet Potato 2.2 kg / 5 lb |  | $22.95 | 2025-10-20 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Pork Leg Frozen  |  | $66.33 | G10D03 |
-| Mucci Farms Snack Cucumbers 681 g / 1.5 lb | Mucci Farms | $54.95 | G10D03 |
-| Mini Potato 1.3 kg / 3 lb |  | $57.95 | G10D03 |
+No new products added today.
