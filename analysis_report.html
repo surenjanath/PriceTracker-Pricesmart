@@ -2,15 +2,15 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1135
-- **Total value**: $127,061.86
-- **Average price**: $111.95
+- **Total value**: $127,102.15
+- **Average price**: $111.98
 
 ## Database Changes
-- **New products added**: 4
-- **Existing products updated**: 1131
-- **Price changes detected**: 41
-- **Stock/availability changes**: 24
-- **Discontinued products**: 7
+- **New products added**: 3
+- **Existing products updated**: 1132
+- **Price changes detected**: 31
+- **Stock/availability changes**: 17
+- **Discontinued products**: 3
 
 ## Top 5 Brands
 
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1354
-- **Price increases**: 748
-- **Price decreases**: 518
-- **Average increase**: 4.9%
-- **Average decrease**: -5.1%
+- **Total price changes**: 1334
+- **Price increases**: 735
+- **Price decreases**: 512
+- **Average increase**: 5.1%
+- **Average decrease**: -5.2%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Chicken Thighs Boneless Tray | $75.86 | $75.99 | $+0.13 | +0.2% | Increase |
-| Whole Striploin Fresh Vacuum Packed | $1121.70 | $1109.70 | $-12.00 | -1.1% | Decrease |
-| Chilled Boneless Beef Eye of Round, Case | $3878.01 | $3909.81 | $+31.80 | +0.8% | Increase |
-| Chilled Chicken Gizzard Tray Pack | $56.98 | $56.90 | $-0.08 | -0.1% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $198.53 | $202.05 | $+3.52 | +1.8% | Increase |
-| Noel Assorted Cookies 935 g | $0.00 | $172.95 | $+172.95 | +100.0% | New |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $106.96 | $108.19 | $+1.23 | +1.1% | Increase |
-| Nutrina Chilled Whole Chicken Bag | $320.17 | $320.46 | $+0.29 | +0.1% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $148.10 | $149.93 | $+1.83 | +1.2% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $73.46 | $73.56 | $+0.10 | +0.1% | Increase |
-| Grey Poupon Dijon Mustard 2 Units / 454 g / 16 oz  | $0.00 | $114.95 | $+114.95 | +100.0% | New |
-| Del Alba Mixed Nuts Christmas Edition 660 g / 23.3 oz | $0.00 | $96.95 | $+96.95 | +100.0% | New |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $93.50 | $93.59 | $+0.09 | +0.1% | Increase |
-| Frozen Sliced Turkey Drumsticks | $156.60 | $157.28 | $+0.68 | +0.4% | Increase |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $441.78 | $445.21 | $+3.43 | +0.8% | Increase |
+| Holiday Snacks Assorted Hot Potato Chips 12 Units | $0.00 | $49.95 | $+49.95 | +100.0% | New |
+| Donafe's Egg Free Chocolate Cake 10 to 12 Slices | $109.95 | $97.95 | $-12.00 | -10.9% | Decrease |
+| Donafe's Egg Free Carrot Cake 10 to 12 Slices | $151.95 | $134.95 | $-17.00 | -11.2% | Decrease |
+| Stauffers Snaps Crunchy Lemon-Flavored Cookies 397 g / 14 oz | $44.70 | $29.70 | $-15.00 | -33.6% | Decrease |
+| Mucci Farms Snack Cucumbers 681 g / 1.5 lb | $54.95 | $59.95 | $+5.00 | +9.1% | Increase |
+| Kiss Assorted Flavor Pastries 9 Units | $43.95 | $35.51 | $-8.44 | -19.2% | Decrease |
+| Bombolo Biscotti Italian Biscuit Collection | $0.00 | $83.95 | $+83.95 | +100.0% | New |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $149.93 | $149.47 | $-0.46 | -0.3% | Decrease |
+| Hershey's Cocoa Powder 652 g / 23 oz | $0.00 | $122.62 | $+122.62 | +100.0% | New |
+| Kiss Cream Cakes Snack Pack Variety 20 Units / 30 g / 1 oz | $28.45 | $23.96 | $-4.49 | -15.8% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $80.66 | $80.57 | $-0.09 | -0.1% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $93.59 | $93.68 | $+0.09 | +0.1% | Increase |
+| Frozen Sliced Turkey Drumsticks | $157.28 | $156.60 | $-0.68 | -0.4% | Decrease |
+| Anjous Pears 1.36 kg / 3 lb | $64.95 | $67.95 | $+3.00 | +4.6% | Increase |
+| Fresh Chicken Mixed Parts Tray | $92.43 | $92.54 | $+0.11 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,9 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Toblerone Christmas Chocolate Bar 360 g | Toblerone | $81.95 | 2025-10-28 |
+| Leclerc Summer Cookies with Raspberry and Berry Flavor 2 Units / 300 g | Leclerc | $19.70 | 2025-10-28 |
+| Nesquik Chocolate Drink 12 Units / 200 mL | Nesquik | $69.95 | 2025-10-28 |
 | Señor Rico Three Milks Flan 12 Units / 113 g / 4 oz | Señor Rico | $148.95 | 2025-10-27 |
 | Sunny D Tangy Original Orange Flavor Citrus Drink 2 Units / 1.89 L | SunnyD | $59.95 | 2025-10-27 |
 | Florida's Natural Lemonade 2 Units 1.75 L / 59 oz | Florida's Natural | $94.95 | 2025-10-27 |
@@ -107,15 +110,11 @@
 | Nestle Cereal of Assorted Flavors and Presentations 12 Units / 30 g | Nestle | $41.95 | 2025-10-27 |
 | Swiss Pasta Shells and Bow Ties 6 Units / 300 g | Swiss | $28.70 | 2025-10-27 |
 | Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2025-10-27 |
-| Nature Valley Wafers Crispy and Creamy Bars 20 Units / 36 g / 1.3 oz | Nature Valley | $139.95 | 2025-10-24 |
-| Setton Farms Dark Chocolate Covered Pistachios and Cranberries 680 g / 24 oz | Setton Farms | $129.95 | 2025-10-24 |
-| Member's Selection Freshly Made Fried Chicken 8 Pieces | Member's Selection | $105.00 | 2025-10-23 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Noel Assorted Cookies 935 g | Noel | $172.95 | G10D03 |
-| Grey Poupon Dijon Mustard 2 Units / 454 g / 16 oz  | Grey Poupon | $114.95 | G10D03 |
-| Del Alba Mixed Nuts Christmas Edition 660 g / 23.3 oz | Del Alba | $96.95 | G10D03 |
-| Member's Selection Trail Mix with Cranberries, Cashews, and Walnuts 850 g / 30 oz | Member's Selection | $119.95 | G10D03 |
+| Holiday Snacks Assorted Hot Potato Chips 12 Units | Holiday Snacks | $49.95 | G10D03 |
+| Bombolo Biscotti Italian Biscuit Collection | Bombolo Biscotti | $83.95 | G10D03 |
+| Hershey's Cocoa Powder 652 g / 23 oz | Hershey's | $122.62 | G10D03 |
