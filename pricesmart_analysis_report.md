@@ -1,22 +1,22 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1135
-- **Total value**: $127,102.15
-- **Average price**: $111.98
+- **Total products scraped**: 1137
+- **Total value**: $127,314.74
+- **Average price**: $111.97
 
 ## Database Changes
-- **New products added**: 3
-- **Existing products updated**: 1132
-- **Price changes detected**: 31
-- **Stock/availability changes**: 17
-- **Discontinued products**: 3
+- **New products added**: 2
+- **Existing products updated**: 1135
+- **Price changes detected**: 29
+- **Stock/availability changes**: 11
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 188 |
+| Member's Selection | 189 |
 |  | 144 |
 | Badia | 18 |
 | Swiss | 13 |
@@ -27,44 +27,44 @@
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Fratelli Beretta Italian Style Platter 340 g / 12 oz  | Fratelli Beretta | $77.95 | true |
-| Bella Contadina Italian Antipasto Mix 600 g / 21 oz | Bella Contadina | $77.95 | true |
 | Pure Squeeze Assorted Flavors Sparkling Juice 12 Units / 330 mL / 11.2 oz | Pure Squeeze | $119.95 | true |
+| Bella Contadina Italian Antipasto Mix 600 g / 21 oz | Bella Contadina | $77.95 | true |
 | Member's Selection Shredded Mozzarella Cheese 2.26 kg / 5 lb | Member's Selection | $126.95 | true |
 | Member's Selection Frozen Boneless Salmon Portions with Skin 680 g / 1.5 lb | Member's Selection | $174.95 | true |
 | Member's Selection Straight Cut Fry 10 kg / 22 lb | Member's Selection | $162.95 | true |
-| Member's Selection Premium Smoked Turkey Breast 2 Units / 340 g / 12 oz | Member's Selection | $81.95 | true |
 | Member's Selection Cold Extracted Extra Virgin Olive Oil 2 L | Member's Selection | $134.95 | true |
-| Member's Selection Semi-sweet Chocolate Chips 2.04 kg / 72 oz | Member's Selection | $284.95 | true |
+| Member's Selection Premium Smoked Turkey Breast 2 Units / 340 g / 12 oz | Member's Selection | $81.95 | true |
 | Member's Selection Tuna in Water 6 Units / 136 g / 6 oz | Member's Selection | $63.95 | true |
+| Member's Selection Sliced Smoked Bacon 2 Units / 680 g / 24 oz | Member's Selection | $176.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1334
-- **Price increases**: 735
-- **Price decreases**: 512
-- **Average increase**: 5.1%
+- **Total price changes**: 1336
+- **Price increases**: 731
+- **Price decreases**: 516
+- **Average increase**: 4.7%
 - **Average decrease**: -5.2%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Holiday Snacks Assorted Hot Potato Chips 12 Units | $0.00 | $49.95 | $+49.95 | +100.0% | New |
-| Donafe's Egg Free Chocolate Cake 10 to 12 Slices | $109.95 | $97.95 | $-12.00 | -10.9% | Decrease |
-| Donafe's Egg Free Carrot Cake 10 to 12 Slices | $151.95 | $134.95 | $-17.00 | -11.2% | Decrease |
-| Stauffers Snaps Crunchy Lemon-Flavored Cookies 397 g / 14 oz | $44.70 | $29.70 | $-15.00 | -33.6% | Decrease |
-| Mucci Farms Snack Cucumbers 681 g / 1.5 lb | $54.95 | $59.95 | $+5.00 | +9.1% | Increase |
-| Kiss Assorted Flavor Pastries 9 Units | $43.95 | $35.51 | $-8.44 | -19.2% | Decrease |
-| Bombolo Biscotti Italian Biscuit Collection | $0.00 | $83.95 | $+83.95 | +100.0% | New |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $149.93 | $149.47 | $-0.46 | -0.3% | Decrease |
-| Hershey's Cocoa Powder 652 g / 23 oz | $0.00 | $122.62 | $+122.62 | +100.0% | New |
-| Kiss Cream Cakes Snack Pack Variety 20 Units / 30 g / 1 oz | $28.45 | $23.96 | $-4.49 | -15.8% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $80.66 | $80.57 | $-0.09 | -0.1% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $93.59 | $93.68 | $+0.09 | +0.1% | Increase |
-| Frozen Sliced Turkey Drumsticks | $157.28 | $156.60 | $-0.68 | -0.4% | Decrease |
-| Anjous Pears 1.36 kg / 3 lb | $64.95 | $67.95 | $+3.00 | +4.6% | Increase |
-| Fresh Chicken Mixed Parts Tray | $92.43 | $92.54 | $+0.11 | +0.1% | Increase |
+| Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | $0.00 | $99.95 | $+99.95 | +100.0% | New |
+| Tanty Yvonne Banana Bread with Chocolate Chips | $31.95 | $28.40 | $-3.55 | -11.1% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $108.19 | $108.04 | $-0.15 | -0.1% | Decrease |
+| Fresh Start Grapefruit Juice 1.8 L / 60 oz | $39.95 | $35.51 | $-4.44 | -11.1% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $73.56 | $73.67 | $+0.11 | +0.1% | Increase |
+| Sugar Bowl Bakery Brownie Bites 16 Units | $61.95 | $55.07 | $-6.88 | -11.1% | Decrease |
+| Gouda Cheese Block | $87.66 | $87.52 | $-0.14 | -0.2% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $93.68 | $93.77 | $+0.09 | +0.1% | Increase |
+| Chilled Skinless Boneless Beef Ribeye Steak Vacuum Package Whole Piece | $1974.99 | $2023.85 | $+48.86 | +2.5% | Increase |
+| Fresh Chicken Mixed Parts Tray | $92.54 | $92.76 | $+0.22 | +0.2% | Increase |
+| Fresh Ground Chicken Tray | $87.95 | $87.60 | $-0.35 | -0.4% | Decrease |
+| Fresh Chicken Thighs Boneless Tray | $75.99 | $76.12 | $+0.13 | +0.2% | Increase |
+| Pork Chop with Bone Frozen Tray | $87.36 | $87.48 | $+0.12 | +0.1% | Increase |
+| Frozen Pork Belly Skin On Sliced Tray  | $119.75 | $118.03 | $-1.72 | -1.4% | Decrease |
+| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $156.62 | $156.24 | $-0.38 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -115,6 +115,5 @@
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Holiday Snacks Assorted Hot Potato Chips 12 Units | Holiday Snacks | $49.95 | G10D03 |
-| Bombolo Biscotti Italian Biscuit Collection | Bombolo Biscotti | $83.95 | G10D03 |
-| Hershey's Cocoa Powder 652 g / 23 oz | Hershey's | $122.62 | G10D03 |
+| Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $99.95 | G10D03 |
+| Member's Selection Tropical Trail Mix with Nuts and Dried Fruit 850 g / 30 oz | Member's Selection | $114.95 | G10D03 |
