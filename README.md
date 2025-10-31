@@ -182,22 +182,22 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1137
-- **Total value**: $127,314.74
-- **Average price**: $111.97
+- **Total products scraped**: 1138
+- **Total value**: $127,870.88
+- **Average price**: $112.36
 
 ## Database Changes
 - **New products added**: 2
-- **Existing products updated**: 1135
-- **Price changes detected**: 29
-- **Stock/availability changes**: 11
-- **Discontinued products**: 0
+- **Existing products updated**: 1136
+- **Price changes detected**: 90
+- **Stock/availability changes**: 17
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 189 |
+| Member's Selection | 190 |
 |  | 144 |
 | Badia | 18 |
 | Swiss | 13 |
@@ -208,44 +208,44 @@ This project has recently gained unexpected attention. It was created for person
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Fratelli Beretta Italian Style Platter 340 g / 12 oz  | Fratelli Beretta | $77.95 | true |
-| Pure Squeeze Assorted Flavors Sparkling Juice 12 Units / 330 mL / 11.2 oz | Pure Squeeze | $119.95 | true |
+| Pure Squeeze Assorted Flavors Sparkling Juice 12 Units / 330 mL / 11.2 oz | Pure Squeeze | $124.95 | true |
 | Bella Contadina Italian Antipasto Mix 600 g / 21 oz | Bella Contadina | $77.95 | true |
-| Member's Selection Shredded Mozzarella Cheese 2.26 kg / 5 lb | Member's Selection | $126.95 | true |
+| Member's Selection Shredded Mozzarella Cheese 2.26 kg / 5 lb | Member's Selection | $125.95 | true |
 | Member's Selection Frozen Boneless Salmon Portions with Skin 680 g / 1.5 lb | Member's Selection | $174.95 | true |
 | Member's Selection Straight Cut Fry 10 kg / 22 lb | Member's Selection | $162.95 | true |
 | Member's Selection Cold Extracted Extra Virgin Olive Oil 2 L | Member's Selection | $134.95 | true |
-| Member's Selection Premium Smoked Turkey Breast 2 Units / 340 g / 12 oz | Member's Selection | $81.95 | true |
+| Member's Selection Premium Smoked Turkey Breast 2 Units / 340 g / 12 oz | Member's Selection | $83.95 | true |
 | Member's Selection Tuna in Water 6 Units / 136 g / 6 oz | Member's Selection | $63.95 | true |
 | Member's Selection Sliced Smoked Bacon 2 Units / 680 g / 24 oz | Member's Selection | $176.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1336
-- **Price increases**: 731
-- **Price decreases**: 516
-- **Average increase**: 4.7%
+- **Total price changes**: 1428
+- **Price increases**: 794
+- **Price decreases**: 543
+- **Average increase**: 4.6%
 - **Average decrease**: -5.2%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | $0.00 | $99.95 | $+99.95 | +100.0% | New |
-| Tanty Yvonne Banana Bread with Chocolate Chips | $31.95 | $28.40 | $-3.55 | -11.1% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $108.19 | $108.04 | $-0.15 | -0.1% | Decrease |
-| Fresh Start Grapefruit Juice 1.8 L / 60 oz | $39.95 | $35.51 | $-4.44 | -11.1% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $73.56 | $73.67 | $+0.11 | +0.1% | Increase |
-| Sugar Bowl Bakery Brownie Bites 16 Units | $61.95 | $55.07 | $-6.88 | -11.1% | Decrease |
-| Gouda Cheese Block | $87.66 | $87.52 | $-0.14 | -0.2% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $93.68 | $93.77 | $+0.09 | +0.1% | Increase |
-| Chilled Skinless Boneless Beef Ribeye Steak Vacuum Package Whole Piece | $1974.99 | $2023.85 | $+48.86 | +2.5% | Increase |
-| Fresh Chicken Mixed Parts Tray | $92.54 | $92.76 | $+0.22 | +0.2% | Increase |
-| Fresh Ground Chicken Tray | $87.95 | $87.60 | $-0.35 | -0.4% | Decrease |
-| Fresh Chicken Thighs Boneless Tray | $75.99 | $76.12 | $+0.13 | +0.2% | Increase |
-| Pork Chop with Bone Frozen Tray | $87.36 | $87.48 | $+0.12 | +0.1% | Increase |
-| Frozen Pork Belly Skin On Sliced Tray  | $119.75 | $118.03 | $-1.72 | -1.4% | Decrease |
-| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $156.62 | $156.24 | $-0.38 | -0.2% | Decrease |
+| Prairie Farms 100% Dairy Free Milk 1.89 L / 64 oz | $56.95 | $57.95 | $+1.00 | +1.8% | Increase |
+| Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | $99.95 | $92.95 | $-7.00 | -7.0% | Decrease |
+| Badia All Purpose Marinade Seasoning 591 mL / 20 oz  | $21.95 | $20.95 | $-1.00 | -4.6% | Decrease |
+| Member's Selection Hickory Smoked Spiral Sliced Ham | $0.00 | $354.95 | $+354.95 | +100.0% | New |
+| Barefruit Sorrel Juice 2 L / 67 oz | $28.95 | $27.95 | $-1.00 | -3.5% | Decrease |
+| Fratelli Beretta Roll & Go Charcuterie Board 425 g / 15 oz | $108.95 | $109.95 | $+1.00 | +0.9% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $202.05 | $202.36 | $+0.31 | +0.2% | Increase |
+| Popsalot Gourmet Caramel Popcorn with Almonds 283 g / 10 oz | $0.00 | $87.95 | $+87.95 | +100.0% | New |
+| Ginger 680 g / 1.5 | $26.95 | $23.95 | $-3.00 | -11.1% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $108.04 | $107.88 | $-0.16 | -0.1% | Decrease |
+| Nestlé French Vanilla Flavored Coffee Cream 1.89 L / 64 oz | $69.95 | $72.95 | $+3.00 | +4.3% | Increase |
+| Gwaltney Chicken Bologna 2 Units / 567 g | $52.95 | $53.95 | $+1.00 | +1.9% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $149.47 | $149.93 | $+0.46 | +0.3% | Increase |
+| Hershey's Cocoa Powder 652 g / 23 oz | $122.62 | $121.95 | $-0.67 | -0.5% | Decrease |
+| Sincerely Brgitte Cheese with Truffle 453 g / 1.1 lb | $77.95 | $79.95 | $+2.00 | +2.6% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -281,6 +281,8 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Select Harvest Sweet and Smoked Barbecue Flavor Roasted Almonds 680 g / 1.5 lb | Select Harvest | $79.95 | 2025-10-30 |
+| Blueberries 170 g / 6 oz |  | $42.95 | 2025-10-30 |
 | Toblerone Christmas Chocolate Bar 360 g | Toblerone | $81.95 | 2025-10-28 |
 | Leclerc Summer Cookies with Raspberry and Berry Flavor 2 Units / 300 g | Leclerc | $19.70 | 2025-10-28 |
 | Nesquik Chocolate Drink 12 Units / 200 mL | Nesquik | $69.95 | 2025-10-28 |
@@ -289,12 +291,10 @@ This project has recently gained unexpected attention. It was created for person
 | Florida's Natural Lemonade 2 Units 1.75 L / 59 oz | Florida's Natural | $94.95 | 2025-10-27 |
 | Great Foods Hickory Smoked Turkey Ham | Great Foods | $249.95 | 2025-10-27 |
 | Nestle Cereal of Assorted Flavors and Presentations 12 Units / 30 g | Nestle | $41.95 | 2025-10-27 |
-| Swiss Pasta Shells and Bow Ties 6 Units / 300 g | Swiss | $28.70 | 2025-10-27 |
-| Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2025-10-27 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $99.95 | G10D03 |
-| Member's Selection Tropical Trail Mix with Nuts and Dried Fruit 850 g / 30 oz | Member's Selection | $114.95 | G10D03 |
+| Member's Selection Hickory Smoked Spiral Sliced Ham | Member's Selection | $354.95 | G10D03 |
+| Popsalot Gourmet Caramel Popcorn with Almonds 283 g / 10 oz | Popsalot Gourmet | $87.95 | G10D03 |
