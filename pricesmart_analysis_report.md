@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1138
-- **Total value**: $127,870.88
-- **Average price**: $112.36
+- **Total products scraped**: 1142
+- **Total value**: $128,325.26
+- **Average price**: $112.37
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1136
-- **Price changes detected**: 90
+- **New products added**: 3
+- **Existing products updated**: 1139
+- **Price changes detected**: 44
 - **Stock/availability changes**: 17
-- **Discontinued products**: 2
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -33,38 +33,38 @@
 | Member's Selection Frozen Boneless Salmon Portions with Skin 680 g / 1.5 lb | Member's Selection | $174.95 | true |
 | Member's Selection Straight Cut Fry 10 kg / 22 lb | Member's Selection | $162.95 | true |
 | Member's Selection Cold Extracted Extra Virgin Olive Oil 2 L | Member's Selection | $134.95 | true |
-| Member's Selection Premium Smoked Turkey Breast 2 Units / 340 g / 12 oz | Member's Selection | $83.95 | true |
 | Member's Selection Tuna in Water 6 Units / 136 g / 6 oz | Member's Selection | $63.95 | true |
-| Member's Selection Sliced Smoked Bacon 2 Units / 680 g / 24 oz | Member's Selection | $176.95 | true |
+| Member's Selection Premium Smoked Turkey Breast 2 Units / 340 g / 12 oz | Member's Selection | $83.95 | true |
+| Member's Selection Semi-sweet Chocolate Chips 2.04 kg / 72 oz | Member's Selection | $294.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1428
-- **Price increases**: 794
-- **Price decreases**: 543
-- **Average increase**: 4.6%
+- **Total price changes**: 1426
+- **Price increases**: 804
+- **Price decreases**: 536
+- **Average increase**: 4.7%
 - **Average decrease**: -5.2%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Prairie Farms 100% Dairy Free Milk 1.89 L / 64 oz | $56.95 | $57.95 | $+1.00 | +1.8% | Increase |
-| Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | $99.95 | $92.95 | $-7.00 | -7.0% | Decrease |
-| Badia All Purpose Marinade Seasoning 591 mL / 20 oz  | $21.95 | $20.95 | $-1.00 | -4.6% | Decrease |
-| Member's Selection Hickory Smoked Spiral Sliced Ham | $0.00 | $354.95 | $+354.95 | +100.0% | New |
-| Barefruit Sorrel Juice 2 L / 67 oz | $28.95 | $27.95 | $-1.00 | -3.5% | Decrease |
-| Fratelli Beretta Roll & Go Charcuterie Board 425 g / 15 oz | $108.95 | $109.95 | $+1.00 | +0.9% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $202.05 | $202.36 | $+0.31 | +0.2% | Increase |
-| Popsalot Gourmet Caramel Popcorn with Almonds 283 g / 10 oz | $0.00 | $87.95 | $+87.95 | +100.0% | New |
-| Ginger 680 g / 1.5 | $26.95 | $23.95 | $-3.00 | -11.1% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $108.04 | $107.88 | $-0.16 | -0.1% | Decrease |
-| Nestlé French Vanilla Flavored Coffee Cream 1.89 L / 64 oz | $69.95 | $72.95 | $+3.00 | +4.3% | Increase |
-| Gwaltney Chicken Bologna 2 Units / 567 g | $52.95 | $53.95 | $+1.00 | +1.9% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $149.47 | $149.93 | $+0.46 | +0.3% | Increase |
-| Hershey's Cocoa Powder 652 g / 23 oz | $122.62 | $121.95 | $-0.67 | -0.5% | Decrease |
-| Sincerely Brgitte Cheese with Truffle 453 g / 1.1 lb | $77.95 | $79.95 | $+2.00 | +2.6% | Increase |
+| Nature's Pride Red Beans 1.8 kg / 4 lb | $44.95 | $62.95 | $+18.00 | +40.0% | Increase |
+| S&W Thick and Rich Tomato Paste 3.15 kg / 6.9 lb | $0.00 | $97.95 | $+97.95 | +100.0% | New |
+| Svelty Slim 99.5% Fat-Free Skimmed Milk 3 Units / 1 L | $0.00 | $48.95 | $+48.95 | +100.0% | New |
+| Ginseng Up Mixed Bottles 24 Units/275 ml | $151.95 | $152.95 | $+1.00 | +0.7% | Increase |
+| Dewlands Natural Lychee and Apple Juice 3 Units / 1 L | $0.00 | $59.95 | $+59.95 | +100.0% | New |
+| Frozen Pork Belly Skin On Sliced Tray  | $117.05 | $118.03 | $+0.98 | +0.8% | Increase |
+| Frozen Imported Pork Leg Slices | $86.00 | $86.64 | $+0.64 | +0.7% | Increase |
+| Mucci Farms Snack Cucumbers 681 g / 1.5 lb | $59.95 | $64.95 | $+5.00 | +8.3% | Increase |
+| Member’s Selection Freshly Baked Chocolate and Vanilla Cake 8 to 10 Slices | $71.07 | $69.95 | $-1.12 | -1.6% | Decrease |
+| Fresh Start Grapefruit Juice 1.8 L / 60 oz | $35.51 | $35.95 | $+0.44 | +1.2% | Increase |
+| Nutrina Chilled Whole Chicken Bag | $320.46 | $320.76 | $+0.30 | +0.1% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $149.93 | $150.08 | $+0.15 | +0.1% | Increase |
+| Fresh Red Apples 1.36 kg / 3 lb | $49.95 | $57.95 | $+8.00 | +16.0% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $80.57 | $80.49 | $-0.08 | -0.1% | Decrease |
+| Barista Coffee Salty Caramel-Flavored Cappuccino Mix 2 Units / 320 g / 11.2 oz | $79.95 | $71.07 | $-8.88 | -11.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -115,5 +115,6 @@
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Member's Selection Hickory Smoked Spiral Sliced Ham | Member's Selection | $354.95 | G10D03 |
-| Popsalot Gourmet Caramel Popcorn with Almonds 283 g / 10 oz | Popsalot Gourmet | $87.95 | G10D03 |
+| S&W Thick and Rich Tomato Paste 3.15 kg / 6.9 lb | S&W | $97.95 | G10D03 |
+| Svelty Slim 99.5% Fat-Free Skimmed Milk 3 Units / 1 L | Svelty | $48.95 | G10D03 |
+| Dewlands Natural Lychee and Apple Juice 3 Units / 1 L | Dewlands | $59.95 | G10D03 |
