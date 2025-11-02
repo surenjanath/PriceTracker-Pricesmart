@@ -182,15 +182,15 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1142
-- **Total value**: $128,325.26
-- **Average price**: $112.37
+- **Total products scraped**: 1144
+- **Total value**: $128,524.72
+- **Average price**: $112.35
 
 ## Database Changes
-- **New products added**: 3
-- **Existing products updated**: 1139
-- **Price changes detected**: 44
-- **Stock/availability changes**: 17
+- **New products added**: 2
+- **Existing products updated**: 1142
+- **Price changes detected**: 45
+- **Stock/availability changes**: 23
 - **Discontinued products**: 0
 
 ## Top 5 Brands
@@ -207,45 +207,45 @@ This project has recently gained unexpected attention. It was created for person
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Fratelli Beretta Italian Style Platter 340 g / 12 oz  | Fratelli Beretta | $77.95 | true |
 | Pure Squeeze Assorted Flavors Sparkling Juice 12 Units / 330 mL / 11.2 oz | Pure Squeeze | $124.95 | true |
+| Fratelli Beretta Italian Style Platter 340 g / 12 oz  | Fratelli Beretta | $77.95 | true |
 | Bella Contadina Italian Antipasto Mix 600 g / 21 oz | Bella Contadina | $77.95 | true |
 | Member's Selection Shredded Mozzarella Cheese 2.26 kg / 5 lb | Member's Selection | $125.95 | true |
 | Member's Selection Frozen Boneless Salmon Portions with Skin 680 g / 1.5 lb | Member's Selection | $174.95 | true |
 | Member's Selection Straight Cut Fry 10 kg / 22 lb | Member's Selection | $162.95 | true |
 | Member's Selection Cold Extracted Extra Virgin Olive Oil 2 L | Member's Selection | $134.95 | true |
-| Member's Selection Tuna in Water 6 Units / 136 g / 6 oz | Member's Selection | $63.95 | true |
 | Member's Selection Premium Smoked Turkey Breast 2 Units / 340 g / 12 oz | Member's Selection | $83.95 | true |
+| Member's Selection Tuna in Water 6 Units / 136 g / 6 oz | Member's Selection | $63.95 | true |
 | Member's Selection Semi-sweet Chocolate Chips 2.04 kg / 72 oz | Member's Selection | $294.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1426
-- **Price increases**: 804
-- **Price decreases**: 536
-- **Average increase**: 4.7%
-- **Average decrease**: -5.2%
+- **Total price changes**: 1388
+- **Price increases**: 778
+- **Price decreases**: 523
+- **Average increase**: 4.8%
+- **Average decrease**: -5.3%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Nature's Pride Red Beans 1.8 kg / 4 lb | $44.95 | $62.95 | $+18.00 | +40.0% | Increase |
-| S&W Thick and Rich Tomato Paste 3.15 kg / 6.9 lb | $0.00 | $97.95 | $+97.95 | +100.0% | New |
-| Svelty Slim 99.5% Fat-Free Skimmed Milk 3 Units / 1 L | $0.00 | $48.95 | $+48.95 | +100.0% | New |
-| Ginseng Up Mixed Bottles 24 Units/275 ml | $151.95 | $152.95 | $+1.00 | +0.7% | Increase |
-| Dewlands Natural Lychee and Apple Juice 3 Units / 1 L | $0.00 | $59.95 | $+59.95 | +100.0% | New |
-| Frozen Pork Belly Skin On Sliced Tray  | $117.05 | $118.03 | $+0.98 | +0.8% | Increase |
-| Frozen Imported Pork Leg Slices | $86.00 | $86.64 | $+0.64 | +0.7% | Increase |
-| Mucci Farms Snack Cucumbers 681 g / 1.5 lb | $59.95 | $64.95 | $+5.00 | +8.3% | Increase |
-| Member’s Selection Freshly Baked Chocolate and Vanilla Cake 8 to 10 Slices | $71.07 | $69.95 | $-1.12 | -1.6% | Decrease |
-| Fresh Start Grapefruit Juice 1.8 L / 60 oz | $35.51 | $35.95 | $+0.44 | +1.2% | Increase |
-| Nutrina Chilled Whole Chicken Bag | $320.46 | $320.76 | $+0.30 | +0.1% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $149.93 | $150.08 | $+0.15 | +0.1% | Increase |
-| Fresh Red Apples 1.36 kg / 3 lb | $49.95 | $57.95 | $+8.00 | +16.0% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $80.57 | $80.49 | $-0.08 | -0.1% | Decrease |
-| Barista Coffee Salty Caramel-Flavored Cappuccino Mix 2 Units / 320 g / 11.2 oz | $79.95 | $71.07 | $-8.88 | -11.1% | Decrease |
+| Frozen Pork Belly Skin On Vacuum Packed | $503.25 | $470.00 | $-33.25 | -6.6% | Decrease |
+| Frozen Lamb Shoulder Case | $1253.54 | $1292.50 | $+38.96 | +3.1% | Increase |
+| Dare Viva Puffs Candy Cane 2 Units / 300 g | $0.00 | $49.95 | $+49.95 | +100.0% | New |
+| Tanty Yvonne Banana Bread with Chocolate Chips | $28.40 | $27.95 | $-0.45 | -1.6% | Decrease |
+| Food With Purpose Sparkling Tea Infused with Fruit Juice - Sugar Free 12 Units / 250 mL / 8.5 oz | $0.00 | $114.95 | $+114.95 | +100.0% | New |
+| Kiss Assorted Flavor Pastries 9 Units | $35.51 | $39.95 | $+4.44 | +12.5% | Increase |
+| Frozen Pork Belly Skin On Sliced Tray  | $118.03 | $119.51 | $+1.48 | +1.3% | Increase |
+| Frozen Imported Pork Leg Slices | $86.64 | $86.86 | $+0.22 | +0.3% | Increase |
+| Mini Sweet Peppers 454 g / 1 lb | $27.95 | $32.95 | $+5.00 | +17.9% | Increase |
+| Sugar Bowl Bakery Brownie Bites 16 Units | $55.07 | $55.95 | $+0.88 | +1.6% | Increase |
+| Fresh Melon | $42.95 | $44.95 | $+2.00 | +4.7% | Increase |
+| Mini Potato 1.3 kg / 3 lb | $57.95 | $49.95 | $-8.00 | -13.8% | Decrease |
+| Pork Belly with Skin Frozen Vacuum Packaged | $185.82 | $186.48 | $+0.66 | +0.4% | Increase |
+| Orchard Party Mix Orange Juice 3 Units / 946 mL / 32 oz | $105.95 | $96.95 | $-9.00 | -8.5% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $80.49 | $80.66 | $+0.17 | +0.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -296,6 +296,5 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| S&W Thick and Rich Tomato Paste 3.15 kg / 6.9 lb | S&W | $97.95 | G10D03 |
-| Svelty Slim 99.5% Fat-Free Skimmed Milk 3 Units / 1 L | Svelty | $48.95 | G10D03 |
-| Dewlands Natural Lychee and Apple Juice 3 Units / 1 L | Dewlands | $59.95 | G10D03 |
+| Dare Viva Puffs Candy Cane 2 Units / 300 g | Dare | $49.95 | G10D03 |
+| Food With Purpose Sparkling Tea Infused with Fruit Juice - Sugar Free 12 Units / 250 mL / 8.5 oz | Food with Purpose | $114.95 | G10D03 |
