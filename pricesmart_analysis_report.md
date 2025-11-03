@@ -1,15 +1,15 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1144
-- **Total value**: $128,524.72
-- **Average price**: $112.35
+- **Total products scraped**: 1145
+- **Total value**: $128,708.68
+- **Average price**: $112.41
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1142
-- **Price changes detected**: 45
-- **Stock/availability changes**: 23
+- **New products added**: 1
+- **Existing products updated**: 1144
+- **Price changes detected**: 62
+- **Stock/availability changes**: 25
 - **Discontinued products**: 0
 
 ## Top 5 Brands
@@ -32,39 +32,39 @@
 | Member's Selection Shredded Mozzarella Cheese 2.26 kg / 5 lb | Member's Selection | $125.95 | true |
 | Member's Selection Frozen Boneless Salmon Portions with Skin 680 g / 1.5 lb | Member's Selection | $174.95 | true |
 | Member's Selection Straight Cut Fry 10 kg / 22 lb | Member's Selection | $162.95 | true |
-| Member's Selection Cold Extracted Extra Virgin Olive Oil 2 L | Member's Selection | $134.95 | true |
-| Member's Selection Premium Smoked Turkey Breast 2 Units / 340 g / 12 oz | Member's Selection | $83.95 | true |
 | Member's Selection Tuna in Water 6 Units / 136 g / 6 oz | Member's Selection | $63.95 | true |
+| Member's Selection Cold Extracted Extra Virgin Olive Oil 2 L | Member's Selection | $134.95 | true |
 | Member's Selection Semi-sweet Chocolate Chips 2.04 kg / 72 oz | Member's Selection | $294.95 | true |
+| Member's Selection Premium Smoked Turkey Breast 2 Units / 340 g / 12 oz | Member's Selection | $83.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1388
-- **Price increases**: 778
-- **Price decreases**: 523
+- **Total price changes**: 1391
+- **Price increases**: 774
+- **Price decreases**: 535
 - **Average increase**: 4.8%
-- **Average decrease**: -5.3%
+- **Average decrease**: -5.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Frozen Pork Belly Skin On Vacuum Packed | $503.25 | $470.00 | $-33.25 | -6.6% | Decrease |
-| Frozen Lamb Shoulder Case | $1253.54 | $1292.50 | $+38.96 | +3.1% | Increase |
-| Dare Viva Puffs Candy Cane 2 Units / 300 g | $0.00 | $49.95 | $+49.95 | +100.0% | New |
-| Tanty Yvonne Banana Bread with Chocolate Chips | $28.40 | $27.95 | $-0.45 | -1.6% | Decrease |
-| Food With Purpose Sparkling Tea Infused with Fruit Juice - Sugar Free 12 Units / 250 mL / 8.5 oz | $0.00 | $114.95 | $+114.95 | +100.0% | New |
-| Kiss Assorted Flavor Pastries 9 Units | $35.51 | $39.95 | $+4.44 | +12.5% | Increase |
-| Frozen Pork Belly Skin On Sliced Tray  | $118.03 | $119.51 | $+1.48 | +1.3% | Increase |
-| Frozen Imported Pork Leg Slices | $86.64 | $86.86 | $+0.22 | +0.3% | Increase |
-| Mini Sweet Peppers 454 g / 1 lb | $27.95 | $32.95 | $+5.00 | +17.9% | Increase |
-| Sugar Bowl Bakery Brownie Bites 16 Units | $55.07 | $55.95 | $+0.88 | +1.6% | Increase |
-| Fresh Melon | $42.95 | $44.95 | $+2.00 | +4.7% | Increase |
-| Mini Potato 1.3 kg / 3 lb | $57.95 | $49.95 | $-8.00 | -13.8% | Decrease |
-| Pork Belly with Skin Frozen Vacuum Packaged | $185.82 | $186.48 | $+0.66 | +0.4% | Increase |
-| Orchard Party Mix Orange Juice 3 Units / 946 mL / 32 oz | $105.95 | $96.95 | $-9.00 | -8.5% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $80.49 | $80.66 | $+0.17 | +0.2% | Increase |
+| Green pepper | $28.41 | $25.87 | $-2.54 | -8.9% | Decrease |
+| Fresh Chicken Wings Tray | $94.24 | $93.82 | $-0.42 | -0.4% | Decrease |
+| Fresh Chicken Breast Boneless Skinless Tray | $90.91 | $90.75 | $-0.16 | -0.2% | Decrease |
+| Frozen Pork Belly Skin On Vacuum Packed | $470.00 | $448.02 | $-21.98 | -4.7% | Decrease |
+| Nescafé Classic Instant Coffee 190 g + Mug | $0.00 | $64.95 | $+64.95 | +100.0% | New |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $154.15 | $152.35 | $-1.80 | -1.2% | Decrease |
+| Frozen Pork Belly Skin On Sliced Tray  | $119.51 | $119.75 | $+0.24 | +0.2% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $202.36 | $202.05 | $-0.31 | -0.2% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $107.88 | $106.17 | $-1.71 | -1.6% | Decrease |
+| Frozen Imported Pork Leg Slices | $86.86 | $86.64 | $-0.22 | -0.3% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $150.08 | $148.71 | $-1.37 | -0.9% | Decrease |
+| Nutrina Chilled Whole Chicken Bag | $320.76 | $325.11 | $+4.35 | +1.4% | Increase |
+| Ginger 680 g / 1.5 | $23.95 | $22.95 | $-1.00 | -4.2% | Decrease |
+| Frozen Lamb Leg Whole Vacuum Packed | $348.36 | $352.97 | $+4.61 | +1.3% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $73.67 | $73.56 | $-0.11 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -115,5 +115,4 @@
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Dare Viva Puffs Candy Cane 2 Units / 300 g | Dare | $49.95 | G10D03 |
-| Food With Purpose Sparkling Tea Infused with Fruit Juice - Sugar Free 12 Units / 250 mL / 8.5 oz | Food with Purpose | $114.95 | G10D03 |
+| Nescafé Classic Instant Coffee 190 g + Mug | Nescafé | $64.95 | G10D03 |
