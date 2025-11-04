@@ -2,15 +2,15 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1145
-- **Total value**: $128,708.68
-- **Average price**: $112.41
+- **Total value**: $129,127.29
+- **Average price**: $112.77
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1144
-- **Price changes detected**: 62
-- **Stock/availability changes**: 25
-- **Discontinued products**: 0
+- **New products added**: 3
+- **Existing products updated**: 1142
+- **Price changes detected**: 56
+- **Stock/availability changes**: 17
+- **Discontinued products**: 3
 
 ## Top 5 Brands
 
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1391
-- **Price increases**: 774
-- **Price decreases**: 535
-- **Average increase**: 4.8%
-- **Average decrease**: -5.0%
+- **Total price changes**: 1450
+- **Price increases**: 803
+- **Price decreases**: 562
+- **Average increase**: 5.1%
+- **Average decrease**: -5.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Green pepper | $28.41 | $25.87 | $-2.54 | -8.9% | Decrease |
-| Fresh Chicken Wings Tray | $94.24 | $93.82 | $-0.42 | -0.4% | Decrease |
-| Fresh Chicken Breast Boneless Skinless Tray | $90.91 | $90.75 | $-0.16 | -0.2% | Decrease |
-| Frozen Pork Belly Skin On Vacuum Packed | $470.00 | $448.02 | $-21.98 | -4.7% | Decrease |
-| Nescafé Classic Instant Coffee 190 g + Mug | $0.00 | $64.95 | $+64.95 | +100.0% | New |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $154.15 | $152.35 | $-1.80 | -1.2% | Decrease |
-| Frozen Pork Belly Skin On Sliced Tray  | $119.51 | $119.75 | $+0.24 | +0.2% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $202.36 | $202.05 | $-0.31 | -0.2% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $107.88 | $106.17 | $-1.71 | -1.6% | Decrease |
-| Frozen Imported Pork Leg Slices | $86.86 | $86.64 | $-0.22 | -0.3% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $150.08 | $148.71 | $-1.37 | -0.9% | Decrease |
-| Nutrina Chilled Whole Chicken Bag | $320.76 | $325.11 | $+4.35 | +1.4% | Increase |
-| Ginger 680 g / 1.5 | $23.95 | $22.95 | $-1.00 | -4.2% | Decrease |
-| Frozen Lamb Leg Whole Vacuum Packed | $348.36 | $352.97 | $+4.61 | +1.3% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $73.67 | $73.56 | $-0.11 | -0.1% | Decrease |
+| Fresh Chicken Thighs Boneless Tray | $77.16 | $77.42 | $+0.26 | +0.3% | Increase |
+| Pringles Variety Snack 48 Units | $170.95 | $209.95 | $+39.00 | +22.8% | Increase |
+| Chuckanut Bay Chocalate Covered Cheesecake Bites 634 g / 1.4 lb | $0.00 | $139.95 | $+139.95 | +100.0% | New |
+| Green pepper | $0.00 | $39.09 | $+39.09 | +100.0% | New |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $318.97 | $322.28 | $+3.31 | +1.0% | Increase |
+| Frozen Pork Belly Skin On Sliced Tray  | $119.75 | $120.98 | $+1.23 | +1.0% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $106.17 | $106.01 | $-0.16 | -0.2% | Decrease |
+| Frozen Imported Pork Leg Slices | $86.64 | $86.00 | $-0.64 | -0.7% | Decrease |
+| Nutrina Chilled Whole Chicken Bag | $325.11 | $324.51 | $-0.60 | -0.2% | Decrease |
+| Sundays Peanut Ice Cream 3.78 L / 128 oz | $58.95 | $69.95 | $+11.00 | +18.7% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $73.56 | $73.46 | $-0.10 | -0.1% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $81.60 | $81.69 | $+0.09 | +0.1% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $95.38 | $95.47 | $+0.09 | +0.1% | Increase |
+| Pascual Assorted Yogurt 8 Units / 125 g | $57.95 | $48.95 | $-9.00 | -15.5% | Decrease |
+| Brunswick Canned Mackerel in Tomato Sauce 3 Units / 425 g | $27.95 | $34.95 | $+7.00 | +25.0% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,9 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Tropicland Blueberries 1.36 kg / 48 oz | Tropicland | $87.95 | 2025-11-03 |
+| Kellogg's Family Favorites Mix Pack 40 Units | Kellogg's | $97.70 | 2025-11-03 |
+| Fresh Cantaloupe Melon |  | $39.95 | 2025-11-03 |
 | Select Harvest Sweet and Smoked Barbecue Flavor Roasted Almonds 680 g / 1.5 lb | Select Harvest | $79.95 | 2025-10-30 |
 | Blueberries 170 g / 6 oz |  | $42.95 | 2025-10-30 |
 | Toblerone Christmas Chocolate Bar 360 g | Toblerone | $81.95 | 2025-10-28 |
@@ -107,12 +110,11 @@
 | Nesquik Chocolate Drink 12 Units / 200 mL | Nesquik | $69.95 | 2025-10-28 |
 | Señor Rico Three Milks Flan 12 Units / 113 g / 4 oz | Señor Rico | $148.95 | 2025-10-27 |
 | Sunny D Tangy Original Orange Flavor Citrus Drink 2 Units / 1.89 L | SunnyD | $59.95 | 2025-10-27 |
-| Florida's Natural Lemonade 2 Units 1.75 L / 59 oz | Florida's Natural | $94.95 | 2025-10-27 |
-| Great Foods Hickory Smoked Turkey Ham | Great Foods | $249.95 | 2025-10-27 |
-| Nestle Cereal of Assorted Flavors and Presentations 12 Units / 30 g | Nestle | $41.95 | 2025-10-27 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Nescafé Classic Instant Coffee 190 g + Mug | Nescafé | $64.95 | G10D03 |
+| Chuckanut Bay Chocalate Covered Cheesecake Bites 634 g / 1.4 lb | Chuckanut Bay | $139.95 | G10D03 |
+| Green pepper |  | $39.09 | G10D03 |
+| Butterball Whole Turkey 4.5 kg - 5.4 kg / 10 lb - 12 lb | Butterball | $289.95 | G10D03 |
