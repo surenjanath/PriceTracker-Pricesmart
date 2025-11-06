@@ -183,21 +183,21 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1144
-- **Total value**: $129,069.24
-- **Average price**: $112.82
+- **Total value**: $129,014.26
+- **Average price**: $112.77
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1144
-- **Price changes detected**: 25
-- **Stock/availability changes**: 37
+- **New products added**: 1
+- **Existing products updated**: 1143
+- **Price changes detected**: 23
+- **Stock/availability changes**: 17
 - **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 190 |
+| Member's Selection | 189 |
 |  | 144 |
 | Badia | 18 |
 | Swiss | 13 |
@@ -207,45 +207,45 @@ This project has recently gained unexpected attention. It was created for person
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
+| Member's Selection Trail Mix with Cranberries, Cashews, and Walnuts 850 g / 30 oz | Member's Selection | $122.95 | true |
+| Member's Selection Mild Cheddar Cheese 907 g / 2 lb | Member's Selection | $59.95 | true |
+| Member's Selection Tropical Trail Mix with Nuts and Dried Fruit 850 g / 30 oz | Member's Selection | $119.95 | true |
 | Pure Squeeze Assorted Flavors Sparkling Juice 12 Units / 330 mL / 11.2 oz | Pure Squeeze | $124.95 | true |
 | Fratelli Beretta Italian Style Platter 340 g / 12 oz  | Fratelli Beretta | $77.95 | true |
-| Bella Contadina Italian Antipasto Mix 600 g / 21 oz | Bella Contadina | $77.95 | true |
-| Member's Selection Shredded Mozzarella Cheese 2.26 kg / 5 lb | Member's Selection | $125.95 | true |
-| Member's Selection Frozen Boneless Salmon Portions with Skin 680 g / 1.5 lb | Member's Selection | $174.95 | true |
-| Member's Selection Tuna in Water 6 Units / 136 g / 6 oz | Member's Selection | $63.95 | true |
-| Member's Selection Straight Cut Fry 10 kg / 22 lb | Member's Selection | $162.95 | true |
-| Member's Selection Cold Extracted Extra Virgin Olive Oil 2 L | Member's Selection | $134.95 | true |
-| Member's Selection Semi-sweet Chocolate Chips 2.04 kg / 72 oz | Member's Selection | $294.95 | true |
-| Member's Selection Premium Smoked Turkey Breast 2 Units / 340 g / 12 oz | Member's Selection | $83.95 | true |
+| Food With Purpose Sparkling Tea Infused with Fruit Juice - Sugar Free 12 Units / 250 mL / 8.5 oz | Food with Purpose | $114.95 | true |
+| Quaker Quick Oats 2 Units /  1.13 kg / 40 oz | Quaker | $88.95 | true |
+| Hershey's Cocoa Powder 652 g / 23 oz | Hershey's | $121.95 | true |
+| Nescafé Gold Instant Coffee 190 g | Nescafé | $104.95 | true |
+| Del Alba Mixed Nuts Christmas Edition 660 g / 23.3 oz | Del Alba | $96.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1415
-- **Price increases**: 793
-- **Price decreases**: 550
-- **Average increase**: 5.1%
-- **Average decrease**: -5.2%
+- **Total price changes**: 1382
+- **Price increases**: 783
+- **Price decreases**: 528
+- **Average increase**: 4.8%
+- **Average decrease**: -5.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Green pepper | $39.09 | $34.73 | $-4.36 | -11.2% | Decrease |
-| Frozen Imported Pork Leg Slices | $86.00 | $84.59 | $-1.41 | -1.6% | Decrease |
-| Frozen Lamb Leg Whole Vacuum Packed | $352.97 | $363.04 | $+10.07 | +2.9% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $95.47 | $95.65 | $+0.18 | +0.2% | Increase |
-| Rockit Apple 1.36 kg / 3 lb | $77.95 | $69.95 | $-8.00 | -10.3% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $95.28 | $95.39 | $+0.11 | +0.1% | Increase |
-| Fresh Whole Chicken for Frying Bag | $262.66 | $262.51 | $-0.15 | -0.1% | Decrease |
-| Pork Chop with Bone Frozen Tray | $85.69 | $85.57 | $-0.12 | -0.1% | Decrease |
-| Frozen Boneless Skinless Chicken Breast Tray | $149.86 | $150.94 | $+1.08 | +0.7% | Increase |
-| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $155.34 | $155.72 | $+0.38 | +0.2% | Increase |
-| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $150.58 | $150.20 | $-0.38 | -0.3% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $94.37 | $94.27 | $-0.10 | -0.1% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $92.21 | $92.01 | $-0.20 | -0.2% | Decrease |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $75.84 | $75.72 | $-0.12 | -0.2% | Decrease |
-| Frozen Lamb Shoulder Chops Tray | $120.46 | $120.29 | $-0.17 | -0.1% | Decrease |
+| Green pepper | $34.73 | $34.66 | $-0.07 | -0.2% | Decrease |
+| Frozen Imported Pork Leg Slices | $84.59 | $83.95 | $-0.64 | -0.8% | Decrease |
+| Cadbury Delicious Milk Chocolate Bar 180 g       | $42.95 | $46.95 | $+4.00 | +9.3% | Increase |
+| Cadbury Whole Nut Chocolate Bar 180 g  | $42.95 | $46.95 | $+4.00 | +9.3% | Increase |
+| Soldanza Mix Holiday Snacks 12 Units | $59.95 | $53.29 | $-6.66 | -11.1% | Decrease |
+| Swiss Mayonnaise 2 units/ 946 ml / 32 oz | $76.95 | $79.95 | $+3.00 | +3.9% | Increase |
+| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $155.72 | $155.34 | $-0.38 | -0.2% | Decrease |
+| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $150.20 | $149.82 | $-0.38 | -0.3% | Decrease |
+| Carrot 2.27 kg / 5 lb | $39.95 | $36.95 | $-3.00 | -7.5% | Decrease |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $75.72 | $75.84 | $+0.12 | +0.2% | Increase |
+| Frozen Pork Belly Skin On Sliced Tray  | $120.98 | $121.23 | $+0.25 | +0.2% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $219.23 | $220.13 | $+0.90 | +0.4% | Increase |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $276.56 | $275.48 | $-1.08 | -0.4% | Decrease |
+| Member's Selection Frozen US Ground Beef Patties 80/20 Tray Pack | $134.93 | $135.28 | $+0.35 | +0.3% | Increase |
+| Member's Selection Chilled Rib Eye Portioned Tray | $319.76 | $321.06 | $+1.30 | +0.4% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -281,6 +281,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Member's Selection California Sliced Almonds - For Recipes and Toppings 907 g / 32 oz | Member's Selection | $117.95 | 2025-11-05 |
 | Food with Purpose Rice and 7 Ancient Grains 1.1 kg / 2.4 lb | Food with Purpose | $59.70 | 2025-11-04 |
 | Tropicland Blueberries 1.36 kg / 48 oz | Tropicland | $87.95 | 2025-11-03 |
 | Kellogg's Family Favorites Mix Pack 40 Units | Kellogg's | $97.70 | 2025-11-03 |
@@ -290,7 +291,9 @@ This project has recently gained unexpected attention. It was created for person
 | Toblerone Christmas Chocolate Bar 360 g | Toblerone | $81.95 | 2025-10-28 |
 | Leclerc Summer Cookies with Raspberry and Berry Flavor 2 Units / 300 g | Leclerc | $19.70 | 2025-10-28 |
 | Nesquik Chocolate Drink 12 Units / 200 mL | Nesquik | $69.95 | 2025-10-28 |
-| Señor Rico Three Milks Flan 12 Units / 113 g / 4 oz | Señor Rico | $148.95 | 2025-10-27 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Ortinola Kitchen Traditional Greek Cookies with Almonds and Powdered Sugar Coating 8 Units | Ortinola Kitchen | $51.95 | G10D03 |
