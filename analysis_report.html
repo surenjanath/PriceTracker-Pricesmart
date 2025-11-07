@@ -2,22 +2,22 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1144
-- **Total value**: $129,014.26
-- **Average price**: $112.77
+- **Total value**: $125,213.82
+- **Average price**: $109.45
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1143
-- **Price changes detected**: 23
-- **Stock/availability changes**: 17
-- **Discontinued products**: 1
+- **New products added**: 3
+- **Existing products updated**: 1141
+- **Price changes detected**: 72
+- **Stock/availability changes**: 10
+- **Discontinued products**: 4
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 189 |
-|  | 144 |
+|  | 142 |
 | Badia | 18 |
 | Swiss | 13 |
 | Kirkland Signature | 12 |
@@ -40,9 +40,9 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1382
-- **Price increases**: 783
-- **Price decreases**: 528
+- **Total price changes**: 1427
+- **Price increases**: 813
+- **Price decreases**: 544
 - **Average increase**: 4.8%
 - **Average decrease**: -5.1%
 
@@ -50,21 +50,21 @@
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Green pepper | $34.73 | $34.66 | $-0.07 | -0.2% | Decrease |
-| Frozen Imported Pork Leg Slices | $84.59 | $83.95 | $-0.64 | -0.8% | Decrease |
-| Cadbury Delicious Milk Chocolate Bar 180 g       | $42.95 | $46.95 | $+4.00 | +9.3% | Increase |
-| Cadbury Whole Nut Chocolate Bar 180 g  | $42.95 | $46.95 | $+4.00 | +9.3% | Increase |
-| Soldanza Mix Holiday Snacks 12 Units | $59.95 | $53.29 | $-6.66 | -11.1% | Decrease |
-| Swiss Mayonnaise 2 units/ 946 ml / 32 oz | $76.95 | $79.95 | $+3.00 | +3.9% | Increase |
-| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $155.72 | $155.34 | $-0.38 | -0.2% | Decrease |
-| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $150.20 | $149.82 | $-0.38 | -0.3% | Decrease |
-| Carrot 2.27 kg / 5 lb | $39.95 | $36.95 | $-3.00 | -7.5% | Decrease |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $75.72 | $75.84 | $+0.12 | +0.2% | Increase |
-| Frozen Pork Belly Skin On Sliced Tray  | $120.98 | $121.23 | $+0.25 | +0.2% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $219.23 | $220.13 | $+0.90 | +0.4% | Increase |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $276.56 | $275.48 | $-1.08 | -0.4% | Decrease |
-| Member's Selection Frozen US Ground Beef Patties 80/20 Tray Pack | $134.93 | $135.28 | $+0.35 | +0.3% | Increase |
-| Member's Selection Chilled Rib Eye Portioned Tray | $319.76 | $321.06 | $+1.30 | +0.4% | Increase |
+| Barista Coffee Salty Caramel-Flavored Cappuccino Mix 2 Units / 320 g / 11.2 oz | $71.07 | $64.95 | $-6.12 | -8.6% | Decrease |
+| Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $55.95 | $57.95 | $+2.00 | +3.6% | Increase |
+| Milton's Multi-Grain Crackers 4 Units / 238 g /  8.4 oz | $77.95 | $79.95 | $+2.00 | +2.6% | Increase |
+| Member's Selection Pepper Jack Cheese 907 g / 2 lb | $65.95 | $66.95 | $+1.00 | +1.5% | Increase |
+| Member's Selection Mozzarella Cheese 907 g / 2 lb | $66.95 | $63.95 | $-3.00 | -4.5% | Decrease |
+| Nongshim Hot Veal-Flavored Korean Ramen Instant Soup 6 Units / 75 g | $0.00 | $79.95 | $+79.95 | +100.0% | New |
+| Bertie's Pimento Peppers Sauce 750 mL | $54.95 | $48.95 | $-6.00 | -10.9% | Decrease |
+| Old Mac Pre-cooked Rice 4 Units / 2 kg | $0.00 | $74.95 | $+74.95 | +100.0% | New |
+| Devon Digestive Bites 12 Units / 50 g | $54.95 | $48.70 | $-6.25 | -11.4% | Decrease |
+| Frozen Imported Pork Leg Slices | $83.95 | $82.65 | $-1.30 | -1.5% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $106.01 | $106.32 | $+0.31 | +0.3% | Increase |
+| Bombolo Biscotti Decorated Cookies with Autumn Patterns 18 Units | $61.70 | $52.70 | $-9.00 | -14.6% | Decrease |
+| Swiss Crunchy Peanut Butter 1.3 kg | $39.95 | $42.95 | $+3.00 | +7.5% | Increase |
+| Swiss Mustard Assortment 2 Units / 454 g / 16 oz | $35.95 | $37.95 | $+2.00 | +5.6% | Increase |
+| Swiss Elbows 6 Units / 300 g / 10.6 oz | $28.95 | $31.90 | $+2.95 | +10.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,19 +100,21 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Fresh Pineapple Unit |  | $31.95 | 2025-11-06 |
+| De Carlo Italian Pitted Olives 550 g / 19.4 oz | De Carlo | $29.70 | 2025-11-06 |
+| Gorton's Pub Style Cod 921 g / 2 lb | Gorton's | $149.95 | 2025-11-06 |
+| Chilled Boneless Beef Eye of Round, Case |  | $3909.81 | 2025-11-06 |
 | Member's Selection California Sliced Almonds - For Recipes and Toppings 907 g / 32 oz | Member's Selection | $117.95 | 2025-11-05 |
 | Food with Purpose Rice and 7 Ancient Grains 1.1 kg / 2.4 lb | Food with Purpose | $59.70 | 2025-11-04 |
 | Tropicland Blueberries 1.36 kg / 48 oz | Tropicland | $87.95 | 2025-11-03 |
 | Kellogg's Family Favorites Mix Pack 40 Units | Kellogg's | $97.70 | 2025-11-03 |
 | Fresh Cantaloupe Melon |  | $39.95 | 2025-11-03 |
 | Select Harvest Sweet and Smoked Barbecue Flavor Roasted Almonds 680 g / 1.5 lb | Select Harvest | $79.95 | 2025-10-30 |
-| Blueberries 170 g / 6 oz |  | $42.95 | 2025-10-30 |
-| Toblerone Christmas Chocolate Bar 360 g | Toblerone | $81.95 | 2025-10-28 |
-| Leclerc Summer Cookies with Raspberry and Berry Flavor 2 Units / 300 g | Leclerc | $19.70 | 2025-10-28 |
-| Nesquik Chocolate Drink 12 Units / 200 mL | Nesquik | $69.95 | 2025-10-28 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Ortinola Kitchen Traditional Greek Cookies with Almonds and Powdered Sugar Coating 8 Units | Ortinola Kitchen | $51.95 | G10D03 |
+| Nongshim Hot Veal-Flavored Korean Ramen Instant Soup 6 Units / 75 g | Nongshim | $79.95 | G10D03 |
+| Old Mac Pre-cooked Rice 4 Units / 2 kg | Old Mac | $74.95 | G10D03 |
+| Reny Picot Camembert Cheese 397 g / 14 oz | Reny Picot | $65.95 | G10D03 |
