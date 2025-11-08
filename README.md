@@ -182,22 +182,22 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1144
-- **Total value**: $125,213.82
-- **Average price**: $109.45
+- **Total products scraped**: 1147
+- **Total value**: $125,763.20
+- **Average price**: $109.65
 
 ## Database Changes
 - **New products added**: 3
-- **Existing products updated**: 1141
-- **Price changes detected**: 72
-- **Stock/availability changes**: 10
-- **Discontinued products**: 4
+- **Existing products updated**: 1144
+- **Price changes detected**: 41
+- **Stock/availability changes**: 29
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 189 |
+| Member's Selection | 190 |
 |  | 142 |
 | Badia | 18 |
 | Swiss | 13 |
@@ -211,41 +211,41 @@ This project has recently gained unexpected attention. It was created for person
 | Member's Selection Mild Cheddar Cheese 907 g / 2 lb | Member's Selection | $59.95 | true |
 | Member's Selection Tropical Trail Mix with Nuts and Dried Fruit 850 g / 30 oz | Member's Selection | $119.95 | true |
 | Pure Squeeze Assorted Flavors Sparkling Juice 12 Units / 330 mL / 11.2 oz | Pure Squeeze | $124.95 | true |
+| Hershey's Cocoa Powder 652 g / 23 oz | Hershey's | $121.95 | true |
 | Fratelli Beretta Italian Style Platter 340 g / 12 oz  | Fratelli Beretta | $77.95 | true |
 | Food With Purpose Sparkling Tea Infused with Fruit Juice - Sugar Free 12 Units / 250 mL / 8.5 oz | Food with Purpose | $114.95 | true |
 | Quaker Quick Oats 2 Units /  1.13 kg / 40 oz | Quaker | $88.95 | true |
-| Hershey's Cocoa Powder 652 g / 23 oz | Hershey's | $121.95 | true |
+| Jackson's Sweet Potato Chips 454 g / 16 oz | Jackson's | $79.95 | true |
 | Nescafé Gold Instant Coffee 190 g | Nescafé | $104.95 | true |
-| Del Alba Mixed Nuts Christmas Edition 660 g / 23.3 oz | Del Alba | $96.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1427
-- **Price increases**: 813
-- **Price decreases**: 544
-- **Average increase**: 4.8%
-- **Average decrease**: -5.1%
+- **Total price changes**: 1448
+- **Price increases**: 821
+- **Price decreases**: 555
+- **Average increase**: 5.0%
+- **Average decrease**: -5.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Barista Coffee Salty Caramel-Flavored Cappuccino Mix 2 Units / 320 g / 11.2 oz | $71.07 | $64.95 | $-6.12 | -8.6% | Decrease |
-| Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $55.95 | $57.95 | $+2.00 | +3.6% | Increase |
-| Milton's Multi-Grain Crackers 4 Units / 238 g /  8.4 oz | $77.95 | $79.95 | $+2.00 | +2.6% | Increase |
-| Member's Selection Pepper Jack Cheese 907 g / 2 lb | $65.95 | $66.95 | $+1.00 | +1.5% | Increase |
-| Member's Selection Mozzarella Cheese 907 g / 2 lb | $66.95 | $63.95 | $-3.00 | -4.5% | Decrease |
-| Nongshim Hot Veal-Flavored Korean Ramen Instant Soup 6 Units / 75 g | $0.00 | $79.95 | $+79.95 | +100.0% | New |
-| Bertie's Pimento Peppers Sauce 750 mL | $54.95 | $48.95 | $-6.00 | -10.9% | Decrease |
-| Old Mac Pre-cooked Rice 4 Units / 2 kg | $0.00 | $74.95 | $+74.95 | +100.0% | New |
-| Devon Digestive Bites 12 Units / 50 g | $54.95 | $48.70 | $-6.25 | -11.4% | Decrease |
-| Frozen Imported Pork Leg Slices | $83.95 | $82.65 | $-1.30 | -1.5% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $106.01 | $106.32 | $+0.31 | +0.3% | Increase |
-| Bombolo Biscotti Decorated Cookies with Autumn Patterns 18 Units | $61.70 | $52.70 | $-9.00 | -14.6% | Decrease |
-| Swiss Crunchy Peanut Butter 1.3 kg | $39.95 | $42.95 | $+3.00 | +7.5% | Increase |
-| Swiss Mustard Assortment 2 Units / 454 g / 16 oz | $35.95 | $37.95 | $+2.00 | +5.6% | Increase |
-| Swiss Elbows 6 Units / 300 g / 10.6 oz | $28.95 | $31.90 | $+2.95 | +10.2% | Increase |
+|  Gouda Cheese 20 kg / 44 lb | $1114.97 | $1113.84 | $-1.13 | -0.1% | Decrease |
+| Mucci Farms Snack Cucumbers 681 g / 1.5 lb | $64.95 | $59.95 | $-5.00 | -7.7% | Decrease |
+| Snickers, Twix, Milky Way And 3 Musketeers Chocolate Minis Variety Pack 868 g / 30.63 oz | $118.95 | $144.95 | $+26.00 | +21.9% | Increase |
+| Solo Sorrel-Flavored Carbonated Drink 8 Units / 1.5 L / 51 oz | $0.00 | $44.95 | $+44.95 | +100.0% | New |
+| Solo Ginger Refreshing Drink 8 Units / 1.5 L / 51 oz | $0.00 | $44.95 | $+44.95 | +100.0% | New |
+| Frozen Bone-In Goat Carcass, Case | $1023.96 | $1320.10 | $+296.14 | +28.9% | Increase |
+| Member's Selection Pumpkin and Spice Swiss Roll Freshly Baked | $0.00 | $35.95 | $+35.95 | +100.0% | New |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $152.35 | $149.85 | $-2.50 | -1.6% | Decrease |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $322.28 | $311.98 | $-10.30 | -3.2% | Decrease |
+| Sugar Bowl Bakery Brownie Bites 16 Units | $55.95 | $66.95 | $+11.00 | +19.7% | Increase |
+| Frozen Imported Pork Leg Slices | $82.65 | $81.57 | $-1.08 | -1.3% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $202.05 | $201.44 | $-0.61 | -0.3% | Decrease |
+| Mini Sweet Peppers 454 g / 1 lb | $32.95 | $37.95 | $+5.00 | +15.2% | Increase |
+| Bosc Pear 1.36 kg / 3 lb | $64.95 | $74.95 | $+10.00 | +15.4% | Increase |
+| Maggi Season-Up Chicken Seasoning 2 Units / 430 g | $84.95 | $89.95 | $+5.00 | +5.9% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -281,6 +281,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Member's Selection Frozen Skinless Boneless Salmon Fillets Vacuum Packaged | Member's Selection | $332.57 | 2025-11-07 |
 | Fresh Pineapple Unit |  | $31.95 | 2025-11-06 |
 | De Carlo Italian Pitted Olives 550 g / 19.4 oz | De Carlo | $29.70 | 2025-11-06 |
 | Gorton's Pub Style Cod 921 g / 2 lb | Gorton's | $149.95 | 2025-11-06 |
@@ -290,12 +291,11 @@ This project has recently gained unexpected attention. It was created for person
 | Tropicland Blueberries 1.36 kg / 48 oz | Tropicland | $87.95 | 2025-11-03 |
 | Kellogg's Family Favorites Mix Pack 40 Units | Kellogg's | $97.70 | 2025-11-03 |
 | Fresh Cantaloupe Melon |  | $39.95 | 2025-11-03 |
-| Select Harvest Sweet and Smoked Barbecue Flavor Roasted Almonds 680 g / 1.5 lb | Select Harvest | $79.95 | 2025-10-30 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Nongshim Hot Veal-Flavored Korean Ramen Instant Soup 6 Units / 75 g | Nongshim | $79.95 | G10D03 |
-| Old Mac Pre-cooked Rice 4 Units / 2 kg | Old Mac | $74.95 | G10D03 |
-| Reny Picot Camembert Cheese 397 g / 14 oz | Reny Picot | $65.95 | G10D03 |
+| Solo Sorrel-Flavored Carbonated Drink 8 Units / 1.5 L / 51 oz | Solo | $44.95 | G10D03 |
+| Solo Ginger Refreshing Drink 8 Units / 1.5 L / 51 oz | Solo | $44.95 | G10D03 |
+| Member's Selection Pumpkin and Spice Swiss Roll Freshly Baked | Member's Selection | $35.95 | G10D03 |
