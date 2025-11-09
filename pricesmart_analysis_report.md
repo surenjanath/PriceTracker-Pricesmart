@@ -1,15 +1,15 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1147
-- **Total value**: $125,763.20
-- **Average price**: $109.65
+- **Total products scraped**: 1146
+- **Total value**: $125,678.88
+- **Average price**: $109.67
 
 ## Database Changes
-- **New products added**: 3
-- **Existing products updated**: 1144
-- **Price changes detected**: 41
-- **Stock/availability changes**: 29
+- **New products added**: 0
+- **Existing products updated**: 1146
+- **Price changes detected**: 25
+- **Stock/availability changes**: 17
 - **Discontinued products**: 1
 
 ## Top 5 Brands
@@ -17,7 +17,7 @@
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 190 |
-|  | 142 |
+|  | 141 |
 | Badia | 18 |
 | Swiss | 13 |
 | Kirkland Signature | 12 |
@@ -31,40 +31,40 @@
 | Member's Selection Tropical Trail Mix with Nuts and Dried Fruit 850 g / 30 oz | Member's Selection | $119.95 | true |
 | Pure Squeeze Assorted Flavors Sparkling Juice 12 Units / 330 mL / 11.2 oz | Pure Squeeze | $124.95 | true |
 | Hershey's Cocoa Powder 652 g / 23 oz | Hershey's | $121.95 | true |
-| Fratelli Beretta Italian Style Platter 340 g / 12 oz  | Fratelli Beretta | $77.95 | true |
-| Food With Purpose Sparkling Tea Infused with Fruit Juice - Sugar Free 12 Units / 250 mL / 8.5 oz | Food with Purpose | $114.95 | true |
 | Quaker Quick Oats 2 Units /  1.13 kg / 40 oz | Quaker | $88.95 | true |
+| Del Alba Mixed Nuts Christmas Edition 660 g / 23.3 oz | Del Alba | $96.95 | true |
 | Jackson's Sweet Potato Chips 454 g / 16 oz | Jackson's | $79.95 | true |
 | Nescafé Gold Instant Coffee 190 g | Nescafé | $104.95 | true |
+| President Brie Cheese 555 g / 1.2 lb | President | $77.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1448
-- **Price increases**: 821
-- **Price decreases**: 555
-- **Average increase**: 5.0%
-- **Average decrease**: -5.0%
+- **Total price changes**: 1396
+- **Price increases**: 781
+- **Price decreases**: 543
+- **Average increase**: 5.1%
+- **Average decrease**: -5.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-|  Gouda Cheese 20 kg / 44 lb | $1114.97 | $1113.84 | $-1.13 | -0.1% | Decrease |
-| Mucci Farms Snack Cucumbers 681 g / 1.5 lb | $64.95 | $59.95 | $-5.00 | -7.7% | Decrease |
-| Snickers, Twix, Milky Way And 3 Musketeers Chocolate Minis Variety Pack 868 g / 30.63 oz | $118.95 | $144.95 | $+26.00 | +21.9% | Increase |
-| Solo Sorrel-Flavored Carbonated Drink 8 Units / 1.5 L / 51 oz | $0.00 | $44.95 | $+44.95 | +100.0% | New |
-| Solo Ginger Refreshing Drink 8 Units / 1.5 L / 51 oz | $0.00 | $44.95 | $+44.95 | +100.0% | New |
-| Frozen Bone-In Goat Carcass, Case | $1023.96 | $1320.10 | $+296.14 | +28.9% | Increase |
-| Member's Selection Pumpkin and Spice Swiss Roll Freshly Baked | $0.00 | $35.95 | $+35.95 | +100.0% | New |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $152.35 | $149.85 | $-2.50 | -1.6% | Decrease |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $322.28 | $311.98 | $-10.30 | -3.2% | Decrease |
-| Sugar Bowl Bakery Brownie Bites 16 Units | $55.95 | $66.95 | $+11.00 | +19.7% | Increase |
-| Frozen Imported Pork Leg Slices | $82.65 | $81.57 | $-1.08 | -1.3% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $202.05 | $201.44 | $-0.61 | -0.3% | Decrease |
-| Mini Sweet Peppers 454 g / 1 lb | $32.95 | $37.95 | $+5.00 | +15.2% | Increase |
-| Bosc Pear 1.36 kg / 3 lb | $64.95 | $74.95 | $+10.00 | +15.4% | Increase |
-| Maggi Season-Up Chicken Seasoning 2 Units / 430 g | $84.95 | $89.95 | $+5.00 | +5.9% | Increase |
+| Green pepper | $34.66 | $34.53 | $-0.13 | -0.4% | Decrease |
+| Frozen Lamb Shoulder Case | $1292.50 | $1300.95 | $+8.45 | +0.7% | Increase |
+| Frozen Imported Pork Leg Slices | $81.57 | $82.22 | $+0.65 | +0.8% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $106.32 | $106.48 | $+0.16 | +0.2% | Increase |
+| Orchard Assorted Drinks Juice Mix 6 Units / 1L | $61.95 | $64.95 | $+3.00 | +4.8% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $73.46 | $73.35 | $-0.11 | -0.1% | Decrease |
+| United With Earth Date and Almond Rolls 340 g / 12 oz | $39.70 | $29.70 | $-10.00 | -25.2% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $264.46 | $267.30 | $+2.84 | +1.1% | Increase |
+| Fresh Chicken Breast Boneless Skinless Tray | $90.58 | $90.75 | $+0.17 | +0.2% | Increase |
+| Nestle Reconstituted Milk Low Fat 12 Unidades / 1 L / 33.81 oz | $154.95 | $159.95 | $+5.00 | +3.2% | Increase |
+| Fresh Chicken Drumsticks Tray  | $92.43 | $92.32 | $-0.11 | -0.1% | Decrease |
+| Frozen Pork Belly Skin On Sliced Tray  | $120.98 | $121.23 | $+0.25 | +0.2% | Increase |
+| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | $146.11 | $146.79 | $+0.68 | +0.5% | Increase |
+| Rice Krispies Treats Crispy Rice Bars 2 Packs / 7 Units / 22 g / 0.78 oz | $64.70 | $32.70 | $-32.00 | -49.5% | Decrease |
+| Fresh Chicken Breast Boneless Skinless Tray | $125.09 | $124.92 | $-0.17 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Gouda Cheese Block |  | $69.85 | 2025-11-08 |
 | Member's Selection Frozen Skinless Boneless Salmon Fillets Vacuum Packaged | Member's Selection | $332.57 | 2025-11-07 |
 | Fresh Pineapple Unit |  | $31.95 | 2025-11-06 |
 | De Carlo Italian Pitted Olives 550 g / 19.4 oz | De Carlo | $29.70 | 2025-11-06 |
@@ -109,12 +110,6 @@
 | Food with Purpose Rice and 7 Ancient Grains 1.1 kg / 2.4 lb | Food with Purpose | $59.70 | 2025-11-04 |
 | Tropicland Blueberries 1.36 kg / 48 oz | Tropicland | $87.95 | 2025-11-03 |
 | Kellogg's Family Favorites Mix Pack 40 Units | Kellogg's | $97.70 | 2025-11-03 |
-| Fresh Cantaloupe Melon |  | $39.95 | 2025-11-03 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Solo Sorrel-Flavored Carbonated Drink 8 Units / 1.5 L / 51 oz | Solo | $44.95 | G10D03 |
-| Solo Ginger Refreshing Drink 8 Units / 1.5 L / 51 oz | Solo | $44.95 | G10D03 |
-| Member's Selection Pumpkin and Spice Swiss Roll Freshly Baked | Member's Selection | $35.95 | G10D03 |
+No new products added today.
