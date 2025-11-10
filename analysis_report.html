@@ -1,15 +1,15 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1146
-- **Total value**: $125,678.88
-- **Average price**: $109.67
+- **Total products scraped**: 1152
+- **Total value**: $129,248.30
+- **Average price**: $112.19
 
 ## Database Changes
-- **New products added**: 0
+- **New products added**: 6
 - **Existing products updated**: 1146
-- **Price changes detected**: 25
-- **Stock/availability changes**: 17
+- **Price changes detected**: 18
+- **Stock/availability changes**: 16
 - **Discontinued products**: 1
 
 ## Top 5 Brands
@@ -17,7 +17,7 @@
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 190 |
-|  | 141 |
+|  | 142 |
 | Badia | 18 |
 | Swiss | 13 |
 | Kirkland Signature | 12 |
@@ -31,18 +31,18 @@
 | Member's Selection Tropical Trail Mix with Nuts and Dried Fruit 850 g / 30 oz | Member's Selection | $119.95 | true |
 | Pure Squeeze Assorted Flavors Sparkling Juice 12 Units / 330 mL / 11.2 oz | Pure Squeeze | $124.95 | true |
 | Hershey's Cocoa Powder 652 g / 23 oz | Hershey's | $121.95 | true |
+| Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $92.95 | true |
 | Quaker Quick Oats 2 Units /  1.13 kg / 40 oz | Quaker | $88.95 | true |
-| Del Alba Mixed Nuts Christmas Edition 660 g / 23.3 oz | Del Alba | $96.95 | true |
+| President Brie Cheese 555 g / 1.2 lb | President | $77.95 | true |
 | Jackson's Sweet Potato Chips 454 g / 16 oz | Jackson's | $79.95 | true |
 | Nescafé Gold Instant Coffee 190 g | Nescafé | $104.95 | true |
-| President Brie Cheese 555 g / 1.2 lb | President | $77.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1396
-- **Price increases**: 781
-- **Price decreases**: 543
+- **Total price changes**: 1373
+- **Price increases**: 763
+- **Price decreases**: 539
 - **Average increase**: 5.1%
 - **Average decrease**: -5.1%
 
@@ -50,21 +50,21 @@
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Green pepper | $34.66 | $34.53 | $-0.13 | -0.4% | Decrease |
-| Frozen Lamb Shoulder Case | $1292.50 | $1300.95 | $+8.45 | +0.7% | Increase |
-| Frozen Imported Pork Leg Slices | $81.57 | $82.22 | $+0.65 | +0.8% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $106.32 | $106.48 | $+0.16 | +0.2% | Increase |
-| Orchard Assorted Drinks Juice Mix 6 Units / 1L | $61.95 | $64.95 | $+3.00 | +4.8% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $73.46 | $73.35 | $-0.11 | -0.1% | Decrease |
-| United With Earth Date and Almond Rolls 340 g / 12 oz | $39.70 | $29.70 | $-10.00 | -25.2% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $264.46 | $267.30 | $+2.84 | +1.1% | Increase |
-| Fresh Chicken Breast Boneless Skinless Tray | $90.58 | $90.75 | $+0.17 | +0.2% | Increase |
-| Nestle Reconstituted Milk Low Fat 12 Unidades / 1 L / 33.81 oz | $154.95 | $159.95 | $+5.00 | +3.2% | Increase |
-| Fresh Chicken Drumsticks Tray  | $92.43 | $92.32 | $-0.11 | -0.1% | Decrease |
-| Frozen Pork Belly Skin On Sliced Tray  | $120.98 | $121.23 | $+0.25 | +0.2% | Increase |
-| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | $146.11 | $146.79 | $+0.68 | +0.5% | Increase |
-| Rice Krispies Treats Crispy Rice Bars 2 Packs / 7 Units / 22 g / 0.78 oz | $64.70 | $32.70 | $-32.00 | -49.5% | Decrease |
-| Fresh Chicken Breast Boneless Skinless Tray | $125.09 | $124.92 | $-0.17 | -0.1% | Decrease |
+| Russco’s Browning Caramel-Flavored Syrup 750 mL / 25.36 oz | $0.00 | $21.95 | $+21.95 | +100.0% | New |
+| Charles Chocolate Coated Jordanian Almond 1 kg / 2.2 lb | $0.00 | $74.95 | $+74.95 | +100.0% | New |
+| Helado Mexico Ice Cream Bars 24 Units / 81 mL / 2.74 oz | $0.00 | $171.95 | $+171.95 | +100.0% | New |
+| Fruit by the Foot Fruit Flavored Snacks 48 Units / 21 g | $0.00 | $199.95 | $+199.95 | +100.0% | New |
+| Carr's Assorted Seasonal Crackers 400 g | $0.00 | $64.95 | $+64.95 | +100.0% | New |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $201.44 | $200.82 | $-0.62 | -0.3% | Decrease |
+| Fresh Ground Chicken Tray | $95.73 | $95.85 | $+0.12 | +0.1% | Increase |
+| Pork Chop with Bone Frozen Tray | $85.82 | $85.69 | $-0.13 | -0.2% | Decrease |
+| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $155.53 | $155.15 | $-0.38 | -0.2% | Decrease |
+| Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | $0.00 | $87.95 | $+87.95 | +100.0% | New |
+| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $148.94 | $148.31 | $-0.63 | -0.4% | Decrease |
+| Fresh Chicken Thighs Boneless Bag | $311.26 | $310.90 | $-0.36 | -0.1% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $95.06 | $94.95 | $-0.11 | -0.1% | Decrease |
+| Fine Choice Fresh Marinated Chicken Tray | $94.75 | $94.66 | $-0.09 | -0.1% | Decrease |
+| Nutrina Chilled Whole Chicken Bag | $325.71 | $325.86 | $+0.15 | +0.0% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,16 +100,24 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Philadelphia Cream Cheese 13.6 kg / 30 lb | Philadelphia | $959.95 | 2025-11-09 |
 | Gouda Cheese Block |  | $69.85 | 2025-11-08 |
 | Member's Selection Frozen Skinless Boneless Salmon Fillets Vacuum Packaged | Member's Selection | $332.57 | 2025-11-07 |
 | Fresh Pineapple Unit |  | $31.95 | 2025-11-06 |
 | De Carlo Italian Pitted Olives 550 g / 19.4 oz | De Carlo | $29.70 | 2025-11-06 |
 | Gorton's Pub Style Cod 921 g / 2 lb | Gorton's | $149.95 | 2025-11-06 |
-| Chilled Boneless Beef Eye of Round, Case |  | $3909.81 | 2025-11-06 |
 | Member's Selection California Sliced Almonds - For Recipes and Toppings 907 g / 32 oz | Member's Selection | $117.95 | 2025-11-05 |
 | Food with Purpose Rice and 7 Ancient Grains 1.1 kg / 2.4 lb | Food with Purpose | $59.70 | 2025-11-04 |
 | Tropicland Blueberries 1.36 kg / 48 oz | Tropicland | $87.95 | 2025-11-03 |
 | Kellogg's Family Favorites Mix Pack 40 Units | Kellogg's | $97.70 | 2025-11-03 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Russco’s Browning Caramel-Flavored Syrup 750 mL / 25.36 oz | Russco's | $21.95 | G10D03 |
+| Charles Chocolate Coated Jordanian Almond 1 kg / 2.2 lb | Charles Chocolates | $74.95 | G10D03 |
+| Helado Mexico Ice Cream Bars 24 Units / 81 mL / 2.74 oz | Helado México | $171.95 | G10D03 |
+| Fruit by the Foot Fruit Flavored Snacks 48 Units / 21 g | Fruit by the Foot | $199.95 | G10D03 |
+| Carr's Assorted Seasonal Crackers 400 g | Carr's | $64.95 | G10D03 |
+| Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | Marie Callender's | $87.95 | G10D03 |
