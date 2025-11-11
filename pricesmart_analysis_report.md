@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1152
-- **Total value**: $129,248.30
-- **Average price**: $112.19
+- **Total products scraped**: 1149
+- **Total value**: $129,247.95
+- **Average price**: $112.49
 
 ## Database Changes
-- **New products added**: 6
-- **Existing products updated**: 1146
-- **Price changes detected**: 18
-- **Stock/availability changes**: 16
-- **Discontinued products**: 1
+- **New products added**: 0
+- **Existing products updated**: 1149
+- **Price changes detected**: 31
+- **Stock/availability changes**: 20
+- **Discontinued products**: 3
 
 ## Top 5 Brands
 
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1373
-- **Price increases**: 763
-- **Price decreases**: 539
-- **Average increase**: 5.1%
-- **Average decrease**: -5.1%
+- **Total price changes**: 1375
+- **Price increases**: 774
+- **Price decreases**: 534
+- **Average increase**: 5.0%
+- **Average decrease**: -5.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Russco’s Browning Caramel-Flavored Syrup 750 mL / 25.36 oz | $0.00 | $21.95 | $+21.95 | +100.0% | New |
-| Charles Chocolate Coated Jordanian Almond 1 kg / 2.2 lb | $0.00 | $74.95 | $+74.95 | +100.0% | New |
-| Helado Mexico Ice Cream Bars 24 Units / 81 mL / 2.74 oz | $0.00 | $171.95 | $+171.95 | +100.0% | New |
-| Fruit by the Foot Fruit Flavored Snacks 48 Units / 21 g | $0.00 | $199.95 | $+199.95 | +100.0% | New |
-| Carr's Assorted Seasonal Crackers 400 g | $0.00 | $64.95 | $+64.95 | +100.0% | New |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $201.44 | $200.82 | $-0.62 | -0.3% | Decrease |
-| Fresh Ground Chicken Tray | $95.73 | $95.85 | $+0.12 | +0.1% | Increase |
-| Pork Chop with Bone Frozen Tray | $85.82 | $85.69 | $-0.13 | -0.2% | Decrease |
-| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $155.53 | $155.15 | $-0.38 | -0.2% | Decrease |
-| Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | $0.00 | $87.95 | $+87.95 | +100.0% | New |
-| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $148.94 | $148.31 | $-0.63 | -0.4% | Decrease |
-| Fresh Chicken Thighs Boneless Bag | $311.26 | $310.90 | $-0.36 | -0.1% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $95.06 | $94.95 | $-0.11 | -0.1% | Decrease |
-| Fine Choice Fresh Marinated Chicken Tray | $94.75 | $94.66 | $-0.09 | -0.1% | Decrease |
-| Nutrina Chilled Whole Chicken Bag | $325.71 | $325.86 | $+0.15 | +0.0% | Increase |
+| Fresh Chicken Boneless Breast Bag | $428.41 | $427.36 | $-1.05 | -0.2% | Decrease |
+| Chilled Boneless Beef Eye of Round, Case | $3909.81 | $3973.41 | $+63.60 | +1.6% | Increase |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $149.85 | $153.95 | $+4.10 | +2.7% | Increase |
+| Frozen Lamb Shoulder Case | $1300.95 | $1361.04 | $+60.09 | +4.6% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $106.48 | $106.79 | $+0.31 | +0.3% | Increase |
+| Frozen Lamb Leg Whole Vacuum Packed | $363.04 | $365.06 | $+2.02 | +0.6% | Increase |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $311.98 | $317.13 | $+5.15 | +1.7% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $95.56 | $95.47 | $-0.09 | -0.1% | Decrease |
+| Fresh Ground Chicken Tray | $95.85 | $96.56 | $+0.71 | +0.7% | Increase |
+| Pork Chop with Bone Frozen Tray | $85.69 | $85.57 | $-0.12 | -0.1% | Decrease |
+| Fresh Chicken Wings Tray | $93.72 | $93.61 | $-0.11 | -0.1% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $221.03 | $220.13 | $-0.90 | -0.4% | Decrease |
+| Chilled Skinless Boneless Beef Ribeye Steak Vacuum Package Whole Piece | $2147.08 | $2184.10 | $+37.02 | +1.7% | Increase |
+| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $155.15 | $155.34 | $+0.19 | +0.1% | Increase |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $75.84 | $80.59 | $+4.75 | +6.3% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,9 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Arcor Chocolate Rocklets 18 Units / 40 g | Arcor | $59.70 | 2025-11-10 |
+| Peas and Beans Assorted Grains 5 Units / 800 g | Peans and Beans | $99.95 | 2025-11-10 |
+| McCormick Whole Oregano 141 g / 5 oz | McCormick | $34.95 | 2025-11-10 |
 | Philadelphia Cream Cheese 13.6 kg / 30 lb | Philadelphia | $959.95 | 2025-11-09 |
 | Gouda Cheese Block |  | $69.85 | 2025-11-08 |
 | Member's Selection Frozen Skinless Boneless Salmon Fillets Vacuum Packaged | Member's Selection | $332.57 | 2025-11-07 |
@@ -107,17 +110,6 @@
 | De Carlo Italian Pitted Olives 550 g / 19.4 oz | De Carlo | $29.70 | 2025-11-06 |
 | Gorton's Pub Style Cod 921 g / 2 lb | Gorton's | $149.95 | 2025-11-06 |
 | Member's Selection California Sliced Almonds - For Recipes and Toppings 907 g / 32 oz | Member's Selection | $117.95 | 2025-11-05 |
-| Food with Purpose Rice and 7 Ancient Grains 1.1 kg / 2.4 lb | Food with Purpose | $59.70 | 2025-11-04 |
-| Tropicland Blueberries 1.36 kg / 48 oz | Tropicland | $87.95 | 2025-11-03 |
-| Kellogg's Family Favorites Mix Pack 40 Units | Kellogg's | $97.70 | 2025-11-03 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Russco’s Browning Caramel-Flavored Syrup 750 mL / 25.36 oz | Russco's | $21.95 | G10D03 |
-| Charles Chocolate Coated Jordanian Almond 1 kg / 2.2 lb | Charles Chocolates | $74.95 | G10D03 |
-| Helado Mexico Ice Cream Bars 24 Units / 81 mL / 2.74 oz | Helado México | $171.95 | G10D03 |
-| Fruit by the Foot Fruit Flavored Snacks 48 Units / 21 g | Fruit by the Foot | $199.95 | G10D03 |
-| Carr's Assorted Seasonal Crackers 400 g | Carr's | $64.95 | G10D03 |
-| Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | Marie Callender's | $87.95 | G10D03 |
+No new products added today.
