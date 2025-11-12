@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1149
-- **Total value**: $129,165.51
-- **Average price**: $112.42
+- **Total products scraped**: 1151
+- **Total value**: $128,823.60
+- **Average price**: $111.92
 
 ## Database Changes
 - **New products added**: 1
-- **Existing products updated**: 1148
-- **Price changes detected**: 22
-- **Stock/availability changes**: 22
-- **Discontinued products**: 2
+- **Existing products updated**: 1150
+- **Price changes detected**: 29
+- **Stock/availability changes**: 17
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 190 |
-|  | 142 |
+| Member's Selection | 189 |
+|  | 145 |
 | Badia | 18 |
 | Swiss | 13 |
 | Kirkland Signature | 12 |
@@ -27,44 +27,44 @@
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Member's Selection Trail Mix with Cranberries, Cashews, and Walnuts 850 g / 30 oz | Member's Selection | $122.95 | true |
-| Member's Selection Mild Cheddar Cheese 907 g / 2 lb | Member's Selection | $59.95 | true |
 | Member's Selection Tropical Trail Mix with Nuts and Dried Fruit 850 g / 30 oz | Member's Selection | $119.95 | true |
-| Pure Squeeze Assorted Flavors Sparkling Juice 12 Units / 330 mL / 11.2 oz | Pure Squeeze | $124.95 | true |
+| Member's Selection Mild Cheddar Cheese 907 g / 2 lb | Member's Selection | $59.95 | true |
 | Hershey's Cocoa Powder 652 g / 23 oz | Hershey's | $121.95 | true |
+| Pure Squeeze Assorted Flavors Sparkling Juice 12 Units / 330 mL / 11.2 oz | Pure Squeeze | $124.95 | true |
 | Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $92.95 | true |
 | Quaker Quick Oats 2 Units /  1.13 kg / 40 oz | Quaker | $88.95 | true |
+| Del Alba Mixed Nuts Christmas Edition 660 g / 23.3 oz | Del Alba | $96.95 | true |
 | President Brie Cheese 555 g / 1.2 lb | President | $77.95 | true |
-| Jackson's Sweet Potato Chips 454 g / 16 oz | Jackson's | $79.95 | true |
-| Nescafé Gold Instant Coffee 190 g | Nescafé | $104.95 | true |
+| Food With Purpose Sparkling Tea Infused with Fruit Juice - Sugar Free 12 Units / 250 mL / 8.5 oz | Food with Purpose | $114.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1370
-- **Price increases**: 776
-- **Price decreases**: 527
-- **Average increase**: 4.9%
+- **Total price changes**: 1400
+- **Price increases**: 794
+- **Price decreases**: 538
+- **Average increase**: 4.8%
 - **Average decrease**: -5.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Red Cabbage Unit | $29.95 | $27.95 | $-2.00 | -6.7% | Decrease |
-| Chive 454 g / 1 lb | $29.95 | $34.95 | $+5.00 | +16.7% | Increase |
-| Green pepper | $34.53 | $34.33 | $-0.20 | -0.6% | Decrease |
-| McVitie's Ginger Nut Biscuits 4 Units / 250 g | $0.00 | $42.95 | $+42.95 | +100.0% | New |
-| Frozen Imported Pork Leg Slices | $82.22 | $81.57 | $-0.65 | -0.8% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $106.79 | $106.95 | $+0.16 | +0.1% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $73.35 | $73.46 | $+0.11 | +0.1% | Increase |
-| Pork Chop with Bone Frozen Tray | $85.57 | $85.44 | $-0.13 | -0.2% | Decrease |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $445.21 | $450.15 | $+4.94 | +1.1% | Increase |
-| Fresh Chicken Wings Tray | $93.61 | $93.51 | $-0.10 | -0.1% | Decrease |
-| Fresh Ground Chicken Meat Bag | $270.15 | $268.88 | $-1.27 | -0.5% | Decrease |
-| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $147.55 | $146.67 | $-0.88 | -0.6% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $91.91 | $92.01 | $+0.10 | +0.1% | Increase |
-| Fresh Chicken Drumsticks Tray  | $92.32 | $92.43 | $+0.11 | +0.1% | Increase |
-| Fresh Chicken Breast Boneless Skinless Tray | $125.09 | $124.92 | $-0.17 | -0.1% | Decrease |
+| Bosc Pear  | $0.00 | $88.95 | $+88.95 | +100.0% | New |
+| Fresh Chicken Thighs Boneless Bag | $310.90 | $311.26 | $+0.36 | +0.1% | Increase |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $153.95 | $153.15 | $-0.80 | -0.5% | Decrease |
+| Frozen Lamb Leg Whole Vacuum Packed | $365.06 | $366.50 | $+1.44 | +0.4% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $57.27 | $57.20 | $-0.07 | -0.1% | Decrease |
+| Frozen Imported Pork Leg Slices | $81.57 | $81.25 | $-0.32 | -0.4% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $106.95 | $107.10 | $+0.15 | +0.1% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $200.82 | $204.70 | $+3.88 | +1.9% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $148.71 | $148.10 | $-0.61 | -0.4% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $95.47 | $95.56 | $+0.09 | +0.1% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $220.13 | $223.06 | $+2.93 | +1.3% | Increase |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $450.15 | $452.06 | $+1.91 | +0.4% | Increase |
+| Fresh Ground Chicken Tray | $96.56 | $96.91 | $+0.35 | +0.4% | Increase |
+| Bugalu Tomato 1.5 kg / 3.5 lb | $28.95 | $27.95 | $-1.00 | -3.5% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $94.17 | $94.37 | $+0.20 | +0.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2025-11-12 |
 | Seedless Watermelon  |  | $89.95 | 2025-11-11 |
 | QuinoaClub Loncher Snacks with Quinoa and Probiotics Doughnuts and Puffs 18 Units | QuinoaClub | $65.70 | 2025-11-11 |
 | Arcor Chocolate Rocklets 18 Units / 40 g | Arcor | $59.70 | 2025-11-10 |
@@ -109,10 +110,10 @@
 | Gouda Cheese Block |  | $69.85 | 2025-11-08 |
 | Member's Selection Frozen Skinless Boneless Salmon Fillets Vacuum Packaged | Member's Selection | $332.57 | 2025-11-07 |
 | Fresh Pineapple Unit |  | $31.95 | 2025-11-06 |
-| De Carlo Italian Pitted Olives 550 g / 19.4 oz | De Carlo | $29.70 | 2025-11-06 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
+| Bosc Pear  |  | $88.95 | G10D03 |
 | McVitie's Ginger Nut Biscuits 4 Units / 250 g | McVitie's | $42.95 | G10D03 |
