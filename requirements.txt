@@ -2,3 +2,5 @@ bs4
 aiohttp
 pandas
 sqlalchemy
+supabase
+python-dotenv

@@ -50,7 +50,7 @@ Thumbs.db
 # Environment variables
 .env
 .env.local
-
+./documentation/*.md
 # Analysis reports (optional - uncomment if you don't want to track these)
 # *.html
 # analysis_report.html

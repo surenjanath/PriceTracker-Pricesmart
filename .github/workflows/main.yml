@@ -34,6 +34,29 @@ jobs:
     - name: execute py script # run main.py
       run: python "pricesmart_scraper.py"
 
+    - name: Verify database file exists
+      run: |
+        if [ ! -f "Database/PriceSmart_Products_Database.db" ]; then
+          echo "Error: Database file not found after scraper run"
+          exit 1
+        fi
+        echo "Database file found, proceeding with sync..."
+
+    - name: Sync to Supabase
+      run: |
+        echo "=========================================="
+        echo "Starting Supabase sync..."
+        echo "=========================================="
+        python "supabase_sync.py"
+        echo "=========================================="
+        echo "Supabase sync completed successfully"
+        echo "=========================================="
+      env:
+        SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+        SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        SUPABASE_DB_PASSWORD: ${{ secrets.SUPABASE_DB_PASSWORD }}
+      continue-on-error: false
+
     - name: Clear Old Analysis in README
       run: |
         sed -i '/{{analysis_placeholder}}/q' README.md
