@@ -183,15 +183,15 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1149
-- **Total value**: $129,247.95
-- **Average price**: $112.49
+- **Total value**: $129,165.51
+- **Average price**: $112.42
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1149
-- **Price changes detected**: 31
-- **Stock/availability changes**: 20
-- **Discontinued products**: 3
+- **New products added**: 1
+- **Existing products updated**: 1148
+- **Price changes detected**: 22
+- **Stock/availability changes**: 22
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
@@ -221,31 +221,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1375
-- **Price increases**: 774
-- **Price decreases**: 534
-- **Average increase**: 5.0%
+- **Total price changes**: 1370
+- **Price increases**: 776
+- **Price decreases**: 527
+- **Average increase**: 4.9%
 - **Average decrease**: -5.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Chicken Boneless Breast Bag | $428.41 | $427.36 | $-1.05 | -0.2% | Decrease |
-| Chilled Boneless Beef Eye of Round, Case | $3909.81 | $3973.41 | $+63.60 | +1.6% | Increase |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $149.85 | $153.95 | $+4.10 | +2.7% | Increase |
-| Frozen Lamb Shoulder Case | $1300.95 | $1361.04 | $+60.09 | +4.6% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $106.48 | $106.79 | $+0.31 | +0.3% | Increase |
-| Frozen Lamb Leg Whole Vacuum Packed | $363.04 | $365.06 | $+2.02 | +0.6% | Increase |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $311.98 | $317.13 | $+5.15 | +1.7% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $95.56 | $95.47 | $-0.09 | -0.1% | Decrease |
-| Fresh Ground Chicken Tray | $95.85 | $96.56 | $+0.71 | +0.7% | Increase |
-| Pork Chop with Bone Frozen Tray | $85.69 | $85.57 | $-0.12 | -0.1% | Decrease |
-| Fresh Chicken Wings Tray | $93.72 | $93.61 | $-0.11 | -0.1% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $221.03 | $220.13 | $-0.90 | -0.4% | Decrease |
-| Chilled Skinless Boneless Beef Ribeye Steak Vacuum Package Whole Piece | $2147.08 | $2184.10 | $+37.02 | +1.7% | Increase |
-| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $155.15 | $155.34 | $+0.19 | +0.1% | Increase |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $75.84 | $80.59 | $+4.75 | +6.3% | Increase |
+| Red Cabbage Unit | $29.95 | $27.95 | $-2.00 | -6.7% | Decrease |
+| Chive 454 g / 1 lb | $29.95 | $34.95 | $+5.00 | +16.7% | Increase |
+| Green pepper | $34.53 | $34.33 | $-0.20 | -0.6% | Decrease |
+| McVitie's Ginger Nut Biscuits 4 Units / 250 g | $0.00 | $42.95 | $+42.95 | +100.0% | New |
+| Frozen Imported Pork Leg Slices | $82.22 | $81.57 | $-0.65 | -0.8% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $106.79 | $106.95 | $+0.16 | +0.1% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $73.35 | $73.46 | $+0.11 | +0.1% | Increase |
+| Pork Chop with Bone Frozen Tray | $85.57 | $85.44 | $-0.13 | -0.2% | Decrease |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $445.21 | $450.15 | $+4.94 | +1.1% | Increase |
+| Fresh Chicken Wings Tray | $93.61 | $93.51 | $-0.10 | -0.1% | Decrease |
+| Fresh Ground Chicken Meat Bag | $270.15 | $268.88 | $-1.27 | -0.5% | Decrease |
+| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $147.55 | $146.67 | $-0.88 | -0.6% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $91.91 | $92.01 | $+0.10 | +0.1% | Increase |
+| Fresh Chicken Drumsticks Tray  | $92.32 | $92.43 | $+0.11 | +0.1% | Increase |
+| Fresh Chicken Breast Boneless Skinless Tray | $125.09 | $124.92 | $-0.17 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -281,6 +281,8 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Seedless Watermelon  |  | $89.95 | 2025-11-11 |
+| QuinoaClub Loncher Snacks with Quinoa and Probiotics Doughnuts and Puffs 18 Units | QuinoaClub | $65.70 | 2025-11-11 |
 | Arcor Chocolate Rocklets 18 Units / 40 g | Arcor | $59.70 | 2025-11-10 |
 | Peas and Beans Assorted Grains 5 Units / 800 g | Peans and Beans | $99.95 | 2025-11-10 |
 | McCormick Whole Oregano 141 g / 5 oz | McCormick | $34.95 | 2025-11-10 |
@@ -289,8 +291,9 @@ This project has recently gained unexpected attention. It was created for person
 | Member's Selection Frozen Skinless Boneless Salmon Fillets Vacuum Packaged | Member's Selection | $332.57 | 2025-11-07 |
 | Fresh Pineapple Unit |  | $31.95 | 2025-11-06 |
 | De Carlo Italian Pitted Olives 550 g / 19.4 oz | De Carlo | $29.70 | 2025-11-06 |
-| Gorton's Pub Style Cod 921 g / 2 lb | Gorton's | $149.95 | 2025-11-06 |
-| Member's Selection California Sliced Almonds - For Recipes and Toppings 907 g / 32 oz | Member's Selection | $117.95 | 2025-11-05 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| McVitie's Ginger Nut Biscuits 4 Units / 250 g | McVitie's | $42.95 | G10D03 |
