@@ -6,11 +6,11 @@
 - **Average price**: $111.92
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1150
-- **Price changes detected**: 29
-- **Stock/availability changes**: 17
-- **Discontinued products**: 1
+- **New products added**: 0
+- **Existing products updated**: 1151
+- **Price changes detected**: 0
+- **Stock/availability changes**: 9
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -40,11 +40,11 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1400
-- **Price increases**: 794
-- **Price decreases**: 538
-- **Average increase**: 4.8%
-- **Average decrease**: -5.0%
+- **Total price changes**: 1352
+- **Price increases**: 765
+- **Price decreases**: 521
+- **Average increase**: 4.9%
+- **Average decrease**: -5.1%
 
 ## Recent Price Changes
 
@@ -112,8 +112,4 @@
 | Fresh Pineapple Unit |  | $31.95 | 2025-11-06 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Bosc Pear  |  | $88.95 | G10D03 |
-| McVitie's Ginger Nut Biscuits 4 Units / 250 g | McVitie's | $42.95 | G10D03 |
+No new products added today.
