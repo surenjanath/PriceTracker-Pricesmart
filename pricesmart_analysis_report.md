@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1151
-- **Total value**: $128,823.60
-- **Average price**: $111.92
+- **Total products scraped**: 1148
+- **Total value**: $128,589.20
+- **Average price**: $112.01
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1151
-- **Price changes detected**: 0
-- **Stock/availability changes**: 9
-- **Discontinued products**: 0
+- **New products added**: 4
+- **Existing products updated**: 1144
+- **Price changes detected**: 55
+- **Stock/availability changes**: 11
+- **Discontinued products**: 7
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 189 |
-|  | 145 |
+|  | 143 |
 | Badia | 18 |
 | Swiss | 13 |
 | Kirkland Signature | 12 |
@@ -32,17 +32,17 @@
 | Hershey's Cocoa Powder 652 g / 23 oz | Hershey's | $121.95 | true |
 | Pure Squeeze Assorted Flavors Sparkling Juice 12 Units / 330 mL / 11.2 oz | Pure Squeeze | $124.95 | true |
 | Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $92.95 | true |
-| Quaker Quick Oats 2 Units /  1.13 kg / 40 oz | Quaker | $88.95 | true |
+| Jackson's Sweet Potato Chips 454 g / 16 oz | Jackson's | $79.95 | true |
 | Del Alba Mixed Nuts Christmas Edition 660 g / 23.3 oz | Del Alba | $96.95 | true |
-| President Brie Cheese 555 g / 1.2 lb | President | $77.95 | true |
+| Quaker Quick Oats 2 Units /  1.13 kg / 40 oz | Quaker | $88.95 | true |
 | Food With Purpose Sparkling Tea Infused with Fruit Juice - Sugar Free 12 Units / 250 mL / 8.5 oz | Food with Purpose | $114.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1352
-- **Price increases**: 765
-- **Price decreases**: 521
+- **Total price changes**: 1387
+- **Price increases**: 785
+- **Price decreases**: 533
 - **Average increase**: 4.9%
 - **Average decrease**: -5.1%
 
@@ -50,21 +50,21 @@
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Bosc Pear  | $0.00 | $88.95 | $+88.95 | +100.0% | New |
-| Fresh Chicken Thighs Boneless Bag | $310.90 | $311.26 | $+0.36 | +0.1% | Increase |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $153.95 | $153.15 | $-0.80 | -0.5% | Decrease |
-| Frozen Lamb Leg Whole Vacuum Packed | $365.06 | $366.50 | $+1.44 | +0.4% | Increase |
-| Chilled Chicken Gizzard Tray Pack | $57.27 | $57.20 | $-0.07 | -0.1% | Decrease |
-| Frozen Imported Pork Leg Slices | $81.57 | $81.25 | $-0.32 | -0.4% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $106.95 | $107.10 | $+0.15 | +0.1% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $200.82 | $204.70 | $+3.88 | +1.9% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $148.71 | $148.10 | $-0.61 | -0.4% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $95.47 | $95.56 | $+0.09 | +0.1% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $220.13 | $223.06 | $+2.93 | +1.3% | Increase |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $450.15 | $452.06 | $+1.91 | +0.4% | Increase |
-| Fresh Ground Chicken Tray | $96.56 | $96.91 | $+0.35 | +0.4% | Increase |
-| Bugalu Tomato 1.5 kg / 3.5 lb | $28.95 | $27.95 | $-1.00 | -3.5% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $94.17 | $94.37 | $+0.20 | +0.2% | Increase |
+| Montchevre Goat Cheese 2 Units / 297 g / 10.4 oz | $117.95 | $119.95 | $+2.00 | +1.7% | Increase |
+| Member's Selection Sliced Assorted Cheese Pack 907 g / 32 oz | $76.95 | $74.95 | $-2.00 | -2.6% | Decrease |
+| Creamery Novelties Dulce de Leche Ice Cream 3.78 L / 1 gal | $0.00 | $49.95 | $+49.95 | +100.0% | New |
+| Miami Beef Beef Patties 40 / 113.5 g / 4 oz | $299.95 | $314.95 | $+15.00 | +5.0% | Increase |
+| Daisy Cottage Cheese 454 g / 16 oz  | $0.00 | $56.95 | $+56.95 | +100.0% | New |
+| Lunchables Cookie Sandwich 6 Units | $159.95 | $162.95 | $+3.00 | +1.9% | Increase |
+| Orchard Assorted Juices 24 Units / 250 mL | $0.00 | $82.95 | $+82.95 | +100.0% | New |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $153.15 | $153.95 | $+0.80 | +0.5% | Increase |
+| Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | $0.00 | $122.95 | $+122.95 | +100.0% | New |
+| Frozen Imported Pork Leg Slices | $81.25 | $80.93 | $-0.32 | -0.4% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $57.20 | $57.12 | $-0.08 | -0.1% | Decrease |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $317.13 | $330.01 | $+12.88 | +4.1% | Increase |
+| Swiss Elbows 6 Units / 300 g / 10.6 oz | $31.90 | $30.95 | $-0.95 | -3.0% | Decrease |
+| Orchard Assorted Drinks Juice Mix 6 Units / 1L | $64.95 | $69.95 | $+5.00 | +7.7% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $148.10 | $148.71 | $+0.61 | +0.4% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,16 +100,22 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Island Pride Sardines in Tomato Sauce, Oil and Brine 4 Units / 425 g | Island Pride | $39.95 | 2025-11-13 |
+| Takis Fuego Tortilla Chips Snack Hot Chili Pepper & Lime 30.75 oz | Takis | $159.95 | 2025-11-13 |
+| Lava Bits Chocolate Filled Cookies 6 Units / 150 g | Lava Bits | $24.70 | 2025-11-13 |
+| Red Potato 4.5 kg / 10 lb |  | $69.95 | 2025-11-13 |
+| Nanak Gulabjamun 12 Units 908 g / 2 lb | Nanak | $79.95 | 2025-11-13 |
+| Potato Sweet 2.2 kg / 5 lb |  | $38.99 | 2025-11-13 |
+| KC Candy Sweet Lollipops Filled with Bubblegum - Ideal for Parties 120 Units / 1800 g | KC Candy | $74.95 | 2025-11-13 |
 | Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2025-11-12 |
 | Seedless Watermelon  |  | $89.95 | 2025-11-11 |
 | QuinoaClub Loncher Snacks with Quinoa and Probiotics Doughnuts and Puffs 18 Units | QuinoaClub | $65.70 | 2025-11-11 |
-| Arcor Chocolate Rocklets 18 Units / 40 g | Arcor | $59.70 | 2025-11-10 |
-| Peas and Beans Assorted Grains 5 Units / 800 g | Peans and Beans | $99.95 | 2025-11-10 |
-| McCormick Whole Oregano 141 g / 5 oz | McCormick | $34.95 | 2025-11-10 |
-| Philadelphia Cream Cheese 13.6 kg / 30 lb | Philadelphia | $959.95 | 2025-11-09 |
-| Gouda Cheese Block |  | $69.85 | 2025-11-08 |
-| Member's Selection Frozen Skinless Boneless Salmon Fillets Vacuum Packaged | Member's Selection | $332.57 | 2025-11-07 |
-| Fresh Pineapple Unit |  | $31.95 | 2025-11-06 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Creamery Novelties Dulce de Leche Ice Cream 3.78 L / 1 gal | Creamery Novelties | $49.95 | G10D03 |
+| Daisy Cottage Cheese 454 g / 16 oz  | Daisy | $56.95 | G10D03 |
+| Orchard Assorted Juices 24 Units / 250 mL | Orchard | $82.95 | G10D03 |
+| Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $122.95 | G10D03 |
