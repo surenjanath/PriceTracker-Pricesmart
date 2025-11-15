@@ -29,7 +29,7 @@ PriceAnalysis is a powerful mobile application that helps you track, analyze, an
 ### 🔍 Price Tracking
 - **Real-time Price Monitoring:** Track prices for thousands of PriceSmart products
 - **Historical Data:** View price history going back 30+ days
-- **Automatic Updates:** Prices updated twice daily (5 AM and 5 PM)
+- **Automatic Updates:** Prices updated daily at 4 AM
 - **Price Change Indicators:** See increases and decreases at a glance
 
 ### 📊 Advanced Analytics
@@ -163,7 +163,7 @@ PriceAnalysis is a powerful mobile application that helps you track, analyze, an
 - **Framework:** React Native with Expo
 - **Backend:** Supabase (secure cloud database)
 - **Data Source:** PriceSmart public website
-- **Update Frequency:** Twice daily (5 AM and 5 PM)
+- **Update Frequency:** Daily at 4 AM
 
 ### Performance
 - ⚡ Fast loading with optimized caching
@@ -187,7 +187,7 @@ PriceAnalysis is a powerful mobile application that helps you track, analyze, an
 - Restart the app
 
 **Prices seem outdated**
-- Data updates twice daily (5 AM and 5 PM)
+- Data updates daily at 4 AM
 - Pull down to manually refresh
 - Check Settings → Last Sync time
 

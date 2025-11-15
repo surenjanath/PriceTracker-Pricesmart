@@ -108,7 +108,7 @@ We do NOT collect:
 - We fetch public product data from PriceSmart's website
 - We are not affiliated with PriceSmart
 - Product data accuracy depends on PriceSmart's website
-- We update product data automatically twice daily (5 AM and 5 PM)
+- We update product data automatically daily at 4 AM
 
 ## Data Sharing
 

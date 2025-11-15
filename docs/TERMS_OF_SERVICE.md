@@ -56,7 +56,7 @@ You agree to use the App only for lawful purposes and in accordance with these T
 - Product data is sourced from PriceSmart's public website
 - We are not affiliated with, endorsed by, or sponsored by PriceSmart
 - Product information accuracy depends on PriceSmart's website data
-- We update product data automatically twice daily (5 AM and 5 PM)
+- We update product data automatically daily at 4 AM
 - We do not guarantee the accuracy, completeness, or timeliness of product data
 
 ### Data Limitations

@@ -17,7 +17,7 @@ PriceAnalysis automatically tracks PriceSmart product prices and provides detail
 
 ### 📊 Real-Time Price Tracking
 - View current prices for thousands of PriceSmart products
-- Automatic price updates twice daily (5 AM and 5 PM)
+- Automatic price updates daily at 4 AM
 - Historical price data going back 30+ days
 - Price change indicators showing increases and decreases
 
@@ -60,7 +60,7 @@ PriceAnalysis automatically tracks PriceSmart product prices and provides detail
 ## How It Works
 
 ### Data Collection
-1. **Automatic Updates:** The app automatically fetches product data from PriceSmart's public website twice daily
+1. **Automatic Updates:** The app automatically fetches product data from PriceSmart's public website daily at 4 AM
 2. **Local Storage:** Product data is cached on your device for fast access
 3. **Cloud Sync:** Analytics and preferences are securely synced to our cloud database
 
@@ -78,7 +78,7 @@ PriceAnalysis automatically tracks PriceSmart product prices and provides detail
 
 ### PriceSmart Integration
 - **Source:** Public product data from PriceSmart's website
-- **Update Frequency:** Twice daily (5 AM and 5 PM)
+- **Update Frequency:** Daily at 4 AM
 - **Coverage:** All available PriceSmart products
 - **Accuracy:** Data accuracy depends on PriceSmart's website updates
 
