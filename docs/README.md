@@ -14,6 +14,16 @@
 
 PriceAnalysis is a powerful mobile application that helps you track, analyze, and monitor PriceSmart product prices over time. Make informed purchasing decisions with comprehensive price analytics, trend analysis, and smart notifications.
 
+
+## 📱 Mobile App  
+
+<div align="center">
+
+[![PriceAnalysis App](screenshots/main_screen.png)](https://surenjanath.github.io/PriceTracker-Pricesmart/)
+
+**For detailed information, see our [Launch App](https://surenjanath.github.io/PriceTracker-Pricesmart/)**
+
+</div>
 ## ✨ Key Features
 
 ### 🔍 Price Tracking

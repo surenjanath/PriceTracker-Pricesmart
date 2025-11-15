@@ -6,6 +6,8 @@ This is a Python web scraper designed to fetch product data from PriceSmart's AP
 
 PriceSmart is a membership-based warehouse club operator in the Caribbean and Central America. This scraper focuses on extracting product information from their Trinidad and Tobago (TT) store, including groceries, electronics, household items, and more.
 
+## MOBILE APP -- > see our [Launch App](https://surenjanath.github.io/PriceTracker-Pricesmart/)
+
 ## Features
 
 - **API-Based Scraping**: Uses PriceSmart's internal API for reliable data extraction
