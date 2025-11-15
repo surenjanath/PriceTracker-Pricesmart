@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1148
-- **Total value**: $128,589.20
-- **Average price**: $112.01
+- **Total products scraped**: 1145
+- **Total value**: $128,037.83
+- **Average price**: $111.82
 
 ## Database Changes
-- **New products added**: 4
+- **New products added**: 1
 - **Existing products updated**: 1144
 - **Price changes detected**: 55
-- **Stock/availability changes**: 11
-- **Discontinued products**: 7
+- **Stock/availability changes**: 7
+- **Discontinued products**: 5
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 189 |
-|  | 143 |
+|  | 142 |
 | Badia | 18 |
 | Swiss | 13 |
 | Kirkland Signature | 12 |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1387
-- **Price increases**: 785
-- **Price decreases**: 533
+- **Total price changes**: 1416
+- **Price increases**: 788
+- **Price decreases**: 558
 - **Average increase**: 4.9%
-- **Average decrease**: -5.1%
+- **Average decrease**: -5.9%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Montchevre Goat Cheese 2 Units / 297 g / 10.4 oz | $117.95 | $119.95 | $+2.00 | +1.7% | Increase |
-| Member's Selection Sliced Assorted Cheese Pack 907 g / 32 oz | $76.95 | $74.95 | $-2.00 | -2.6% | Decrease |
-| Creamery Novelties Dulce de Leche Ice Cream 3.78 L / 1 gal | $0.00 | $49.95 | $+49.95 | +100.0% | New |
-| Miami Beef Beef Patties 40 / 113.5 g / 4 oz | $299.95 | $314.95 | $+15.00 | +5.0% | Increase |
-| Daisy Cottage Cheese 454 g / 16 oz  | $0.00 | $56.95 | $+56.95 | +100.0% | New |
-| Lunchables Cookie Sandwich 6 Units | $159.95 | $162.95 | $+3.00 | +1.9% | Increase |
-| Orchard Assorted Juices 24 Units / 250 mL | $0.00 | $82.95 | $+82.95 | +100.0% | New |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $153.15 | $153.95 | $+0.80 | +0.5% | Increase |
-| Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | $0.00 | $122.95 | $+122.95 | +100.0% | New |
-| Frozen Imported Pork Leg Slices | $81.25 | $80.93 | $-0.32 | -0.4% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $57.20 | $57.12 | $-0.08 | -0.1% | Decrease |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $317.13 | $330.01 | $+12.88 | +4.1% | Increase |
-| Swiss Elbows 6 Units / 300 g / 10.6 oz | $31.90 | $30.95 | $-0.95 | -3.0% | Decrease |
-| Orchard Assorted Drinks Juice Mix 6 Units / 1L | $64.95 | $69.95 | $+5.00 | +7.7% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $148.10 | $148.71 | $+0.61 | +0.4% | Increase |
+| Cranberry 907 g / 2 lb | $0.00 | $39.95 | $+39.95 | +100.0% | New |
+| Frozen Imported Pork Leg Slices | $80.93 | $81.14 | $+0.21 | +0.3% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $107.10 | $107.26 | $+0.16 | +0.1% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $57.12 | $57.20 | $+0.08 | +0.1% | Increase |
+| Pork Belly with Skin Frozen Vacuum Packaged | $186.48 | $181.20 | $-5.28 | -2.8% | Decrease |
+| Mini Sweet Peppers 454 g / 1 lb | $37.95 | $29.95 | $-8.00 | -21.1% | Decrease |
+| Bosc Pear 1.36 kg / 3 lb | $74.95 | $54.95 | $-20.00 | -26.7% | Decrease |
+| Baby Carrots 907 g / 2 lb | $34.95 | $29.95 | $-5.00 | -14.3% | Decrease |
+| Mucci Farms Snack Cucumbers 681 g / 1.5 lb | $59.95 | $44.95 | $-15.00 | -25.0% | Decrease |
+| Red Onion 2.2 kg / 5 lb | $34.95 | $29.95 | $-5.00 | -14.3% | Decrease |
+| Plum 907 g / 2 lb | $74.95 | $62.95 | $-12.00 | -16.0% | Decrease |
+| Fresh Melon | $49.95 | $39.95 | $-10.00 | -20.0% | Decrease |
+| Wellsley Farms Apple Cider 3.8 L / 128 oz | $76.95 | $39.70 | $-37.25 | -48.4% | Decrease |
+| Green Cabbage 1.3 kg / 2.9 lb | $34.95 | $24.95 | $-10.00 | -28.6% | Decrease |
+| Fresh Red Apples 1.36 kg / 3 lb | $57.95 | $42.95 | $-15.00 | -25.9% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,22 +100,19 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Brussels Sprouts 454 g / 1 lb |  | $34.95 | 2025-11-14 |
+| Belgioioso Fresh Mozzarella Pearls 453 g / 1 lb | Belgioioso | $57.95 | 2025-11-14 |
+| Fresh Halloween Pumpkin |  | $49.70 | 2025-11-14 |
+| Baby Bottle Pop Assorted Flavor Sweet Powder Candies 20 Units / 24 g / 0.85 oz | Baby Bottle Pop | $99.70 | 2025-11-14 |
+| Pink Lady Apples 1.36 kg / 3 lb |  | $67.95 | 2025-11-14 |
 | Island Pride Sardines in Tomato Sauce, Oil and Brine 4 Units / 425 g | Island Pride | $39.95 | 2025-11-13 |
 | Takis Fuego Tortilla Chips Snack Hot Chili Pepper & Lime 30.75 oz | Takis | $159.95 | 2025-11-13 |
 | Lava Bits Chocolate Filled Cookies 6 Units / 150 g | Lava Bits | $24.70 | 2025-11-13 |
 | Red Potato 4.5 kg / 10 lb |  | $69.95 | 2025-11-13 |
 | Nanak Gulabjamun 12 Units 908 g / 2 lb | Nanak | $79.95 | 2025-11-13 |
-| Potato Sweet 2.2 kg / 5 lb |  | $38.99 | 2025-11-13 |
-| KC Candy Sweet Lollipops Filled with Bubblegum - Ideal for Parties 120 Units / 1800 g | KC Candy | $74.95 | 2025-11-13 |
-| Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2025-11-12 |
-| Seedless Watermelon  |  | $89.95 | 2025-11-11 |
-| QuinoaClub Loncher Snacks with Quinoa and Probiotics Doughnuts and Puffs 18 Units | QuinoaClub | $65.70 | 2025-11-11 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Creamery Novelties Dulce de Leche Ice Cream 3.78 L / 1 gal | Creamery Novelties | $49.95 | G10D03 |
-| Daisy Cottage Cheese 454 g / 16 oz  | Daisy | $56.95 | G10D03 |
-| Orchard Assorted Juices 24 Units / 250 mL | Orchard | $82.95 | G10D03 |
-| Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $122.95 | G10D03 |
+| Cranberry 907 g / 2 lb |  | $39.95 | G10D03 |
