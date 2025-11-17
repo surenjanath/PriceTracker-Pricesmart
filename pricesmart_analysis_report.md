@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1143
-- **Total value**: $128,204.52
-- **Average price**: $112.16
+- **Total products scraped**: 1141
+- **Total value**: $127,344.94
+- **Average price**: $111.61
 
 ## Database Changes
 - **New products added**: 1
-- **Existing products updated**: 1142
-- **Price changes detected**: 74
-- **Stock/availability changes**: 21
+- **Existing products updated**: 1140
+- **Price changes detected**: 68
+- **Stock/availability changes**: 9
 - **Discontinued products**: 3
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 189 |
-|  | 141 |
+| Member's Selection | 188 |
+|  | 139 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 12 |
@@ -32,39 +32,39 @@
 | Hershey's Cocoa Powder 652 g / 23 oz | Hershey's | $121.95 | true |
 | Pure Squeeze Assorted Flavors Sparkling Juice 12 Units / 330 mL / 11.2 oz | Pure Squeeze | $124.95 | true |
 | Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $92.95 | true |
-| Jackson's Sweet Potato Chips 454 g / 16 oz | Jackson's | $79.95 | true |
-| Del Alba Mixed Nuts Christmas Edition 660 g / 23.3 oz | Del Alba | $96.95 | true |
-| Quaker Quick Oats 2 Units /  1.13 kg / 40 oz | Quaker | $88.95 | true |
 | Food With Purpose Sparkling Tea Infused with Fruit Juice - Sugar Free 12 Units / 250 mL / 8.5 oz | Food with Purpose | $114.95 | true |
+| Jackson's Sweet Potato Chips 454 g / 16 oz | Jackson's | $79.95 | true |
+| Quaker Quick Oats 2 Units /  1.13 kg / 40 oz | Quaker | $88.95 | true |
+| Nescafé Gold Instant Coffee 190 g | Nescafé | $104.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1391
-- **Price increases**: 774
-- **Price decreases**: 550
-- **Average increase**: 5.8%
-- **Average decrease**: -5.7%
+- **Total price changes**: 1410
+- **Price increases**: 766
+- **Price decreases**: 577
+- **Average increase**: 5.7%
+- **Average decrease**: -6.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Kirkland Signature Canned Chicken Breast in Water 6 Units / 196 g / 7 oz | $169.95 | $174.95 | $+5.00 | +2.9% | Increase |
-| Frozen Lamb Shoulder Case | $1361.04 | $1363.08 | $+2.04 | +0.1% | Increase |
-| Cranberry 907 g / 2 lb | $39.95 | $59.95 | $+20.00 | +50.1% | Increase |
-| Swiss Lasagna 3 Units / 400 g | $0.00 | $39.95 | $+39.95 | +100.0% | New |
-| Frozen Bone-In Goat Carcass, Case | $1320.10 | $1228.98 | $-91.12 | -6.9% | Decrease |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $153.95 | $155.74 | $+1.79 | +1.2% | Increase |
-| Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | $87.95 | $83.95 | $-4.00 | -4.5% | Decrease |
-| Sea Best Snapper Fingers 907 g / 2 lb | $166.95 | $167.95 | $+1.00 | +0.6% | Increase |
-| Chilled Chicken Gizzard Tray Pack | $57.20 | $57.12 | $-0.08 | -0.1% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $204.70 | $204.39 | $-0.31 | -0.2% | Decrease |
-| Frosted Flakes Donut Holes Glazed Cereal 893 g / 31.5 oz | $82.95 | $54.70 | $-28.25 | -34.1% | Decrease |
-| Pork Belly with Skin Frozen Vacuum Packaged | $181.20 | $183.18 | $+1.98 | +1.1% | Increase |
-| Mini Sweet Peppers 454 g / 1 lb | $29.95 | $39.95 | $+10.00 | +33.4% | Increase |
-| Bosc Pear 1.36 kg / 3 lb | $54.95 | $74.95 | $+20.00 | +36.4% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $148.71 | $148.10 | $-0.61 | -0.4% | Decrease |
+| Kiss Fruit Rum Sponge Cake 6 Units / 65 g | $0.00 | $27.95 | $+27.95 | +100.0% | New |
+| McCain Super Potato Wedges 2 kg / 4.4 lb | $77.95 | $65.95 | $-12.00 | -15.4% | Decrease |
+| Nature Valley Crunchy Oat and Honey Bars 100% Natural 30 Units / 42 g | $113.95 | $136.95 | $+23.00 | +20.2% | Increase |
+| Frozen Lamb Shoulder Case | $1363.08 | $1361.04 | $-2.04 | -0.1% | Decrease |
+| Apple Jacks Cereal de Manzana y Canela 1.03 kg / 36.5 oz | $98.95 | $79.45 | $-19.50 | -19.7% | Decrease |
+| Frozen Pork Belly Skin On Sliced Tray  | $118.03 | $117.54 | $-0.49 | -0.4% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $204.39 | $203.76 | $-0.63 | -0.3% | Decrease |
+| Swiss Crunchy Peanut Butter 1.3 kg | $42.95 | $35.95 | $-7.00 | -16.3% | Decrease |
+| Pork Belly with Skin Frozen Vacuum Packaged | $183.18 | $185.82 | $+2.64 | +1.4% | Increase |
+| Busta Assorted Soft Drinks 24 Units / 370 mL / 12.5 oz | $43.95 | $36.95 | $-7.00 | -15.9% | Decrease |
+| Frozen Lamb Leg Whole Vacuum Packed | $366.50 | $368.51 | $+2.01 | +0.5% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $95.56 | $95.47 | $-0.09 | -0.1% | Decrease |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $330.01 | $331.85 | $+1.84 | +0.6% | Increase |
+| Lee Kum Kee Oyster Sauce 2 Units / 510 g | $71.95 | $59.95 | $-12.00 | -16.7% | Decrease |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $155.74 | $155.44 | $-0.30 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,9 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Fresh Cantaloupe Melon |  | $39.95 | 2025-11-16 |
+| Frozen Pork Belly Skin On Vacuum Packed |  | $448.02 | 2025-11-16 |
+| Member's Selection Skinless Pork Belly Center-Cut Sliced Tray | Member's Selection | $89.97 | 2025-11-16 |
 | Kellogg's Krispies Rice Cereal 1.19 kg / 42 oz | Kellogg's | $129.95 | 2025-11-15 |
 | YoguRico Mango Low Fat Drinkable Yogurt 1.68 L / 57 oz | YoguRico | $52.95 | 2025-11-15 |
 | Bosc Pear  |  | $88.95 | 2025-11-15 |
@@ -107,12 +110,9 @@
 | Belgioioso Fresh Mozzarella Pearls 453 g / 1 lb | Belgioioso | $57.95 | 2025-11-14 |
 | Fresh Halloween Pumpkin |  | $49.70 | 2025-11-14 |
 | Baby Bottle Pop Assorted Flavor Sweet Powder Candies 20 Units / 24 g / 0.85 oz | Baby Bottle Pop | $99.70 | 2025-11-14 |
-| Pink Lady Apples 1.36 kg / 3 lb |  | $67.95 | 2025-11-14 |
-| Island Pride Sardines in Tomato Sauce, Oil and Brine 4 Units / 425 g | Island Pride | $39.95 | 2025-11-13 |
-| Takis Fuego Tortilla Chips Snack Hot Chili Pepper & Lime 30.75 oz | Takis | $159.95 | 2025-11-13 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Swiss Lasagna 3 Units / 400 g | Swiss | $39.95 | G10D03 |
+| Kiss Fruit Rum Sponge Cake 6 Units / 65 g | Kiss | $27.95 | G10D03 |
