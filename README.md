@@ -184,25 +184,25 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1145
-- **Total value**: $128,037.83
-- **Average price**: $111.82
+- **Total products scraped**: 1143
+- **Total value**: $128,204.52
+- **Average price**: $112.16
 
 ## Database Changes
 - **New products added**: 1
-- **Existing products updated**: 1144
-- **Price changes detected**: 55
-- **Stock/availability changes**: 7
-- **Discontinued products**: 5
+- **Existing products updated**: 1142
+- **Price changes detected**: 74
+- **Stock/availability changes**: 21
+- **Discontinued products**: 3
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 189 |
-|  | 142 |
+|  | 141 |
 | Badia | 18 |
-| Swiss | 13 |
+| Swiss | 14 |
 | Kirkland Signature | 12 |
 
 ## Recent Products
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1416
-- **Price increases**: 788
-- **Price decreases**: 558
-- **Average increase**: 4.9%
-- **Average decrease**: -5.9%
+- **Total price changes**: 1391
+- **Price increases**: 774
+- **Price decreases**: 550
+- **Average increase**: 5.8%
+- **Average decrease**: -5.7%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Cranberry 907 g / 2 lb | $0.00 | $39.95 | $+39.95 | +100.0% | New |
-| Frozen Imported Pork Leg Slices | $80.93 | $81.14 | $+0.21 | +0.3% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $107.10 | $107.26 | $+0.16 | +0.1% | Increase |
-| Chilled Chicken Gizzard Tray Pack | $57.12 | $57.20 | $+0.08 | +0.1% | Increase |
-| Pork Belly with Skin Frozen Vacuum Packaged | $186.48 | $181.20 | $-5.28 | -2.8% | Decrease |
-| Mini Sweet Peppers 454 g / 1 lb | $37.95 | $29.95 | $-8.00 | -21.1% | Decrease |
-| Bosc Pear 1.36 kg / 3 lb | $74.95 | $54.95 | $-20.00 | -26.7% | Decrease |
-| Baby Carrots 907 g / 2 lb | $34.95 | $29.95 | $-5.00 | -14.3% | Decrease |
-| Mucci Farms Snack Cucumbers 681 g / 1.5 lb | $59.95 | $44.95 | $-15.00 | -25.0% | Decrease |
-| Red Onion 2.2 kg / 5 lb | $34.95 | $29.95 | $-5.00 | -14.3% | Decrease |
-| Plum 907 g / 2 lb | $74.95 | $62.95 | $-12.00 | -16.0% | Decrease |
-| Fresh Melon | $49.95 | $39.95 | $-10.00 | -20.0% | Decrease |
-| Wellsley Farms Apple Cider 3.8 L / 128 oz | $76.95 | $39.70 | $-37.25 | -48.4% | Decrease |
-| Green Cabbage 1.3 kg / 2.9 lb | $34.95 | $24.95 | $-10.00 | -28.6% | Decrease |
-| Fresh Red Apples 1.36 kg / 3 lb | $57.95 | $42.95 | $-15.00 | -25.9% | Decrease |
+| Kirkland Signature Canned Chicken Breast in Water 6 Units / 196 g / 7 oz | $169.95 | $174.95 | $+5.00 | +2.9% | Increase |
+| Frozen Lamb Shoulder Case | $1361.04 | $1363.08 | $+2.04 | +0.1% | Increase |
+| Cranberry 907 g / 2 lb | $39.95 | $59.95 | $+20.00 | +50.1% | Increase |
+| Swiss Lasagna 3 Units / 400 g | $0.00 | $39.95 | $+39.95 | +100.0% | New |
+| Frozen Bone-In Goat Carcass, Case | $1320.10 | $1228.98 | $-91.12 | -6.9% | Decrease |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $153.95 | $155.74 | $+1.79 | +1.2% | Increase |
+| Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | $87.95 | $83.95 | $-4.00 | -4.5% | Decrease |
+| Sea Best Snapper Fingers 907 g / 2 lb | $166.95 | $167.95 | $+1.00 | +0.6% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $57.20 | $57.12 | $-0.08 | -0.1% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $204.70 | $204.39 | $-0.31 | -0.2% | Decrease |
+| Frosted Flakes Donut Holes Glazed Cereal 893 g / 31.5 oz | $82.95 | $54.70 | $-28.25 | -34.1% | Decrease |
+| Pork Belly with Skin Frozen Vacuum Packaged | $181.20 | $183.18 | $+1.98 | +1.1% | Increase |
+| Mini Sweet Peppers 454 g / 1 lb | $29.95 | $39.95 | $+10.00 | +33.4% | Increase |
+| Bosc Pear 1.36 kg / 3 lb | $54.95 | $74.95 | $+20.00 | +36.4% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $148.71 | $148.10 | $-0.61 | -0.4% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,9 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Kellogg's Krispies Rice Cereal 1.19 kg / 42 oz | Kellogg's | $129.95 | 2025-11-15 |
+| YoguRico Mango Low Fat Drinkable Yogurt 1.68 L / 57 oz | YoguRico | $52.95 | 2025-11-15 |
+| Bosc Pear  |  | $88.95 | 2025-11-15 |
 | Brussels Sprouts 454 g / 1 lb |  | $34.95 | 2025-11-14 |
 | Belgioioso Fresh Mozzarella Pearls 453 g / 1 lb | Belgioioso | $57.95 | 2025-11-14 |
 | Fresh Halloween Pumpkin |  | $49.70 | 2025-11-14 |
@@ -290,12 +293,9 @@ This project has recently gained unexpected attention. It was created for person
 | Pink Lady Apples 1.36 kg / 3 lb |  | $67.95 | 2025-11-14 |
 | Island Pride Sardines in Tomato Sauce, Oil and Brine 4 Units / 425 g | Island Pride | $39.95 | 2025-11-13 |
 | Takis Fuego Tortilla Chips Snack Hot Chili Pepper & Lime 30.75 oz | Takis | $159.95 | 2025-11-13 |
-| Lava Bits Chocolate Filled Cookies 6 Units / 150 g | Lava Bits | $24.70 | 2025-11-13 |
-| Red Potato 4.5 kg / 10 lb |  | $69.95 | 2025-11-13 |
-| Nanak Gulabjamun 12 Units 908 g / 2 lb | Nanak | $79.95 | 2025-11-13 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Cranberry 907 g / 2 lb |  | $39.95 | G10D03 |
+| Swiss Lasagna 3 Units / 400 g | Swiss | $39.95 | G10D03 |
