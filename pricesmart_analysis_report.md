@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1141
-- **Total value**: $127,344.94
-- **Average price**: $111.61
+- **Total products scraped**: 1140
+- **Total value**: $127,262.39
+- **Average price**: $111.63
 
 ## Database Changes
-- **New products added**: 1
+- **New products added**: 0
 - **Existing products updated**: 1140
-- **Price changes detected**: 68
-- **Stock/availability changes**: 9
-- **Discontinued products**: 3
+- **Price changes detected**: 22
+- **Stock/availability changes**: 17
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1410
-- **Price increases**: 766
-- **Price decreases**: 577
+- **Total price changes**: 1362
+- **Price increases**: 761
+- **Price decreases**: 537
 - **Average increase**: 5.7%
-- **Average decrease**: -6.1%
+- **Average decrease**: -6.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Kiss Fruit Rum Sponge Cake 6 Units / 65 g | $0.00 | $27.95 | $+27.95 | +100.0% | New |
-| McCain Super Potato Wedges 2 kg / 4.4 lb | $77.95 | $65.95 | $-12.00 | -15.4% | Decrease |
-| Nature Valley Crunchy Oat and Honey Bars 100% Natural 30 Units / 42 g | $113.95 | $136.95 | $+23.00 | +20.2% | Increase |
-| Frozen Lamb Shoulder Case | $1363.08 | $1361.04 | $-2.04 | -0.1% | Decrease |
-| Apple Jacks Cereal de Manzana y Canela 1.03 kg / 36.5 oz | $98.95 | $79.45 | $-19.50 | -19.7% | Decrease |
-| Frozen Pork Belly Skin On Sliced Tray  | $118.03 | $117.54 | $-0.49 | -0.4% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $204.39 | $203.76 | $-0.63 | -0.3% | Decrease |
-| Swiss Crunchy Peanut Butter 1.3 kg | $42.95 | $35.95 | $-7.00 | -16.3% | Decrease |
-| Pork Belly with Skin Frozen Vacuum Packaged | $183.18 | $185.82 | $+2.64 | +1.4% | Increase |
-| Busta Assorted Soft Drinks 24 Units / 370 mL / 12.5 oz | $43.95 | $36.95 | $-7.00 | -15.9% | Decrease |
-| Frozen Lamb Leg Whole Vacuum Packed | $366.50 | $368.51 | $+2.01 | +0.5% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $95.56 | $95.47 | $-0.09 | -0.1% | Decrease |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $330.01 | $331.85 | $+1.84 | +0.6% | Increase |
-| Lee Kum Kee Oyster Sauce 2 Units / 510 g | $71.95 | $59.95 | $-12.00 | -16.7% | Decrease |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $155.74 | $155.44 | $-0.30 | -0.2% | Decrease |
+| Cherries 454 g / 1 lb | $47.95 | $84.95 | $+37.00 | +77.2% | Increase |
+| Fresh Chicken Thighs Boneless Bag | $311.26 | $312.44 | $+1.18 | +0.4% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $203.76 | $204.07 | $+0.31 | +0.2% | Increase |
+| Pork Belly with Skin Frozen Vacuum Packaged | $185.82 | $184.28 | $-1.54 | -0.8% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $107.26 | $107.42 | $+0.16 | +0.1% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $95.47 | $95.38 | $-0.09 | -0.1% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $222.76 | $223.06 | $+0.30 | +0.1% | Increase |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $155.44 | $155.74 | $+0.30 | +0.2% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $148.10 | $147.65 | $-0.45 | -0.3% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $73.56 | $73.67 | $+0.11 | +0.1% | Increase |
+| Wellsley Farms Apple Cider 3.8 L / 128 oz | $76.95 | $39.70 | $-37.25 | -48.4% | Decrease |
+| Fresh Ground Chicken Tray | $97.50 | $97.39 | $-0.11 | -0.1% | Decrease |
+| Fine Choice Fresh Marinated Chicken Tray | $94.31 | $94.22 | $-0.09 | -0.1% | Decrease |
+| Fresh Apple Cosmic Crisp 1.36 kg / 3 lb | $67.95 | $44.70 | $-23.25 | -34.2% | Decrease |
+| Fresh Ground Chicken Meat Bag | $271.10 | $270.57 | $-0.53 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Bagelmania Cinnamon and Raisin Sliced Bagels 6 units | Bagelmania | $34.95 | 2025-11-17 |
 | Fresh Cantaloupe Melon |  | $39.95 | 2025-11-16 |
 | Frozen Pork Belly Skin On Vacuum Packed |  | $448.02 | 2025-11-16 |
 | Member's Selection Skinless Pork Belly Center-Cut Sliced Tray | Member's Selection | $89.97 | 2025-11-16 |
@@ -109,10 +110,6 @@
 | Brussels Sprouts 454 g / 1 lb |  | $34.95 | 2025-11-14 |
 | Belgioioso Fresh Mozzarella Pearls 453 g / 1 lb | Belgioioso | $57.95 | 2025-11-14 |
 | Fresh Halloween Pumpkin |  | $49.70 | 2025-11-14 |
-| Baby Bottle Pop Assorted Flavor Sweet Powder Candies 20 Units / 24 g / 0.85 oz | Baby Bottle Pop | $99.70 | 2025-11-14 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Kiss Fruit Rum Sponge Cake 6 Units / 65 g | Kiss | $27.95 | G10D03 |
+No new products added today.
