@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1140
-- **Total value**: $127,262.39
-- **Average price**: $111.63
+- **Total products scraped**: 1142
+- **Total value**: $127,333.92
+- **Average price**: $111.50
 
 ## Database Changes
-- **New products added**: 0
+- **New products added**: 2
 - **Existing products updated**: 1140
-- **Price changes detected**: 22
-- **Stock/availability changes**: 17
-- **Discontinued products**: 1
+- **Price changes detected**: 21
+- **Stock/availability changes**: 25
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -26,45 +26,45 @@
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Member's Selection Trail Mix with Cranberries, Cashews, and Walnuts 850 g / 30 oz | Member's Selection | $122.95 | true |
-| Member's Selection Tropical Trail Mix with Nuts and Dried Fruit 850 g / 30 oz | Member's Selection | $119.95 | true |
-| Member's Selection Mild Cheddar Cheese 907 g / 2 lb | Member's Selection | $59.95 | true |
-| Hershey's Cocoa Powder 652 g / 23 oz | Hershey's | $121.95 | true |
-| Pure Squeeze Assorted Flavors Sparkling Juice 12 Units / 330 mL / 11.2 oz | Pure Squeeze | $124.95 | true |
 | Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $92.95 | true |
 | Food With Purpose Sparkling Tea Infused with Fruit Juice - Sugar Free 12 Units / 250 mL / 8.5 oz | Food with Purpose | $114.95 | true |
 | Jackson's Sweet Potato Chips 454 g / 16 oz | Jackson's | $79.95 | true |
-| Quaker Quick Oats 2 Units /  1.13 kg / 40 oz | Quaker | $88.95 | true |
+| Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $122.95 | true |
 | Nescafé Gold Instant Coffee 190 g | Nescafé | $104.95 | true |
+| President Brie Cheese 555 g / 1.2 lb | President | $77.95 | true |
+| Chuckanut Bay Chocalate Covered Cheesecake Bites 634 g / 1.4 lb | Chuckanut Bay | $139.95 | true |
+| Badia Mojo Rub Citrus Blend 680.4 g / 24 oz  | Badia | $89.95 | true |
+| Pepe's Nature´s Pride Pack of Peas and Dry Legumes 5 Units / 1 kg | Pepe's Nature's Pride | $129.95 | true |
+| Helado Mexico Ice Cream Bars 24 Units / 81 mL / 2.74 oz | Helado México | $171.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1362
-- **Price increases**: 761
-- **Price decreases**: 537
-- **Average increase**: 5.7%
+- **Total price changes**: 1344
+- **Price increases**: 742
+- **Price decreases**: 540
+- **Average increase**: 5.8%
 - **Average decrease**: -6.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Cherries 454 g / 1 lb | $47.95 | $84.95 | $+37.00 | +77.2% | Increase |
-| Fresh Chicken Thighs Boneless Bag | $311.26 | $312.44 | $+1.18 | +0.4% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $203.76 | $204.07 | $+0.31 | +0.2% | Increase |
-| Pork Belly with Skin Frozen Vacuum Packaged | $185.82 | $184.28 | $-1.54 | -0.8% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $107.26 | $107.42 | $+0.16 | +0.1% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $95.47 | $95.38 | $-0.09 | -0.1% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $222.76 | $223.06 | $+0.30 | +0.1% | Increase |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $155.44 | $155.74 | $+0.30 | +0.2% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $148.10 | $147.65 | $-0.45 | -0.3% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $73.56 | $73.67 | $+0.11 | +0.1% | Increase |
-| Wellsley Farms Apple Cider 3.8 L / 128 oz | $76.95 | $39.70 | $-37.25 | -48.4% | Decrease |
-| Fresh Ground Chicken Tray | $97.50 | $97.39 | $-0.11 | -0.1% | Decrease |
-| Fine Choice Fresh Marinated Chicken Tray | $94.31 | $94.22 | $-0.09 | -0.1% | Decrease |
-| Fresh Apple Cosmic Crisp 1.36 kg / 3 lb | $67.95 | $44.70 | $-23.25 | -34.2% | Decrease |
-| Fresh Ground Chicken Meat Bag | $271.10 | $270.57 | $-0.53 | -0.2% | Decrease |
+| Fresh Chicken Thighs Boneless Bag | $312.44 | $312.67 | $+0.23 | +0.1% | Increase |
+| Ferrero Grand Rocher 100 g | $0.00 | $69.95 | $+69.95 | +100.0% | New |
+| Frozen Imported Pork Leg Slices | $81.14 | $81.36 | $+0.22 | +0.3% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $57.12 | $57.05 | $-0.07 | -0.1% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $204.07 | $203.76 | $-0.31 | -0.2% | Decrease |
+| Barista Coffee Salty Caramel-Flavored Cappuccino Mix 2 Units / 320 g / 11.2 oz | $64.95 | $69.95 | $+5.00 | +7.7% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $95.38 | $95.20 | $-0.18 | -0.2% | Decrease |
+| Muffin Town Mini Bread Cake with Cinnamon Crumbs Topping | $51.95 | $47.70 | $-4.25 | -8.2% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $223.06 | $222.76 | $-0.30 | -0.1% | Decrease |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $155.74 | $159.74 | $+4.00 | +2.6% | Increase |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $438.07 | $436.49 | $-1.58 | -0.4% | Decrease |
+| Bombolo Biscotti Decorated Cookies with Autumn Patterns 18 Units | $52.70 | $13.77 | $-38.93 | -73.9% | Decrease |
+| Fresh Ground Chicken Tray | $97.39 | $97.74 | $+0.35 | +0.4% | Increase |
+| Fresh Chicken Mixed Parts Tray | $94.40 | $94.29 | $-0.11 | -0.1% | Decrease |
+| Pork Chop with Bone Frozen Tray | $85.18 | $84.80 | $-0.38 | -0.4% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -86,6 +86,7 @@
 | Product | Old Price | New Price | % Decrease |
 |---------|-----------|-----------|------------|
 | Tropical Frying Cheese 907 g / 32 oz | $89.95 | $19.70 | -78.1% |
+| Bombolo Biscotti Decorated Cookies with Autumn Patterns 18 Units | $52.70 | $13.77 | -73.9% |
 | Sabra Classic Hummus 850 g / 30 oz | $79.95 | $24.70 | -69.1% |
 | Avocado 2 Units | $29.95 | $9.70 | -67.6% |
 | Kozyshack Cinnamon Rice Pudding 1.36 kg / 3 lb | $87.95 | $29.70 | -66.2% |
@@ -94,7 +95,6 @@
 | Black Seedless Grapes 907 g / 2 lb | $64.95 | $29.70 | -54.3% |
 | Curly's Baby Back Pork Ribs 680 g / 24 oz | $129.95 | $59.70 | -54.1% |
 | Green Seedless Grapes 907 g / 2 lb | $62.95 | $29.70 | -52.8% |
-| Leclerc Summer Cookies with Raspberry and Berry Flavor 2 Units / 300 g | $41.70 | $19.70 | -52.8% |
 
 ## Recently Discontinued Products
 
@@ -112,4 +112,8 @@
 | Fresh Halloween Pumpkin |  | $49.70 | 2025-11-14 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Ferrero Grand Rocher 100 g | Ferrero Rocher | $69.95 | G10D03 |
+| Carmencita Mediterranean Spice Mix with Grinder 190 g / 6.7 oz | Carmencita | $37.95 | G10D03 |
