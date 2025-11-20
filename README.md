@@ -184,22 +184,22 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1142
-- **Total value**: $127,333.92
-- **Average price**: $111.50
+- **Total products scraped**: 1140
+- **Total value**: $127,233.24
+- **Average price**: $111.61
 
 ## Database Changes
 - **New products added**: 2
-- **Existing products updated**: 1140
-- **Price changes detected**: 21
-- **Stock/availability changes**: 25
-- **Discontinued products**: 0
+- **Existing products updated**: 1138
+- **Price changes detected**: 95
+- **Stock/availability changes**: 24
+- **Discontinued products**: 5
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 188 |
+| Member's Selection | 186 |
 |  | 139 |
 | Badia | 18 |
 | Swiss | 14 |
@@ -211,8 +211,8 @@ This project has recently gained unexpected attention. It was created for person
 |-------|-------|-------------|--------------|
 | Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $92.95 | true |
 | Food With Purpose Sparkling Tea Infused with Fruit Juice - Sugar Free 12 Units / 250 mL / 8.5 oz | Food with Purpose | $114.95 | true |
-| Jackson's Sweet Potato Chips 454 g / 16 oz | Jackson's | $79.95 | true |
-| Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $122.95 | true |
+| Jackson's Sweet Potato Chips 454 g / 16 oz | Jackson's | $82.95 | true |
+| Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | true |
 | Nescafé Gold Instant Coffee 190 g | Nescafé | $104.95 | true |
 | President Brie Cheese 555 g / 1.2 lb | President | $77.95 | true |
 | Chuckanut Bay Chocalate Covered Cheesecake Bites 634 g / 1.4 lb | Chuckanut Bay | $139.95 | true |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1344
-- **Price increases**: 742
-- **Price decreases**: 540
-- **Average increase**: 5.8%
-- **Average decrease**: -6.0%
+- **Total price changes**: 1381
+- **Price increases**: 782
+- **Price decreases**: 538
+- **Average increase**: 5.7%
+- **Average decrease**: -5.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Chicken Thighs Boneless Bag | $312.44 | $312.67 | $+0.23 | +0.1% | Increase |
-| Ferrero Grand Rocher 100 g | $0.00 | $69.95 | $+69.95 | +100.0% | New |
-| Frozen Imported Pork Leg Slices | $81.14 | $81.36 | $+0.22 | +0.3% | Increase |
-| Chilled Chicken Gizzard Tray Pack | $57.12 | $57.05 | $-0.07 | -0.1% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $204.07 | $203.76 | $-0.31 | -0.2% | Decrease |
-| Barista Coffee Salty Caramel-Flavored Cappuccino Mix 2 Units / 320 g / 11.2 oz | $64.95 | $69.95 | $+5.00 | +7.7% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $95.38 | $95.20 | $-0.18 | -0.2% | Decrease |
-| Muffin Town Mini Bread Cake with Cinnamon Crumbs Topping | $51.95 | $47.70 | $-4.25 | -8.2% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $223.06 | $222.76 | $-0.30 | -0.1% | Decrease |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $155.74 | $159.74 | $+4.00 | +2.6% | Increase |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $438.07 | $436.49 | $-1.58 | -0.4% | Decrease |
-| Bombolo Biscotti Decorated Cookies with Autumn Patterns 18 Units | $52.70 | $13.77 | $-38.93 | -73.9% | Decrease |
-| Fresh Ground Chicken Tray | $97.39 | $97.74 | $+0.35 | +0.4% | Increase |
-| Fresh Chicken Mixed Parts Tray | $94.40 | $94.29 | $-0.11 | -0.1% | Decrease |
-| Pork Chop with Bone Frozen Tray | $85.18 | $84.80 | $-0.38 | -0.4% | Decrease |
+| Stuffed Foods Lobster Ravioli 680 g / 24 oz | $82.70 | $99.95 | $+17.25 | +20.9% | Increase |
+| Honey Crisp Apple 1.36 kg / 3 lb | $0.00 | $52.95 | $+52.95 | +100.0% | New |
+| Nature's Pride Red Beans 1.8 kg / 4 lb | $62.95 | $59.95 | $-3.00 | -4.8% | Decrease |
+| Tropicland Frozen Pineapple Chunks 1.81 kg / 64 oz | $82.95 | $97.95 | $+15.00 | +18.1% | Increase |
+| Rockit Apple 1.36 kg / 3 lb | $39.70 | $69.95 | $+30.25 | +76.2% | Increase |
+| Kirkland Signature Canned Chicken Breast in Water 6 Units / 196 g / 7 oz | $174.95 | $179.95 | $+5.00 | +2.9% | Increase |
+| Nesquik Chocolate Powder Mix 1.27 kg / 2.8 lb | $79.95 | $94.95 | $+15.00 | +18.8% | Increase |
+| Nature Valley Crunchy Oat and Honey Bars 100% Natural 30 Units / 42 g | $136.95 | $139.95 | $+3.00 | +2.2% | Increase |
+| President Feta Crumbled 680 g / 1.5 lb | $84.95 | $82.95 | $-2.00 | -2.4% | Decrease |
+| Member's Selection Pepper Jack Cheese Sliced 907 g / 2 lb  | $72.95 | $69.95 | $-3.00 | -4.1% | Decrease |
+| Member's Selection Sliced Mild Cheddar Cheese 907 g / 2 lb  | $64.95 | $62.95 | $-2.00 | -3.1% | Decrease |
+| Member's Selection Toasted and Salted Deluxe Mixed Nuts 907 g / 2 lb | $159.95 | $167.95 | $+8.00 | +5.0% | Increase |
+| KC Candy Kiddie Pop Assorted Flavor Lollipops with Gum 120 Units / 13 g / 0.45 oz | $0.00 | $74.95 | $+74.95 | +100.0% | New |
+| Frozen Beef Tails, Case | $2209.15 | $2124.15 | $-85.00 | -3.8% | Decrease |
+| Flavorite Ponche De Crème & Sorrel Ice Cream 2 Units / 1 L / 33.8 oz | $69.95 | $68.95 | $-1.00 | -1.4% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,20 +283,20 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Nongshim Korean Instant Ramen Soup Original Flavor 6 Units / 75 g | Nongshim | $79.95 | 2025-11-19 |
+| Member’s Selection Coconut Swiss Roll  | Member's Selection | $31.95 | 2025-11-19 |
+| Member's Selection Thai Hom Mali Jasmine Rice 9.07 kg / 20 lb | Member's Selection | $139.95 | 2025-11-19 |
+| Gouda Cheese Block |  | $86.98 | 2025-11-19 |
+| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | Swift | $147.64 | 2025-11-19 |
 | Bagelmania Cinnamon and Raisin Sliced Bagels 6 units | Bagelmania | $34.95 | 2025-11-17 |
 | Fresh Cantaloupe Melon |  | $39.95 | 2025-11-16 |
 | Frozen Pork Belly Skin On Vacuum Packed |  | $448.02 | 2025-11-16 |
 | Member's Selection Skinless Pork Belly Center-Cut Sliced Tray | Member's Selection | $89.97 | 2025-11-16 |
 | Kellogg's Krispies Rice Cereal 1.19 kg / 42 oz | Kellogg's | $129.95 | 2025-11-15 |
-| YoguRico Mango Low Fat Drinkable Yogurt 1.68 L / 57 oz | YoguRico | $52.95 | 2025-11-15 |
-| Bosc Pear  |  | $88.95 | 2025-11-15 |
-| Brussels Sprouts 454 g / 1 lb |  | $34.95 | 2025-11-14 |
-| Belgioioso Fresh Mozzarella Pearls 453 g / 1 lb | Belgioioso | $57.95 | 2025-11-14 |
-| Fresh Halloween Pumpkin |  | $49.70 | 2025-11-14 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Ferrero Grand Rocher 100 g | Ferrero Rocher | $69.95 | G10D03 |
-| Carmencita Mediterranean Spice Mix with Grinder 190 g / 6.7 oz | Carmencita | $37.95 | G10D03 |
+| Honey Crisp Apple 1.36 kg / 3 lb |  | $52.95 | G10D03 |
+| KC Candy Kiddie Pop Assorted Flavor Lollipops with Gum 120 Units / 13 g / 0.45 oz | KC Candy | $74.95 | G10D03 |
