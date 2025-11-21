@@ -2,22 +2,22 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1140
-- **Total value**: $127,233.24
-- **Average price**: $111.61
+- **Total value**: $127,608.19
+- **Average price**: $111.94
 
 ## Database Changes
 - **New products added**: 2
 - **Existing products updated**: 1138
-- **Price changes detected**: 95
-- **Stock/availability changes**: 24
-- **Discontinued products**: 5
+- **Price changes detected**: 35
+- **Stock/availability changes**: 13
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 186 |
-|  | 139 |
+|  | 140 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 12 |
@@ -41,8 +41,8 @@
 
 ## Price Change Summary (Last 30 Days)
 - **Total price changes**: 1381
-- **Price increases**: 782
-- **Price decreases**: 538
+- **Price increases**: 784
+- **Price decreases**: 536
 - **Average increase**: 5.7%
 - **Average decrease**: -5.6%
 
@@ -50,21 +50,21 @@
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Stuffed Foods Lobster Ravioli 680 g / 24 oz | $82.70 | $99.95 | $+17.25 | +20.9% | Increase |
-| Honey Crisp Apple 1.36 kg / 3 lb | $0.00 | $52.95 | $+52.95 | +100.0% | New |
-| Nature's Pride Red Beans 1.8 kg / 4 lb | $62.95 | $59.95 | $-3.00 | -4.8% | Decrease |
-| Tropicland Frozen Pineapple Chunks 1.81 kg / 64 oz | $82.95 | $97.95 | $+15.00 | +18.1% | Increase |
-| Rockit Apple 1.36 kg / 3 lb | $39.70 | $69.95 | $+30.25 | +76.2% | Increase |
-| Kirkland Signature Canned Chicken Breast in Water 6 Units / 196 g / 7 oz | $174.95 | $179.95 | $+5.00 | +2.9% | Increase |
-| Nesquik Chocolate Powder Mix 1.27 kg / 2.8 lb | $79.95 | $94.95 | $+15.00 | +18.8% | Increase |
-| Nature Valley Crunchy Oat and Honey Bars 100% Natural 30 Units / 42 g | $136.95 | $139.95 | $+3.00 | +2.2% | Increase |
-| President Feta Crumbled 680 g / 1.5 lb | $84.95 | $82.95 | $-2.00 | -2.4% | Decrease |
-| Member's Selection Pepper Jack Cheese Sliced 907 g / 2 lb  | $72.95 | $69.95 | $-3.00 | -4.1% | Decrease |
-| Member's Selection Sliced Mild Cheddar Cheese 907 g / 2 lb  | $64.95 | $62.95 | $-2.00 | -3.1% | Decrease |
-| Member's Selection Toasted and Salted Deluxe Mixed Nuts 907 g / 2 lb | $159.95 | $167.95 | $+8.00 | +5.0% | Increase |
-| KC Candy Kiddie Pop Assorted Flavor Lollipops with Gum 120 Units / 13 g / 0.45 oz | $0.00 | $74.95 | $+74.95 | +100.0% | New |
-| Frozen Beef Tails, Case | $2209.15 | $2124.15 | $-85.00 | -3.8% | Decrease |
-| Flavorite Ponche De Crème & Sorrel Ice Cream 2 Units / 1 L / 33.8 oz | $69.95 | $68.95 | $-1.00 | -1.4% | Decrease |
+| Red Cabbage Unit | $27.95 | $24.95 | $-3.00 | -10.7% | Decrease |
+| Cherries 454 g / 1 lb | $84.95 | $89.95 | $+5.00 | +5.9% | Increase |
+| Suzy's Cream Cheesecakes Assorted Flavors Cheesecake New York, Strawberry, Chocolate and Caramel 12 Slices | $0.00 | $162.95 | $+162.95 | +100.0% | New |
+| Frozen Lamb Shoulder Case | $1361.04 | $1373.27 | $+12.23 | +0.9% | Increase |
+| Member's Selection Frozen Bone-In Pork Leg Case | $0.00 | $358.41 | $+358.41 | +100.0% | New |
+| Frozen Pork Belly Skin On Sliced Tray  | $117.05 | $117.54 | $+0.49 | +0.4% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $107.42 | $107.57 | $+0.15 | +0.1% | Increase |
+| Mini Sweet Peppers 454 g / 1 lb | $39.95 | $34.95 | $-5.00 | -12.5% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $95.20 | $95.11 | $-0.09 | -0.1% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $223.06 | $222.76 | $-0.30 | -0.1% | Decrease |
+| Fresh Melon | $54.95 | $49.95 | $-5.00 | -9.1% | Decrease |
+| Bosc Pear 1.36 kg / 3 lb | $74.95 | $69.95 | $-5.00 | -6.7% | Decrease |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $436.49 | $430.16 | $-6.33 | -1.5% | Decrease |
+| Red Potatoes 2.26 kg / 5 lb | $32.95 | $29.95 | $-3.00 | -9.1% | Decrease |
+| Fresh Ground Chicken Tray | $98.56 | $98.80 | $+0.24 | +0.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,8 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Klim Powdered Milk 1.6 kg / 56.4 oz | Klim | $109.95 | 2025-11-20 |
+| Bumble Bee Solid White Albacore in Water 4 Units / 142 g / 5 oz | Bumble Bee | $43.95 | 2025-11-20 |
 | Nongshim Korean Instant Ramen Soup Original Flavor 6 Units / 75 g | Nongshim | $79.95 | 2025-11-19 |
 | Member’s Selection Coconut Swiss Roll  | Member's Selection | $31.95 | 2025-11-19 |
 | Member's Selection Thai Hom Mali Jasmine Rice 9.07 kg / 20 lb | Member's Selection | $139.95 | 2025-11-19 |
@@ -108,12 +110,10 @@
 | Bagelmania Cinnamon and Raisin Sliced Bagels 6 units | Bagelmania | $34.95 | 2025-11-17 |
 | Fresh Cantaloupe Melon |  | $39.95 | 2025-11-16 |
 | Frozen Pork Belly Skin On Vacuum Packed |  | $448.02 | 2025-11-16 |
-| Member's Selection Skinless Pork Belly Center-Cut Sliced Tray | Member's Selection | $89.97 | 2025-11-16 |
-| Kellogg's Krispies Rice Cereal 1.19 kg / 42 oz | Kellogg's | $129.95 | 2025-11-15 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Honey Crisp Apple 1.36 kg / 3 lb |  | $52.95 | G10D03 |
-| KC Candy Kiddie Pop Assorted Flavor Lollipops with Gum 120 Units / 13 g / 0.45 oz | KC Candy | $74.95 | G10D03 |
+| Suzy's Cream Cheesecakes Assorted Flavors Cheesecake New York, Strawberry, Chocolate and Caramel 12 Slices | Suzy's Cream Cheesecakes | $162.95 | G10D03 |
+| Member's Selection Frozen Bone-In Pork Leg Case |  | $358.41 | G10D03 |
