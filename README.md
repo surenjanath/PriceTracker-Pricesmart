@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1140
-- **Total value**: $127,608.19
-- **Average price**: $111.94
+- **Total products scraped**: 1144
+- **Total value**: $128,271.29
+- **Average price**: $112.13
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1138
-- **Price changes detected**: 35
-- **Stock/availability changes**: 13
-- **Discontinued products**: 2
+- **New products added**: 4
+- **Existing products updated**: 1140
+- **Price changes detected**: 30
+- **Stock/availability changes**: 6
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1381
-- **Price increases**: 784
-- **Price decreases**: 536
-- **Average increase**: 5.7%
+- **Total price changes**: 1333
+- **Price increases**: 738
+- **Price decreases**: 532
+- **Average increase**: 5.1%
 - **Average decrease**: -5.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Red Cabbage Unit | $27.95 | $24.95 | $-3.00 | -10.7% | Decrease |
-| Cherries 454 g / 1 lb | $84.95 | $89.95 | $+5.00 | +5.9% | Increase |
-| Suzy's Cream Cheesecakes Assorted Flavors Cheesecake New York, Strawberry, Chocolate and Caramel 12 Slices | $0.00 | $162.95 | $+162.95 | +100.0% | New |
-| Frozen Lamb Shoulder Case | $1361.04 | $1373.27 | $+12.23 | +0.9% | Increase |
-| Member's Selection Frozen Bone-In Pork Leg Case | $0.00 | $358.41 | $+358.41 | +100.0% | New |
-| Frozen Pork Belly Skin On Sliced Tray  | $117.05 | $117.54 | $+0.49 | +0.4% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $107.42 | $107.57 | $+0.15 | +0.1% | Increase |
-| Mini Sweet Peppers 454 g / 1 lb | $39.95 | $34.95 | $-5.00 | -12.5% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $95.20 | $95.11 | $-0.09 | -0.1% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $223.06 | $222.76 | $-0.30 | -0.1% | Decrease |
-| Fresh Melon | $54.95 | $49.95 | $-5.00 | -9.1% | Decrease |
-| Bosc Pear 1.36 kg / 3 lb | $74.95 | $69.95 | $-5.00 | -6.7% | Decrease |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $436.49 | $430.16 | $-6.33 | -1.5% | Decrease |
-| Red Potatoes 2.26 kg / 5 lb | $32.95 | $29.95 | $-3.00 | -9.1% | Decrease |
-| Fresh Ground Chicken Tray | $98.56 | $98.80 | $+0.24 | +0.2% | Increase |
+| Activia Low Fat Yogurt 12 Units / 113 g / 4 oz | $79.95 | $87.95 | $+8.00 | +10.0% | Increase |
+| Fruit Roll Ups Assorted Fruit Rolls 72 Units / 14 g | $0.00 | $199.95 | $+199.95 | +100.0% | New |
+| M&M’s Colored Milk Chocolate Minis 800 g | $0.00 | $199.95 | $+199.95 | +100.0% | New |
+| Gushers Assorted Fruit Flavor Candy Pack 42 Units / 22.6 g | $0.00 | $149.95 | $+149.95 | +100.0% | New |
+| Frozen Lamb Shoulder Case | $1373.27 | $1371.23 | $-2.04 | -0.1% | Decrease |
+|  Best Fruit Ripe Dehydrated Mangoes 4 Units / 100 g | $0.00 | $94.95 | $+94.95 | +100.0% | New |
+| Treasured Harvest Mixed Nuts 907 g | $109.95 | $112.95 | $+3.00 | +2.7% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $203.76 | $204.39 | $+0.63 | +0.3% | Increase |
+| Pork Belly with Skin Frozen Vacuum Packaged | $184.28 | $186.04 | $+1.76 | +1.0% | Increase |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $159.74 | $160.54 | $+0.80 | +0.5% | Increase |
+| Crix Whole Wheat Crackers 4 Units / 288 g / 10 oz | $62.95 | $63.95 | $+1.00 | +1.6% | Increase |
+| Wellsley Farms Apple Cider 3.8 L / 128 oz | $39.70 | $76.95 | $+37.25 | +93.8% | Increase |
+| Crix Bran and Oat Crackers 4 Units / 288 g / 10 oz | $62.95 | $63.95 | $+1.00 | +1.6% | Increase |
+| Natural Delights Granola 907 g | $53.95 | $55.95 | $+2.00 | +3.7% | Increase |
+| Avocado Mesh 5 Units | $47.95 | $39.95 | $-8.00 | -16.7% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -298,5 +298,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Suzy's Cream Cheesecakes Assorted Flavors Cheesecake New York, Strawberry, Chocolate and Caramel 12 Slices | Suzy's Cream Cheesecakes | $162.95 | G10D03 |
-| Member's Selection Frozen Bone-In Pork Leg Case |  | $358.41 | G10D03 |
+| Fruit Roll Ups Assorted Fruit Rolls 72 Units / 14 g | Fruit Roll-Ups | $199.95 | G10D03 |
+| M&M’s Colored Milk Chocolate Minis 800 g | M&M's | $199.95 | G10D03 |
+| Gushers Assorted Fruit Flavor Candy Pack 42 Units / 22.6 g | Gushers | $149.95 | G10D03 |
+|  Best Fruit Ripe Dehydrated Mangoes 4 Units / 100 g | Best Fruit | $94.95 | G10D03 |
