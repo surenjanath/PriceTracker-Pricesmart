@@ -184,15 +184,15 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1148
-- **Total value**: $128,687.18
-- **Average price**: $112.10
+- **Total products scraped**: 1150
+- **Total value**: $128,834.62
+- **Average price**: $112.03
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1148
-- **Price changes detected**: 33
-- **Stock/availability changes**: 9
+- **New products added**: 3
+- **Existing products updated**: 1147
+- **Price changes detected**: 21
+- **Stock/availability changes**: 23
 - **Discontinued products**: 2
 
 ## Top 5 Brands
@@ -200,7 +200,7 @@ This project has recently gained unexpected attention. It was created for person
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 187 |
-|  | 143 |
+|  | 144 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 12 |
@@ -215,17 +215,17 @@ This project has recently gained unexpected attention. It was created for person
 | Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | true |
 | Nescafé Gold Instant Coffee 190 g | Nescafé | $104.95 | true |
 | Pepe's Nature´s Pride Pack of Peas and Dry Legumes 5 Units / 1 kg | Pepe's Nature's Pride | $129.95 | true |
+| President Brie Cheese 555 g / 1.2 lb | President | $77.95 | true |
 | Chuckanut Bay Chocalate Covered Cheesecake Bites 634 g / 1.4 lb | Chuckanut Bay | $139.95 | true |
 | Badia Mojo Rub Citrus Blend 680.4 g / 24 oz  | Badia | $89.95 | true |
 | Daisy Cottage Cheese 454 g / 16 oz  | Daisy | $56.95 | true |
-| Helado Mexico Ice Cream Bars 24 Units / 81 mL / 2.74 oz | Helado México | $171.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1307
-- **Price increases**: 717
-- **Price decreases**: 531
+- **Total price changes**: 1294
+- **Price increases**: 708
+- **Price decreases**: 527
 - **Average increase**: 5.2%
 - **Average decrease**: -5.6%
 
@@ -233,21 +233,21 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Frozen Lamb Shoulder Case | $1371.23 | $1451.95 | $+80.72 | +5.9% | Increase |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $282.64 | $293.38 | $+10.74 | +3.8% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $107.57 | $107.73 | $+0.16 | +0.1% | Increase |
-| Frozen Pork Belly Skin On Sliced Tray  | $117.05 | $118.95 | $+1.90 | +1.6% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $95.02 | $94.93 | $-0.09 | -0.1% | Decrease |
-| Pork Belly with Skin Frozen Vacuum Packaged | $186.26 | $187.35 | $+1.09 | +0.6% | Increase |
-| Green pepper | $40.59 | $40.98 | $+0.39 | +1.0% | Increase |
-| Fine Choice Fresh Marinated Chicken Tray | $93.95 | $94.31 | $+0.36 | +0.4% | Increase |
-| Fresh Ground Chicken Tray | $99.51 | $99.39 | $-0.12 | -0.1% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $92.41 | $92.51 | $+0.10 | +0.1% | Increase |
-| Fresh Chicken Mixed Parts Tray | $94.29 | $94.18 | $-0.11 | -0.1% | Decrease |
-| Pork Chop with Bone Frozen Tray | $85.57 | $84.10 | $-1.47 | -1.7% | Decrease |
-| Frozen Lamb Shoulder Chops Tray | $124.89 | $130.57 | $+5.68 | +4.5% | Increase |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $155.74 | $159.74 | $+4.00 | +2.6% | Increase |
-| Fresh Apple Cosmic Crisp 1.36 kg / 3 lb | $44.70 | $67.95 | $+23.25 | +52.0% | Increase |
+| Salad Tomato 1.5 kg / 3.5 lb | $28.95 | $27.95 | $-1.00 | -3.5% | Decrease |
+| Mixed Tomato Cherry 907 g / 2 lb | $57.95 | $49.95 | $-8.00 | -13.8% | Decrease |
+| Reny Picot Brie Cheese with Almond Slices 227 g / 8 oz | $0.00 | $89.95 | $+89.95 | +100.0% | New |
+| Fresh Grape Tomatoes 907 g / 2 lb | $44.95 | $42.95 | $-2.00 | -4.4% | Decrease |
+| Nestlé Chocolate-Flavored Powder Drink with Mini Marshmallows 16 Units / 24.2 g / 0.85 oz | $0.00 | $49.95 | $+49.95 | +100.0% | New |
+| Member's Selection Iced Coffee Mocha Drink 12 Units / 296 mL / 10 oz | $0.00 | $154.95 | $+154.95 | +100.0% | New |
+| Mucci Farms Snack Cucumbers 681 g / 1.5 lb | $69.95 | $59.95 | $-10.00 | -14.3% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $81.60 | $81.43 | $-0.17 | -0.2% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $94.93 | $94.75 | $-0.18 | -0.2% | Decrease |
+| Central Farms Frozen Whole Duck Cut Up Vacuum Packaged 2.3 Kg / 5 lb | $134.95 | $139.95 | $+5.00 | +3.7% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $94.31 | $94.22 | $-0.09 | -0.1% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $267.30 | $265.51 | $-1.79 | -0.7% | Decrease |
+| Pork Chop with Bone Frozen Tray | $84.10 | $84.23 | $+0.13 | +0.2% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $130.57 | $130.39 | $-0.18 | -0.1% | Decrease |
+| Iceberg Lettuce Unit | $39.95 | $37.95 | $-2.00 | -5.0% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,8 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| KC Candy Sweet Lollipops Filled with Bubblegum - Ideal for Parties 120 Units / 1800 g | KC Candy | $74.95 | 2025-11-24 |
+| Member's Selection Shredded Mozzarella Cheese 5 Units / 453 g / 1 lb | Member's Selection | $144.95 | 2025-11-24 |
 | Mott's 100% Natural Apple Juice 1.89 L | Mott's | $45.95 | 2025-11-23 |
 | Crix Steelpan Original Cookies in Collectible Tin 768 g | Crix | $59.95 | 2025-11-23 |
 | Klim Powdered Milk 1.6 kg / 56.4 oz | Klim | $109.95 | 2025-11-20 |
@@ -291,8 +293,11 @@ This project has recently gained unexpected attention. It was created for person
 | Member’s Selection Coconut Swiss Roll  | Member's Selection | $31.95 | 2025-11-19 |
 | Member's Selection Thai Hom Mali Jasmine Rice 9.07 kg / 20 lb | Member's Selection | $139.95 | 2025-11-19 |
 | Gouda Cheese Block |  | $86.98 | 2025-11-19 |
-| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | Swift | $147.64 | 2025-11-19 |
-| Bagelmania Cinnamon and Raisin Sliced Bagels 6 units | Bagelmania | $34.95 | 2025-11-17 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Reny Picot Brie Cheese with Almond Slices 227 g / 8 oz | Reny Picot | $89.95 | G10D03 |
+| Nestlé Chocolate-Flavored Powder Drink with Mini Marshmallows 16 Units / 24.2 g / 0.85 oz | Nestle | $49.95 | G10D03 |
+| Member's Selection Iced Coffee Mocha Drink 12 Units / 296 mL / 10 oz | Member's Selection | $154.95 | G10D03 |
