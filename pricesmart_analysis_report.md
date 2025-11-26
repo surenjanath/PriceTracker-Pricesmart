@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1150
-- **Total value**: $128,834.62
-- **Average price**: $112.03
+- **Total products scraped**: 1151
+- **Total value**: $129,026.03
+- **Average price**: $112.10
 
 ## Database Changes
-- **New products added**: 3
-- **Existing products updated**: 1147
-- **Price changes detected**: 21
-- **Stock/availability changes**: 23
-- **Discontinued products**: 2
+- **New products added**: 2
+- **Existing products updated**: 1149
+- **Price changes detected**: 26
+- **Stock/availability changes**: 22
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1294
-- **Price increases**: 708
-- **Price decreases**: 527
-- **Average increase**: 5.2%
-- **Average decrease**: -5.6%
+- **Total price changes**: 1298
+- **Price increases**: 709
+- **Price decreases**: 528
+- **Average increase**: 5.1%
+- **Average decrease**: -5.7%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Salad Tomato 1.5 kg / 3.5 lb | $28.95 | $27.95 | $-1.00 | -3.5% | Decrease |
-| Mixed Tomato Cherry 907 g / 2 lb | $57.95 | $49.95 | $-8.00 | -13.8% | Decrease |
-| Reny Picot Brie Cheese with Almond Slices 227 g / 8 oz | $0.00 | $89.95 | $+89.95 | +100.0% | New |
-| Fresh Grape Tomatoes 907 g / 2 lb | $44.95 | $42.95 | $-2.00 | -4.4% | Decrease |
-| Nestlé Chocolate-Flavored Powder Drink with Mini Marshmallows 16 Units / 24.2 g / 0.85 oz | $0.00 | $49.95 | $+49.95 | +100.0% | New |
-| Member's Selection Iced Coffee Mocha Drink 12 Units / 296 mL / 10 oz | $0.00 | $154.95 | $+154.95 | +100.0% | New |
-| Mucci Farms Snack Cucumbers 681 g / 1.5 lb | $69.95 | $59.95 | $-10.00 | -14.3% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $81.60 | $81.43 | $-0.17 | -0.2% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $94.93 | $94.75 | $-0.18 | -0.2% | Decrease |
-| Central Farms Frozen Whole Duck Cut Up Vacuum Packaged 2.3 Kg / 5 lb | $134.95 | $139.95 | $+5.00 | +3.7% | Increase |
-| Fine Choice Fresh Marinated Chicken Tray | $94.31 | $94.22 | $-0.09 | -0.1% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $267.30 | $265.51 | $-1.79 | -0.7% | Decrease |
-| Pork Chop with Bone Frozen Tray | $84.10 | $84.23 | $+0.13 | +0.2% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $130.57 | $130.39 | $-0.18 | -0.1% | Decrease |
-| Iceberg Lettuce Unit | $39.95 | $37.95 | $-2.00 | -5.0% | Decrease |
+| Fine Choice Fresh Marinated Chicken Tray | $94.22 | $94.13 | $-0.09 | -0.1% | Decrease |
+| Nescafé Gold Instant Coffee 200 g + Vanilla-Flavored Cream 425.2 g | $0.00 | $114.95 | $+114.95 | +100.0% | New |
+| Papaya | $33.30 | $33.11 | $-0.19 | -0.6% | Decrease |
+| DeMet's Turtles Chocolate Filled with Creamy Caramel 496 g | $0.00 | $132.95 | $+132.95 | +100.0% | New |
+| Frozen Imported Pork Leg Slices | $81.36 | $81.57 | $+0.21 | +0.3% | Increase |
+| Orchard Party Mix Orange Juice 3 Units / 946 mL / 32 oz | $96.95 | $105.95 | $+9.00 | +9.3% | Increase |
+| Frozen Pork Belly Skin On Sliced Tray  | $118.95 | $118.45 | $-0.50 | -0.4% | Decrease |
+| Green pepper | $40.98 | $41.13 | $+0.15 | +0.4% | Increase |
+| Orchard Assorted Drinks Juice Mix 6 Units / 1L | $69.95 | $59.95 | $-10.00 | -14.3% | Decrease |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $430.16 | $425.14 | $-5.02 | -1.2% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $94.65 | $94.56 | $-0.09 | -0.1% | Decrease |
+| Pork Chop with Bone Frozen Tray | $84.23 | $84.48 | $+0.25 | +0.3% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $130.39 | $130.57 | $+0.18 | +0.1% | Increase |
+| Frozen Lamb Leg Whole Vacuum Packed | $375.42 | $380.60 | $+5.18 | +1.4% | Increase |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $322.28 | $331.85 | $+9.57 | +3.0% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Rice Krispies Treats Crispy Rice Bars 2 Packs / 7 Units / 22 g / 0.78 oz | Rice Krispies Treats | $32.70 | 2025-11-25 |
 | KC Candy Sweet Lollipops Filled with Bubblegum - Ideal for Parties 120 Units / 1800 g | KC Candy | $74.95 | 2025-11-24 |
 | Member's Selection Shredded Mozzarella Cheese 5 Units / 453 g / 1 lb | Member's Selection | $144.95 | 2025-11-24 |
 | Mott's 100% Natural Apple Juice 1.89 L | Mott's | $45.95 | 2025-11-23 |
@@ -109,12 +110,10 @@
 | Nongshim Korean Instant Ramen Soup Original Flavor 6 Units / 75 g | Nongshim | $79.95 | 2025-11-19 |
 | Member’s Selection Coconut Swiss Roll  | Member's Selection | $31.95 | 2025-11-19 |
 | Member's Selection Thai Hom Mali Jasmine Rice 9.07 kg / 20 lb | Member's Selection | $139.95 | 2025-11-19 |
-| Gouda Cheese Block |  | $86.98 | 2025-11-19 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Reny Picot Brie Cheese with Almond Slices 227 g / 8 oz | Reny Picot | $89.95 | G10D03 |
-| Nestlé Chocolate-Flavored Powder Drink with Mini Marshmallows 16 Units / 24.2 g / 0.85 oz | Nestle | $49.95 | G10D03 |
-| Member's Selection Iced Coffee Mocha Drink 12 Units / 296 mL / 10 oz | Member's Selection | $154.95 | G10D03 |
+| Nescafé Gold Instant Coffee 200 g + Vanilla-Flavored Cream 425.2 g | Nescafé | $114.95 | G10D03 |
+| DeMet's Turtles Chocolate Filled with Creamy Caramel 496 g | DeMet's | $132.95 | G10D03 |
