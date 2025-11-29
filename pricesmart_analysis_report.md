@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1153
-- **Total value**: $128,225.41
-- **Average price**: $111.21
+- **Total products scraped**: 1156
+- **Total value**: $128,856.73
+- **Average price**: $111.47
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1152
-- **Price changes detected**: 54
-- **Stock/availability changes**: 17
+- **New products added**: 5
+- **Existing products updated**: 1151
+- **Price changes detected**: 27
+- **Stock/availability changes**: 21
 - **Discontinued products**: 2
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 187 |
-|  | 143 |
+| Member's Selection | 185 |
+|  | 145 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 12 |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1360
-- **Price increases**: 761
-- **Price decreases**: 535
-- **Average increase**: 5.0%
-- **Average decrease**: -5.6%
+- **Total price changes**: 1361
+- **Price increases**: 768
+- **Price decreases**: 526
+- **Average increase**: 5.1%
+- **Average decrease**: -5.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Strawberry 454 g / 1 lb | $69.95 | $94.95 | $+25.00 | +35.7% | Increase |
-| Doritos Flamin' Hot 312 g | $37.95 | $39.95 | $+2.00 | +5.3% | Increase |
-| Fresh Grape Tomatoes 907 g / 2 lb | $42.95 | $47.95 | $+5.00 | +11.6% | Increase |
-| Frozen Lamb Shoulder Case | $1457.71 | $1458.43 | $+0.72 | +0.0% | Increase |
-| Annie's Organic Macaroni and Cheese Variety Pack 12 Units / 170 g | $239.95 | $199.70 | $-40.25 | -16.8% | Decrease |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $293.38 | $294.53 | $+1.15 | +0.4% | Increase |
-| Member's Selection Red Velvet Swiss Roll 230 g / 0.50 lb | $41.95 | $36.95 | $-5.00 | -11.9% | Decrease |
-| Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | $0.00 | $134.95 | $+134.95 | +100.0% | New |
-| Frozen Pork Belly Skin On Sliced Tray  | $118.45 | $117.70 | $-0.75 | -0.6% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $107.88 | $108.04 | $+0.16 | +0.1% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $147.49 | $147.34 | $-0.15 | -0.1% | Decrease |
-| Choco licious Assorted Snack Pack 20 Units | $34.95 | $35.95 | $+1.00 | +2.9% | Increase |
-| Devon Digestive Cookies 36 Units / 22 g / 0.78 oz | $64.95 | $65.95 | $+1.00 | +1.5% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $73.67 | $73.87 | $+0.20 | +0.3% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $94.66 | $94.48 | $-0.18 | -0.2% | Decrease |
+| Trix Fruit-Flavored Whole Corn Cereal with Marshmallows 3 Units / 230 g | $0.00 | $62.95 | $+62.95 | +100.0% | New |
+| Edwards Chocolate Cream Pie 721 g / 1.59 lb | $0.00 | $68.95 | $+68.95 | +100.0% | New |
+| Mixed Pepper Box 9 kg / 20 lb | $0.00 | $214.95 | $+214.95 | +100.0% | New |
+| Chilled Chicken Gizzard Tray Pack | $57.12 | $57.05 | $-0.07 | -0.1% | Decrease |
+| Tomato 11.3 kg / 25 lb | $0.00 | $194.95 | $+194.95 | +100.0% | New |
+| Aqua Star Breaded Shrimp 1.36 kg / 3 lb | $0.00 | $159.95 | $+159.95 | +100.0% | New |
+| Frozen Pork Belly Skin On Sliced Tray  | $117.70 | $116.70 | $-1.00 | -0.8% | Decrease |
+| Nutrina Chilled Whole Chicken Bag | $328.25 | $329.30 | $+1.05 | +0.3% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $147.34 | $147.65 | $+0.31 | +0.2% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $94.48 | $94.40 | $-0.08 | -0.1% | Decrease |
+| Pork Belly with Skin Frozen Vacuum Packaged | $187.79 | $187.57 | $-0.22 | -0.1% | Decrease |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $425.14 | $420.92 | $-4.22 | -1.0% | Decrease |
+| Fine Choice Fresh Marinated Chicken Tray | $93.95 | $93.86 | $-0.09 | -0.1% | Decrease |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $72.66 | $72.78 | $+0.12 | +0.2% | Increase |
+| Mott's Apple Juice 44 Units / 125 mL / 4.2 oz | $254.95 | $259.95 | $+5.00 | +2.0% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,8 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Member's Selection Freshly Baked Oatmeal Cookies 24 Units | Member's Selection | $60.95 | 2025-11-28 |
+| Member's Selection Freshly Baked Chocolate Chip Cookies 24 Units | Member's Selection | $60.95 | 2025-11-28 |
 | Stuffed Foods Lobster Ravioli 680 g / 24 oz | Stuffed Foods | $99.95 | 2025-11-27 |
 | Califia Farms Toasted Coconut Almond Milk 1.4 L / 48 oz | Califia Farms | $54.95 | 2025-11-27 |
 | Lucozade Carbonated Energy Drink 12 Units / 250 mL | Lucozade | $79.70 | 2025-11-26 |
@@ -108,11 +110,13 @@
 | Venus Growers Jellied Fruit 16 Units / 113 g / 4 oz | Venus Growers | $49.70 | 2025-11-26 |
 | Cheerios Crunchy Oatmeal Cereal 1.56 kg | Cheerios | $119.95 | 2025-11-26 |
 | Member's Selection Mild Cheddar Cheese 907 g / 2 lb | Member's Selection | $59.95 | 2025-11-26 |
-| Nanak Rasmalai 1 kg / 2.2 lb | Nanak | $99.95 | 2025-11-26 |
-| Member's Selection Freshly Made Chicken Salad Wraps 4 Units | Member's Selection | $65.95 | 2025-11-26 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $134.95 | G10D03 |
+| Trix Fruit-Flavored Whole Corn Cereal with Marshmallows 3 Units / 230 g | Trix | $62.95 | G10D03 |
+| Edwards Chocolate Cream Pie 721 g / 1.59 lb | Edward's | $68.95 | G10D03 |
+| Mixed Pepper Box 9 kg / 20 lb |  | $214.95 | G10D03 |
+| Tomato 11.3 kg / 25 lb |  | $194.95 | G10D03 |
+| Aqua Star Breaded Shrimp 1.36 kg / 3 lb | Aqua Star | $159.95 | G10D03 |
