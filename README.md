@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1158
-- **Total value**: $129,397.00
-- **Average price**: $111.74
+- **Total products scraped**: 1156
+- **Total value**: $129,526.50
+- **Average price**: $112.05
 
 ## Database Changes
 - **New products added**: 2
-- **Existing products updated**: 1156
-- **Price changes detected**: 26
-- **Stock/availability changes**: 11
-- **Discontinued products**: 1
+- **Existing products updated**: 1154
+- **Price changes detected**: 79
+- **Stock/availability changes**: 16
+- **Discontinued products**: 4
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 186 |
-|  | 146 |
+|  | 147 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 12 |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1297
-- **Price increases**: 723
-- **Price decreases**: 507
-- **Average increase**: 5.3%
-- **Average decrease**: -5.6%
+- **Total price changes**: 1331
+- **Price increases**: 744
+- **Price decreases**: 521
+- **Average increase**: 5.9%
+- **Average decrease**: -5.9%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Papaya | $31.36 | $31.77 | $+0.41 | +1.3% | Increase |
-| Tomato 11.3 kg / 25 lb | $0.00 | $157.04 | $+157.04 | +100.0% | New |
-| Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $44.70 | $89.95 | $+45.25 | +101.2% | Increase |
-| Cherries | $0.00 | $78.38 | $+78.38 | +100.0% | New |
-| Frozen Lamb Shoulder Case | $1458.43 | $1454.11 | $-4.32 | -0.3% | Decrease |
-| Frozen Imported Pork Leg Slices | $81.57 | $81.68 | $+0.11 | +0.1% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $108.04 | $108.19 | $+0.15 | +0.1% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $147.65 | $147.34 | $-0.31 | -0.2% | Decrease |
-| Pork Belly with Skin Frozen Vacuum Packaged | $187.57 | $186.26 | $-1.31 | -0.7% | Decrease |
-| Fine Choice Fresh Marinated Chicken Tray | $93.86 | $93.77 | $-0.09 | -0.1% | Decrease |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $159.74 | $155.74 | $-4.00 | -2.5% | Decrease |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $72.78 | $72.90 | $+0.12 | +0.2% | Increase |
-| Fresh Chicken Mixed Parts Tray | $94.40 | $94.51 | $+0.11 | +0.1% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $130.94 | $131.12 | $+0.18 | +0.1% | Increase |
-| Fresh Chicken Breast Bone In Tray | $94.75 | $94.85 | $+0.10 | +0.1% | Increase |
+| Papaya | $31.77 | $32.41 | $+0.64 | +2.0% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $93.77 | $93.68 | $-0.09 | -0.1% | Decrease |
+| Coke Sprite Schweppes  Assorted Sodas 24 Units / 237 mL / 8.34 oz | $74.95 | $88.95 | $+14.00 | +18.7% | Increase |
+| Rockit Apple 1.36 kg / 3 lb | $69.95 | $77.95 | $+8.00 | +11.4% | Increase |
+| McCain Super Potato Wedges 2 kg / 4.4 lb | $65.95 | $77.95 | $+12.00 | +18.2% | Increase |
+| Aqua Star Breaded Shrimp 680 g / 1.5 lb | $0.00 | $92.95 | $+92.95 | +100.0% | New |
+| Cherries | $78.38 | $75.18 | $-3.20 | -4.1% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $204.70 | $205.65 | $+0.95 | +0.5% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $57.05 | $56.98 | $-0.07 | -0.1% | Decrease |
+| Papaya | $0.00 | $32.63 | $+32.63 | +100.0% | New |
+| Tostitos Scoops 411 g | $49.95 | $41.95 | $-8.00 | -16.0% | Decrease |
+| Frozen Imported Pork Leg Slices | $81.68 | $83.08 | $+1.40 | +1.7% | Increase |
+| Apple Jacks Cereal de Manzana y Canela 1.03 kg / 36.5 oz | $79.45 | $98.95 | $+19.50 | +24.5% | Increase |
+| Caphe Fia Gourmet Garlic and Parmesan Cheese Bread 12 Units | $37.95 | $30.95 | $-7.00 | -18.4% | Decrease |
+| Swiss Crunchy Peanut Butter 1.3 kg | $35.95 | $42.95 | $+7.00 | +19.5% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,20 +283,20 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Minute Maid Assorted 24 Units / 250 mL / 8.5 oz | Minute Maid | $82.95 | 2025-11-30 |
+| Stamina Energy Carbonated Energy Drink 12 Units / 330 mL / 11.16 oz | Stamina Energy | $55.95 | 2025-11-30 |
+| Kraft Macaroni & Cheese Deluxe 3 Units 397 g  / 14 oz | Kraft | $49.70 | 2025-11-30 |
+| S&W Thick and Rich Tomato Paste 3.15 kg / 6.9 lb | S&W | $97.95 | 2025-11-30 |
 | French Fries 2.5 kg / 5.5 lb |  | $49.95 | 2025-11-29 |
 | Member's Selection Freshly Baked Oatmeal Cookies 24 Units | Member's Selection | $60.95 | 2025-11-28 |
 | Member's Selection Freshly Baked Chocolate Chip Cookies 24 Units | Member's Selection | $60.95 | 2025-11-28 |
 | Stuffed Foods Lobster Ravioli 680 g / 24 oz | Stuffed Foods | $99.95 | 2025-11-27 |
 | Califia Farms Toasted Coconut Almond Milk 1.4 L / 48 oz | Califia Farms | $54.95 | 2025-11-27 |
 | Lucozade Carbonated Energy Drink 12 Units / 250 mL | Lucozade | $79.70 | 2025-11-26 |
-|  Gouda Cheese 20 kg / 44 lb |  | $1113.84 | 2025-11-26 |
-| Red Grapes with Seeds 907 g / 2 lb |  | $59.45 | 2025-11-26 |
-| Venus Growers Jellied Fruit 16 Units / 113 g / 4 oz | Venus Growers | $49.70 | 2025-11-26 |
-| Cheerios Crunchy Oatmeal Cereal 1.56 kg | Cheerios | $119.95 | 2025-11-26 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Tomato 11.3 kg / 25 lb |  | $157.04 | G10D03 |
-| Cherries |  | $78.38 | G10D03 |
+| Aqua Star Breaded Shrimp 680 g / 1.5 lb | Aqua Star | $92.95 | G10D03 |
+| Papaya |  | $32.63 | G10D03 |
