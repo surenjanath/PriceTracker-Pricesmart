@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1156
-- **Total value**: $129,526.50
-- **Average price**: $112.05
+- **Total products scraped**: 1159
+- **Total value**: $129,876.06
+- **Average price**: $112.06
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1154
-- **Price changes detected**: 79
-- **Stock/availability changes**: 16
-- **Discontinued products**: 4
+- **New products added**: 3
+- **Existing products updated**: 1156
+- **Price changes detected**: 61
+- **Stock/availability changes**: 17
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1331
-- **Price increases**: 744
-- **Price decreases**: 521
-- **Average increase**: 5.9%
-- **Average decrease**: -5.9%
+- **Total price changes**: 1348
+- **Price increases**: 751
+- **Price decreases**: 530
+- **Average increase**: 5.8%
+- **Average decrease**: -5.8%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Papaya | $31.77 | $32.41 | $+0.64 | +2.0% | Increase |
-| Fine Choice Fresh Marinated Chicken Tray | $93.77 | $93.68 | $-0.09 | -0.1% | Decrease |
-| Coke Sprite Schweppes  Assorted Sodas 24 Units / 237 mL / 8.34 oz | $74.95 | $88.95 | $+14.00 | +18.7% | Increase |
-| Rockit Apple 1.36 kg / 3 lb | $69.95 | $77.95 | $+8.00 | +11.4% | Increase |
-| McCain Super Potato Wedges 2 kg / 4.4 lb | $65.95 | $77.95 | $+12.00 | +18.2% | Increase |
-| Aqua Star Breaded Shrimp 680 g / 1.5 lb | $0.00 | $92.95 | $+92.95 | +100.0% | New |
-| Cherries | $78.38 | $75.18 | $-3.20 | -4.1% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $204.70 | $205.65 | $+0.95 | +0.5% | Increase |
-| Chilled Chicken Gizzard Tray Pack | $57.05 | $56.98 | $-0.07 | -0.1% | Decrease |
-| Papaya | $0.00 | $32.63 | $+32.63 | +100.0% | New |
-| Tostitos Scoops 411 g | $49.95 | $41.95 | $-8.00 | -16.0% | Decrease |
-| Frozen Imported Pork Leg Slices | $81.68 | $83.08 | $+1.40 | +1.7% | Increase |
-| Apple Jacks Cereal de Manzana y Canela 1.03 kg / 36.5 oz | $79.45 | $98.95 | $+19.50 | +24.5% | Increase |
-| Caphe Fia Gourmet Garlic and Parmesan Cheese Bread 12 Units | $37.95 | $30.95 | $-7.00 | -18.4% | Decrease |
-| Swiss Crunchy Peanut Butter 1.3 kg | $35.95 | $42.95 | $+7.00 | +19.5% | Increase |
+| Papaya | $32.41 | $32.25 | $-0.16 | -0.5% | Decrease |
+| Green pepper | $25.87 | $29.71 | $+3.84 | +14.8% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $93.68 | $94.13 | $+0.45 | +0.5% | Increase |
+| Fresh Chicken Thighs Boneless Bag | $315.26 | $315.85 | $+0.59 | +0.2% | Increase |
+| Member's Selection Chilled Chicken Liver, Tray Pack | $41.61 | $41.45 | $-0.16 | -0.4% | Decrease |
+| Mixed Tomato Cherry 907 g / 2 lb | $49.95 | $54.95 | $+5.00 | +10.0% | Increase |
+| Frozen Lamb Shoulder Case | $1454.11 | $1457.71 | $+3.60 | +0.2% | Increase |
+| Frozen Bone-In Goat Carcass, Case | $1228.98 | $1053.10 | $-175.88 | -14.3% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $56.98 | $57.12 | $+0.14 | +0.2% | Increase |
+| Carmencita Paella Seasoning with Saffron 15 Units / 4 g / 0.14 oz | $0.00 | $42.95 | $+42.95 | +100.0% | New |
+| Pork Leg Frozen  | $66.63 | $65.93 | $-0.70 | -1.1% | Decrease |
+| Member's Selection Frozen Bone-In Pork Leg Case | $359.51 | $381.05 | $+21.54 | +6.0% | Increase |
+| Hillshire Farm Ham Mix 3 Units / 454 g / 16 oz | $0.00 | $194.95 | $+194.95 | +100.0% | New |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $294.53 | $283.22 | $-11.31 | -3.8% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $149.99 | $148.17 | $-1.82 | -1.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -298,5 +298,6 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Aqua Star Breaded Shrimp 680 g / 1.5 lb | Aqua Star | $92.95 | G10D03 |
-| Papaya |  | $32.63 | G10D03 |
+| Carmencita Paella Seasoning with Saffron 15 Units / 4 g / 0.14 oz | Carmencita | $42.95 | G10D03 |
+| Hillshire Farm Ham Mix 3 Units / 454 g / 16 oz | Hillshire Farm | $194.95 | G10D03 |
+| Mariani Mixed Fruits 907 g / 32 oz | Mariani | $99.95 | G10D03 |
