@@ -2,22 +2,22 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1159
-- **Total value**: $130,261.15
-- **Average price**: $112.39
+- **Total value**: $130,334.24
+- **Average price**: $112.45
 
 ## Database Changes
 - **New products added**: 1
 - **Existing products updated**: 1158
-- **Price changes detected**: 46
-- **Stock/availability changes**: 28
-- **Discontinued products**: 1
+- **Price changes detected**: 102
+- **Stock/availability changes**: 20
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 186 |
-|  | 146 |
+|  | 145 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 12 |
@@ -30,7 +30,7 @@
 | Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | true |
 | Jackson's Sweet Potato Chips 454 g / 16 oz | Jackson's | $82.95 | true |
 | Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $90.95 | true |
-| Helado Mexico Ice Cream Bars 24 Units / 81 mL / 2.74 oz | Helado México | $171.95 | true |
+| Helado Mexico Ice Cream Bars 24 Units / 81 mL / 2.74 oz | Helado México | $167.95 | true |
 | Daisy Cottage Cheese 454 g / 16 oz  | Daisy | $56.95 | true |
 | Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | Marie Callender's | $83.95 | true |
 | Nescafé Gold Instant Coffee 190 g | Nescafé | $104.95 | true |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1332
-- **Price increases**: 751
-- **Price decreases**: 514
-- **Average increase**: 5.8%
+- **Total price changes**: 1376
+- **Price increases**: 793
+- **Price decreases**: 518
+- **Average increase**: 5.3%
 - **Average decrease**: -6.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Pork Leg Frozen  | $65.93 | $63.54 | $-2.39 | -3.6% | Decrease |
-| Frozen Lamb Shoulder Case | $1457.71 | $1396.93 | $-60.78 | -4.2% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $205.65 | $206.95 | $+1.30 | +0.6% | Increase |
-| Fresh Beef Eye of Round Case | $3973.41 | $4037.01 | $+63.60 | +1.6% | Increase |
-| Frozen Bone-In Goat Carcass, Case | $1053.10 | $1252.72 | $+199.62 | +19.0% | Increase |
-| Frozen Sliced Turkey Drumsticks | $148.17 | $148.26 | $+0.09 | +0.1% | Increase |
-| Maggi Vegetable Soup 12 Units / 45 g | $79.95 | $72.95 | $-7.00 | -8.8% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $109.44 | $111.00 | $+1.56 | +1.4% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $150.84 | $152.36 | $+1.52 | +1.0% | Increase |
-| Fresh Start Mauby Concentrate 3 Units / 750 mL / 25.3 oz | $38.95 | $34.95 | $-4.00 | -10.3% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $83.32 | $83.24 | $-0.08 | -0.1% | Decrease |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $446.78 | $452.30 | $+5.52 | +1.2% | Increase |
-| Orchard Assorted Drinks Juice Mix 6 Units / 1L | $69.95 | $54.95 | $-15.00 | -21.4% | Decrease |
-| Green pepper | $40.82 | $40.74 | $-0.08 | -0.2% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Case | $1512.66 | $1538.32 | $+25.66 | +1.7% | Increase |
+| Sabra Classic Hummus 850 g / 30 oz | $84.95 | $82.95 | $-2.00 | -2.4% | Decrease |
+| Hershey's Cocoa Powder 652 g / 23 oz | $121.95 | $119.95 | $-2.00 | -1.6% | Decrease |
+| Member's Selection Grade A Fancy Broccoli Normandy 1.81 kg /  4 lb | $74.95 | $79.95 | $+5.00 | +6.7% | Increase |
+| Member's Selection Pepper Jack Cheese 907 g / 2 lb | $66.95 | $63.95 | $-3.00 | -4.5% | Decrease |
+| Member's Selection Shredded Mozzarella Cheese 2 Units / 680 g / 1.5 lb | $99.95 | $97.95 | $-2.00 | -2.0% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $57.12 | $57.05 | $-0.07 | -0.1% | Decrease |
+| Kiss Fruit Rum Sponge Cake 6 Units / 65 g | $27.95 | $28.95 | $+1.00 | +3.6% | Increase |
+| Nescafé Gold Instant Coffee 200 g + Vanilla-Flavored Cream 425.2 g | $114.95 | $119.95 | $+5.00 | +4.3% | Increase |
+| Frozen Bone-In Goat Carcass, Case | $1252.72 | $1275.94 | $+23.22 | +1.9% | Increase |
+| Member's Selection Unsweetened Almond Beverage 6 Units /  946 mL / 32 oz | $94.95 | $99.95 | $+5.00 | +5.3% | Increase |
+| Frozen Imported Pork Leg Slices | $83.08 | $84.49 | $+1.41 | +1.7% | Increase |
+| Bolthouse Farms Carrot Juice 1.54 L | $0.00 | $71.95 | $+71.95 | +100.0% | New |
+| Jo-Sing Chow Mein Noodles 6 Units / 400 g | $39.95 | $42.95 | $+3.00 | +7.5% | Increase |
+| Prairie Farms 100% Dairy Free Milk 1.89 L / 64 oz | $57.95 | $56.95 | $-1.00 | -1.7% | Decrease |
+| Frozen Pork Belly Skin On Sliced Tray  | $115.95 | $116.70 | $+0.75 | +0.6% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,8 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Papaya |  | $32.25 | 2025-12-03 |
+| Moo! Evaporated Milk Low Fat 12 Units / 250 mL / 8.4 oz | Moo | $84.95 | 2025-12-03 |
 | Fresh Yellow Onion 1.36 kg  / 3 lb |  | $25.95 | 2025-12-02 |
 | Minute Maid Assorted 24 Units / 250 mL / 8.5 oz | Minute Maid | $82.95 | 2025-11-30 |
 | Stamina Energy Carbonated Energy Drink 12 Units / 330 mL / 11.16 oz | Stamina Energy | $55.95 | 2025-11-30 |
@@ -108,11 +110,9 @@
 | French Fries 2.5 kg / 5.5 lb |  | $49.95 | 2025-11-29 |
 | Member's Selection Freshly Baked Oatmeal Cookies 24 Units | Member's Selection | $60.95 | 2025-11-28 |
 | Member's Selection Freshly Baked Chocolate Chip Cookies 24 Units | Member's Selection | $60.95 | 2025-11-28 |
-| Stuffed Foods Lobster Ravioli 680 g / 24 oz | Stuffed Foods | $99.95 | 2025-11-27 |
-| Califia Farms Toasted Coconut Almond Milk 1.4 L / 48 oz | Califia Farms | $54.95 | 2025-11-27 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Bar-S Classic Smoked Sausage 1.13 kg / 2.5 lb | Bar S | $68.95 | G10D03 |
+| Bolthouse Farms Carrot Juice 1.54 L | Bolthouse Farms | $71.95 | G10D03 |
