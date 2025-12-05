@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1159
-- **Total value**: $130,334.24
-- **Average price**: $112.45
+- **Total products scraped**: 1162
+- **Total value**: $130,406.65
+- **Average price**: $112.23
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1158
-- **Price changes detected**: 102
-- **Stock/availability changes**: 20
-- **Discontinued products**: 2
+- **New products added**: 0
+- **Existing products updated**: 1162
+- **Price changes detected**: 46
+- **Stock/availability changes**: 18
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 186 |
-|  | 145 |
+|  | 147 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 12 |
@@ -209,45 +209,45 @@ This project has recently gained unexpected attention. It was created for person
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Food With Purpose Sparkling Tea Infused with Fruit Juice - Sugar Free 12 Units / 250 mL / 8.5 oz | Food with Purpose | $119.95 | true |
 | Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | true |
-| Jackson's Sweet Potato Chips 454 g / 16 oz | Jackson's | $82.95 | true |
 | Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $90.95 | true |
 | Helado Mexico Ice Cream Bars 24 Units / 81 mL / 2.74 oz | Helado México | $167.95 | true |
-| Daisy Cottage Cheese 454 g / 16 oz  | Daisy | $56.95 | true |
 | Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | Marie Callender's | $83.95 | true |
-| Nescafé Gold Instant Coffee 190 g | Nescafé | $104.95 | true |
-| Pepe's Nature´s Pride Pack of Peas and Dry Legumes 5 Units / 1 kg | Pepe's Nature's Pride | $129.95 | true |
-| Chuckanut Bay Chocalate Covered Cheesecake Bites 634 g / 1.4 lb | Chuckanut Bay | $139.95 | true |
+| Badia Mojo Rub Citrus Blend 680.4 g / 24 oz  | Badia | $89.95 | true |
+| Aqua Star Breaded Shrimp 1.36 kg / 3 lb | Aqua Star | $159.95 | true |
+| Tsatsakis Sunflower Seed Breadsticks 2 Packs 400 g / 14.1 oz | Tsatsakis | $69.95 | true |
+| Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $134.95 | true |
+| Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $162.95 | true |
+| Member's Selection Unsweetened Almond Beverage 6 Units /  946 mL / 32 oz | Member's Selection | $99.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1376
-- **Price increases**: 793
-- **Price decreases**: 518
+- **Total price changes**: 1397
+- **Price increases**: 807
+- **Price decreases**: 525
 - **Average increase**: 5.3%
-- **Average decrease**: -6.1%
+- **Average decrease**: -6.3%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Sabra Classic Hummus 850 g / 30 oz | $84.95 | $82.95 | $-2.00 | -2.4% | Decrease |
-| Hershey's Cocoa Powder 652 g / 23 oz | $121.95 | $119.95 | $-2.00 | -1.6% | Decrease |
-| Member's Selection Grade A Fancy Broccoli Normandy 1.81 kg /  4 lb | $74.95 | $79.95 | $+5.00 | +6.7% | Increase |
-| Member's Selection Pepper Jack Cheese 907 g / 2 lb | $66.95 | $63.95 | $-3.00 | -4.5% | Decrease |
-| Member's Selection Shredded Mozzarella Cheese 2 Units / 680 g / 1.5 lb | $99.95 | $97.95 | $-2.00 | -2.0% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $57.12 | $57.05 | $-0.07 | -0.1% | Decrease |
-| Kiss Fruit Rum Sponge Cake 6 Units / 65 g | $27.95 | $28.95 | $+1.00 | +3.6% | Increase |
-| Nescafé Gold Instant Coffee 200 g + Vanilla-Flavored Cream 425.2 g | $114.95 | $119.95 | $+5.00 | +4.3% | Increase |
-| Frozen Bone-In Goat Carcass, Case | $1252.72 | $1275.94 | $+23.22 | +1.9% | Increase |
-| Member's Selection Unsweetened Almond Beverage 6 Units /  946 mL / 32 oz | $94.95 | $99.95 | $+5.00 | +5.3% | Increase |
-| Frozen Imported Pork Leg Slices | $83.08 | $84.49 | $+1.41 | +1.7% | Increase |
-| Bolthouse Farms Carrot Juice 1.54 L | $0.00 | $71.95 | $+71.95 | +100.0% | New |
-| Jo-Sing Chow Mein Noodles 6 Units / 400 g | $39.95 | $42.95 | $+3.00 | +7.5% | Increase |
-| Prairie Farms 100% Dairy Free Milk 1.89 L / 64 oz | $57.95 | $56.95 | $-1.00 | -1.7% | Decrease |
-| Frozen Pork Belly Skin On Sliced Tray  | $115.95 | $116.70 | $+0.75 | +0.6% | Increase |
+| Del Monte Whole Kernel Corn 3 kg / 6.6 lb | $62.95 | $64.95 | $+2.00 | +3.2% | Increase |
+| Mixed Tomato Cherry 907 g / 2 lb | $54.95 | $39.95 | $-15.00 | -27.3% | Decrease |
+| Papaya | $32.63 | $32.12 | $-0.51 | -1.6% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $111.16 | $111.32 | $+0.16 | +0.1% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $75.33 | $75.12 | $-0.21 | -0.3% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $94.93 | $94.75 | $-0.18 | -0.2% | Decrease |
+| Mucci Farms Snack Cucumbers 681 g / 1.5 lb | $57.95 | $59.95 | $+2.00 | +3.5% | Increase |
+| Mini Sweet Peppers 454 g / 1 lb | $34.95 | $36.95 | $+2.00 | +5.7% | Increase |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $452.30 | $438.47 | $-13.83 | -3.1% | Decrease |
+| Orchard Assorted Drinks Juice Mix 6 Units / 1L | $54.95 | $59.95 | $+5.00 | +9.1% | Increase |
+| Green pepper | $40.74 | $40.59 | $-0.15 | -0.4% | Decrease |
+| Fine Choice Fresh Marinated Chicken Tray | $94.13 | $94.04 | $-0.09 | -0.1% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $264.61 | $278.24 | $+13.63 | +5.2% | Increase |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $73.26 | $73.38 | $+0.12 | +0.2% | Increase |
+| Avocado Mesh 5 Units | $42.95 | $39.95 | $-3.00 | -7.0% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -295,7 +295,4 @@ This project has recently gained unexpected attention. It was created for person
 | Member's Selection Freshly Baked Chocolate Chip Cookies 24 Units | Member's Selection | $60.95 | 2025-11-28 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Bolthouse Farms Carrot Juice 1.54 L | Bolthouse Farms | $71.95 | G10D03 |
+No new products added today.
