@@ -1,22 +1,22 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1162
-- **Total value**: $130,406.65
-- **Average price**: $112.23
+- **Total products scraped**: 1169
+- **Total value**: $131,584.58
+- **Average price**: $112.56
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1162
-- **Price changes detected**: 46
-- **Stock/availability changes**: 18
+- **New products added**: 6
+- **Existing products updated**: 1163
+- **Price changes detected**: 41
+- **Stock/availability changes**: 20
 - **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 186 |
+| Member's Selection | 192 |
 |  | 147 |
 | Badia | 18 |
 | Swiss | 14 |
@@ -40,9 +40,9 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1397
-- **Price increases**: 807
-- **Price decreases**: 525
+- **Total price changes**: 1420
+- **Price increases**: 813
+- **Price decreases**: 537
 - **Average increase**: 5.3%
 - **Average decrease**: -6.3%
 
@@ -50,21 +50,21 @@
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Del Monte Whole Kernel Corn 3 kg / 6.6 lb | $62.95 | $64.95 | $+2.00 | +3.2% | Increase |
-| Mixed Tomato Cherry 907 g / 2 lb | $54.95 | $39.95 | $-15.00 | -27.3% | Decrease |
-| Papaya | $32.63 | $32.12 | $-0.51 | -1.6% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $111.16 | $111.32 | $+0.16 | +0.1% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $75.33 | $75.12 | $-0.21 | -0.3% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $94.93 | $94.75 | $-0.18 | -0.2% | Decrease |
-| Mucci Farms Snack Cucumbers 681 g / 1.5 lb | $57.95 | $59.95 | $+2.00 | +3.5% | Increase |
-| Mini Sweet Peppers 454 g / 1 lb | $34.95 | $36.95 | $+2.00 | +5.7% | Increase |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $452.30 | $438.47 | $-13.83 | -3.1% | Decrease |
-| Orchard Assorted Drinks Juice Mix 6 Units / 1L | $54.95 | $59.95 | $+5.00 | +9.1% | Increase |
-| Green pepper | $40.74 | $40.59 | $-0.15 | -0.4% | Decrease |
-| Fine Choice Fresh Marinated Chicken Tray | $94.13 | $94.04 | $-0.09 | -0.1% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $264.61 | $278.24 | $+13.63 | +5.2% | Increase |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $73.26 | $73.38 | $+0.12 | +0.2% | Increase |
-| Avocado Mesh 5 Units | $42.95 | $39.95 | $-3.00 | -7.0% | Decrease |
+| Guapa Frozen Pigeons Peas 908 g / 2 lb | $0.00 | $59.95 | $+59.95 | +100.0% | New |
+| Tropicland Green Peas 2.26 kg / 5 lb | $91.95 | $94.95 | $+3.00 | +3.3% | Increase |
+| Tropicland Pigeon Peas 1.8 kg / 4 lb | $104.95 | $109.95 | $+5.00 | +4.8% | Increase |
+| Papaya | $32.12 | $33.27 | $+1.15 | +3.6% | Increase |
+| Kit Kat Milk Chocolate Wafer 12 Units / 20.7 g | $48.95 | $46.95 | $-2.00 | -4.1% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $57.05 | $56.98 | $-0.07 | -0.1% | Decrease |
+| Doritos Flamin' Hot 312 g | $39.95 | $38.95 | $-1.00 | -2.5% | Decrease |
+| Member's Selection Coffee Creamer 6 Units / 454 g / 16 oz | $0.00 | $166.95 | $+166.95 | +100.0% | New |
+| Member's Selection Unsalted Roasted Nut Mix 907 g / 32 oz | $0.00 | $162.95 | $+162.95 | +100.0% | New |
+| Member's Selection Deluxe Salted Roasted Nut Mix 907 g / 32 oz | $0.00 | $167.95 | $+167.95 | +100.0% | New |
+| Member's Selection Unsalted Roasted Cashew Nuts 907 g / 32 oz | $0.00 | $179.95 | $+179.95 | +100.0% | New |
+| Member's Selection Breaded Chicken Bites Ready to Heat | $0.00 | $86.95 | $+86.95 | +100.0% | New |
+| Bolthouse Farms Carrot Juice 1.54 L | $71.95 | $74.95 | $+3.00 | +4.2% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $111.32 | $111.64 | $+0.32 | +0.3% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $152.36 | $150.82 | $-1.54 | -1.0% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -112,4 +112,12 @@
 | Member's Selection Freshly Baked Chocolate Chip Cookies 24 Units | Member's Selection | $60.95 | 2025-11-28 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Guapa Frozen Pigeons Peas 908 g / 2 lb | Guapa | $59.95 | G10D03 |
+| Member's Selection Coffee Creamer 6 Units / 454 g / 16 oz | Member's Selection | $166.95 | G10D03 |
+| Member's Selection Unsalted Roasted Nut Mix 907 g / 32 oz | Member's Selection | $162.95 | G10D03 |
+| Member's Selection Deluxe Salted Roasted Nut Mix 907 g / 32 oz | Member's Selection | $167.95 | G10D03 |
+| Member's Selection Unsalted Roasted Cashew Nuts 907 g / 32 oz | Member's Selection | $179.95 | G10D03 |
+| Member's Selection Breaded Chicken Bites Ready to Heat | Member's Selection | $86.95 | G10D03 |
