@@ -2,21 +2,21 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1169
-- **Total value**: $131,584.58
-- **Average price**: $112.56
+- **Total value**: $127,736.44
+- **Average price**: $109.27
 
 ## Database Changes
-- **New products added**: 6
-- **Existing products updated**: 1163
-- **Price changes detected**: 41
-- **Stock/availability changes**: 20
-- **Discontinued products**: 0
+- **New products added**: 1
+- **Existing products updated**: 1168
+- **Price changes detected**: 29
+- **Stock/availability changes**: 18
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 192 |
+| Member's Selection | 191 |
 |  | 147 |
 | Badia | 18 |
 | Swiss | 14 |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1420
-- **Price increases**: 813
-- **Price decreases**: 537
+- **Total price changes**: 1375
+- **Price increases**: 789
+- **Price decreases**: 518
 - **Average increase**: 5.3%
-- **Average decrease**: -6.3%
+- **Average decrease**: -6.4%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Guapa Frozen Pigeons Peas 908 g / 2 lb | $0.00 | $59.95 | $+59.95 | +100.0% | New |
-| Tropicland Green Peas 2.26 kg / 5 lb | $91.95 | $94.95 | $+3.00 | +3.3% | Increase |
-| Tropicland Pigeon Peas 1.8 kg / 4 lb | $104.95 | $109.95 | $+5.00 | +4.8% | Increase |
-| Papaya | $32.12 | $33.27 | $+1.15 | +3.6% | Increase |
-| Kit Kat Milk Chocolate Wafer 12 Units / 20.7 g | $48.95 | $46.95 | $-2.00 | -4.1% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $57.05 | $56.98 | $-0.07 | -0.1% | Decrease |
-| Doritos Flamin' Hot 312 g | $39.95 | $38.95 | $-1.00 | -2.5% | Decrease |
-| Member's Selection Coffee Creamer 6 Units / 454 g / 16 oz | $0.00 | $166.95 | $+166.95 | +100.0% | New |
-| Member's Selection Unsalted Roasted Nut Mix 907 g / 32 oz | $0.00 | $162.95 | $+162.95 | +100.0% | New |
-| Member's Selection Deluxe Salted Roasted Nut Mix 907 g / 32 oz | $0.00 | $167.95 | $+167.95 | +100.0% | New |
-| Member's Selection Unsalted Roasted Cashew Nuts 907 g / 32 oz | $0.00 | $179.95 | $+179.95 | +100.0% | New |
-| Member's Selection Breaded Chicken Bites Ready to Heat | $0.00 | $86.95 | $+86.95 | +100.0% | New |
-| Bolthouse Farms Carrot Juice 1.54 L | $71.95 | $74.95 | $+3.00 | +4.2% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $111.32 | $111.64 | $+0.32 | +0.3% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $152.36 | $150.82 | $-1.54 | -1.0% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $206.95 | $208.22 | $+1.27 | +0.6% | Increase |
+| Flipz Pretzels Coated with Milk Chocolate 425 g / 15 oz | $0.00 | $94.95 | $+94.95 | +100.0% | New |
+| Frozen Lamb Shoulder Case | $1396.93 | $1393.48 | $-3.45 | -0.2% | Decrease |
+| Pork Leg Frozen  | $63.54 | $67.23 | $+3.69 | +5.8% | Increase |
+| Frozen Imported Pork Leg Slices | $84.49 | $83.30 | $-1.19 | -1.4% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $148.26 | $148.55 | $+0.29 | +0.2% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $111.64 | $111.79 | $+0.15 | +0.1% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $94.66 | $94.75 | $+0.09 | +0.1% | Increase |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $438.47 | $452.30 | $+13.83 | +3.2% | Increase |
+| Green pepper | $40.51 | $40.35 | $-0.16 | -0.4% | Decrease |
+| Fine Choice Fresh Marinated Chicken Tray | $93.86 | $93.77 | $-0.09 | -0.1% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $94.95 | $95.06 | $+0.11 | +0.1% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $124.17 | $124.35 | $+0.18 | +0.1% | Increase |
+| Fresh Ground Chicken Tray | $104.22 | $104.34 | $+0.12 | +0.1% | Increase |
+| Frozen Bone-In Pork Shoulder Case | $1139.93 | $479.50 | $-660.43 | -57.9% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -92,14 +92,16 @@
 | Kozyshack Cinnamon Rice Pudding 1.36 kg / 3 lb | $87.95 | $29.70 | -66.2% |
 | Pillsbury Cookie Dough Mix 1.3 kg / 3 lb | $109.95 | $39.70 | -63.9% |
 | Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $89.95 | $34.70 | -61.4% |
+| Frozen Bone-In Pork Shoulder Case | $1139.93 | $479.50 | -57.9% |
 | Black Seedless Grapes 907 g / 2 lb | $64.95 | $29.70 | -54.3% |
 | Curly's Baby Back Pork Ribs 680 g / 24 oz | $129.95 | $59.70 | -54.1% |
-| Green Seedless Grapes 907 g / 2 lb | $62.95 | $29.70 | -52.8% |
 
 ## Recently Discontinued Products
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2025-12-06 |
+| Fresh Beef Eye of Round Case |  | $4037.01 | 2025-12-06 |
 | Papaya |  | $32.25 | 2025-12-03 |
 | Moo! Evaporated Milk Low Fat 12 Units / 250 mL / 8.4 oz | Moo | $84.95 | 2025-12-03 |
 | Fresh Yellow Onion 1.36 kg  / 3 lb |  | $25.95 | 2025-12-02 |
@@ -108,16 +110,9 @@
 | Kraft Macaroni & Cheese Deluxe 3 Units 397 g  / 14 oz | Kraft | $49.70 | 2025-11-30 |
 | S&W Thick and Rich Tomato Paste 3.15 kg / 6.9 lb | S&W | $97.95 | 2025-11-30 |
 | French Fries 2.5 kg / 5.5 lb |  | $49.95 | 2025-11-29 |
-| Member's Selection Freshly Baked Oatmeal Cookies 24 Units | Member's Selection | $60.95 | 2025-11-28 |
-| Member's Selection Freshly Baked Chocolate Chip Cookies 24 Units | Member's Selection | $60.95 | 2025-11-28 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Guapa Frozen Pigeons Peas 908 g / 2 lb | Guapa | $59.95 | G10D03 |
-| Member's Selection Coffee Creamer 6 Units / 454 g / 16 oz | Member's Selection | $166.95 | G10D03 |
-| Member's Selection Unsalted Roasted Nut Mix 907 g / 32 oz | Member's Selection | $162.95 | G10D03 |
-| Member's Selection Deluxe Salted Roasted Nut Mix 907 g / 32 oz | Member's Selection | $167.95 | G10D03 |
-| Member's Selection Unsalted Roasted Cashew Nuts 907 g / 32 oz | Member's Selection | $179.95 | G10D03 |
-| Member's Selection Breaded Chicken Bites Ready to Heat | Member's Selection | $86.95 | G10D03 |
+| Flipz Pretzels Coated with Milk Chocolate 425 g / 15 oz | Flipz | $94.95 | G10D03 |
