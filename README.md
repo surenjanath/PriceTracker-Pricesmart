@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1169
-- **Total value**: $127,736.44
-- **Average price**: $109.27
+- **Total products scraped**: 1166
+- **Total value**: $127,503.89
+- **Average price**: $109.35
 
 ## Database Changes
 - **New products added**: 1
-- **Existing products updated**: 1168
-- **Price changes detected**: 29
-- **Stock/availability changes**: 18
-- **Discontinued products**: 2
+- **Existing products updated**: 1165
+- **Price changes detected**: 41
+- **Stock/availability changes**: 19
+- **Discontinued products**: 4
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 191 |
-|  | 147 |
+|  | 145 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 12 |
@@ -209,45 +209,45 @@ This project has recently gained unexpected attention. It was created for person
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
+| Member's Selection Iced Coffee Mocha Drink 12 Units / 296 mL / 10 oz | Member's Selection | $154.95 | true |
+| Member's Selection Unsweetened Almond Beverage 6 Units /  946 mL / 32 oz | Member's Selection | $99.95 | true |
 | Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | true |
 | Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $90.95 | true |
-| Helado Mexico Ice Cream Bars 24 Units / 81 mL / 2.74 oz | Helado México | $167.95 | true |
 | Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | Marie Callender's | $83.95 | true |
-| Badia Mojo Rub Citrus Blend 680.4 g / 24 oz  | Badia | $89.95 | true |
-| Aqua Star Breaded Shrimp 1.36 kg / 3 lb | Aqua Star | $159.95 | true |
-| Tsatsakis Sunflower Seed Breadsticks 2 Packs 400 g / 14.1 oz | Tsatsakis | $69.95 | true |
+| Helado Mexico Ice Cream Bars 24 Units / 81 mL / 2.74 oz | Helado México | $167.95 | true |
 | Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $134.95 | true |
-| Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $162.95 | true |
-| Member's Selection Unsweetened Almond Beverage 6 Units /  946 mL / 32 oz | Member's Selection | $99.95 | true |
+| Nescafé Gold Instant Coffee 200 g + Vanilla-Flavored Cream 425.2 g | Nescafé | $119.95 | true |
+| Tsatsakis Sunflower Seed Breadsticks 2 Packs 400 g / 14.1 oz | Tsatsakis | $69.95 | true |
+| Badia Mojo Rub Citrus Blend 680.4 g / 24 oz  | Badia | $89.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1375
-- **Price increases**: 789
-- **Price decreases**: 518
-- **Average increase**: 5.3%
+- **Total price changes**: 1373
+- **Price increases**: 787
+- **Price decreases**: 520
+- **Average increase**: 5.1%
 - **Average decrease**: -6.4%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $206.95 | $208.22 | $+1.27 | +0.6% | Increase |
-| Flipz Pretzels Coated with Milk Chocolate 425 g / 15 oz | $0.00 | $94.95 | $+94.95 | +100.0% | New |
-| Frozen Lamb Shoulder Case | $1396.93 | $1393.48 | $-3.45 | -0.2% | Decrease |
-| Pork Leg Frozen  | $63.54 | $67.23 | $+3.69 | +5.8% | Increase |
-| Frozen Imported Pork Leg Slices | $84.49 | $83.30 | $-1.19 | -1.4% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $148.26 | $148.55 | $+0.29 | +0.2% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $111.64 | $111.79 | $+0.15 | +0.1% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $94.66 | $94.75 | $+0.09 | +0.1% | Increase |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $438.47 | $452.30 | $+13.83 | +3.2% | Increase |
-| Green pepper | $40.51 | $40.35 | $-0.16 | -0.4% | Decrease |
-| Fine Choice Fresh Marinated Chicken Tray | $93.86 | $93.77 | $-0.09 | -0.1% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $94.95 | $95.06 | $+0.11 | +0.1% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $124.17 | $124.35 | $+0.18 | +0.1% | Increase |
-| Fresh Ground Chicken Tray | $104.22 | $104.34 | $+0.12 | +0.1% | Increase |
-| Frozen Bone-In Pork Shoulder Case | $1139.93 | $479.50 | $-660.43 | -57.9% | Decrease |
+| Papaya | $33.27 | $32.79 | $-0.48 | -1.4% | Decrease |
+| KFI Gluten-Free Curry and Coconut Sauce 2 Units / 695 g | $93.95 | $92.95 | $-1.00 | -1.1% | Decrease |
+| Cook's Mate Cornstarch 700 g | $0.00 | $27.95 | $+27.95 | +100.0% | New |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $150.82 | $150.05 | $-0.77 | -0.5% | Decrease |
+| Chief Pink Himalayan Salt 1.2 kg / 2.6 lb | $71.95 | $72.95 | $+1.00 | +1.4% | Increase |
+| Swiss Sorrel Drink 3 Units / 750 mL / 25.36 oz | $51.95 | $52.95 | $+1.00 | +1.9% | Increase |
+| Narcissus Poku Mushrooms 6 Units / 158 g | $53.95 | $54.95 | $+1.00 | +1.9% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $76.35 | $76.25 | $-0.10 | -0.1% | Decrease |
+| KFI Gluten-Free Butter Chicken Sauce 2 Units / 695 g | $93.95 | $92.95 | $-1.00 | -1.1% | Decrease |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $452.30 | $441.93 | $-10.37 | -2.3% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $56.98 | $57.05 | $+0.07 | +0.1% | Increase |
+| Finest Call Margarita Mix 1 L | $51.95 | $52.95 | $+1.00 | +1.9% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $94.75 | $94.84 | $+0.09 | +0.1% | Increase |
+| Nature's Pride Chann, Chick Peas 1.8 kg / 4 lb | $40.95 | $41.95 | $+1.00 | +2.4% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $111.79 | $111.95 | $+0.16 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,19 +283,19 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Chung Chun Panko Style Bread Crumbs 900 g / 31.74 oz | Chung Chun | $59.95 | 2025-12-07 |
+| Fresh Cantaloupe Melon |  | $39.95 | 2025-12-07 |
+| Avocado 2 Units |  | $29.95 | 2025-12-07 |
+| Peas and Beans Assorted Grains 5 Units / 800 g | Peans and Beans | $99.95 | 2025-12-07 |
 | Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2025-12-06 |
 | Fresh Beef Eye of Round Case |  | $4037.01 | 2025-12-06 |
 | Papaya |  | $32.25 | 2025-12-03 |
 | Moo! Evaporated Milk Low Fat 12 Units / 250 mL / 8.4 oz | Moo | $84.95 | 2025-12-03 |
 | Fresh Yellow Onion 1.36 kg  / 3 lb |  | $25.95 | 2025-12-02 |
 | Minute Maid Assorted 24 Units / 250 mL / 8.5 oz | Minute Maid | $82.95 | 2025-11-30 |
-| Stamina Energy Carbonated Energy Drink 12 Units / 330 mL / 11.16 oz | Stamina Energy | $55.95 | 2025-11-30 |
-| Kraft Macaroni & Cheese Deluxe 3 Units 397 g  / 14 oz | Kraft | $49.70 | 2025-11-30 |
-| S&W Thick and Rich Tomato Paste 3.15 kg / 6.9 lb | S&W | $97.95 | 2025-11-30 |
-| French Fries 2.5 kg / 5.5 lb |  | $49.95 | 2025-11-29 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Flipz Pretzels Coated with Milk Chocolate 425 g / 15 oz | Flipz | $94.95 | G10D03 |
+| Cook's Mate Cornstarch 700 g | Cook's Mate | $27.95 | G10D03 |
