@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1166
-- **Total value**: $127,503.89
-- **Average price**: $109.35
+- **Total products scraped**: 1165
+- **Total value**: $129,272.59
+- **Average price**: $110.96
 
 ## Database Changes
 - **New products added**: 1
-- **Existing products updated**: 1165
-- **Price changes detected**: 41
+- **Existing products updated**: 1164
+- **Price changes detected**: 34
 - **Stock/availability changes**: 19
-- **Discontinued products**: 4
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 191 |
-|  | 145 |
+|  | 146 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 12 |
@@ -216,38 +216,38 @@ This project has recently gained unexpected attention. It was created for person
 | Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | Marie Callender's | $83.95 | true |
 | Helado Mexico Ice Cream Bars 24 Units / 81 mL / 2.74 oz | Helado México | $167.95 | true |
 | Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $134.95 | true |
-| Nescafé Gold Instant Coffee 200 g + Vanilla-Flavored Cream 425.2 g | Nescafé | $119.95 | true |
 | Tsatsakis Sunflower Seed Breadsticks 2 Packs 400 g / 14.1 oz | Tsatsakis | $69.95 | true |
+| Nescafé Gold Instant Coffee 200 g + Vanilla-Flavored Cream 425.2 g | Nescafé | $119.95 | true |
 | Badia Mojo Rub Citrus Blend 680.4 g / 24 oz  | Badia | $89.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1373
-- **Price increases**: 787
-- **Price decreases**: 520
-- **Average increase**: 5.1%
-- **Average decrease**: -6.4%
+- **Total price changes**: 1383
+- **Price increases**: 792
+- **Price decreases**: 524
+- **Average increase**: 5.0%
+- **Average decrease**: -6.2%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Papaya | $33.27 | $32.79 | $-0.48 | -1.4% | Decrease |
-| KFI Gluten-Free Curry and Coconut Sauce 2 Units / 695 g | $93.95 | $92.95 | $-1.00 | -1.1% | Decrease |
-| Cook's Mate Cornstarch 700 g | $0.00 | $27.95 | $+27.95 | +100.0% | New |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $150.82 | $150.05 | $-0.77 | -0.5% | Decrease |
-| Chief Pink Himalayan Salt 1.2 kg / 2.6 lb | $71.95 | $72.95 | $+1.00 | +1.4% | Increase |
-| Swiss Sorrel Drink 3 Units / 750 mL / 25.36 oz | $51.95 | $52.95 | $+1.00 | +1.9% | Increase |
-| Narcissus Poku Mushrooms 6 Units / 158 g | $53.95 | $54.95 | $+1.00 | +1.9% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $76.35 | $76.25 | $-0.10 | -0.1% | Decrease |
-| KFI Gluten-Free Butter Chicken Sauce 2 Units / 695 g | $93.95 | $92.95 | $-1.00 | -1.1% | Decrease |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $452.30 | $441.93 | $-10.37 | -2.3% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $56.98 | $57.05 | $+0.07 | +0.1% | Increase |
-| Finest Call Margarita Mix 1 L | $51.95 | $52.95 | $+1.00 | +1.9% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $94.75 | $94.84 | $+0.09 | +0.1% | Increase |
-| Nature's Pride Chann, Chick Peas 1.8 kg / 4 lb | $40.95 | $41.95 | $+1.00 | +2.4% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $111.79 | $111.95 | $+0.16 | +0.1% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $93.41 | $93.23 | $-0.18 | -0.2% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $150.05 | $149.59 | $-0.46 | -0.3% | Decrease |
+| Hot Scotch Bonnet Peppers | $32.95 | $31.95 | $-1.00 | -3.0% | Decrease |
+| Okra 30 Units | $16.95 | $16.45 | $-0.50 | -2.9% | Decrease |
+| Nutrina Chilled Whole Chicken Bag | $330.20 | $332.30 | $+2.10 | +0.6% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $76.25 | $76.35 | $+0.10 | +0.1% | Increase |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $441.93 | $445.65 | $+3.72 | +0.8% | Increase |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $73.62 | $73.74 | $+0.12 | +0.2% | Increase |
+| Pineapple Crownless Fresh | $24.95 | $23.95 | $-1.00 | -4.0% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $94.84 | $95.02 | $+0.18 | +0.2% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $111.95 | $112.11 | $+0.16 | +0.1% | Increase |
+| Frozen Skin On Trout Fillet Vacuum Packaged Case | $0.00 | $1869.50 | $+1869.50 | +100.0% | New |
+| Mini Potato 1.3 kg / 3 lb | $49.95 | $47.95 | $-2.00 | -4.0% | Decrease |
+| Mucci Farms Snack Cucumbers 681 g / 1.5 lb | $59.95 | $62.95 | $+3.00 | +5.0% | Increase |
+| Bruggeman Instant Yeast 24 Units / 11 g | $59.95 | $64.95 | $+5.00 | +8.3% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,8 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Food With Purpose GO ALOE Sparkling Aloe Beverage in Assorted Flavors - No Added Sugar 12 Units / 250 mL / 8.5 oz | Food with Purpose | $49.70 | 2025-12-08 |
+| Bumble Bee Tuna in Water 1.88 kg / 66.5 oz | Bumble Bee | $49.70 | 2025-12-08 |
 | Chung Chun Panko Style Bread Crumbs 900 g / 31.74 oz | Chung Chun | $59.95 | 2025-12-07 |
 | Fresh Cantaloupe Melon |  | $39.95 | 2025-12-07 |
 | Avocado 2 Units |  | $29.95 | 2025-12-07 |
@@ -291,11 +293,9 @@ This project has recently gained unexpected attention. It was created for person
 | Fresh Beef Eye of Round Case |  | $4037.01 | 2025-12-06 |
 | Papaya |  | $32.25 | 2025-12-03 |
 | Moo! Evaporated Milk Low Fat 12 Units / 250 mL / 8.4 oz | Moo | $84.95 | 2025-12-03 |
-| Fresh Yellow Onion 1.36 kg  / 3 lb |  | $25.95 | 2025-12-02 |
-| Minute Maid Assorted 24 Units / 250 mL / 8.5 oz | Minute Maid | $82.95 | 2025-11-30 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Cook's Mate Cornstarch 700 g | Cook's Mate | $27.95 | G10D03 |
+| Frozen Skin On Trout Fillet Vacuum Packaged Case |  | $1869.50 | G10D03 |
