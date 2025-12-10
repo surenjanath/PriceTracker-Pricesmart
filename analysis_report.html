@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1165
-- **Total value**: $129,272.59
-- **Average price**: $110.96
+- **Total products scraped**: 1161
+- **Total value**: $128,958.38
+- **Average price**: $111.08
 
 ## Database Changes
 - **New products added**: 1
-- **Existing products updated**: 1164
-- **Price changes detected**: 34
-- **Stock/availability changes**: 19
-- **Discontinued products**: 2
+- **Existing products updated**: 1160
+- **Price changes detected**: 24
+- **Stock/availability changes**: 18
+- **Discontinued products**: 5
 
 ## Top 5 Brands
 
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1383
-- **Price increases**: 792
-- **Price decreases**: 524
+- **Total price changes**: 1384
+- **Price increases**: 800
+- **Price decreases**: 522
 - **Average increase**: 5.0%
-- **Average decrease**: -6.2%
+- **Average decrease**: -6.4%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fine Choice Fresh Marinated Chicken Tray | $93.41 | $93.23 | $-0.18 | -0.2% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $150.05 | $149.59 | $-0.46 | -0.3% | Decrease |
-| Hot Scotch Bonnet Peppers | $32.95 | $31.95 | $-1.00 | -3.0% | Decrease |
-| Okra 30 Units | $16.95 | $16.45 | $-0.50 | -2.9% | Decrease |
-| Nutrina Chilled Whole Chicken Bag | $330.20 | $332.30 | $+2.10 | +0.6% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $76.25 | $76.35 | $+0.10 | +0.1% | Increase |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $441.93 | $445.65 | $+3.72 | +0.8% | Increase |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $73.62 | $73.74 | $+0.12 | +0.2% | Increase |
-| Pineapple Crownless Fresh | $24.95 | $23.95 | $-1.00 | -4.0% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $94.84 | $95.02 | $+0.18 | +0.2% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $111.95 | $112.11 | $+0.16 | +0.1% | Increase |
-| Frozen Skin On Trout Fillet Vacuum Packaged Case | $0.00 | $1869.50 | $+1869.50 | +100.0% | New |
-| Mini Potato 1.3 kg / 3 lb | $49.95 | $47.95 | $-2.00 | -4.0% | Decrease |
-| Mucci Farms Snack Cucumbers 681 g / 1.5 lb | $59.95 | $62.95 | $+3.00 | +5.0% | Increase |
-| Bruggeman Instant Yeast 24 Units / 11 g | $59.95 | $64.95 | $+5.00 | +8.3% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $93.23 | $93.14 | $-0.09 | -0.1% | Decrease |
+| Papaya | $32.79 | $33.27 | $+0.48 | +1.5% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $149.59 | $148.36 | $-1.23 | -0.8% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $208.22 | $209.18 | $+0.96 | +0.5% | Increase |
+| Nutrina Chilled Whole Chicken Bag | $332.30 | $332.44 | $+0.14 | +0.0% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $76.35 | $76.67 | $+0.32 | +0.4% | Increase |
+| Pineapple Crownless Fresh | $23.95 | $14.70 | $-9.25 | -38.6% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $95.02 | $95.11 | $+0.09 | +0.1% | Increase |
+| Green pepper | $40.27 | $40.20 | $-0.07 | -0.2% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $93.31 | $93.41 | $+0.10 | +0.1% | Increase |
+| Fresh Chicken Breast Bone In Tray | $96.19 | $96.48 | $+0.29 | +0.3% | Increase |
+| Frozen Lamb Leg Whole Vacuum Packed | $393.56 | $392.98 | $-0.58 | -0.1% | Decrease |
+| Pork Chop with Bone Frozen Tray | $84.60 | $84.48 | $-0.12 | -0.1% | Decrease |
+| Reny Picot Camembert Cheese 397 g / 14 oz | $67.95 | $49.70 | $-18.25 | -26.9% | Decrease |
+| Fresh Chicken Breast Boneless Skinless Tray | $124.76 | $124.84 | $+0.08 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,19 +100,19 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Hannah Threesome Hummus 1.02 kg / 2.25 lb | Hannah | $97.95 | 2025-12-09 |
+| Pringles Mingles Cheddar and Sour Cream Puffed Snacks 2 Units / 155 g / 5.5 oz | Pringles | $39.70 | 2025-12-09 |
+| LifeSavers Pep-O-Mint Peppermint Candies 1.27 kg / 44.93 oz | Lifesavers | $69.70 | 2025-12-09 |
+| Nescafe Instant Coffee Gold Blend Powder 212 g / 7.05 oz | Nescafé | $89.95 | 2025-12-09 |
+| King's Hawaiian Sweet Rolls 24 Units | King Hawaiian | $74.45 | 2025-12-09 |
 | Food With Purpose GO ALOE Sparkling Aloe Beverage in Assorted Flavors - No Added Sugar 12 Units / 250 mL / 8.5 oz | Food with Purpose | $49.70 | 2025-12-08 |
 | Bumble Bee Tuna in Water 1.88 kg / 66.5 oz | Bumble Bee | $49.70 | 2025-12-08 |
 | Chung Chun Panko Style Bread Crumbs 900 g / 31.74 oz | Chung Chun | $59.95 | 2025-12-07 |
 | Fresh Cantaloupe Melon |  | $39.95 | 2025-12-07 |
 | Avocado 2 Units |  | $29.95 | 2025-12-07 |
-| Peas and Beans Assorted Grains 5 Units / 800 g | Peans and Beans | $99.95 | 2025-12-07 |
-| Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2025-12-06 |
-| Fresh Beef Eye of Round Case |  | $4037.01 | 2025-12-06 |
-| Papaya |  | $32.25 | 2025-12-03 |
-| Moo! Evaporated Milk Low Fat 12 Units / 250 mL / 8.4 oz | Moo | $84.95 | 2025-12-03 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Frozen Skin On Trout Fillet Vacuum Packaged Case |  | $1869.50 | G10D03 |
+| Campoverde Mango Chunks 1.36 kg / 3 lb | Campoverde | $82.95 | G10D03 |
