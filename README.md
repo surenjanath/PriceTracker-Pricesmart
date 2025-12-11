@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1161
-- **Total value**: $128,958.38
-- **Average price**: $111.08
+- **Total products scraped**: 1151
+- **Total value**: $128,080.40
+- **Average price**: $111.28
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1160
-- **Price changes detected**: 24
-- **Stock/availability changes**: 18
-- **Discontinued products**: 5
+- **New products added**: 0
+- **Existing products updated**: 1151
+- **Price changes detected**: 63
+- **Stock/availability changes**: 23
+- **Discontinued products**: 10
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 191 |
-|  | 146 |
+|  | 145 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 12 |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1384
-- **Price increases**: 800
-- **Price decreases**: 522
+- **Total price changes**: 1416
+- **Price increases**: 811
+- **Price decreases**: 543
 - **Average increase**: 5.0%
-- **Average decrease**: -6.4%
+- **Average decrease**: -7.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fine Choice Fresh Marinated Chicken Tray | $93.23 | $93.14 | $-0.09 | -0.1% | Decrease |
-| Papaya | $32.79 | $33.27 | $+0.48 | +1.5% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $149.59 | $148.36 | $-1.23 | -0.8% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $208.22 | $209.18 | $+0.96 | +0.5% | Increase |
-| Nutrina Chilled Whole Chicken Bag | $332.30 | $332.44 | $+0.14 | +0.0% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $76.35 | $76.67 | $+0.32 | +0.4% | Increase |
-| Pineapple Crownless Fresh | $23.95 | $14.70 | $-9.25 | -38.6% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $95.02 | $95.11 | $+0.09 | +0.1% | Increase |
-| Green pepper | $40.27 | $40.20 | $-0.07 | -0.2% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $93.31 | $93.41 | $+0.10 | +0.1% | Increase |
-| Fresh Chicken Breast Bone In Tray | $96.19 | $96.48 | $+0.29 | +0.3% | Increase |
-| Frozen Lamb Leg Whole Vacuum Packed | $393.56 | $392.98 | $-0.58 | -0.1% | Decrease |
-| Pork Chop with Bone Frozen Tray | $84.60 | $84.48 | $-0.12 | -0.1% | Decrease |
-| Reny Picot Camembert Cheese 397 g / 14 oz | $67.95 | $49.70 | $-18.25 | -26.9% | Decrease |
-| Fresh Chicken Breast Boneless Skinless Tray | $124.76 | $124.84 | $+0.08 | +0.1% | Increase |
+| Babybel Mini Cheese 36 Units / 21 g / 0.75 oz | $149.95 | $152.95 | $+3.00 | +2.0% | Increase |
+| Fast Fixin' Chicken Nuggets 1.5 kg / 3.5 lb | $107.95 | $112.95 | $+5.00 | +4.6% | Increase |
+| Member's Selection American Cheese Singles 907 g / 2 lb | $57.95 | $56.95 | $-1.00 | -1.7% | Decrease |
+| Red Cabbage Unit | $24.95 | $22.95 | $-2.00 | -8.0% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $148.36 | $147.44 | $-0.92 | -0.6% | Decrease |
+| Frozen Pork Belly Skin On Sliced Tray  | $116.70 | $117.20 | $+0.50 | +0.4% | Increase |
+| Frozen Sliced Turkey Drumsticks | $148.55 | $148.84 | $+0.29 | +0.2% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $209.18 | $209.81 | $+0.63 | +0.3% | Increase |
+| Nutrina Chilled Whole Chicken Bag | $332.44 | $334.09 | $+1.65 | +0.5% | Increase |
+| Cole Cold Assorted Sodas 6 Units / 2 L | $47.95 | $37.95 | $-10.00 | -20.9% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $57.05 | $57.09 | $+0.04 | +0.1% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $95.11 | $95.02 | $-0.09 | -0.1% | Decrease |
+| Chive 454 g / 1 lb | $34.95 | $29.95 | $-5.00 | -14.3% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $112.11 | $112.27 | $+0.16 | +0.1% | Increase |
+| Bruggeman Instant Yeast 24 Units / 11 g | $64.95 | $69.95 | $+5.00 | +7.7% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -274,28 +274,25 @@ This project has recently gained unexpected attention. It was created for person
 | Avocado 2 Units | $29.95 | $9.70 | -67.6% |
 | Kozyshack Cinnamon Rice Pudding 1.36 kg / 3 lb | $87.95 | $29.70 | -66.2% |
 | Pillsbury Cookie Dough Mix 1.3 kg / 3 lb | $109.95 | $39.70 | -63.9% |
+| Pop-Tarts Snack Crunchy Poppers Filled with Strawberry and Brownie 2 Units 360 g / 12.6 oz  | $174.95 | $64.70 | -63.0% |
 | Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $89.95 | $34.70 | -61.4% |
 | Frozen Bone-In Pork Shoulder Case | $1139.93 | $479.50 | -57.9% |
-| Black Seedless Grapes 907 g / 2 lb | $64.95 | $29.70 | -54.3% |
-| Curly's Baby Back Pork Ribs 680 g / 24 oz | $129.95 | $59.70 | -54.1% |
+| Cherries | $75.18 | $32.76 | -56.4% |
 
 ## Recently Discontinued Products
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
-| Hannah Threesome Hummus 1.02 kg / 2.25 lb | Hannah | $97.95 | 2025-12-09 |
-| Pringles Mingles Cheddar and Sour Cream Puffed Snacks 2 Units / 155 g / 5.5 oz | Pringles | $39.70 | 2025-12-09 |
-| LifeSavers Pep-O-Mint Peppermint Candies 1.27 kg / 44.93 oz | Lifesavers | $69.70 | 2025-12-09 |
-| Nescafe Instant Coffee Gold Blend Powder 212 g / 7.05 oz | Nescafé | $89.95 | 2025-12-09 |
-| King's Hawaiian Sweet Rolls 24 Units | King Hawaiian | $74.45 | 2025-12-09 |
-| Food With Purpose GO ALOE Sparkling Aloe Beverage in Assorted Flavors - No Added Sugar 12 Units / 250 mL / 8.5 oz | Food with Purpose | $49.70 | 2025-12-08 |
-| Bumble Bee Tuna in Water 1.88 kg / 66.5 oz | Bumble Bee | $49.70 | 2025-12-08 |
-| Chung Chun Panko Style Bread Crumbs 900 g / 31.74 oz | Chung Chun | $59.95 | 2025-12-07 |
-| Fresh Cantaloupe Melon |  | $39.95 | 2025-12-07 |
-| Avocado 2 Units |  | $29.95 | 2025-12-07 |
+| Russco's Green Pepper Salsa 750 mL | Russco's | $19.95 | 2025-12-10 |
+| La Yogurt Latin Flavor Mango 907 g / 32 oz | La Yogurt | $32.95 | 2025-12-10 |
+| Toppers Popcorn Gluten Free 600 g | Toppers | $39.95 | 2025-12-10 |
+| Kellogg's Special K Flakes with Red Berries 1.07 kg / 38 oz | Kellogg's | $89.70 | 2025-12-10 |
+| Devon Digestive Bites 12 Units / 50 g | Devon | $48.70 | 2025-12-10 |
+| Russet Potato 2.2 kg / 5 lb |  | $22.95 | 2025-12-10 |
+| Kiss Mighty Loaf Wheat Bread 945 g | Kiss | $16.45 | 2025-12-10 |
+| Russco's Green Herbal Seasoning 750 mL | Russco's | $22.95 | 2025-12-10 |
+| Kala Brand Madras Curry 1.2 kg  | Kala Brand | $79.95 | 2025-12-10 |
+| Orchard Assorted Juices 24 Units / 250 mL | Orchard | $102.95 | 2025-12-10 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Campoverde Mango Chunks 1.36 kg / 3 lb | Campoverde | $82.95 | G10D03 |
+No new products added today.
