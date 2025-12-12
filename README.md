@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1151
-- **Total value**: $128,080.40
-- **Average price**: $111.28
+- **Total products scraped**: 1165
+- **Total value**: $133,469.97
+- **Average price**: $114.57
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1151
-- **Price changes detected**: 63
-- **Stock/availability changes**: 23
-- **Discontinued products**: 10
+- **New products added**: 10
+- **Existing products updated**: 1155
+- **Price changes detected**: 42
+- **Stock/availability changes**: 10
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 191 |
-|  | 145 |
+| Member's Selection | 194 |
+|  | 148 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 12 |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1416
-- **Price increases**: 811
-- **Price decreases**: 543
-- **Average increase**: 5.0%
-- **Average decrease**: -7.0%
+- **Total price changes**: 1445
+- **Price increases**: 818
+- **Price decreases**: 556
+- **Average increase**: 4.9%
+- **Average decrease**: -6.9%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Babybel Mini Cheese 36 Units / 21 g / 0.75 oz | $149.95 | $152.95 | $+3.00 | +2.0% | Increase |
-| Fast Fixin' Chicken Nuggets 1.5 kg / 3.5 lb | $107.95 | $112.95 | $+5.00 | +4.6% | Increase |
-| Member's Selection American Cheese Singles 907 g / 2 lb | $57.95 | $56.95 | $-1.00 | -1.7% | Decrease |
-| Red Cabbage Unit | $24.95 | $22.95 | $-2.00 | -8.0% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $148.36 | $147.44 | $-0.92 | -0.6% | Decrease |
-| Frozen Pork Belly Skin On Sliced Tray  | $116.70 | $117.20 | $+0.50 | +0.4% | Increase |
-| Frozen Sliced Turkey Drumsticks | $148.55 | $148.84 | $+0.29 | +0.2% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $209.18 | $209.81 | $+0.63 | +0.3% | Increase |
-| Nutrina Chilled Whole Chicken Bag | $332.44 | $334.09 | $+1.65 | +0.5% | Increase |
-| Cole Cold Assorted Sodas 6 Units / 2 L | $47.95 | $37.95 | $-10.00 | -20.9% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $57.05 | $57.09 | $+0.04 | +0.1% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $95.11 | $95.02 | $-0.09 | -0.1% | Decrease |
-| Chive 454 g / 1 lb | $34.95 | $29.95 | $-5.00 | -14.3% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $112.11 | $112.27 | $+0.16 | +0.1% | Increase |
-| Bruggeman Instant Yeast 24 Units / 11 g | $64.95 | $69.95 | $+5.00 | +7.7% | Increase |
+| Red Seedless Grapes 907 g / 2 lb | $0.00 | $68.95 | $+68.95 | +100.0% | New |
+| Purple Cabbage Unit | $0.00 | $32.57 | $+32.57 | +100.0% | New |
+| Carapelli Organic Extra Virgin Olive Oil 880 g / 33.8 oz | $0.00 | $157.95 | $+157.95 | +100.0% | New |
+| Seedless Watermelon  | $89.95 | $97.95 | $+8.00 | +8.9% | Increase |
+| Fresh Strawberry 454 g / 1 lb | $94.95 | $89.95 | $-5.00 | -5.3% | Decrease |
+|   Fresh Broccoli Crowns | $42.95 | $39.95 | $-3.00 | -7.0% | Decrease |
+| Laurieri Italian Crackers Assorted Flavors 30 Units / 25 g / 0.8 oz | $0.00 | $132.95 | $+132.95 | +100.0% | New |
+| Tetley Caffeine-Free Mint Tea 60 Units / 1.6 g | $0.00 | $35.95 | $+35.95 | +100.0% | New |
+| Takis Fuego with Hot Chili and Lemon 46 Units / 28 g | $0.00 | $284.95 | $+284.95 | +100.0% | New |
+| Papaya | $33.27 | $32.98 | $-0.29 | -0.9% | Decrease |
+| Frozen Bone-In Goat Carcass, Case | $1275.94 | $1251.21 | $-24.73 | -1.9% | Decrease |
+| Nongshim Shin Gold with Chicken Broth Flavor 4 Units / 130 g / 4.58 oz | $0.00 | $64.95 | $+64.95 | +100.0% | New |
+| Donafe's Artisan Sorrel Cheesecake with Crunchy Cookie Base 12 Slices | $0.00 | $184.95 | $+184.95 | +100.0% | New |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $147.44 | $147.59 | $+0.15 | +0.1% | Increase |
+| Chief Duck & Goat Curry Powder 600 g | $0.00 | $84.95 | $+84.95 | +100.0% | New |
 
 ## Biggest Price Increases (All Time)
 
@@ -295,4 +295,16 @@ This project has recently gained unexpected attention. It was created for person
 | Orchard Assorted Juices 24 Units / 250 mL | Orchard | $102.95 | 2025-12-10 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Red Seedless Grapes 907 g / 2 lb |  | $68.95 | G10D03 |
+| Purple Cabbage Unit |  | $32.57 | G10D03 |
+| Carapelli Organic Extra Virgin Olive Oil 880 g / 33.8 oz | Carapelli | $157.95 | G10D03 |
+| Laurieri Italian Crackers Assorted Flavors 30 Units / 25 g / 0.8 oz | Laurieri | $132.95 | G10D03 |
+| Tetley Caffeine-Free Mint Tea 60 Units / 1.6 g | Tetley | $35.95 | G10D03 |
+| Takis Fuego with Hot Chili and Lemon 46 Units / 28 g | Takis | $284.95 | G10D03 |
+| Nongshim Shin Gold with Chicken Broth Flavor 4 Units / 130 g / 4.58 oz | Nongshim | $64.95 | G10D03 |
+| Donafe's Artisan Sorrel Cheesecake with Crunchy Cookie Base 12 Slices | Donafe's | $184.95 | G10D03 |
+| Chief Duck & Goat Curry Powder 600 g | Chief | $84.95 | G10D03 |
+| Member's Selection Salted Roasted Cashews 907 g / 32 oz | Member's Selection | $179.95 | G10D03 |
