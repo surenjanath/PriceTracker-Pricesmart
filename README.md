@@ -184,22 +184,22 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1165
-- **Total value**: $133,469.97
-- **Average price**: $114.57
+- **Total products scraped**: 1166
+- **Total value**: $133,931.90
+- **Average price**: $114.86
 
 ## Database Changes
-- **New products added**: 10
-- **Existing products updated**: 1155
-- **Price changes detected**: 42
-- **Stock/availability changes**: 10
-- **Discontinued products**: 0
+- **New products added**: 1
+- **Existing products updated**: 1165
+- **Price changes detected**: 26
+- **Stock/availability changes**: 33
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 194 |
+| Member's Selection | 195 |
 |  | 148 |
 | Badia | 18 |
 | Swiss | 14 |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1445
-- **Price increases**: 818
+- **Total price changes**: 1442
+- **Price increases**: 815
 - **Price decreases**: 556
-- **Average increase**: 4.9%
-- **Average decrease**: -6.9%
+- **Average increase**: 5.0%
+- **Average decrease**: -7.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Red Seedless Grapes 907 g / 2 lb | $0.00 | $68.95 | $+68.95 | +100.0% | New |
-| Purple Cabbage Unit | $0.00 | $32.57 | $+32.57 | +100.0% | New |
-| Carapelli Organic Extra Virgin Olive Oil 880 g / 33.8 oz | $0.00 | $157.95 | $+157.95 | +100.0% | New |
-| Seedless Watermelon  | $89.95 | $97.95 | $+8.00 | +8.9% | Increase |
-| Fresh Strawberry 454 g / 1 lb | $94.95 | $89.95 | $-5.00 | -5.3% | Decrease |
-|   Fresh Broccoli Crowns | $42.95 | $39.95 | $-3.00 | -7.0% | Decrease |
-| Laurieri Italian Crackers Assorted Flavors 30 Units / 25 g / 0.8 oz | $0.00 | $132.95 | $+132.95 | +100.0% | New |
-| Tetley Caffeine-Free Mint Tea 60 Units / 1.6 g | $0.00 | $35.95 | $+35.95 | +100.0% | New |
-| Takis Fuego with Hot Chili and Lemon 46 Units / 28 g | $0.00 | $284.95 | $+284.95 | +100.0% | New |
-| Papaya | $33.27 | $32.98 | $-0.29 | -0.9% | Decrease |
-| Frozen Bone-In Goat Carcass, Case | $1275.94 | $1251.21 | $-24.73 | -1.9% | Decrease |
-| Nongshim Shin Gold with Chicken Broth Flavor 4 Units / 130 g / 4.58 oz | $0.00 | $64.95 | $+64.95 | +100.0% | New |
-| Donafe's Artisan Sorrel Cheesecake with Crunchy Cookie Base 12 Slices | $0.00 | $184.95 | $+184.95 | +100.0% | New |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $147.44 | $147.59 | $+0.15 | +0.1% | Increase |
-| Chief Duck & Goat Curry Powder 600 g | $0.00 | $84.95 | $+84.95 | +100.0% | New |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $147.59 | $146.21 | $-1.38 | -0.9% | Decrease |
+| Pork Leg Frozen  | $67.23 | $62.34 | $-4.89 | -7.3% | Decrease |
+| Lipton Black Tea Yellow Label 2 Units / 100 Tea Bags / 2 g | $0.00 | $109.95 | $+109.95 | +100.0% | New |
+| Tomato 11.3 kg / 25 lb | $194.95 | $219.95 | $+25.00 | +12.8% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $76.57 | $76.67 | $+0.10 | +0.1% | Increase |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $445.65 | $441.93 | $-3.72 | -0.8% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $83.24 | $83.41 | $+0.17 | +0.2% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $94.84 | $94.66 | $-0.18 | -0.2% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $112.27 | $112.42 | $+0.15 | +0.1% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $93.05 | $92.96 | $-0.09 | -0.1% | Decrease |
+| Fresh Cucumber 1 kg / 2.2 lb | $29.95 | $26.95 | $-3.00 | -10.0% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $96.76 | $96.95 | $+0.19 | +0.2% | Increase |
+| Cherries | $32.76 | $34.01 | $+1.25 | +3.8% | Increase |
+| Member's Selection Chilled New York Strip Steak Tray | $159.71 | $158.86 | $-0.85 | -0.5% | Decrease |
+| Salad Tomato 1.5 kg / 3.5 lb | $29.95 | $37.95 | $+8.00 | +26.7% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Hormel Turkey Pepperoni 2 Units / 227 g / 8 oz | Hormel | $74.95 | 2025-12-12 |
 | Russco's Green Pepper Salsa 750 mL | Russco's | $19.95 | 2025-12-10 |
 | La Yogurt Latin Flavor Mango 907 g / 32 oz | La Yogurt | $32.95 | 2025-12-10 |
 | Toppers Popcorn Gluten Free 600 g | Toppers | $39.95 | 2025-12-10 |
@@ -292,19 +293,9 @@ This project has recently gained unexpected attention. It was created for person
 | Kiss Mighty Loaf Wheat Bread 945 g | Kiss | $16.45 | 2025-12-10 |
 | Russco's Green Herbal Seasoning 750 mL | Russco's | $22.95 | 2025-12-10 |
 | Kala Brand Madras Curry 1.2 kg  | Kala Brand | $79.95 | 2025-12-10 |
-| Orchard Assorted Juices 24 Units / 250 mL | Orchard | $102.95 | 2025-12-10 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Red Seedless Grapes 907 g / 2 lb |  | $68.95 | G10D03 |
-| Purple Cabbage Unit |  | $32.57 | G10D03 |
-| Carapelli Organic Extra Virgin Olive Oil 880 g / 33.8 oz | Carapelli | $157.95 | G10D03 |
-| Laurieri Italian Crackers Assorted Flavors 30 Units / 25 g / 0.8 oz | Laurieri | $132.95 | G10D03 |
-| Tetley Caffeine-Free Mint Tea 60 Units / 1.6 g | Tetley | $35.95 | G10D03 |
-| Takis Fuego with Hot Chili and Lemon 46 Units / 28 g | Takis | $284.95 | G10D03 |
-| Nongshim Shin Gold with Chicken Broth Flavor 4 Units / 130 g / 4.58 oz | Nongshim | $64.95 | G10D03 |
-| Donafe's Artisan Sorrel Cheesecake with Crunchy Cookie Base 12 Slices | Donafe's | $184.95 | G10D03 |
-| Chief Duck & Goat Curry Powder 600 g | Chief | $84.95 | G10D03 |
-| Member's Selection Salted Roasted Cashews 907 g / 32 oz | Member's Selection | $179.95 | G10D03 |
+| Lipton Black Tea Yellow Label 2 Units / 100 Tea Bags / 2 g | Lipton | $109.95 | G10D03 |
