@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1166
-- **Total value**: $133,931.90
-- **Average price**: $114.86
+- **Total products scraped**: 1168
+- **Total value**: $134,148.99
+- **Average price**: $114.85
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1165
-- **Price changes detected**: 26
-- **Stock/availability changes**: 33
-- **Discontinued products**: 1
+- **New products added**: 2
+- **Existing products updated**: 1166
+- **Price changes detected**: 17
+- **Stock/availability changes**: 22
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -209,45 +209,45 @@ This project has recently gained unexpected attention. It was created for person
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Member's Selection Iced Coffee Mocha Drink 12 Units / 296 mL / 10 oz | Member's Selection | $154.95 | true |
 | Member's Selection Unsweetened Almond Beverage 6 Units /  946 mL / 32 oz | Member's Selection | $99.95 | true |
+| Member's Selection Iced Coffee Mocha Drink 12 Units / 296 mL / 10 oz | Member's Selection | $154.95 | true |
 | Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | true |
 | Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $90.95 | true |
-| Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | Marie Callender's | $83.95 | true |
-| Helado Mexico Ice Cream Bars 24 Units / 81 mL / 2.74 oz | Helado México | $167.95 | true |
 | Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $134.95 | true |
-| Tsatsakis Sunflower Seed Breadsticks 2 Packs 400 g / 14.1 oz | Tsatsakis | $69.95 | true |
-| Nescafé Gold Instant Coffee 200 g + Vanilla-Flavored Cream 425.2 g | Nescafé | $119.95 | true |
-| Badia Mojo Rub Citrus Blend 680.4 g / 24 oz  | Badia | $89.95 | true |
+| Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | Marie Callender's | $83.95 | true |
+|  Best Fruit Ripe Dehydrated Mangoes 4 Units / 100 g | Best Fruit | $94.95 | true |
+| Helado Mexico Ice Cream Bars 24 Units / 81 mL / 2.74 oz | Helado México | $167.95 | true |
+| Aqua Star Breaded Shrimp 680 g / 1.5 lb | Aqua Star | $92.95 | true |
+| Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $144.84 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1442
-- **Price increases**: 815
-- **Price decreases**: 556
+- **Total price changes**: 1402
+- **Price increases**: 793
+- **Price decreases**: 540
 - **Average increase**: 5.0%
-- **Average decrease**: -7.0%
+- **Average decrease**: -6.9%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $147.59 | $146.21 | $-1.38 | -0.9% | Decrease |
-| Pork Leg Frozen  | $67.23 | $62.34 | $-4.89 | -7.3% | Decrease |
-| Lipton Black Tea Yellow Label 2 Units / 100 Tea Bags / 2 g | $0.00 | $109.95 | $+109.95 | +100.0% | New |
-| Tomato 11.3 kg / 25 lb | $194.95 | $219.95 | $+25.00 | +12.8% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $76.57 | $76.67 | $+0.10 | +0.1% | Increase |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $445.65 | $441.93 | $-3.72 | -0.8% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $83.24 | $83.41 | $+0.17 | +0.2% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $94.84 | $94.66 | $-0.18 | -0.2% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $112.27 | $112.42 | $+0.15 | +0.1% | Increase |
-| Fine Choice Fresh Marinated Chicken Tray | $93.05 | $92.96 | $-0.09 | -0.1% | Decrease |
-| Fresh Cucumber 1 kg / 2.2 lb | $29.95 | $26.95 | $-3.00 | -10.0% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $96.76 | $96.95 | $+0.19 | +0.2% | Increase |
-| Cherries | $32.76 | $34.01 | $+1.25 | +3.8% | Increase |
-| Member's Selection Chilled New York Strip Steak Tray | $159.71 | $158.86 | $-0.85 | -0.5% | Decrease |
-| Salad Tomato 1.5 kg / 3.5 lb | $29.95 | $37.95 | $+8.00 | +26.7% | Increase |
+| Red Rose Pink Salmon 3 Units / 418 g | $0.00 | $125.95 | $+125.95 | +100.0% | New |
+| Riceworks Sea Salt Sesame Chips 454 g / 16 oz | $0.00 | $85.95 | $+85.95 | +100.0% | New |
+| Green pepper | $40.04 | $39.96 | $-0.08 | -0.2% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $112.42 | $112.58 | $+0.16 | +0.1% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $94.66 | $94.62 | $-0.04 | -0.0% | Decrease |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $154.55 | $154.35 | $-0.20 | -0.1% | Decrease |
+| Frozen Lamb Shoulder Chops Tray | $124.53 | $124.71 | $+0.18 | +0.1% | Increase |
+| Cherries | $34.01 | $34.15 | $+0.14 | +0.4% | Increase |
+| Frozen Lamb Leg Whole Vacuum Packed | $393.56 | $397.88 | $+4.32 | +1.1% | Increase |
+| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $153.27 | $153.53 | $+0.26 | +0.2% | Increase |
+| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $151.54 | $150.97 | $-0.57 | -0.4% | Decrease |
+| Frozen Boneless Skinless Chicken Breast Tray | $148.29 | $149.41 | $+1.12 | +0.8% | Increase |
+| Member's Selection Chilled Chicken Liver, Tray Pack | $41.56 | $41.61 | $+0.05 | +0.1% | Increase |
+| Member's Selection Frozen Boneless Pork Loin Roast Tray | $101.93 | $101.61 | $-0.32 | -0.3% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Stew Tray | $95.85 | $96.15 | $+0.30 | +0.3% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -298,4 +298,5 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Lipton Black Tea Yellow Label 2 Units / 100 Tea Bags / 2 g | Lipton | $109.95 | G10D03 |
+| Red Rose Pink Salmon 3 Units / 418 g | Red Rose | $125.95 | G10D03 |
+| Riceworks Sea Salt Sesame Chips 454 g / 16 oz | Riceworks | $85.95 | G10D03 |
