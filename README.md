@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1168
-- **Total value**: $134,148.99
-- **Average price**: $114.85
+- **Total products scraped**: 1165
+- **Total value**: $134,028.77
+- **Average price**: $115.05
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1166
-- **Price changes detected**: 17
-- **Stock/availability changes**: 22
-- **Discontinued products**: 0
+- **New products added**: 0
+- **Existing products updated**: 1165
+- **Price changes detected**: 53
+- **Stock/availability changes**: 3
+- **Discontinued products**: 3
 
 ## Top 5 Brands
 
@@ -212,42 +212,42 @@ This project has recently gained unexpected attention. It was created for person
 | Member's Selection Unsweetened Almond Beverage 6 Units /  946 mL / 32 oz | Member's Selection | $99.95 | true |
 | Member's Selection Iced Coffee Mocha Drink 12 Units / 296 mL / 10 oz | Member's Selection | $154.95 | true |
 | Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | true |
-| Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $90.95 | true |
 | Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $134.95 | true |
+| Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $90.95 | true |
 | Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | Marie Callender's | $83.95 | true |
 |  Best Fruit Ripe Dehydrated Mangoes 4 Units / 100 g | Best Fruit | $94.95 | true |
 | Helado Mexico Ice Cream Bars 24 Units / 81 mL / 2.74 oz | Helado México | $167.95 | true |
-| Aqua Star Breaded Shrimp 680 g / 1.5 lb | Aqua Star | $92.95 | true |
 | Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $144.84 | true |
+| Nescafé Gold Instant Coffee 200 g + Vanilla-Flavored Cream 425.2 g | Nescafé | $119.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1402
-- **Price increases**: 793
-- **Price decreases**: 540
-- **Average increase**: 5.0%
-- **Average decrease**: -6.9%
+- **Total price changes**: 1399
+- **Price increases**: 803
+- **Price decreases**: 528
+- **Average increase**: 5.3%
+- **Average decrease**: -6.2%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Red Rose Pink Salmon 3 Units / 418 g | $0.00 | $125.95 | $+125.95 | +100.0% | New |
-| Riceworks Sea Salt Sesame Chips 454 g / 16 oz | $0.00 | $85.95 | $+85.95 | +100.0% | New |
-| Green pepper | $40.04 | $39.96 | $-0.08 | -0.2% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $112.42 | $112.58 | $+0.16 | +0.1% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $94.66 | $94.62 | $-0.04 | -0.0% | Decrease |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $154.55 | $154.35 | $-0.20 | -0.1% | Decrease |
-| Frozen Lamb Shoulder Chops Tray | $124.53 | $124.71 | $+0.18 | +0.1% | Increase |
-| Cherries | $34.01 | $34.15 | $+0.14 | +0.4% | Increase |
-| Frozen Lamb Leg Whole Vacuum Packed | $393.56 | $397.88 | $+4.32 | +1.1% | Increase |
-| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $153.27 | $153.53 | $+0.26 | +0.2% | Increase |
-| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $151.54 | $150.97 | $-0.57 | -0.4% | Decrease |
-| Frozen Boneless Skinless Chicken Breast Tray | $148.29 | $149.41 | $+1.12 | +0.8% | Increase |
-| Member's Selection Chilled Chicken Liver, Tray Pack | $41.56 | $41.61 | $+0.05 | +0.1% | Increase |
-| Member's Selection Frozen Boneless Pork Loin Roast Tray | $101.93 | $101.61 | $-0.32 | -0.3% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Stew Tray | $95.85 | $96.15 | $+0.30 | +0.3% | Increase |
+| Philadelphia Cream Cheese 2 Units / 454 g / 1 lb | $99.95 | $119.95 | $+20.00 | +20.0% | Increase |
+| Edwards Signatures Pecan Pie 907g / 2 lb | $55.95 | $68.95 | $+13.00 | +23.2% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $146.21 | $146.05 | $-0.16 | -0.1% | Decrease |
+| Pork Leg Frozen  | $62.34 | $60.64 | $-1.70 | -2.7% | Decrease |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $73.86 | $73.74 | $-0.12 | -0.2% | Decrease |
+| Caphe Fia Gourmet Garlic and Parmesan Cheese Bread 12 Units | $30.95 | $37.95 | $+7.00 | +22.6% | Increase |
+| Papaya | $32.98 | $32.83 | $-0.15 | -0.5% | Decrease |
+| Kraft Cheez Whiz 2 Units / 425 g / 15 oz | $84.95 | $71.95 | $-13.00 | -15.3% | Decrease |
+| Frozen Pork Belly Skin On Sliced Tray  | $117.20 | $116.70 | $-0.50 | -0.4% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $76.67 | $76.57 | $-0.10 | -0.1% | Decrease |
+| Green pepper | $39.96 | $39.88 | $-0.08 | -0.2% | Decrease |
+| Nutrina Chilled Whole Chicken Bag | $334.09 | $334.24 | $+0.15 | +0.0% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $112.58 | $112.74 | $+0.16 | +0.1% | Increase |
+| Tostitos Scoops 411 g | $41.95 | $49.95 | $+8.00 | +19.1% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $92.96 | $92.51 | $-0.45 | -0.5% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,9 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Orchard Vitamin C-Fortified Juices Assorted Flavors 6 Units / 1 L | Orchard | $61.95 | 2025-12-14 |
+| Kiss Sliced White Bread 945 g / 2.08 lb | Kiss | $16.45 | 2025-12-14 |
+| Red Rose Pink Salmon 3 Units / 418 g | Red Rose | $125.95 | 2025-12-14 |
 | Hormel Turkey Pepperoni 2 Units / 227 g / 8 oz | Hormel | $74.95 | 2025-12-12 |
 | Russco's Green Pepper Salsa 750 mL | Russco's | $19.95 | 2025-12-10 |
 | La Yogurt Latin Flavor Mango 907 g / 32 oz | La Yogurt | $32.95 | 2025-12-10 |
@@ -290,13 +293,6 @@ This project has recently gained unexpected attention. It was created for person
 | Kellogg's Special K Flakes with Red Berries 1.07 kg / 38 oz | Kellogg's | $89.70 | 2025-12-10 |
 | Devon Digestive Bites 12 Units / 50 g | Devon | $48.70 | 2025-12-10 |
 | Russet Potato 2.2 kg / 5 lb |  | $22.95 | 2025-12-10 |
-| Kiss Mighty Loaf Wheat Bread 945 g | Kiss | $16.45 | 2025-12-10 |
-| Russco's Green Herbal Seasoning 750 mL | Russco's | $22.95 | 2025-12-10 |
-| Kala Brand Madras Curry 1.2 kg  | Kala Brand | $79.95 | 2025-12-10 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Red Rose Pink Salmon 3 Units / 418 g | Red Rose | $125.95 | G10D03 |
-| Riceworks Sea Salt Sesame Chips 454 g / 16 oz | Riceworks | $85.95 | G10D03 |
+No new products added today.
