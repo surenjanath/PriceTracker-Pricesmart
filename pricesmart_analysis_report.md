@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1165
-- **Total value**: $134,028.77
-- **Average price**: $115.05
+- **Total products scraped**: 1166
+- **Total value**: $134,218.05
+- **Average price**: $115.11
 
 ## Database Changes
-- **New products added**: 0
+- **New products added**: 1
 - **Existing products updated**: 1165
-- **Price changes detected**: 53
-- **Stock/availability changes**: 3
-- **Discontinued products**: 3
+- **Price changes detected**: 36
+- **Stock/availability changes**: 22
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -26,13 +26,13 @@
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Member's Selection Unsweetened Almond Beverage 6 Units /  946 mL / 32 oz | Member's Selection | $99.95 | true |
 | Member's Selection Iced Coffee Mocha Drink 12 Units / 296 mL / 10 oz | Member's Selection | $154.95 | true |
+| Member's Selection Unsweetened Almond Beverage 6 Units /  946 mL / 32 oz | Member's Selection | $99.95 | true |
 | Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | true |
 | Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $134.95 | true |
 | Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $90.95 | true |
-| Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | Marie Callender's | $83.95 | true |
 |  Best Fruit Ripe Dehydrated Mangoes 4 Units / 100 g | Best Fruit | $94.95 | true |
+| Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | Marie Callender's | $83.95 | true |
 | Helado Mexico Ice Cream Bars 24 Units / 81 mL / 2.74 oz | Helado México | $167.95 | true |
 | Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $144.84 | true |
 | Nescafé Gold Instant Coffee 200 g + Vanilla-Flavored Cream 425.2 g | Nescafé | $119.95 | true |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1399
-- **Price increases**: 803
-- **Price decreases**: 528
-- **Average increase**: 5.3%
+- **Total price changes**: 1361
+- **Price increases**: 762
+- **Price decreases**: 531
+- **Average increase**: 4.7%
 - **Average decrease**: -6.2%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Philadelphia Cream Cheese 2 Units / 454 g / 1 lb | $99.95 | $119.95 | $+20.00 | +20.0% | Increase |
-| Edwards Signatures Pecan Pie 907g / 2 lb | $55.95 | $68.95 | $+13.00 | +23.2% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $146.21 | $146.05 | $-0.16 | -0.1% | Decrease |
-| Pork Leg Frozen  | $62.34 | $60.64 | $-1.70 | -2.7% | Decrease |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $73.86 | $73.74 | $-0.12 | -0.2% | Decrease |
-| Caphe Fia Gourmet Garlic and Parmesan Cheese Bread 12 Units | $30.95 | $37.95 | $+7.00 | +22.6% | Increase |
-| Papaya | $32.98 | $32.83 | $-0.15 | -0.5% | Decrease |
-| Kraft Cheez Whiz 2 Units / 425 g / 15 oz | $84.95 | $71.95 | $-13.00 | -15.3% | Decrease |
-| Frozen Pork Belly Skin On Sliced Tray  | $117.20 | $116.70 | $-0.50 | -0.4% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $76.67 | $76.57 | $-0.10 | -0.1% | Decrease |
-| Green pepper | $39.96 | $39.88 | $-0.08 | -0.2% | Decrease |
-| Nutrina Chilled Whole Chicken Bag | $334.09 | $334.24 | $+0.15 | +0.0% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $112.58 | $112.74 | $+0.16 | +0.1% | Increase |
-| Tostitos Scoops 411 g | $41.95 | $49.95 | $+8.00 | +19.1% | Increase |
-| Fine Choice Fresh Marinated Chicken Tray | $92.96 | $92.51 | $-0.45 | -0.5% | Decrease |
+| Cherries | $34.15 | $31.92 | $-2.23 | -6.5% | Decrease |
+| Fresh Chicken Breast Boneless Skinless Tray | $124.59 | $124.76 | $+0.17 | +0.1% | Increase |
+| Butterball Turkey Sausage 3 Units / 369 g / 13 oz | $49.70 | $99.95 | $+50.25 | +101.1% | Increase |
+| Natures Garden Organic Trail Mix 24 Units / 34 g | $0.00 | $154.95 | $+154.95 | +100.0% | New |
+| Best Fruit Premium Dehydrated Coconut 5 Units / 80 g / 2.82 oz | $84.95 | $74.70 | $-10.25 | -12.1% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $57.09 | $57.12 | $+0.03 | +0.1% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $76.57 | $76.67 | $+0.10 | +0.1% | Increase |
+| Fresh Cello Carrots 1.3 kg / 3 lb | $21.95 | $18.95 | $-3.00 | -13.7% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $112.74 | $113.06 | $+0.32 | +0.3% | Increase |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $441.93 | $450.17 | $+8.24 | +1.9% | Increase |
+| Nutrina Chilled Whole Chicken Bag | $334.24 | $335.29 | $+1.05 | +0.3% | Increase |
+| Fresh Chicken Mixed Parts Tray | $96.38 | $96.27 | $-0.11 | -0.1% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $93.71 | $93.81 | $+0.10 | +0.1% | Increase |
+| Fresh Cucumber 1 kg / 2.2 lb | $26.95 | $24.95 | $-2.00 | -7.4% | Decrease |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $154.35 | $154.55 | $+0.20 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -112,4 +112,7 @@
 | Russet Potato 2.2 kg / 5 lb |  | $22.95 | 2025-12-10 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Natures Garden Organic Trail Mix 24 Units / 34 g | Nature's Garden | $154.95 | G10D03 |
