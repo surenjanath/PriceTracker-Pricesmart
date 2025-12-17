@@ -1,14 +1,14 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1166
-- **Total value**: $134,218.05
-- **Average price**: $115.11
+- **Total products scraped**: 1167
+- **Total value**: $134,274.05
+- **Average price**: $115.06
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1165
-- **Price changes detected**: 36
+- **New products added**: 0
+- **Existing products updated**: 1167
+- **Price changes detected**: 41
 - **Stock/availability changes**: 22
 - **Discontinued products**: 0
 
@@ -33,38 +33,38 @@
 | Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $90.95 | true |
 |  Best Fruit Ripe Dehydrated Mangoes 4 Units / 100 g | Best Fruit | $94.95 | true |
 | Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | Marie Callender's | $83.95 | true |
+| Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $144.95 | true |
 | Helado Mexico Ice Cream Bars 24 Units / 81 mL / 2.74 oz | Helado México | $167.95 | true |
-| Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $144.84 | true |
 | Nescafé Gold Instant Coffee 200 g + Vanilla-Flavored Cream 425.2 g | Nescafé | $119.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1361
-- **Price increases**: 762
-- **Price decreases**: 531
-- **Average increase**: 4.7%
-- **Average decrease**: -6.2%
+- **Total price changes**: 1333
+- **Price increases**: 767
+- **Price decreases**: 499
+- **Average increase**: 4.3%
+- **Average decrease**: -5.7%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Cherries | $34.15 | $31.92 | $-2.23 | -6.5% | Decrease |
-| Fresh Chicken Breast Boneless Skinless Tray | $124.59 | $124.76 | $+0.17 | +0.1% | Increase |
-| Butterball Turkey Sausage 3 Units / 369 g / 13 oz | $49.70 | $99.95 | $+50.25 | +101.1% | Increase |
-| Natures Garden Organic Trail Mix 24 Units / 34 g | $0.00 | $154.95 | $+154.95 | +100.0% | New |
-| Best Fruit Premium Dehydrated Coconut 5 Units / 80 g / 2.82 oz | $84.95 | $74.70 | $-10.25 | -12.1% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $57.09 | $57.12 | $+0.03 | +0.1% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $76.57 | $76.67 | $+0.10 | +0.1% | Increase |
-| Fresh Cello Carrots 1.3 kg / 3 lb | $21.95 | $18.95 | $-3.00 | -13.7% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $112.74 | $113.06 | $+0.32 | +0.3% | Increase |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $441.93 | $450.17 | $+8.24 | +1.9% | Increase |
-| Nutrina Chilled Whole Chicken Bag | $334.24 | $335.29 | $+1.05 | +0.3% | Increase |
-| Fresh Chicken Mixed Parts Tray | $96.38 | $96.27 | $-0.11 | -0.1% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $93.71 | $93.81 | $+0.10 | +0.1% | Increase |
-| Fresh Cucumber 1 kg / 2.2 lb | $26.95 | $24.95 | $-2.00 | -7.4% | Decrease |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $154.35 | $154.55 | $+0.20 | +0.1% | Increase |
+| Trix Fruit-Flavored Whole Corn Cereal with Marshmallows 3 Units / 230 g | $59.95 | $52.95 | $-7.00 | -11.7% | Decrease |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $73.74 | $76.20 | $+2.46 | +3.3% | Increase |
+| Papaya | $32.83 | $33.27 | $+0.44 | +1.3% | Increase |
+| Whole Striploin Fresh Vacuum Packed | $1121.70 | $1139.70 | $+18.00 | +1.6% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $76.67 | $76.57 | $-0.10 | -0.1% | Decrease |
+| Green pepper | $39.88 | $39.73 | $-0.15 | -0.4% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $113.06 | $113.21 | $+0.15 | +0.1% | Increase |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $450.17 | $451.50 | $+1.33 | +0.3% | Increase |
+| Fresh Chicken Mixed Parts Tray | $96.27 | $96.16 | $-0.11 | -0.1% | Decrease |
+| Chilled Skinless Boneless Beef Ribeye Steak Vacuum Package Whole Piece | $2433.22 | $2471.24 | $+38.02 | +1.6% | Increase |
+| Stauffers Apple and Cinnamon Cookies 397 g | $49.95 | $43.70 | $-6.25 | -12.5% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $93.81 | $93.91 | $+0.10 | +0.1% | Increase |
+| Orchard Sorrel Drink 6 Units / 1 L | $104.95 | $92.95 | $-12.00 | -11.4% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $94.48 | $94.31 | $-0.17 | -0.2% | Decrease |
+| Classic Cream Chocolate Whipped Cream 2 Units / 368 g / 13 oz | $59.70 | $41.70 | $-18.00 | -30.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -106,13 +106,10 @@
 | Hormel Turkey Pepperoni 2 Units / 227 g / 8 oz | Hormel | $74.95 | 2025-12-12 |
 | Russco's Green Pepper Salsa 750 mL | Russco's | $19.95 | 2025-12-10 |
 | La Yogurt Latin Flavor Mango 907 g / 32 oz | La Yogurt | $32.95 | 2025-12-10 |
-| Toppers Popcorn Gluten Free 600 g | Toppers | $39.95 | 2025-12-10 |
 | Kellogg's Special K Flakes with Red Berries 1.07 kg / 38 oz | Kellogg's | $89.70 | 2025-12-10 |
 | Devon Digestive Bites 12 Units / 50 g | Devon | $48.70 | 2025-12-10 |
 | Russet Potato 2.2 kg / 5 lb |  | $22.95 | 2025-12-10 |
+| Kiss Mighty Loaf Wheat Bread 945 g | Kiss | $16.45 | 2025-12-10 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Natures Garden Organic Trail Mix 24 Units / 34 g | Nature's Garden | $154.95 | G10D03 |
+No new products added today.
