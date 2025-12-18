@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1167
-- **Total value**: $134,274.05
-- **Average price**: $115.06
+- **Total products scraped**: 1166
+- **Total value**: $134,128.36
+- **Average price**: $115.03
 
 ## Database Changes
 - **New products added**: 0
-- **Existing products updated**: 1167
-- **Price changes detected**: 41
-- **Stock/availability changes**: 22
-- **Discontinued products**: 0
+- **Existing products updated**: 1166
+- **Price changes detected**: 54
+- **Stock/availability changes**: 21
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 195 |
-|  | 148 |
+|  | 147 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 12 |
@@ -26,7 +26,7 @@
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Member's Selection Iced Coffee Mocha Drink 12 Units / 296 mL / 10 oz | Member's Selection | $154.95 | true |
+| Member's Selection Iced Coffee Mocha Drink 12 Units / 296 mL / 10 oz | Member's Selection | $159.95 | true |
 | Member's Selection Unsweetened Almond Beverage 6 Units /  946 mL / 32 oz | Member's Selection | $99.95 | true |
 | Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | true |
 | Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $134.95 | true |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1333
-- **Price increases**: 767
-- **Price decreases**: 499
-- **Average increase**: 4.3%
+- **Total price changes**: 1365
+- **Price increases**: 785
+- **Price decreases**: 513
+- **Average increase**: 4.2%
 - **Average decrease**: -5.7%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Trix Fruit-Flavored Whole Corn Cereal with Marshmallows 3 Units / 230 g | $59.95 | $52.95 | $-7.00 | -11.7% | Decrease |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $73.74 | $76.20 | $+2.46 | +3.3% | Increase |
-| Papaya | $32.83 | $33.27 | $+0.44 | +1.3% | Increase |
-| Whole Striploin Fresh Vacuum Packed | $1121.70 | $1139.70 | $+18.00 | +1.6% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $76.67 | $76.57 | $-0.10 | -0.1% | Decrease |
-| Green pepper | $39.88 | $39.73 | $-0.15 | -0.4% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $113.06 | $113.21 | $+0.15 | +0.1% | Increase |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $450.17 | $451.50 | $+1.33 | +0.3% | Increase |
-| Fresh Chicken Mixed Parts Tray | $96.27 | $96.16 | $-0.11 | -0.1% | Decrease |
-| Chilled Skinless Boneless Beef Ribeye Steak Vacuum Package Whole Piece | $2433.22 | $2471.24 | $+38.02 | +1.6% | Increase |
-| Stauffers Apple and Cinnamon Cookies 397 g | $49.95 | $43.70 | $-6.25 | -12.5% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $93.81 | $93.91 | $+0.10 | +0.1% | Increase |
-| Orchard Sorrel Drink 6 Units / 1 L | $104.95 | $92.95 | $-12.00 | -11.4% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $94.48 | $94.31 | $-0.17 | -0.2% | Decrease |
-| Classic Cream Chocolate Whipped Cream 2 Units / 368 g / 13 oz | $59.70 | $41.70 | $-18.00 | -30.2% | Decrease |
+| Pringles Original Flavor, Cheese and Sour Cream Chips 4 Units | $88.95 | $87.95 | $-1.00 | -1.1% | Decrease |
+| Member's Selection Cheese Ravioli 1.36 kg / 3 lb  | $139.95 | $144.95 | $+5.00 | +3.6% | Increase |
+| Member's Selection Spinach & Cheese Ravioli 1.36 kg / 3 lb | $139.95 | $144.95 | $+5.00 | +3.6% | Increase |
+| Member's Selection Shredded Mozzarella Cheese 2 Units / 680 g / 1.5 lb | $97.95 | $99.95 | $+2.00 | +2.0% | Increase |
+| Reny Picot Brie Cheese with Almond Slices 227 g / 8 oz | $89.95 | $79.95 | $-10.00 | -11.1% | Decrease |
+| KFI Gluten-Free Curry and Coconut Sauce 2 Units / 695 g | $92.95 | $82.70 | $-10.25 | -11.0% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $57.12 | $57.09 | $-0.03 | -0.1% | Decrease |
+| Frozen Pork Belly Skin On Sliced Tray  | $116.70 | $115.95 | $-0.75 | -0.6% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $76.57 | $76.78 | $+0.21 | +0.3% | Increase |
+| Green pepper | $39.73 | $39.57 | $-0.16 | -0.4% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $113.21 | $113.37 | $+0.16 | +0.1% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $83.41 | $83.49 | $+0.08 | +0.1% | Increase |
+| Pepsi Cola Soft Drink 24 Units / 500 mL | $72.95 | $74.95 | $+2.00 | +2.7% | Increase |
+| Fruit Roll Ups Assorted Fruit Rolls 72 Units / 14 g | $199.95 | $174.70 | $-25.25 | -12.6% | Decrease |
+| M&M Mini Chocolate Candies 800 g | $199.95 | $169.70 | $-30.25 | -15.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Purple Cabbage Unit |  | $32.57 | 2025-12-17 |
 | Orchard Vitamin C-Fortified Juices Assorted Flavors 6 Units / 1 L | Orchard | $61.95 | 2025-12-14 |
 | Kiss Sliced White Bread 945 g / 2.08 lb | Kiss | $16.45 | 2025-12-14 |
 | Red Rose Pink Salmon 3 Units / 418 g | Red Rose | $125.95 | 2025-12-14 |
@@ -109,7 +110,6 @@
 | Kellogg's Special K Flakes with Red Berries 1.07 kg / 38 oz | Kellogg's | $89.70 | 2025-12-10 |
 | Devon Digestive Bites 12 Units / 50 g | Devon | $48.70 | 2025-12-10 |
 | Russet Potato 2.2 kg / 5 lb |  | $22.95 | 2025-12-10 |
-| Kiss Mighty Loaf Wheat Bread 945 g | Kiss | $16.45 | 2025-12-10 |
 
 ## New Products Added Today
 No new products added today.
