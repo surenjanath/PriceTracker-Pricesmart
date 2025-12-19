@@ -184,15 +184,15 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1166
-- **Total value**: $134,128.36
-- **Average price**: $115.03
+- **Total products scraped**: 1170
+- **Total value**: $134,641.63
+- **Average price**: $115.08
 
 ## Database Changes
-- **New products added**: 0
+- **New products added**: 4
 - **Existing products updated**: 1166
-- **Price changes detected**: 54
-- **Stock/availability changes**: 21
+- **Price changes detected**: 44
+- **Stock/availability changes**: 41
 - **Discontinued products**: 1
 
 ## Top 5 Brands
@@ -210,44 +210,44 @@ This project has recently gained unexpected attention. It was created for person
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Member's Selection Iced Coffee Mocha Drink 12 Units / 296 mL / 10 oz | Member's Selection | $159.95 | true |
-| Member's Selection Unsweetened Almond Beverage 6 Units /  946 mL / 32 oz | Member's Selection | $99.95 | true |
 | Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | true |
 | Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $134.95 | true |
 | Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $90.95 | true |
 |  Best Fruit Ripe Dehydrated Mangoes 4 Units / 100 g | Best Fruit | $94.95 | true |
 | Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | Marie Callender's | $83.95 | true |
-| Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $144.95 | true |
 | Helado Mexico Ice Cream Bars 24 Units / 81 mL / 2.74 oz | Helado México | $167.95 | true |
+| Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $144.95 | true |
 | Nescafé Gold Instant Coffee 200 g + Vanilla-Flavored Cream 425.2 g | Nescafé | $119.95 | true |
+| Tsatsakis Sunflower Seed Breadsticks 2 Packs 400 g / 14.1 oz | Tsatsakis | $69.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1365
-- **Price increases**: 785
-- **Price decreases**: 513
+- **Total price changes**: 1390
+- **Price increases**: 804
+- **Price decreases**: 517
 - **Average increase**: 4.2%
-- **Average decrease**: -5.7%
+- **Average decrease**: -5.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Pringles Original Flavor, Cheese and Sour Cream Chips 4 Units | $88.95 | $87.95 | $-1.00 | -1.1% | Decrease |
-| Member's Selection Cheese Ravioli 1.36 kg / 3 lb  | $139.95 | $144.95 | $+5.00 | +3.6% | Increase |
-| Member's Selection Spinach & Cheese Ravioli 1.36 kg / 3 lb | $139.95 | $144.95 | $+5.00 | +3.6% | Increase |
-| Member's Selection Shredded Mozzarella Cheese 2 Units / 680 g / 1.5 lb | $97.95 | $99.95 | $+2.00 | +2.0% | Increase |
-| Reny Picot Brie Cheese with Almond Slices 227 g / 8 oz | $89.95 | $79.95 | $-10.00 | -11.1% | Decrease |
-| KFI Gluten-Free Curry and Coconut Sauce 2 Units / 695 g | $92.95 | $82.70 | $-10.25 | -11.0% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $57.12 | $57.09 | $-0.03 | -0.1% | Decrease |
-| Frozen Pork Belly Skin On Sliced Tray  | $116.70 | $115.95 | $-0.75 | -0.6% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $76.57 | $76.78 | $+0.21 | +0.3% | Increase |
-| Green pepper | $39.73 | $39.57 | $-0.16 | -0.4% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $113.21 | $113.37 | $+0.16 | +0.1% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $83.41 | $83.49 | $+0.08 | +0.1% | Increase |
-| Pepsi Cola Soft Drink 24 Units / 500 mL | $72.95 | $74.95 | $+2.00 | +2.7% | Increase |
-| Fruit Roll Ups Assorted Fruit Rolls 72 Units / 14 g | $199.95 | $174.70 | $-25.25 | -12.6% | Decrease |
-| M&M Mini Chocolate Candies 800 g | $199.95 | $169.70 | $-30.25 | -15.1% | Decrease |
+| Babybel Mini Cheese 36 Units / 21 g / 0.75 oz | $152.95 | $154.95 | $+2.00 | +1.3% | Increase |
+|   Fresh Broccoli Crowns | $39.95 | $37.95 | $-2.00 | -5.0% | Decrease |
+| Califia Farms Strawberry and Coconut Beverage 1.4 L / 48 oz | $0.00 | $59.95 | $+59.95 | +100.0% | New |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $146.05 | $146.21 | $+0.16 | +0.1% | Increase |
+| Prana Granola Organic Oatmeal Cookie Flavor 1 kg / 35.27 oz | $0.00 | $96.95 | $+96.95 | +100.0% | New |
+| Quantum Energy Bars Cookie Dough Flavor with Chocolate Chips and Peanut Butter with Dark Chocolate 16 Units / 48 g / 1.7 oz | $0.00 | $229.95 | $+229.95 | +100.0% | New |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $76.20 | $76.57 | $+0.37 | +0.5% | Increase |
+| Seedless Watermelon  | $97.95 | $99.95 | $+2.00 | +2.0% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $57.09 | $57.12 | $+0.03 | +0.1% | Increase |
+| Ocean Spray Cranberry Juice 2 Units / 2.83 L / 96 oz  | $0.00 | $104.95 | $+104.95 | +100.0% | New |
+| Frozen Bone In Pork Shoulder Sliced Tray | $76.78 | $76.67 | $-0.11 | -0.1% | Decrease |
+| Mini Sweet Peppers 454 g / 1 lb | $36.95 | $39.95 | $+3.00 | +8.1% | Increase |
+| Nutrina Chilled Whole Chicken Bag | $335.29 | $334.69 | $-0.60 | -0.2% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $95.94 | $95.72 | $-0.22 | -0.2% | Decrease |
+| Red Onion 2.2 kg / 5 lb | $32.95 | $34.95 | $+2.00 | +6.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Member's Selection Chicken Caesar Wrap 4 Units | Member's Selection | $65.95 | 2025-12-18 |
 | Purple Cabbage Unit |  | $32.57 | 2025-12-17 |
 | Orchard Vitamin C-Fortified Juices Assorted Flavors 6 Units / 1 L | Orchard | $61.95 | 2025-12-14 |
 | Kiss Sliced White Bread 945 g / 2.08 lb | Kiss | $16.45 | 2025-12-14 |
@@ -292,7 +293,12 @@ This project has recently gained unexpected attention. It was created for person
 | La Yogurt Latin Flavor Mango 907 g / 32 oz | La Yogurt | $32.95 | 2025-12-10 |
 | Kellogg's Special K Flakes with Red Berries 1.07 kg / 38 oz | Kellogg's | $89.70 | 2025-12-10 |
 | Devon Digestive Bites 12 Units / 50 g | Devon | $48.70 | 2025-12-10 |
-| Russet Potato 2.2 kg / 5 lb |  | $22.95 | 2025-12-10 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Califia Farms Strawberry and Coconut Beverage 1.4 L / 48 oz | Califia Farms | $59.95 | G10D03 |
+| Prana Granola Organic Oatmeal Cookie Flavor 1 kg / 35.27 oz | Prana | $96.95 | G10D03 |
+| Quantum Energy Bars Cookie Dough Flavor with Chocolate Chips and Peanut Butter with Dark Chocolate 16 Units / 48 g / 1.7 oz | Quantum | $229.95 | G10D03 |
+| Ocean Spray Cranberry Juice 2 Units / 2.83 L / 96 oz  | Ocean Spray | $104.95 | G10D03 |
