@@ -2,15 +2,15 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1170
-- **Total value**: $134,641.63
-- **Average price**: $115.08
+- **Total value**: $134,677.10
+- **Average price**: $115.11
 
 ## Database Changes
-- **New products added**: 4
-- **Existing products updated**: 1166
-- **Price changes detected**: 44
-- **Stock/availability changes**: 41
-- **Discontinued products**: 1
+- **New products added**: 0
+- **Existing products updated**: 1170
+- **Price changes detected**: 36
+- **Stock/availability changes**: 19
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -34,37 +34,37 @@
 | Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | Marie Callender's | $83.95 | true |
 | Helado Mexico Ice Cream Bars 24 Units / 81 mL / 2.74 oz | Helado México | $167.95 | true |
 | Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $144.95 | true |
-| Nescafé Gold Instant Coffee 200 g + Vanilla-Flavored Cream 425.2 g | Nescafé | $119.95 | true |
 | Tsatsakis Sunflower Seed Breadsticks 2 Packs 400 g / 14.1 oz | Tsatsakis | $69.95 | true |
+| Nescafé Gold Instant Coffee 200 g + Vanilla-Flavored Cream 425.2 g | Nescafé | $119.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1390
-- **Price increases**: 804
-- **Price decreases**: 517
+- **Total price changes**: 1426
+- **Price increases**: 825
+- **Price decreases**: 532
 - **Average increase**: 4.2%
-- **Average decrease**: -5.6%
+- **Average decrease**: -5.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Babybel Mini Cheese 36 Units / 21 g / 0.75 oz | $152.95 | $154.95 | $+2.00 | +1.3% | Increase |
-|   Fresh Broccoli Crowns | $39.95 | $37.95 | $-2.00 | -5.0% | Decrease |
-| Califia Farms Strawberry and Coconut Beverage 1.4 L / 48 oz | $0.00 | $59.95 | $+59.95 | +100.0% | New |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $146.05 | $146.21 | $+0.16 | +0.1% | Increase |
-| Prana Granola Organic Oatmeal Cookie Flavor 1 kg / 35.27 oz | $0.00 | $96.95 | $+96.95 | +100.0% | New |
-| Quantum Energy Bars Cookie Dough Flavor with Chocolate Chips and Peanut Butter with Dark Chocolate 16 Units / 48 g / 1.7 oz | $0.00 | $229.95 | $+229.95 | +100.0% | New |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $76.20 | $76.57 | $+0.37 | +0.5% | Increase |
-| Seedless Watermelon  | $97.95 | $99.95 | $+2.00 | +2.0% | Increase |
-| Chilled Chicken Gizzard Tray Pack | $57.09 | $57.12 | $+0.03 | +0.1% | Increase |
-| Ocean Spray Cranberry Juice 2 Units / 2.83 L / 96 oz  | $0.00 | $104.95 | $+104.95 | +100.0% | New |
-| Frozen Bone In Pork Shoulder Sliced Tray | $76.78 | $76.67 | $-0.11 | -0.1% | Decrease |
-| Mini Sweet Peppers 454 g / 1 lb | $36.95 | $39.95 | $+3.00 | +8.1% | Increase |
-| Nutrina Chilled Whole Chicken Bag | $335.29 | $334.69 | $-0.60 | -0.2% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $95.94 | $95.72 | $-0.22 | -0.2% | Decrease |
-| Red Onion 2.2 kg / 5 lb | $32.95 | $34.95 | $+2.00 | +6.1% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $146.21 | $146.05 | $-0.16 | -0.1% | Decrease |
+| Tomato 11.3 kg / 25 lb | $219.95 | $239.95 | $+20.00 | +9.1% | Increase |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $76.57 | $76.69 | $+0.12 | +0.2% | Increase |
+| Papaya | $33.27 | $33.02 | $-0.25 | -0.8% | Decrease |
+| Green pepper | $39.57 | $39.50 | $-0.07 | -0.2% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $113.37 | $113.85 | $+0.48 | +0.4% | Increase |
+| Mixed Pepper Box 9 kg / 20 lb | $214.95 | $229.95 | $+15.00 | +7.0% | Increase |
+| Pineapple Crownless Fresh | $14.70 | $24.95 | $+10.25 | +69.7% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $83.49 | $83.58 | $+0.09 | +0.1% | Increase |
+| Swiss Spaghetti 6 Units / 400 g | $32.95 | $31.95 | $-1.00 | -3.0% | Decrease |
+| Nutrina Chilled Whole Chicken Bag | $334.69 | $334.24 | $-0.45 | -0.1% | Decrease |
+| Pimento Peppers 40 Units | $24.95 | $27.95 | $+3.00 | +12.0% | Increase |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $450.17 | $451.50 | $+1.33 | +0.3% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $94.13 | $94.31 | $+0.18 | +0.2% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $92.60 | $92.42 | $-0.18 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -112,10 +112,4 @@
 | Devon Digestive Bites 12 Units / 50 g | Devon | $48.70 | 2025-12-10 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Califia Farms Strawberry and Coconut Beverage 1.4 L / 48 oz | Califia Farms | $59.95 | G10D03 |
-| Prana Granola Organic Oatmeal Cookie Flavor 1 kg / 35.27 oz | Prana | $96.95 | G10D03 |
-| Quantum Energy Bars Cookie Dough Flavor with Chocolate Chips and Peanut Butter with Dark Chocolate 16 Units / 48 g / 1.7 oz | Quantum | $229.95 | G10D03 |
-| Ocean Spray Cranberry Juice 2 Units / 2.83 L / 96 oz  | Ocean Spray | $104.95 | G10D03 |
+No new products added today.
