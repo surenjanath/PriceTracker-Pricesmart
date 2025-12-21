@@ -1,22 +1,22 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1170
-- **Total value**: $134,677.10
-- **Average price**: $115.11
+- **Total products scraped**: 1167
+- **Total value**: $133,718.00
+- **Average price**: $114.58
 
 ## Database Changes
 - **New products added**: 0
-- **Existing products updated**: 1170
-- **Price changes detected**: 36
-- **Stock/availability changes**: 19
-- **Discontinued products**: 0
+- **Existing products updated**: 1167
+- **Price changes detected**: 28
+- **Stock/availability changes**: 30
+- **Discontinued products**: 3
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 195 |
+| Member's Selection | 193 |
 |  | 147 |
 | Badia | 18 |
 | Swiss | 14 |
@@ -30,41 +30,41 @@
 | Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | true |
 | Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $134.95 | true |
 | Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $90.95 | true |
-|  Best Fruit Ripe Dehydrated Mangoes 4 Units / 100 g | Best Fruit | $94.95 | true |
 | Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | Marie Callender's | $83.95 | true |
-| Helado Mexico Ice Cream Bars 24 Units / 81 mL / 2.74 oz | Helado México | $167.95 | true |
+|  Best Fruit Ripe Dehydrated Mangoes 4 Units / 100 g | Best Fruit | $94.95 | true |
 | Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $144.95 | true |
 | Tsatsakis Sunflower Seed Breadsticks 2 Packs 400 g / 14.1 oz | Tsatsakis | $69.95 | true |
+| Helado Mexico Ice Cream Bars 24 Units / 81 mL / 2.74 oz | Helado México | $167.95 | true |
 | Nescafé Gold Instant Coffee 200 g + Vanilla-Flavored Cream 425.2 g | Nescafé | $119.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1426
-- **Price increases**: 825
-- **Price decreases**: 532
-- **Average increase**: 4.2%
+- **Total price changes**: 1357
+- **Price increases**: 779
+- **Price decreases**: 511
+- **Average increase**: 4.1%
 - **Average decrease**: -5.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $146.21 | $146.05 | $-0.16 | -0.1% | Decrease |
-| Tomato 11.3 kg / 25 lb | $219.95 | $239.95 | $+20.00 | +9.1% | Increase |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $76.57 | $76.69 | $+0.12 | +0.2% | Increase |
-| Papaya | $33.27 | $33.02 | $-0.25 | -0.8% | Decrease |
-| Green pepper | $39.57 | $39.50 | $-0.07 | -0.2% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $113.37 | $113.85 | $+0.48 | +0.4% | Increase |
-| Mixed Pepper Box 9 kg / 20 lb | $214.95 | $229.95 | $+15.00 | +7.0% | Increase |
-| Pineapple Crownless Fresh | $14.70 | $24.95 | $+10.25 | +69.7% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $83.49 | $83.58 | $+0.09 | +0.1% | Increase |
-| Swiss Spaghetti 6 Units / 400 g | $32.95 | $31.95 | $-1.00 | -3.0% | Decrease |
-| Nutrina Chilled Whole Chicken Bag | $334.69 | $334.24 | $-0.45 | -0.1% | Decrease |
-| Pimento Peppers 40 Units | $24.95 | $27.95 | $+3.00 | +12.0% | Increase |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $450.17 | $451.50 | $+1.33 | +0.3% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $94.13 | $94.31 | $+0.18 | +0.2% | Increase |
-| Fine Choice Fresh Marinated Chicken Tray | $92.60 | $92.42 | $-0.18 | -0.2% | Decrease |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $76.69 | $76.82 | $+0.13 | +0.2% | Increase |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $154.87 | $157.34 | $+2.47 | +1.6% | Increase |
+| Frozen Sliced Turkey Drumsticks | $148.84 | $149.41 | $+0.57 | +0.4% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $57.12 | $57.20 | $+0.08 | +0.1% | Increase |
+| Green pepper | $39.50 | $39.34 | $-0.16 | -0.4% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $76.67 | $76.46 | $-0.21 | -0.3% | Decrease |
+| Wellsley Farms Apple Cider 3.8 L / 128 oz | $39.70 | $76.95 | $+37.25 | +93.8% | Increase |
+| Frozen Lamb Shoulder Case | $1383.14 | $1379.00 | $-4.14 | -0.3% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $83.58 | $83.67 | $+0.09 | +0.1% | Increase |
+| Fresh Chicken Mixed Parts Tray | $95.72 | $95.50 | $-0.22 | -0.2% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $94.31 | $94.13 | $-0.18 | -0.2% | Decrease |
+| Fine Choice Fresh Marinated Chicken Tray | $92.42 | $92.24 | $-0.18 | -0.2% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $94.11 | $94.21 | $+0.10 | +0.1% | Increase |
+| Pork Chop with Bone Frozen Tray | $85.86 | $85.99 | $+0.13 | +0.2% | Increase |
+| Fresh Chicken Breast Bone In Tray | $97.53 | $97.43 | $-0.10 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,9 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Butterball Turkey Sausage 3 Units / 369 g / 13 oz | Butterball | $99.95 | 2025-12-20 |
+| Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2025-12-20 |
+| Member's Selection Black Forest Cake 80 to 100 Slices | Member's Selection | $499.95 | 2025-12-20 |
 | Member's Selection Chicken Caesar Wrap 4 Units | Member's Selection | $65.95 | 2025-12-18 |
 | Purple Cabbage Unit |  | $32.57 | 2025-12-17 |
 | Orchard Vitamin C-Fortified Juices Assorted Flavors 6 Units / 1 L | Orchard | $61.95 | 2025-12-14 |
@@ -107,9 +110,6 @@
 | Red Rose Pink Salmon 3 Units / 418 g | Red Rose | $125.95 | 2025-12-14 |
 | Hormel Turkey Pepperoni 2 Units / 227 g / 8 oz | Hormel | $74.95 | 2025-12-12 |
 | Russco's Green Pepper Salsa 750 mL | Russco's | $19.95 | 2025-12-10 |
-| La Yogurt Latin Flavor Mango 907 g / 32 oz | La Yogurt | $32.95 | 2025-12-10 |
-| Kellogg's Special K Flakes with Red Berries 1.07 kg / 38 oz | Kellogg's | $89.70 | 2025-12-10 |
-| Devon Digestive Bites 12 Units / 50 g | Devon | $48.70 | 2025-12-10 |
 
 ## New Products Added Today
 No new products added today.
