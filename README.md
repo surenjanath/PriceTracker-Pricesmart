@@ -184,15 +184,15 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1167
-- **Total value**: $133,718.00
-- **Average price**: $114.58
+- **Total products scraped**: 1165
+- **Total value**: $133,692.47
+- **Average price**: $114.76
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1167
-- **Price changes detected**: 28
-- **Stock/availability changes**: 30
+- **New products added**: 1
+- **Existing products updated**: 1164
+- **Price changes detected**: 29
+- **Stock/availability changes**: 17
 - **Discontinued products**: 3
 
 ## Top 5 Brands
@@ -212,8 +212,8 @@ This project has recently gained unexpected attention. It was created for person
 | Member's Selection Iced Coffee Mocha Drink 12 Units / 296 mL / 10 oz | Member's Selection | $159.95 | true |
 | Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | true |
 | Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $134.95 | true |
-| Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $90.95 | true |
 | Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | Marie Callender's | $83.95 | true |
+| Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $90.95 | true |
 |  Best Fruit Ripe Dehydrated Mangoes 4 Units / 100 g | Best Fruit | $94.95 | true |
 | Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $144.95 | true |
 | Tsatsakis Sunflower Seed Breadsticks 2 Packs 400 g / 14.1 oz | Tsatsakis | $69.95 | true |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1357
-- **Price increases**: 779
-- **Price decreases**: 511
-- **Average increase**: 4.1%
-- **Average decrease**: -5.5%
+- **Total price changes**: 1316
+- **Price increases**: 752
+- **Price decreases**: 502
+- **Average increase**: 3.9%
+- **Average decrease**: -5.3%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $76.69 | $76.82 | $+0.13 | +0.2% | Increase |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $154.87 | $157.34 | $+2.47 | +1.6% | Increase |
-| Frozen Sliced Turkey Drumsticks | $148.84 | $149.41 | $+0.57 | +0.4% | Increase |
-| Chilled Chicken Gizzard Tray Pack | $57.12 | $57.20 | $+0.08 | +0.1% | Increase |
-| Green pepper | $39.50 | $39.34 | $-0.16 | -0.4% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $76.67 | $76.46 | $-0.21 | -0.3% | Decrease |
-| Wellsley Farms Apple Cider 3.8 L / 128 oz | $39.70 | $76.95 | $+37.25 | +93.8% | Increase |
-| Frozen Lamb Shoulder Case | $1383.14 | $1379.00 | $-4.14 | -0.3% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $83.58 | $83.67 | $+0.09 | +0.1% | Increase |
-| Fresh Chicken Mixed Parts Tray | $95.72 | $95.50 | $-0.22 | -0.2% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $94.31 | $94.13 | $-0.18 | -0.2% | Decrease |
-| Fine Choice Fresh Marinated Chicken Tray | $92.42 | $92.24 | $-0.18 | -0.2% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $94.11 | $94.21 | $+0.10 | +0.1% | Increase |
-| Pork Chop with Bone Frozen Tray | $85.86 | $85.99 | $+0.13 | +0.2% | Increase |
-| Fresh Chicken Breast Bone In Tray | $97.53 | $97.43 | $-0.10 | -0.1% | Decrease |
+| Ocean Spray Cran Tropical Juices in Assorted Flavors with Vitamin C 24 Units / 295 mL / 10 oz | $0.00 | $174.95 | $+174.95 | +100.0% | New |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $210.13 | $209.50 | $-0.63 | -0.3% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $146.05 | $146.51 | $+0.46 | +0.3% | Increase |
+| Papaya | $33.02 | $32.76 | $-0.26 | -0.8% | Decrease |
+| Green pepper | $39.34 | $39.18 | $-0.16 | -0.4% | Decrease |
+| Frozen Lamb Shoulder Case | $1379.00 | $1374.17 | $-4.83 | -0.4% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $83.67 | $83.75 | $+0.08 | +0.1% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $94.13 | $93.95 | $-0.18 | -0.2% | Decrease |
+| Fine Choice Fresh Marinated Chicken Tray | $92.24 | $91.97 | $-0.27 | -0.3% | Decrease |
+| Pork Chop with Bone Frozen Tray | $85.99 | $86.37 | $+0.38 | +0.4% | Increase |
+| Fresh Chicken Breast Bone In Tray | $97.43 | $97.34 | $-0.09 | -0.1% | Decrease |
+| Frozen Lamb Leg Whole Vacuum Packed | $406.80 | $408.82 | $+2.02 | +0.5% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $124.35 | $124.71 | $+0.36 | +0.3% | Increase |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $327.80 | $322.65 | $-5.15 | -1.6% | Decrease |
+| Fresh Ground Chicken Tray | $106.58 | $106.46 | $-0.12 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,9 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Twinings Christmas Tea Collection 40 Units / 2 g | Twinings | $62.95 | 2025-12-21 |
+| Violife Just Like Mozzarella Shredded 453 g / 1 lb | Violife | $97.95 | 2025-12-21 |
+| Fresh Start Grapefruit Juice 1.8 L / 60 oz | Fresh Start | $35.95 | 2025-12-21 |
 | Butterball Turkey Sausage 3 Units / 369 g / 13 oz | Butterball | $99.95 | 2025-12-20 |
 | Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2025-12-20 |
 | Member's Selection Black Forest Cake 80 to 100 Slices | Member's Selection | $499.95 | 2025-12-20 |
@@ -290,9 +293,9 @@ This project has recently gained unexpected attention. It was created for person
 | Purple Cabbage Unit |  | $32.57 | 2025-12-17 |
 | Orchard Vitamin C-Fortified Juices Assorted Flavors 6 Units / 1 L | Orchard | $61.95 | 2025-12-14 |
 | Kiss Sliced White Bread 945 g / 2.08 lb | Kiss | $16.45 | 2025-12-14 |
-| Red Rose Pink Salmon 3 Units / 418 g | Red Rose | $125.95 | 2025-12-14 |
-| Hormel Turkey Pepperoni 2 Units / 227 g / 8 oz | Hormel | $74.95 | 2025-12-12 |
-| Russco's Green Pepper Salsa 750 mL | Russco's | $19.95 | 2025-12-10 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Ocean Spray Cran Tropical Juices in Assorted Flavors with Vitamin C 24 Units / 295 mL / 10 oz | Ocean Spray | $174.95 | G10D03 |
