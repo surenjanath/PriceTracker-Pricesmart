@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1165
-- **Total value**: $133,692.47
-- **Average price**: $114.76
+- **Total products scraped**: 1168
+- **Total value**: $133,953.72
+- **Average price**: $114.69
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1164
-- **Price changes detected**: 29
-- **Stock/availability changes**: 17
-- **Discontinued products**: 3
+- **New products added**: 3
+- **Existing products updated**: 1165
+- **Price changes detected**: 35
+- **Stock/availability changes**: 33
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -210,44 +210,44 @@ This project has recently gained unexpected attention. It was created for person
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Member's Selection Iced Coffee Mocha Drink 12 Units / 296 mL / 10 oz | Member's Selection | $159.95 | true |
-| Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | true |
 | Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $134.95 | true |
-| Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | Marie Callender's | $83.95 | true |
+| Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | true |
 | Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $90.95 | true |
+| Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | Marie Callender's | $83.95 | true |
 |  Best Fruit Ripe Dehydrated Mangoes 4 Units / 100 g | Best Fruit | $94.95 | true |
 | Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $144.95 | true |
 | Tsatsakis Sunflower Seed Breadsticks 2 Packs 400 g / 14.1 oz | Tsatsakis | $69.95 | true |
-| Helado Mexico Ice Cream Bars 24 Units / 81 mL / 2.74 oz | Helado México | $167.95 | true |
 | Nescafé Gold Instant Coffee 200 g + Vanilla-Flavored Cream 425.2 g | Nescafé | $119.95 | true |
+| Helado Mexico Ice Cream Bars 24 Units / 81 mL / 2.74 oz | Helado México | $167.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1316
-- **Price increases**: 752
-- **Price decreases**: 502
+- **Total price changes**: 1332
+- **Price increases**: 763
+- **Price decreases**: 508
 - **Average increase**: 3.9%
-- **Average decrease**: -5.3%
+- **Average decrease**: -5.4%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Ocean Spray Cran Tropical Juices in Assorted Flavors with Vitamin C 24 Units / 295 mL / 10 oz | $0.00 | $174.95 | $+174.95 | +100.0% | New |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $210.13 | $209.50 | $-0.63 | -0.3% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $146.05 | $146.51 | $+0.46 | +0.3% | Increase |
-| Papaya | $33.02 | $32.76 | $-0.26 | -0.8% | Decrease |
-| Green pepper | $39.34 | $39.18 | $-0.16 | -0.4% | Decrease |
-| Frozen Lamb Shoulder Case | $1379.00 | $1374.17 | $-4.83 | -0.4% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $83.67 | $83.75 | $+0.08 | +0.1% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $94.13 | $93.95 | $-0.18 | -0.2% | Decrease |
-| Fine Choice Fresh Marinated Chicken Tray | $92.24 | $91.97 | $-0.27 | -0.3% | Decrease |
-| Pork Chop with Bone Frozen Tray | $85.99 | $86.37 | $+0.38 | +0.4% | Increase |
-| Fresh Chicken Breast Bone In Tray | $97.43 | $97.34 | $-0.09 | -0.1% | Decrease |
-| Frozen Lamb Leg Whole Vacuum Packed | $406.80 | $408.82 | $+2.02 | +0.5% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $124.35 | $124.71 | $+0.36 | +0.3% | Increase |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $327.80 | $322.65 | $-5.15 | -1.6% | Decrease |
-| Fresh Ground Chicken Tray | $106.58 | $106.46 | $-0.12 | -0.1% | Decrease |
+| Just About Foods Organic and Creamy Peanut Butter 1.13 kg / 40 oz | $0.00 | $74.95 | $+74.95 | +100.0% | New |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $209.50 | $209.18 | $-0.32 | -0.2% | Decrease |
+| Diamond Shelled Walnuts 907 g / 32 oz | $0.00 | $139.95 | $+139.95 | +100.0% | New |
+| Papaya | $32.76 | $32.35 | $-0.41 | -1.3% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $146.51 | $148.21 | $+1.70 | +1.2% | Increase |
+| Bob's Red Mill Oatmeal with Protein 1.81 kg / 4 lb | $0.00 | $129.95 | $+129.95 | +100.0% | New |
+| Red Cabbage Unit | $22.95 | $24.95 | $+2.00 | +8.7% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $76.46 | $76.57 | $+0.11 | +0.1% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $113.85 | $114.00 | $+0.15 | +0.1% | Increase |
+| Green pepper | $39.18 | $39.11 | $-0.07 | -0.2% | Decrease |
+| Pineapple Crownless Fresh | $24.95 | $14.70 | $-10.25 | -41.1% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $83.75 | $83.84 | $+0.09 | +0.1% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $93.95 | $93.59 | $-0.36 | -0.4% | Decrease |
+| Green Cabbage 1.3 kg / 2.9 lb | $28.95 | $31.95 | $+3.00 | +10.4% | Increase |
+| Nutrina Chilled Whole Chicken Bag | $334.24 | $334.09 | $-0.15 | -0.0% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,9 +283,9 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Bombolo Biscotti Mini Tartlets Filled with Sweet Wild Berry and Vanilla Flavor | Bombolo Biscotti | $64.95 | 2025-12-22 |
 | Twinings Christmas Tea Collection 40 Units / 2 g | Twinings | $62.95 | 2025-12-21 |
 | Violife Just Like Mozzarella Shredded 453 g / 1 lb | Violife | $97.95 | 2025-12-21 |
-| Fresh Start Grapefruit Juice 1.8 L / 60 oz | Fresh Start | $35.95 | 2025-12-21 |
 | Butterball Turkey Sausage 3 Units / 369 g / 13 oz | Butterball | $99.95 | 2025-12-20 |
 | Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2025-12-20 |
 | Member's Selection Black Forest Cake 80 to 100 Slices | Member's Selection | $499.95 | 2025-12-20 |
@@ -298,4 +298,6 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Ocean Spray Cran Tropical Juices in Assorted Flavors with Vitamin C 24 Units / 295 mL / 10 oz | Ocean Spray | $174.95 | G10D03 |
+| Just About Foods Organic and Creamy Peanut Butter 1.13 kg / 40 oz | Just About Foods | $74.95 | G10D03 |
+| Diamond Shelled Walnuts 907 g / 32 oz | Diamond | $139.95 | G10D03 |
+| Bob's Red Mill Oatmeal with Protein 1.81 kg / 4 lb | Bob's Red Mill | $129.95 | G10D03 |
