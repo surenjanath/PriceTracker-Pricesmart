@@ -185,15 +185,15 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1168
-- **Total value**: $133,953.72
-- **Average price**: $114.69
+- **Total value**: $133,968.49
+- **Average price**: $114.70
 
 ## Database Changes
-- **New products added**: 3
-- **Existing products updated**: 1165
-- **Price changes detected**: 35
-- **Stock/availability changes**: 33
-- **Discontinued products**: 1
+- **New products added**: 2
+- **Existing products updated**: 1166
+- **Price changes detected**: 36
+- **Stock/availability changes**: 26
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
@@ -216,38 +216,38 @@ This project has recently gained unexpected attention. It was created for person
 | Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | Marie Callender's | $83.95 | true |
 |  Best Fruit Ripe Dehydrated Mangoes 4 Units / 100 g | Best Fruit | $94.95 | true |
 | Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $144.95 | true |
-| Tsatsakis Sunflower Seed Breadsticks 2 Packs 400 g / 14.1 oz | Tsatsakis | $69.95 | true |
 | Nescafé Gold Instant Coffee 200 g + Vanilla-Flavored Cream 425.2 g | Nescafé | $119.95 | true |
+| Tsatsakis Sunflower Seed Breadsticks 2 Packs 400 g / 14.1 oz | Tsatsakis | $69.95 | true |
 | Helado Mexico Ice Cream Bars 24 Units / 81 mL / 2.74 oz | Helado México | $167.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1332
-- **Price increases**: 763
-- **Price decreases**: 508
-- **Average increase**: 3.9%
-- **Average decrease**: -5.4%
+- **Total price changes**: 1337
+- **Price increases**: 768
+- **Price decreases**: 506
+- **Average increase**: 3.8%
+- **Average decrease**: -5.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Just About Foods Organic and Creamy Peanut Butter 1.13 kg / 40 oz | $0.00 | $74.95 | $+74.95 | +100.0% | New |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $209.50 | $209.18 | $-0.32 | -0.2% | Decrease |
-| Diamond Shelled Walnuts 907 g / 32 oz | $0.00 | $139.95 | $+139.95 | +100.0% | New |
-| Papaya | $32.76 | $32.35 | $-0.41 | -1.3% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $146.51 | $148.21 | $+1.70 | +1.2% | Increase |
-| Bob's Red Mill Oatmeal with Protein 1.81 kg / 4 lb | $0.00 | $129.95 | $+129.95 | +100.0% | New |
-| Red Cabbage Unit | $22.95 | $24.95 | $+2.00 | +8.7% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $76.46 | $76.57 | $+0.11 | +0.1% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $113.85 | $114.00 | $+0.15 | +0.1% | Increase |
-| Green pepper | $39.18 | $39.11 | $-0.07 | -0.2% | Decrease |
-| Pineapple Crownless Fresh | $24.95 | $14.70 | $-10.25 | -41.1% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $83.75 | $83.84 | $+0.09 | +0.1% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $93.95 | $93.59 | $-0.36 | -0.4% | Decrease |
-| Green Cabbage 1.3 kg / 2.9 lb | $28.95 | $31.95 | $+3.00 | +10.4% | Increase |
-| Nutrina Chilled Whole Chicken Bag | $334.24 | $334.09 | $-0.15 | -0.0% | Decrease |
+| Treasured Harvest Shelled Natural Hazelnuts 680 g | $59.70 | $53.07 | $-6.63 | -11.1% | Decrease |
+| Gouda Block Cheese 500 g / 1.1 lb | $0.00 | $54.95 | $+54.95 | +100.0% | New |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $209.18 | $209.50 | $+0.32 | +0.2% | Increase |
+| Papaya | $32.35 | $32.44 | $+0.09 | +0.3% | Increase |
+| Omypop Popcorn with Salted Egg Yolk and Baked Cheese Flavors 2 Units / 70 g / 2.46 oz | $29.70 | $24.70 | $-5.00 | -16.8% | Decrease |
+| Treasured Harvest Mixed Nuts 907 g | $112.95 | $99.95 | $-13.00 | -11.5% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $148.21 | $149.13 | $+0.92 | +0.6% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $76.57 | $76.67 | $+0.10 | +0.1% | Increase |
+| Chocolisto Chocolate Drink Powder with Vitamins A B3 and D3 1 kg | $76.95 | $69.95 | $-7.00 | -9.1% | Decrease |
+| Green pepper | $39.11 | $42.95 | $+3.84 | +9.8% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $83.84 | $84.01 | $+0.17 | +0.2% | Increase |
+| Orchard Sorrel Drink 6 Units / 1 L | $92.95 | $69.70 | $-23.25 | -25.0% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $93.59 | $93.32 | $-0.27 | -0.3% | Decrease |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $283.22 | $284.86 | $+1.64 | +0.6% | Increase |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $451.50 | $455.49 | $+3.99 | +0.9% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,8 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Fresh Start Grapefruit Juice 1.8 L / 60 oz | Fresh Start | $35.95 | 2025-12-23 |
+| Noel Assorted Cookies 935 g | Noel | $129.70 | 2025-12-23 |
 | Bombolo Biscotti Mini Tartlets Filled with Sweet Wild Berry and Vanilla Flavor | Bombolo Biscotti | $64.95 | 2025-12-22 |
 | Twinings Christmas Tea Collection 40 Units / 2 g | Twinings | $62.95 | 2025-12-21 |
 | Violife Just Like Mozzarella Shredded 453 g / 1 lb | Violife | $97.95 | 2025-12-21 |
@@ -291,13 +293,10 @@ This project has recently gained unexpected attention. It was created for person
 | Member's Selection Black Forest Cake 80 to 100 Slices | Member's Selection | $499.95 | 2025-12-20 |
 | Member's Selection Chicken Caesar Wrap 4 Units | Member's Selection | $65.95 | 2025-12-18 |
 | Purple Cabbage Unit |  | $32.57 | 2025-12-17 |
-| Orchard Vitamin C-Fortified Juices Assorted Flavors 6 Units / 1 L | Orchard | $61.95 | 2025-12-14 |
-| Kiss Sliced White Bread 945 g / 2.08 lb | Kiss | $16.45 | 2025-12-14 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Just About Foods Organic and Creamy Peanut Butter 1.13 kg / 40 oz | Just About Foods | $74.95 | G10D03 |
-| Diamond Shelled Walnuts 907 g / 32 oz | Diamond | $139.95 | G10D03 |
-| Bob's Red Mill Oatmeal with Protein 1.81 kg / 4 lb | Bob's Red Mill | $129.95 | G10D03 |
+| Gouda Block Cheese 500 g / 1.1 lb | Anchor | $54.95 | G10D03 |
+| Swiss Miss Sugar-free Cocoa 60 Units / 20 g / 0.7 oz | Swiss Miss | $109.95 | G10D03 |
