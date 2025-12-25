@@ -1,22 +1,22 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1168
-- **Total value**: $133,968.49
-- **Average price**: $114.70
+- **Total products scraped**: 1170
+- **Total value**: $135,238.22
+- **Average price**: $115.59
 
 ## Database Changes
 - **New products added**: 2
-- **Existing products updated**: 1166
-- **Price changes detected**: 36
-- **Stock/availability changes**: 26
-- **Discontinued products**: 2
+- **Existing products updated**: 1168
+- **Price changes detected**: 60
+- **Stock/availability changes**: 27
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 193 |
+| Member's Selection | 194 |
 |  | 147 |
 | Badia | 18 |
 | Swiss | 14 |
@@ -27,44 +27,44 @@
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Member's Selection Iced Coffee Mocha Drink 12 Units / 296 mL / 10 oz | Member's Selection | $159.95 | true |
-| Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $134.95 | true |
 | Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | true |
+| Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $134.95 | true |
 | Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $90.95 | true |
 | Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | Marie Callender's | $83.95 | true |
-|  Best Fruit Ripe Dehydrated Mangoes 4 Units / 100 g | Best Fruit | $94.95 | true |
 | Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $144.95 | true |
 | Nescafé Gold Instant Coffee 200 g + Vanilla-Flavored Cream 425.2 g | Nescafé | $119.95 | true |
 | Tsatsakis Sunflower Seed Breadsticks 2 Packs 400 g / 14.1 oz | Tsatsakis | $69.95 | true |
 | Helado Mexico Ice Cream Bars 24 Units / 81 mL / 2.74 oz | Helado México | $167.95 | true |
+| Aqua Star Breaded Shrimp 680 g / 1.5 lb | Aqua Star | $92.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1337
-- **Price increases**: 768
-- **Price decreases**: 506
+- **Total price changes**: 1375
+- **Price increases**: 795
+- **Price decreases**: 518
 - **Average increase**: 3.8%
-- **Average decrease**: -5.6%
+- **Average decrease**: -5.8%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Treasured Harvest Shelled Natural Hazelnuts 680 g | $59.70 | $53.07 | $-6.63 | -11.1% | Decrease |
-| Gouda Block Cheese 500 g / 1.1 lb | $0.00 | $54.95 | $+54.95 | +100.0% | New |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $209.18 | $209.50 | $+0.32 | +0.2% | Increase |
-| Papaya | $32.35 | $32.44 | $+0.09 | +0.3% | Increase |
-| Omypop Popcorn with Salted Egg Yolk and Baked Cheese Flavors 2 Units / 70 g / 2.46 oz | $29.70 | $24.70 | $-5.00 | -16.8% | Decrease |
-| Treasured Harvest Mixed Nuts 907 g | $112.95 | $99.95 | $-13.00 | -11.5% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $148.21 | $149.13 | $+0.92 | +0.6% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $76.57 | $76.67 | $+0.10 | +0.1% | Increase |
-| Chocolisto Chocolate Drink Powder with Vitamins A B3 and D3 1 kg | $76.95 | $69.95 | $-7.00 | -9.1% | Decrease |
-| Green pepper | $39.11 | $42.95 | $+3.84 | +9.8% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $83.84 | $84.01 | $+0.17 | +0.2% | Increase |
-| Orchard Sorrel Drink 6 Units / 1 L | $92.95 | $69.70 | $-23.25 | -25.0% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $93.59 | $93.32 | $-0.27 | -0.3% | Decrease |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $283.22 | $284.86 | $+1.64 | +0.6% | Increase |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $451.50 | $455.49 | $+3.99 | +0.9% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $93.32 | $92.78 | $-0.54 | -0.6% | Decrease |
+| Member Selection String Cheese 24 Units / 28 g / 0.9 oz | $63.95 | $64.95 | $+1.00 | +1.6% | Increase |
+| Swift Frozen Pork Ribs Kansas City Style BBQ Vacuum Packing | $0.00 | $1169.78 | $+1169.78 | +100.0% | New |
+| Best Fruit Premium Dehydrated Coconut 5 Units / 80 g / 2.82 oz | $74.70 | $59.70 | $-15.00 | -20.1% | Decrease |
+| Pork Leg Frozen  | $60.64 | $60.24 | $-0.40 | -0.7% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $209.50 | $210.45 | $+0.95 | +0.5% | Increase |
+| Member's Selection Whole Wheat Pizza of the Month 45.7 cm / 18" Fresh Baked 12 Slices | $0.00 | $105.00 | $+105.00 | +100.0% | New |
+| Papaya | $32.44 | $32.47 | $+0.03 | +0.1% | Increase |
+| Swiss Sorrel Drink 3 Units / 750 mL / 25.36 oz | $52.95 | $43.70 | $-9.25 | -17.5% | Decrease |
+| Flavorite Ponche De Crème & Sorrel Ice Cream 2 Units / 1 L / 33.8 oz | $68.95 | $59.70 | $-9.25 | -13.4% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $76.67 | $76.78 | $+0.11 | +0.1% | Increase |
+| Charles Chocolate Coated Jordanian Almond 1 kg / 2.2 lb | $79.95 | $59.70 | $-20.25 | -25.3% | Decrease |
+| Fruit Roll Ups Assorted Fruit Rolls 72 Units / 14 g | $174.70 | $139.70 | $-35.00 | -20.0% | Decrease |
+| Frozen Imported Pork Leg Slices | $82.87 | $83.30 | $+0.43 | +0.5% | Increase |
+| Frozen Sliced Turkey Drumsticks | $149.41 | $148.84 | $-0.57 | -0.4% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -115,5 +115,5 @@
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Gouda Block Cheese 500 g / 1.1 lb | Anchor | $54.95 | G10D03 |
-| Swiss Miss Sugar-free Cocoa 60 Units / 20 g / 0.7 oz | Swiss Miss | $109.95 | G10D03 |
+| Swift Frozen Pork Ribs Kansas City Style BBQ Vacuum Packing | Swift | $1169.78 | G10D03 |
+| Member's Selection Whole Wheat Pizza of the Month 45.7 cm / 18" Fresh Baked 12 Slices | Member's Selection | $105.00 | G10D03 |
