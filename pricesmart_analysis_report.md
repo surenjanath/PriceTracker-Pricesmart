@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1170
-- **Total value**: $135,238.22
-- **Average price**: $115.59
+- **Total products scraped**: 1169
+- **Total value**: $135,177.81
+- **Average price**: $115.64
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1168
-- **Price changes detected**: 60
-- **Stock/availability changes**: 27
-- **Discontinued products**: 0
+- **New products added**: 0
+- **Existing products updated**: 1169
+- **Price changes detected**: 28
+- **Stock/availability changes**: 0
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 194 |
-|  | 147 |
+|  | 146 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 12 |
@@ -27,8 +27,8 @@
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Member's Selection Iced Coffee Mocha Drink 12 Units / 296 mL / 10 oz | Member's Selection | $159.95 | true |
-| Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | true |
 | Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $134.95 | true |
+| Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | true |
 | Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $90.95 | true |
 | Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | Marie Callender's | $83.95 | true |
 | Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $144.95 | true |
@@ -41,30 +41,30 @@
 
 ## Price Change Summary (Last 30 Days)
 - **Total price changes**: 1375
-- **Price increases**: 795
-- **Price decreases**: 518
-- **Average increase**: 3.8%
-- **Average decrease**: -5.8%
+- **Price increases**: 794
+- **Price decreases**: 521
+- **Average increase**: 3.9%
+- **Average decrease**: -5.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Seasoned BBQ Chicken Quarters Bag | $93.32 | $92.78 | $-0.54 | -0.6% | Decrease |
-| Member Selection String Cheese 24 Units / 28 g / 0.9 oz | $63.95 | $64.95 | $+1.00 | +1.6% | Increase |
-| Swift Frozen Pork Ribs Kansas City Style BBQ Vacuum Packing | $0.00 | $1169.78 | $+1169.78 | +100.0% | New |
-| Best Fruit Premium Dehydrated Coconut 5 Units / 80 g / 2.82 oz | $74.70 | $59.70 | $-15.00 | -20.1% | Decrease |
-| Pork Leg Frozen  | $60.64 | $60.24 | $-0.40 | -0.7% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $209.50 | $210.45 | $+0.95 | +0.5% | Increase |
-| Member's Selection Whole Wheat Pizza of the Month 45.7 cm / 18" Fresh Baked 12 Slices | $0.00 | $105.00 | $+105.00 | +100.0% | New |
-| Papaya | $32.44 | $32.47 | $+0.03 | +0.1% | Increase |
-| Swiss Sorrel Drink 3 Units / 750 mL / 25.36 oz | $52.95 | $43.70 | $-9.25 | -17.5% | Decrease |
-| Flavorite Ponche De Crème & Sorrel Ice Cream 2 Units / 1 L / 33.8 oz | $68.95 | $59.70 | $-9.25 | -13.4% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $76.67 | $76.78 | $+0.11 | +0.1% | Increase |
-| Charles Chocolate Coated Jordanian Almond 1 kg / 2.2 lb | $79.95 | $59.70 | $-20.25 | -25.3% | Decrease |
-| Fruit Roll Ups Assorted Fruit Rolls 72 Units / 14 g | $174.70 | $139.70 | $-35.00 | -20.0% | Decrease |
-| Frozen Imported Pork Leg Slices | $82.87 | $83.30 | $+0.43 | +0.5% | Increase |
-| Frozen Sliced Turkey Drumsticks | $149.41 | $148.84 | $-0.57 | -0.4% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $210.45 | $210.77 | $+0.32 | +0.2% | Increase |
+| Papaya | $32.47 | $32.70 | $+0.23 | +0.7% | Increase |
+| Frozen Pork Belly Skin On Sliced Tray  | $115.95 | $116.70 | $+0.75 | +0.6% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $76.78 | $76.67 | $-0.11 | -0.1% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $149.13 | $149.59 | $+0.46 | +0.3% | Increase |
+| Frozen Imported Pork Leg Slices | $83.30 | $83.41 | $+0.11 | +0.1% | Increase |
+| Green pepper | $42.86 | $42.78 | $-0.08 | -0.2% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $95.50 | $95.39 | $-0.11 | -0.1% | Decrease |
+| Fine Choice Fresh Marinated Chicken Tray | $91.92 | $91.88 | $-0.04 | -0.0% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $97.24 | $97.15 | $-0.09 | -0.1% | Decrease |
+| Pork Chop with Bone Frozen Tray | $87.25 | $87.00 | $-0.25 | -0.3% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $94.01 | $93.81 | $-0.20 | -0.2% | Decrease |
+| Fresh Ground Chicken Tray | $106.94 | $107.17 | $+0.23 | +0.2% | Increase |
+| Fresh Whole Chicken for Frying Bag | $278.24 | $264.61 | $-13.63 | -4.9% | Decrease |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $81.68 | $81.81 | $+0.13 | +0.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Raspberry 340 g / 12 oz |  | $109.95 | 2025-12-25 |
 | Fresh Start Grapefruit Juice 1.8 L / 60 oz | Fresh Start | $35.95 | 2025-12-23 |
 | Noel Assorted Cookies 935 g | Noel | $129.70 | 2025-12-23 |
 | Bombolo Biscotti Mini Tartlets Filled with Sweet Wild Berry and Vanilla Flavor | Bombolo Biscotti | $64.95 | 2025-12-22 |
@@ -109,11 +110,6 @@
 | Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2025-12-20 |
 | Member's Selection Black Forest Cake 80 to 100 Slices | Member's Selection | $499.95 | 2025-12-20 |
 | Member's Selection Chicken Caesar Wrap 4 Units | Member's Selection | $65.95 | 2025-12-18 |
-| Purple Cabbage Unit |  | $32.57 | 2025-12-17 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Swift Frozen Pork Ribs Kansas City Style BBQ Vacuum Packing | Swift | $1169.78 | G10D03 |
-| Member's Selection Whole Wheat Pizza of the Month 45.7 cm / 18" Fresh Baked 12 Slices | Member's Selection | $105.00 | G10D03 |
+No new products added today.
