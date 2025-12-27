@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1169
-- **Total value**: $135,177.81
-- **Average price**: $115.64
+- **Total products scraped**: 1170
+- **Total value**: $135,113.26
+- **Average price**: $115.48
 
 ## Database Changes
-- **New products added**: 0
+- **New products added**: 1
 - **Existing products updated**: 1169
-- **Price changes detected**: 28
+- **Price changes detected**: 21
 - **Stock/availability changes**: 0
-- **Discontinued products**: 1
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1375
-- **Price increases**: 794
-- **Price decreases**: 521
+- **Total price changes**: 1397
+- **Price increases**: 800
+- **Price decreases**: 536
 - **Average increase**: 3.9%
-- **Average decrease**: -5.6%
+- **Average decrease**: -6.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $210.45 | $210.77 | $+0.32 | +0.2% | Increase |
-| Papaya | $32.47 | $32.70 | $+0.23 | +0.7% | Increase |
-| Frozen Pork Belly Skin On Sliced Tray  | $115.95 | $116.70 | $+0.75 | +0.6% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $76.78 | $76.67 | $-0.11 | -0.1% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $149.13 | $149.59 | $+0.46 | +0.3% | Increase |
-| Frozen Imported Pork Leg Slices | $83.30 | $83.41 | $+0.11 | +0.1% | Increase |
-| Green pepper | $42.86 | $42.78 | $-0.08 | -0.2% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $95.50 | $95.39 | $-0.11 | -0.1% | Decrease |
-| Fine Choice Fresh Marinated Chicken Tray | $91.92 | $91.88 | $-0.04 | -0.0% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $97.24 | $97.15 | $-0.09 | -0.1% | Decrease |
-| Pork Chop with Bone Frozen Tray | $87.25 | $87.00 | $-0.25 | -0.3% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $94.01 | $93.81 | $-0.20 | -0.2% | Decrease |
-| Fresh Ground Chicken Tray | $106.94 | $107.17 | $+0.23 | +0.2% | Increase |
-| Fresh Whole Chicken for Frying Bag | $278.24 | $264.61 | $-13.63 | -4.9% | Decrease |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $81.68 | $81.81 | $+0.13 | +0.2% | Increase |
+| Red Cabbage Unit | $24.95 | $23.95 | $-1.00 | -4.0% | Decrease |
+| Mini Sweet Peppers 454 g / 1 lb | $39.95 | $42.95 | $+3.00 | +7.5% | Increase |
+| Cauliflower 1 Unit | $39.95 | $32.95 | $-7.00 | -17.5% | Decrease |
+| Orchard Orange Drink 24 Units / 250 mL | $0.00 | $85.95 | $+85.95 | +100.0% | New |
+| Seedless Watermelon  | $99.95 | $109.95 | $+10.00 | +10.0% | Increase |
+| Fresh Grape Tomatoes 907 g / 2 lb | $47.95 | $44.95 | $-3.00 | -6.3% | Decrease |
+| Golden Raisins 1 kg / 2.2 lb | $44.45 | $19.70 | $-24.75 | -55.7% | Decrease |
+| Green Cabbage 1.3 kg / 2.9 lb | $31.95 | $29.95 | $-2.00 | -6.3% | Decrease |
+| Prunes 1 kg / 2.2 lb | $54.95 | $29.70 | $-25.25 | -46.0% | Decrease |
+| Mini Potato 1.3 kg / 3 lb | $47.95 | $49.95 | $+2.00 | +4.2% | Increase |
+| Currants 1 kg / 2.2 lb | $59.95 | $29.70 | $-30.25 | -50.5% | Decrease |
+| Black Raisins 1 kg / 2.2 lb | $49.95 | $24.70 | $-25.25 | -50.6% | Decrease |
+| Baking Potatoes 4.5 kg / 10 lb | $54.95 | $57.95 | $+3.00 | +5.5% | Increase |
+| Iceberg Lettuce Unit | $29.95 | $22.95 | $-7.00 | -23.4% | Decrease |
+| Fresh Celery  | $25.95 | $27.95 | $+2.00 | +7.7% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -112,4 +112,7 @@
 | Member's Selection Chicken Caesar Wrap 4 Units | Member's Selection | $65.95 | 2025-12-18 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Orchard Orange Drink 24 Units / 250 mL | Orchard | $85.95 | G10D03 |
