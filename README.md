@@ -189,10 +189,10 @@ This project has recently gained unexpected attention. It was created for person
 - **Average price**: $115.48
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1169
-- **Price changes detected**: 21
-- **Stock/availability changes**: 0
+- **New products added**: 0
+- **Existing products updated**: 1170
+- **Price changes detected**: 0
+- **Stock/availability changes**: 12
 - **Discontinued products**: 0
 
 ## Top 5 Brands
@@ -223,11 +223,11 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1397
-- **Price increases**: 800
-- **Price decreases**: 536
-- **Average increase**: 3.9%
-- **Average decrease**: -6.1%
+- **Total price changes**: 1311
+- **Price increases**: 750
+- **Price decreases**: 509
+- **Average increase**: 4.0%
+- **Average decrease**: -6.2%
 
 ## Recent Price Changes
 
@@ -295,7 +295,4 @@ This project has recently gained unexpected attention. It was created for person
 | Member's Selection Chicken Caesar Wrap 4 Units | Member's Selection | $65.95 | 2025-12-18 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Orchard Orange Drink 24 Units / 250 mL | Orchard | $85.95 | G10D03 |
+No new products added today.
