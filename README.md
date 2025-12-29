@@ -184,22 +184,22 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1170
-- **Total value**: $135,113.26
-- **Average price**: $115.48
+- **Total products scraped**: 1169
+- **Total value**: $135,165.38
+- **Average price**: $115.62
 
 ## Database Changes
 - **New products added**: 0
-- **Existing products updated**: 1170
-- **Price changes detected**: 0
-- **Stock/availability changes**: 12
-- **Discontinued products**: 0
+- **Existing products updated**: 1169
+- **Price changes detected**: 39
+- **Stock/availability changes**: 7
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 194 |
+| Member's Selection | 193 |
 |  | 146 |
 | Badia | 18 |
 | Swiss | 14 |
@@ -210,8 +210,8 @@ This project has recently gained unexpected attention. It was created for person
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Member's Selection Iced Coffee Mocha Drink 12 Units / 296 mL / 10 oz | Member's Selection | $159.95 | true |
-| Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $134.95 | true |
 | Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | true |
+| Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $134.95 | true |
 | Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $90.95 | true |
 | Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | Marie Callender's | $83.95 | true |
 | Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $144.95 | true |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1311
-- **Price increases**: 750
-- **Price decreases**: 509
-- **Average increase**: 4.0%
-- **Average decrease**: -6.2%
+- **Total price changes**: 1263
+- **Price increases**: 715
+- **Price decreases**: 502
+- **Average increase**: 4.2%
+- **Average decrease**: -6.4%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Red Cabbage Unit | $24.95 | $23.95 | $-1.00 | -4.0% | Decrease |
-| Mini Sweet Peppers 454 g / 1 lb | $39.95 | $42.95 | $+3.00 | +7.5% | Increase |
-| Cauliflower 1 Unit | $39.95 | $32.95 | $-7.00 | -17.5% | Decrease |
-| Orchard Orange Drink 24 Units / 250 mL | $0.00 | $85.95 | $+85.95 | +100.0% | New |
-| Seedless Watermelon  | $99.95 | $109.95 | $+10.00 | +10.0% | Increase |
-| Fresh Grape Tomatoes 907 g / 2 lb | $47.95 | $44.95 | $-3.00 | -6.3% | Decrease |
-| Golden Raisins 1 kg / 2.2 lb | $44.45 | $19.70 | $-24.75 | -55.7% | Decrease |
-| Green Cabbage 1.3 kg / 2.9 lb | $31.95 | $29.95 | $-2.00 | -6.3% | Decrease |
-| Prunes 1 kg / 2.2 lb | $54.95 | $29.70 | $-25.25 | -46.0% | Decrease |
-| Mini Potato 1.3 kg / 3 lb | $47.95 | $49.95 | $+2.00 | +4.2% | Increase |
-| Currants 1 kg / 2.2 lb | $59.95 | $29.70 | $-30.25 | -50.5% | Decrease |
-| Black Raisins 1 kg / 2.2 lb | $49.95 | $24.70 | $-25.25 | -50.6% | Decrease |
-| Baking Potatoes 4.5 kg / 10 lb | $54.95 | $57.95 | $+3.00 | +5.5% | Increase |
-| Iceberg Lettuce Unit | $29.95 | $22.95 | $-7.00 | -23.4% | Decrease |
-| Fresh Celery  | $25.95 | $27.95 | $+2.00 | +7.7% | Increase |
+| Quaker Instant Oatmeal 52 Units / 43 g / 1.51 oz | $139.95 | $112.95 | $-27.00 | -19.3% | Decrease |
+| Lea and Perrins Worcestershire Sauce 2 Units 592 mL / 20 oz | $94.45 | $117.95 | $+23.50 | +24.9% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $210.77 | $211.09 | $+0.32 | +0.2% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $57.20 | $57.57 | $+0.37 | +0.6% | Increase |
+| Papaya | $32.70 | $32.76 | $+0.06 | +0.2% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.00 | $114.16 | $+0.16 | +0.1% | Increase |
+| Prana Granola Organic Oatmeal Cookie Flavor 1 kg / 35.27 oz | $96.95 | $104.95 | $+8.00 | +8.3% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $149.59 | $150.21 | $+0.62 | +0.4% | Increase |
+| Green pepper | $42.78 | $42.52 | $-0.26 | -0.6% | Decrease |
+| Kraft Cheez Whiz 2 Units / 425 g / 15 oz | $71.95 | $84.95 | $+13.00 | +18.1% | Increase |
+| Bob's Red Mill Oatmeal with Protein 1.81 kg / 4 lb | $129.95 | $144.95 | $+15.00 | +11.5% | Increase |
+| Milo Chocolate Flavored Drink 12 Units / 250 mL | $77.95 | $65.95 | $-12.00 | -15.4% | Decrease |
+| Fine Choice Fresh Marinated Chicken Tray | $91.88 | $91.79 | $-0.09 | -0.1% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $95.39 | $95.28 | $-0.11 | -0.1% | Decrease |
+| Nesquick Liquid Milk Drink with Cocoa Flavor 12 Units / 250 mL | $77.95 | $65.95 | $-12.00 | -15.4% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Member’s Selection Coconut Swiss Roll  | Member's Selection | $31.95 | 2025-12-28 |
 | Raspberry 340 g / 12 oz |  | $109.95 | 2025-12-25 |
 | Fresh Start Grapefruit Juice 1.8 L / 60 oz | Fresh Start | $35.95 | 2025-12-23 |
 | Noel Assorted Cookies 935 g | Noel | $129.70 | 2025-12-23 |
@@ -292,7 +293,6 @@ This project has recently gained unexpected attention. It was created for person
 | Butterball Turkey Sausage 3 Units / 369 g / 13 oz | Butterball | $99.95 | 2025-12-20 |
 | Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2025-12-20 |
 | Member's Selection Black Forest Cake 80 to 100 Slices | Member's Selection | $499.95 | 2025-12-20 |
-| Member's Selection Chicken Caesar Wrap 4 Units | Member's Selection | $65.95 | 2025-12-18 |
 
 ## New Products Added Today
 No new products added today.
