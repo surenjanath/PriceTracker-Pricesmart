@@ -1,15 +1,15 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1169
-- **Total value**: $135,165.38
-- **Average price**: $115.62
+- **Total products scraped**: 1168
+- **Total value**: $134,971.02
+- **Average price**: $115.56
 
 ## Database Changes
 - **New products added**: 0
-- **Existing products updated**: 1169
-- **Price changes detected**: 39
-- **Stock/availability changes**: 7
+- **Existing products updated**: 1168
+- **Price changes detected**: 24
+- **Stock/availability changes**: 21
 - **Discontinued products**: 1
 
 ## Top 5 Brands
@@ -27,44 +27,44 @@
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Member's Selection Iced Coffee Mocha Drink 12 Units / 296 mL / 10 oz | Member's Selection | $159.95 | true |
-| Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | true |
 | Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $134.95 | true |
+| Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | true |
 | Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $90.95 | true |
 | Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | Marie Callender's | $83.95 | true |
+| Par Excellence Jasmine White Rice 10 kg / 352.74 oz | Par Excellence | $194.95 | true |
 | Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $144.95 | true |
 | Nescafé Gold Instant Coffee 200 g + Vanilla-Flavored Cream 425.2 g | Nescafé | $119.95 | true |
 | Tsatsakis Sunflower Seed Breadsticks 2 Packs 400 g / 14.1 oz | Tsatsakis | $69.95 | true |
 | Helado Mexico Ice Cream Bars 24 Units / 81 mL / 2.74 oz | Helado México | $167.95 | true |
-| Aqua Star Breaded Shrimp 680 g / 1.5 lb | Aqua Star | $92.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1263
-- **Price increases**: 715
-- **Price decreases**: 502
+- **Total price changes**: 1259
+- **Price increases**: 708
+- **Price decreases**: 507
 - **Average increase**: 4.2%
-- **Average decrease**: -6.4%
+- **Average decrease**: -6.7%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Quaker Instant Oatmeal 52 Units / 43 g / 1.51 oz | $139.95 | $112.95 | $-27.00 | -19.3% | Decrease |
-| Lea and Perrins Worcestershire Sauce 2 Units 592 mL / 20 oz | $94.45 | $117.95 | $+23.50 | +24.9% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $210.77 | $211.09 | $+0.32 | +0.2% | Increase |
-| Chilled Chicken Gizzard Tray Pack | $57.20 | $57.57 | $+0.37 | +0.6% | Increase |
-| Papaya | $32.70 | $32.76 | $+0.06 | +0.2% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.00 | $114.16 | $+0.16 | +0.1% | Increase |
-| Prana Granola Organic Oatmeal Cookie Flavor 1 kg / 35.27 oz | $96.95 | $104.95 | $+8.00 | +8.3% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $149.59 | $150.21 | $+0.62 | +0.4% | Increase |
-| Green pepper | $42.78 | $42.52 | $-0.26 | -0.6% | Decrease |
-| Kraft Cheez Whiz 2 Units / 425 g / 15 oz | $71.95 | $84.95 | $+13.00 | +18.1% | Increase |
-| Bob's Red Mill Oatmeal with Protein 1.81 kg / 4 lb | $129.95 | $144.95 | $+15.00 | +11.5% | Increase |
-| Milo Chocolate Flavored Drink 12 Units / 250 mL | $77.95 | $65.95 | $-12.00 | -15.4% | Decrease |
-| Fine Choice Fresh Marinated Chicken Tray | $91.88 | $91.79 | $-0.09 | -0.1% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $95.39 | $95.28 | $-0.11 | -0.1% | Decrease |
-| Nesquick Liquid Milk Drink with Cocoa Flavor 12 Units / 250 mL | $77.95 | $65.95 | $-12.00 | -15.4% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $95.28 | $95.06 | $-0.22 | -0.2% | Decrease |
+| Popsalot Gourmet Caramel Popcorn with Almonds 283 g / 10 oz | $87.95 | $49.70 | $-38.25 | -43.5% | Decrease |
+| Frozen Lamb Shoulder Case | $1374.17 | $1365.21 | $-8.96 | -0.7% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $211.09 | $211.40 | $+0.31 | +0.1% | Increase |
+| Kellogg's Original Squishmallows Cereal 671 g / 1.4 lb | $79.95 | $42.70 | $-37.25 | -46.6% | Decrease |
+| Papaya | $32.76 | $32.70 | $-0.06 | -0.2% | Decrease |
+| Kellogg’s Assorted Cereals Corn Pops, Froot Loops & Apple Jacks 3 Bags / 1.05 kg / 37.3 oz | $72.70 | $59.70 | $-13.00 | -17.9% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.16 | $114.00 | $-0.16 | -0.1% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $150.21 | $150.36 | $+0.15 | +0.1% | Increase |
+| Classic Cream Chocolate Whipped Cream 2 Units / 368 g / 13 oz | $41.70 | $29.70 | $-12.00 | -28.8% | Decrease |
+| Golden Ray Margarine 6 Units / 227 g / 8 oz | $89.95 | $110.95 | $+21.00 | +23.3% | Increase |
+| Pork Chop with Bone Frozen Tray | $87.00 | $86.87 | $-0.13 | -0.1% | Decrease |
+| Avocado Mesh 5 Units | $34.70 | $42.95 | $+8.25 | +23.8% | Increase |
+| Fresh Ground Chicken Tray | $107.17 | $107.29 | $+0.12 | +0.1% | Increase |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $81.95 | $82.08 | $+0.13 | +0.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Sensible Portions Vegetable Straws with Sea Salt 666 g / 23.5 oz | Sensible Portions | $109.95 | 2025-12-29 |
 | Member’s Selection Coconut Swiss Roll  | Member's Selection | $31.95 | 2025-12-28 |
 | Raspberry 340 g / 12 oz |  | $109.95 | 2025-12-25 |
 | Fresh Start Grapefruit Juice 1.8 L / 60 oz | Fresh Start | $35.95 | 2025-12-23 |
@@ -109,7 +110,6 @@
 | Violife Just Like Mozzarella Shredded 453 g / 1 lb | Violife | $97.95 | 2025-12-21 |
 | Butterball Turkey Sausage 3 Units / 369 g / 13 oz | Butterball | $99.95 | 2025-12-20 |
 | Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2025-12-20 |
-| Member's Selection Black Forest Cake 80 to 100 Slices | Member's Selection | $499.95 | 2025-12-20 |
 
 ## New Products Added Today
 No new products added today.
