@@ -2,15 +2,15 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1168
-- **Total value**: $134,971.02
-- **Average price**: $115.56
+- **Total value**: $134,987.52
+- **Average price**: $115.57
 
 ## Database Changes
 - **New products added**: 0
 - **Existing products updated**: 1168
-- **Price changes detected**: 24
-- **Stock/availability changes**: 21
-- **Discontinued products**: 1
+- **Price changes detected**: 21
+- **Stock/availability changes**: 19
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -27,44 +27,44 @@
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Member's Selection Iced Coffee Mocha Drink 12 Units / 296 mL / 10 oz | Member's Selection | $159.95 | true |
-| Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $134.95 | true |
 | Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | true |
+| Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $134.95 | true |
 | Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $90.95 | true |
 | Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | Marie Callender's | $83.95 | true |
-| Par Excellence Jasmine White Rice 10 kg / 352.74 oz | Par Excellence | $194.95 | true |
 | Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $144.95 | true |
 | Nescafé Gold Instant Coffee 200 g + Vanilla-Flavored Cream 425.2 g | Nescafé | $119.95 | true |
 | Tsatsakis Sunflower Seed Breadsticks 2 Packs 400 g / 14.1 oz | Tsatsakis | $69.95 | true |
 | Helado Mexico Ice Cream Bars 24 Units / 81 mL / 2.74 oz | Helado México | $167.95 | true |
+| Aqua Star Breaded Shrimp 680 g / 1.5 lb | Aqua Star | $92.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1259
-- **Price increases**: 708
-- **Price decreases**: 507
-- **Average increase**: 4.2%
-- **Average decrease**: -6.7%
+- **Total price changes**: 1280
+- **Price increases**: 718
+- **Price decreases**: 518
+- **Average increase**: 4.5%
+- **Average decrease**: -6.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Chicken Mixed Parts Tray | $95.28 | $95.06 | $-0.22 | -0.2% | Decrease |
-| Popsalot Gourmet Caramel Popcorn with Almonds 283 g / 10 oz | $87.95 | $49.70 | $-38.25 | -43.5% | Decrease |
-| Frozen Lamb Shoulder Case | $1374.17 | $1365.21 | $-8.96 | -0.7% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $211.09 | $211.40 | $+0.31 | +0.1% | Increase |
-| Kellogg's Original Squishmallows Cereal 671 g / 1.4 lb | $79.95 | $42.70 | $-37.25 | -46.6% | Decrease |
-| Papaya | $32.76 | $32.70 | $-0.06 | -0.2% | Decrease |
-| Kellogg’s Assorted Cereals Corn Pops, Froot Loops & Apple Jacks 3 Bags / 1.05 kg / 37.3 oz | $72.70 | $59.70 | $-13.00 | -17.9% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.16 | $114.00 | $-0.16 | -0.1% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $150.21 | $150.36 | $+0.15 | +0.1% | Increase |
-| Classic Cream Chocolate Whipped Cream 2 Units / 368 g / 13 oz | $41.70 | $29.70 | $-12.00 | -28.8% | Decrease |
-| Golden Ray Margarine 6 Units / 227 g / 8 oz | $89.95 | $110.95 | $+21.00 | +23.3% | Increase |
-| Pork Chop with Bone Frozen Tray | $87.00 | $86.87 | $-0.13 | -0.1% | Decrease |
-| Avocado Mesh 5 Units | $34.70 | $42.95 | $+8.25 | +23.8% | Increase |
-| Fresh Ground Chicken Tray | $107.17 | $107.29 | $+0.12 | +0.1% | Increase |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $81.95 | $82.08 | $+0.13 | +0.2% | Increase |
+| Charles Chocolate Coated Jordanian Almond 1 kg / 2.2 lb | $59.70 | $29.70 | $-30.00 | -50.3% | Decrease |
+| Papaya | $32.70 | $32.76 | $+0.06 | +0.2% | Increase |
+| Frozen Pork Belly Skin On Sliced Tray  | $116.70 | $115.95 | $-0.75 | -0.6% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.00 | $114.16 | $+0.16 | +0.1% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $150.36 | $150.67 | $+0.31 | +0.2% | Increase |
+| Pineapple Crownless Fresh | $14.70 | $24.95 | $+10.25 | +69.7% | Increase |
+| Fresh Chicken Mixed Parts Tray | $95.06 | $94.73 | $-0.33 | -0.3% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $93.71 | $93.51 | $-0.20 | -0.2% | Decrease |
+| Frozen Boneless Skinless Chicken Breast Tray | $152.07 | $137.36 | $-14.71 | -9.7% | Decrease |
+| Fresh Ground Chicken Tray | $107.29 | $107.17 | $-0.12 | -0.1% | Decrease |
+| The English Cheese Company Cheddar Cheese 1 kg / 2.2 lb | $74.95 | $79.95 | $+5.00 | +6.7% | Increase |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $82.08 | $81.95 | $-0.13 | -0.2% | Decrease |
+| Fresh Ground Chicken Meat Bag | $275.66 | $275.13 | $-0.53 | -0.2% | Decrease |
+| Bugalu Tomato 1.5 kg / 3.5 lb | $19.70 | $34.95 | $+15.25 | +77.4% | Increase |
+| Frozen Bone-In Pork Shoulder Vacuum Packed | $261.44 | $276.42 | $+14.98 | +5.7% | Increase |
 
 ## Biggest Price Increases (All Time)
 
