@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1167
-- **Total value**: $135,323.59
-- **Average price**: $115.96
+- **Total products scraped**: 1165
+- **Total value**: $130,961.92
+- **Average price**: $112.41
 
 ## Database Changes
-- **New products added**: 3
-- **Existing products updated**: 1164
-- **Price changes detected**: 47
-- **Stock/availability changes**: 13
-- **Discontinued products**: 6
+- **New products added**: 0
+- **Existing products updated**: 1165
+- **Price changes detected**: 63
+- **Stock/availability changes**: 0
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 192 |
-|  | 145 |
+|  | 144 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 11 |
@@ -27,44 +27,44 @@
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Member's Selection Iced Coffee Mocha Drink 12 Units / 296 mL / 10 oz | Member's Selection | $159.95 | true |
+| Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $129.95 | true |
 | Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | true |
 | Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $90.95 | true |
 | Par Excellence Jasmine White Rice 10 kg / 352.74 oz | Par Excellence | $194.95 | true |
-| Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $129.95 | true |
+| Nescafé Assorted Flavor Milk and Coffee Drink 6 Units / 330 mL / 11.16 oz | Nescafé | $76.95 | true |
 | Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | Marie Callender's | $83.95 | true |
 | Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $144.95 | true |
 | Nescafé Gold Instant Coffee 200 g + Vanilla-Flavored Cream 425.2 g | Nescafé | $119.95 | true |
 | Tsatsakis Sunflower Seed Breadsticks 2 Packs 400 g / 14.1 oz | Tsatsakis | $69.95 | true |
-| Helado Mexico Ice Cream Bars 24 Units / 81 mL / 2.74 oz | Helado México | $167.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1249
-- **Price increases**: 695
-- **Price decreases**: 509
-- **Average increase**: 3.9%
-- **Average decrease**: -6.3%
+- **Total price changes**: 1201
+- **Price increases**: 664
+- **Price decreases**: 496
+- **Average increase**: 3.8%
+- **Average decrease**: -6.4%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Treasured Harvest Shelled Natural Hazelnuts 680 g | $53.07 | $52.99 | $-0.08 | -0.2% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $92.78 | $92.69 | $-0.09 | -0.1% | Decrease |
-| Cherries | $31.92 | $73.05 | $+41.13 | +128.9% | Increase |
-| Dietz & Watson Maple Smoked Ham 454 g / 1 lb | $66.95 | $69.95 | $+3.00 | +4.5% | Increase |
-| Jackson's Sweet Potato Chips 454 g / 16 oz | $82.95 | $84.95 | $+2.00 | +2.4% | Increase |
-| Boulder Canyon Potato Chips with Avocado Oil 623.7 g / 1.37 lb | $99.95 | $109.95 | $+10.00 | +10.0% | Increase |
-| Member's Selection Sliced Assorted Cheese Pack 907 g / 32 oz | $74.95 | $76.95 | $+2.00 | +2.7% | Increase |
-| Member's Selection Pepper Jack Cheese Sliced 907 g / 2 lb  | $69.95 | $72.95 | $+3.00 | +4.3% | Increase |
-| Member's Selection Shredded Cheddar Cheese 2 Units / 680 g / 1.5 lb | $92.95 | $94.95 | $+2.00 | +2.2% | Increase |
-| Member's Selection Sliced Mild Cheddar Cheese 907 g / 2 lb  | $62.95 | $64.95 | $+2.00 | +3.2% | Increase |
-| Member's Selection Pasteurized American Cheese 1.36 kg / 3 lb | $87.95 | $89.95 | $+2.00 | +2.3% | Increase |
-| Member's Selection Shredded Mexican-Style Cheese 2 Units / 680 g / 1.5 lb | $104.95 | $106.95 | $+2.00 | +1.9% | Increase |
-| Anchor Gouda Cheese Block 500 g / 1.1 lb | $0.00 | $59.95 | $+59.95 | +100.0% | New |
-| Sofi's Cookies by Tselepidis Family Whole Grain Oatmeal Cookies with Honey 760 g / 1.67 lb | $0.00 | $104.95 | $+104.95 | +100.0% | New |
-| Quantum Energy Bars Cookie Dough Flavor with Chocolate Chips and Peanut Butter with Dark Chocolate 16 Units / 48 g / 1.7 oz | $229.95 | $239.95 | $+10.00 | +4.3% | Increase |
+| Green pepper | $29.71 | $26.62 | $-3.09 | -10.4% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $92.69 | $89.72 | $-2.97 | -3.2% | Decrease |
+| Frozen Lamb Shoulder Case | $1365.21 | $1352.11 | $-13.10 | -1.0% | Decrease |
+| Chilled Skinless Boneless Beef Ribeye Steak Vacuum Package Whole Piece | $2471.24 | $2593.10 | $+121.86 | +4.9% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $211.40 | $210.77 | $-0.63 | -0.3% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $57.57 | $57.49 | $-0.08 | -0.1% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.32 | $117.16 | $+2.84 | +2.5% | Increase |
+| Frozen Pork Belly Skin On Sliced Tray  | $115.95 | $115.20 | $-0.75 | -0.6% | Decrease |
+| Fresh Chicken Thighs Boneless Tray | $97.43 | $64.95 | $-32.48 | -33.3% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $76.67 | $77.10 | $+0.43 | +0.6% | Increase |
+| Green pepper | $42.43 | $40.97 | $-1.46 | -3.4% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $148.84 | $150.95 | $+2.11 | +1.4% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $150.67 | $151.59 | $+0.92 | +0.6% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $91.79 | $88.37 | $-3.42 | -3.7% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $84.10 | $85.90 | $+1.80 | +2.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,8 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Welch's Passion Fruit Juice Zero Sugar 1.74 L / 59 oz | Welch's | $32.95 | 2026-01-01 |
+| Fresh Beef Eye of Round Case |  | $4037.01 | 2026-01-01 |
 | Kirkland Signature Organic Lemonade 2 Units / 2.84 L / 96 oz | Kirkland Signature | $79.95 | 2025-12-31 |
 | Toppers Popcorn Gluten Free 600 g | Toppers | $39.95 | 2025-12-31 |
 | Purple Cabbage Unit |  | $29.95 | 2025-12-31 |
@@ -108,13 +110,6 @@
 | Golden Raisins 1 kg / 2.2 lb |  | $19.70 | 2025-12-31 |
 | Sensible Portions Vegetable Straws with Sea Salt 666 g / 23.5 oz | Sensible Portions | $109.95 | 2025-12-29 |
 | Member’s Selection Coconut Swiss Roll  | Member's Selection | $31.95 | 2025-12-28 |
-| Raspberry 340 g / 12 oz |  | $109.95 | 2025-12-25 |
-| Fresh Start Grapefruit Juice 1.8 L / 60 oz | Fresh Start | $35.95 | 2025-12-23 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Anchor Gouda Cheese Block 500 g / 1.1 lb | Anchor | $59.95 | G10D03 |
-| Sofi's Cookies by Tselepidis Family Whole Grain Oatmeal Cookies with Honey 760 g / 1.67 lb | Sofi’s Cookies ByTselepidis Family | $104.95 | G10D03 |
-| Trevijano Thai Style Cous Cous Rice 800 g / 28.2 oz | Trevijano | $75.95 | G10D03 |
+No new products added today.
