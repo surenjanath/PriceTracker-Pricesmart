@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1165
-- **Total value**: $130,961.92
-- **Average price**: $112.41
+- **Total products scraped**: 1160
+- **Total value**: $130,139.83
+- **Average price**: $112.19
 
 ## Database Changes
 - **New products added**: 0
-- **Existing products updated**: 1165
-- **Price changes detected**: 63
-- **Stock/availability changes**: 0
-- **Discontinued products**: 2
+- **Existing products updated**: 1160
+- **Price changes detected**: 10
+- **Stock/availability changes**: 32
+- **Discontinued products**: 5
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 192 |
-|  | 144 |
+| Member's Selection | 189 |
+|  | 142 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 11 |
@@ -30,41 +30,41 @@
 | Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $129.95 | true |
 | Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | true |
 | Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $90.95 | true |
-| Par Excellence Jasmine White Rice 10 kg / 352.74 oz | Par Excellence | $194.95 | true |
 | Nescafé Assorted Flavor Milk and Coffee Drink 6 Units / 330 mL / 11.16 oz | Nescafé | $76.95 | true |
+| Par Excellence Jasmine White Rice 10 kg / 352.74 oz | Par Excellence | $194.95 | true |
 | Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | Marie Callender's | $83.95 | true |
+| Carmencita Paella Seasoning with Saffron 15 Units / 4 g / 0.14 oz | Carmencita | $46.95 | true |
 | Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $144.95 | true |
 | Nescafé Gold Instant Coffee 200 g + Vanilla-Flavored Cream 425.2 g | Nescafé | $119.95 | true |
-| Tsatsakis Sunflower Seed Breadsticks 2 Packs 400 g / 14.1 oz | Tsatsakis | $69.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1201
-- **Price increases**: 664
-- **Price decreases**: 496
-- **Average increase**: 3.8%
-- **Average decrease**: -6.4%
+- **Total price changes**: 1211
+- **Price increases**: 668
+- **Price decreases**: 502
+- **Average increase**: 3.9%
+- **Average decrease**: -6.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
+| Blueberries 508 g / 1.12 lb | $99.95 | $77.95 | $-22.00 | -22.0% | Decrease |
+| Cauliflower 1 Unit | $32.95 | $34.95 | $+2.00 | +6.1% | Increase |
+| Fresh Celery  | $27.95 | $29.95 | $+2.00 | +7.2% | Increase |
+| Spinach 283 g / 10 oz | $28.95 | $27.95 | $-1.00 | -3.5% | Decrease |
+|   Fresh Broccoli Crowns | $34.95 | $42.95 | $+8.00 | +22.9% | Increase |
+| Romaine Lettuce Hearts 3 Units | $64.95 | $59.95 | $-5.00 | -7.7% | Decrease |
+| Green Apple 1.36 kg / 3 lb | $49.70 | $67.95 | $+18.25 | +36.7% | Increase |
+| Fresh Strawberry 454 g / 1 lb | $59.95 | $39.95 | $-20.00 | -33.4% | Decrease |
+| Cherries 454 g / 1 lb | $84.95 | $82.95 | $-2.00 | -2.4% | Decrease |
+| Hillshire Farm Ham Mix 3 Units / 454 g / 16 oz | $194.95 | $99.70 | $-95.25 | -48.9% | Decrease |
 | Green pepper | $29.71 | $26.62 | $-3.09 | -10.4% | Decrease |
 | Fresh Seasoned BBQ Chicken Quarters Bag | $92.69 | $89.72 | $-2.97 | -3.2% | Decrease |
 | Frozen Lamb Shoulder Case | $1365.21 | $1352.11 | $-13.10 | -1.0% | Decrease |
 | Chilled Skinless Boneless Beef Ribeye Steak Vacuum Package Whole Piece | $2471.24 | $2593.10 | $+121.86 | +4.9% | Increase |
 | Chilled Boneless Beef Eye of Round Steak Tray Pack | $211.40 | $210.77 | $-0.63 | -0.3% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $57.57 | $57.49 | $-0.08 | -0.1% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.32 | $117.16 | $+2.84 | +2.5% | Increase |
-| Frozen Pork Belly Skin On Sliced Tray  | $115.95 | $115.20 | $-0.75 | -0.6% | Decrease |
-| Fresh Chicken Thighs Boneless Tray | $97.43 | $64.95 | $-32.48 | -33.3% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $76.67 | $77.10 | $+0.43 | +0.6% | Increase |
-| Green pepper | $42.43 | $40.97 | $-1.46 | -3.4% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $148.84 | $150.95 | $+2.11 | +1.4% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $150.67 | $151.59 | $+0.92 | +0.6% | Increase |
-| Fine Choice Fresh Marinated Chicken Tray | $91.79 | $88.37 | $-3.42 | -3.7% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $84.10 | $85.90 | $+1.80 | +2.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,16 +100,16 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Cherry Tomato 500 g / 1.1 lb |  | $19.95 | 2026-01-02 |
+| Member's Selection Shredded Mozzarella Cheese 1.36 kg / 3 lb | Member's Selection | $89.95 | 2026-01-02 |
+| Member's Selection Shredded Mild Cheddar Cheese 1.36 kg / 3 lb | Member's Selection | $84.95 | 2026-01-02 |
+| Member's Selection Shredded Mexican-Style 4 Cheese Blend 1.36 kg / 3 lb | Member's Selection | $97.95 | 2026-01-02 |
+| Frozen Lamb Leg Whole Vacuum Packed |  | $414.29 | 2026-01-02 |
 | Welch's Passion Fruit Juice Zero Sugar 1.74 L / 59 oz | Welch's | $32.95 | 2026-01-01 |
 | Fresh Beef Eye of Round Case |  | $4037.01 | 2026-01-01 |
 | Kirkland Signature Organic Lemonade 2 Units / 2.84 L / 96 oz | Kirkland Signature | $79.95 | 2025-12-31 |
 | Toppers Popcorn Gluten Free 600 g | Toppers | $39.95 | 2025-12-31 |
 | Purple Cabbage Unit |  | $29.95 | 2025-12-31 |
-| Member's Selection Hand Picked Whole Strawberries 2.26 kg / 5 lb | Member's Selection | $129.95 | 2025-12-31 |
-| Ortinola Kitchen Traditional Greek Cookies with Almonds and Powdered Sugar Coating 8 Units | Ortinola Kitchen | $51.95 | 2025-12-31 |
-| Golden Raisins 1 kg / 2.2 lb |  | $19.70 | 2025-12-31 |
-| Sensible Portions Vegetable Straws with Sea Salt 666 g / 23.5 oz | Sensible Portions | $109.95 | 2025-12-29 |
-| Member’s Selection Coconut Swiss Roll  | Member's Selection | $31.95 | 2025-12-28 |
 
 ## New Products Added Today
 No new products added today.
