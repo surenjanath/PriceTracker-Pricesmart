@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1160
-- **Total value**: $130,139.83
-- **Average price**: $112.19
+- **Total products scraped**: 1165
+- **Total value**: $130,610.29
+- **Average price**: $112.11
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1160
-- **Price changes detected**: 10
-- **Stock/availability changes**: 32
-- **Discontinued products**: 5
+- **New products added**: 6
+- **Existing products updated**: 1159
+- **Price changes detected**: 23
+- **Stock/availability changes**: 16
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 189 |
-|  | 142 |
+|  | 141 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 11 |
@@ -212,42 +212,42 @@ This project has recently gained unexpected attention. It was created for person
 | Member's Selection Iced Coffee Mocha Drink 12 Units / 296 mL / 10 oz | Member's Selection | $159.95 | true |
 | Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $129.95 | true |
 | Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | true |
-| Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $90.95 | true |
 | Nescafé Assorted Flavor Milk and Coffee Drink 6 Units / 330 mL / 11.16 oz | Nescafé | $76.95 | true |
+| Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $90.95 | true |
 | Par Excellence Jasmine White Rice 10 kg / 352.74 oz | Par Excellence | $194.95 | true |
 | Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | Marie Callender's | $83.95 | true |
 | Carmencita Paella Seasoning with Saffron 15 Units / 4 g / 0.14 oz | Carmencita | $46.95 | true |
+| Tsatsakis Sunflower Seed Breadsticks 2 Packs 400 g / 14.1 oz | Tsatsakis | $69.95 | true |
 | Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $144.95 | true |
-| Nescafé Gold Instant Coffee 200 g + Vanilla-Flavored Cream 425.2 g | Nescafé | $119.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1211
-- **Price increases**: 668
-- **Price decreases**: 502
+- **Total price changes**: 1137
+- **Price increases**: 607
+- **Price decreases**: 484
 - **Average increase**: 3.9%
-- **Average decrease**: -6.6%
+- **Average decrease**: -6.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Blueberries 508 g / 1.12 lb | $99.95 | $77.95 | $-22.00 | -22.0% | Decrease |
-| Cauliflower 1 Unit | $32.95 | $34.95 | $+2.00 | +6.1% | Increase |
-| Fresh Celery  | $27.95 | $29.95 | $+2.00 | +7.2% | Increase |
-| Spinach 283 g / 10 oz | $28.95 | $27.95 | $-1.00 | -3.5% | Decrease |
-|   Fresh Broccoli Crowns | $34.95 | $42.95 | $+8.00 | +22.9% | Increase |
-| Romaine Lettuce Hearts 3 Units | $64.95 | $59.95 | $-5.00 | -7.7% | Decrease |
-| Green Apple 1.36 kg / 3 lb | $49.70 | $67.95 | $+18.25 | +36.7% | Increase |
-| Fresh Strawberry 454 g / 1 lb | $59.95 | $39.95 | $-20.00 | -33.4% | Decrease |
-| Cherries 454 g / 1 lb | $84.95 | $82.95 | $-2.00 | -2.4% | Decrease |
-| Hillshire Farm Ham Mix 3 Units / 454 g / 16 oz | $194.95 | $99.70 | $-95.25 | -48.9% | Decrease |
-| Green pepper | $29.71 | $26.62 | $-3.09 | -10.4% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $92.69 | $89.72 | $-2.97 | -3.2% | Decrease |
-| Frozen Lamb Shoulder Case | $1365.21 | $1352.11 | $-13.10 | -1.0% | Decrease |
-| Chilled Skinless Boneless Beef Ribeye Steak Vacuum Package Whole Piece | $2471.24 | $2593.10 | $+121.86 | +4.9% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $211.40 | $210.77 | $-0.63 | -0.3% | Decrease |
+| Coffee Toppers Salted Caramel Whipped Cream 2 Units / 425 g / 15 oz | $0.00 | $79.95 | $+79.95 | +100.0% | New |
+| Galvanina Lemon Flavor Sparkling Mineral Water 24 Units / 500 mL / 16.9 oz | $0.00 | $169.95 | $+169.95 | +100.0% | New |
+| Garcia Chicken & Pork Smoked Sausage 680 g / 1.5 lb | $0.00 | $49.95 | $+49.95 | +100.0% | New |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $210.77 | $210.45 | $-0.32 | -0.2% | Decrease |
+| Papaya | $32.76 | $32.95 | $+0.19 | +0.6% | Increase |
+| Copper Kettle Dark Chocolate Truffles with Sea Salt 448 g / 16 oz | $0.00 | $139.95 | $+139.95 | +100.0% | New |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $117.16 | $117.00 | $-0.16 | -0.1% | Decrease |
+| Chobani Greek Yogurt 20G Protein 8 Units / 296 mL / 10 oz | $0.00 | $159.95 | $+159.95 | +100.0% | New |
+| Green pepper | $40.97 | $40.80 | $-0.17 | -0.4% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $151.59 | $151.13 | $-0.46 | -0.3% | Decrease |
+| Fine Choice Fresh Marinated Chicken Tray | $88.37 | $87.88 | $-0.49 | -0.6% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $85.90 | $85.81 | $-0.09 | -0.1% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $94.61 | $94.71 | $+0.10 | +0.1% | Increase |
+| Pork Chop with Bone Frozen Tray | $87.50 | $87.37 | $-0.13 | -0.1% | Decrease |
+| Frozen Lamb Shoulder Chops Tray | $126.13 | $125.95 | $-0.18 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Frozen Bone-In Pork Shoulder Case |  | $479.50 | 2026-01-03 |
 | Cherry Tomato 500 g / 1.1 lb |  | $19.95 | 2026-01-02 |
 | Member's Selection Shredded Mozzarella Cheese 1.36 kg / 3 lb | Member's Selection | $89.95 | 2026-01-02 |
 | Member's Selection Shredded Mild Cheddar Cheese 1.36 kg / 3 lb | Member's Selection | $84.95 | 2026-01-02 |
@@ -292,7 +293,14 @@ This project has recently gained unexpected attention. It was created for person
 | Fresh Beef Eye of Round Case |  | $4037.01 | 2026-01-01 |
 | Kirkland Signature Organic Lemonade 2 Units / 2.84 L / 96 oz | Kirkland Signature | $79.95 | 2025-12-31 |
 | Toppers Popcorn Gluten Free 600 g | Toppers | $39.95 | 2025-12-31 |
-| Purple Cabbage Unit |  | $29.95 | 2025-12-31 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Coffee Toppers Salted Caramel Whipped Cream 2 Units / 425 g / 15 oz | Coffee Toppers | $79.95 | G10D03 |
+| Galvanina Lemon Flavor Sparkling Mineral Water 24 Units / 500 mL / 16.9 oz | Galvanina | $169.95 | G10D03 |
+| Garcia Chicken & Pork Smoked Sausage 680 g / 1.5 lb | Garcia | $49.95 | G10D03 |
+| Copper Kettle Dark Chocolate Truffles with Sea Salt 448 g / 16 oz | Copper Kettle | $139.95 | G10D03 |
+| Chobani Greek Yogurt 20G Protein 8 Units / 296 mL / 10 oz | Chobani | $159.95 | G10D03 |
+| Snickers, Twix, M&M’s, Chocolate Bar Mix 30 Units / 1.5 kg / 3.3 lb | Snickers | $349.95 | G10D03 |
