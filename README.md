@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1163
-- **Total value**: $129,913.92
-- **Average price**: $111.71
+- **Total products scraped**: 1161
+- **Total value**: $129,615.99
+- **Average price**: $111.64
 
 ## Database Changes
-- **New products added**: 3
+- **New products added**: 1
 - **Existing products updated**: 1160
-- **Price changes detected**: 38
-- **Stock/availability changes**: 10
-- **Discontinued products**: 5
+- **Price changes detected**: 21
+- **Stock/availability changes**: 34
+- **Discontinued products**: 3
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 189 |
-|  | 140 |
+| Member's Selection | 188 |
+|  | 139 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 11 |
@@ -210,44 +210,44 @@ This project has recently gained unexpected attention. It was created for person
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Member's Selection Iced Coffee Mocha Drink 12 Units / 296 mL / 10 oz | Member's Selection | $159.95 | true |
-| Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $129.95 | true |
 | Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | true |
-| Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $90.95 | true |
+| Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $129.95 | true |
 | Nescafé Assorted Flavor Milk and Coffee Drink 6 Units / 330 mL / 11.16 oz | Nescafé | $76.95 | true |
 | Par Excellence Jasmine White Rice 10 kg / 352.74 oz | Par Excellence | $194.95 | true |
+| Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $90.95 | true |
 | Carmencita Paella Seasoning with Saffron 15 Units / 4 g / 0.14 oz | Carmencita | $46.95 | true |
-| Marie Callender's Italian Meat Lasagna 879 g / 1.94 lb | Marie Callender's | $83.95 | true |
 | Tsatsakis Sunflower Seed Breadsticks 2 Packs 400 g / 14.1 oz | Tsatsakis | $69.95 | true |
+| Trix Fruit-Flavored Whole Corn Cereal with Marshmallows 3 Units / 230 g | Trix | $52.95 | true |
 | Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $144.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1085
-- **Price increases**: 573
+- **Total price changes**: 1077
+- **Price increases**: 565
 - **Price decreases**: 469
-- **Average increase**: 3.9%
+- **Average increase**: 4.1%
 - **Average decrease**: -6.2%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Hickory House Smoked Salmon 2 Units / 227 g / 8 oz | $204.95 | $209.95 | $+5.00 | +2.4% | Increase |
-| Parthenon Green Olives Stuffed with Natural Red Pepper and Almonds  580 g / 20.46 oz | $0.00 | $89.95 | $+89.95 | +100.0% | New |
-| Izzio Artisanal Sourdough Focaccia Bread with Rosemary, Garlic, and Olive Oil Ready to Bake | $0.00 | $35.95 | $+35.95 | +100.0% | New |
-| Izzio Artisan Naturally Fermented Sourdough Bread Sliced | $0.00 | $49.95 | $+49.95 | +100.0% | New |
-| Chilled Skinless Boneless Beef Ribeye Steak Vacuum Package Whole Piece | $2593.10 | $2577.14 | $-15.96 | -0.6% | Decrease |
-| Whole Striploin Fresh Vacuum Packed | $1139.70 | $1169.70 | $+30.00 | +2.6% | Increase |
-| Frozen Lamb Shoulder Case | $1352.11 | $1345.41 | $-6.70 | -0.5% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $210.45 | $209.13 | $-1.32 | -0.6% | Decrease |
-| Papaya | $32.95 | $32.76 | $-0.19 | -0.6% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $57.49 | $57.64 | $+0.15 | +0.3% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $117.00 | $115.52 | $-1.48 | -1.3% | Decrease |
-| Frozen Pork Belly Skin On Sliced Tray  | $115.20 | $110.59 | $-4.61 | -4.0% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $77.10 | $76.99 | $-0.11 | -0.1% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $150.95 | $151.33 | $+0.38 | +0.3% | Increase |
-| Fine Choice Fresh Marinated Chicken Tray | $87.88 | $87.92 | $+0.04 | +0.0% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $209.13 | $209.44 | $+0.31 | +0.1% | Increase |
+| Swiss Elbows 6 Units / 300 g / 10.6 oz | $29.95 | $31.95 | $+2.00 | +6.7% | Increase |
+| Swiss Twists 6 Units / 300 g | $29.95 | $31.95 | $+2.00 | +6.7% | Increase |
+| Frozen Pork Belly Skin On Sliced Tray  | $110.59 | $110.35 | $-0.24 | -0.2% | Decrease |
+| Cook's Mate Cholesterol Free Flakes Oatmeal 2 kg / 4.4 lb | $31.95 | $33.95 | $+2.00 | +6.3% | Increase |
+| Frozen Sliced Turkey Drumsticks | $151.33 | $151.62 | $+0.29 | +0.2% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $85.64 | $85.56 | $-0.08 | -0.1% | Decrease |
+| Perdue Breaded Chicken Breast Tenders 626 g / 1.38 lb | $0.00 | $126.95 | $+126.95 | +100.0% | New |
+| Swiss Penne Pasta 6 Units / 300 g / 10.6 oz | $29.95 | $31.95 | $+2.00 | +6.7% | Increase |
+| Pork Chop with Bone Frozen Tray | $87.37 | $87.25 | $-0.12 | -0.1% | Decrease |
+| Fresh Whole Chicken 2 Units | $102.26 | $102.23 | $-0.03 | -0.0% | Decrease |
+| Swiss Macaroni 6 Units / 400 g | $29.95 | $31.95 | $+2.00 | +6.7% | Increase |
+| Cook's Mate Rolled Oats 2 kg / 70.5 oz | $31.95 | $33.95 | $+2.00 | +6.3% | Increase |
+| Swiss Spouch Ketchup 6 Units / 750 ml / 25 oz | $54.95 | $62.95 | $+8.00 | +14.6% | Increase |
+| Cook's Mate Vinegar 2 Units / 4 L | $34.95 | $37.95 | $+3.00 | +8.6% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,9 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Ocean Spray Cranberry Juice Tropical Flavor 2 Units / 1.89 L / 64 oz             | Ocean Spray | $69.95 | 2026-01-05 |
+| Black Raisins 1 kg / 2.2 lb |  | $24.70 | 2026-01-05 |
+| Member's Selection Hickory Smoked Spiral Sliced Ham | Member's Selection | $339.95 | 2026-01-05 |
 | Great Foods Hickory Smoked Turkey Ham | Great Foods | $249.95 | 2026-01-04 |
 | Sundays Peanut Ice Cream 3.78 L / 128 oz | Sundays | $69.95 | 2026-01-04 |
 | Galbani Galbani Mozzarella Cheese 907 g / 32 oz | Galbani | $62.95 | 2026-01-04 |
@@ -290,14 +293,9 @@ This project has recently gained unexpected attention. It was created for person
 | Frozen Lamb Leg Whole Boneless Tray Pack |  | $322.65 | 2026-01-04 |
 | Frozen Bone-In Pork Shoulder Case |  | $479.50 | 2026-01-03 |
 | Cherry Tomato 500 g / 1.1 lb |  | $19.95 | 2026-01-02 |
-| Member's Selection Shredded Mozzarella Cheese 1.36 kg / 3 lb | Member's Selection | $89.95 | 2026-01-02 |
-| Member's Selection Shredded Mild Cheddar Cheese 1.36 kg / 3 lb | Member's Selection | $84.95 | 2026-01-02 |
-| Member's Selection Shredded Mexican-Style 4 Cheese Blend 1.36 kg / 3 lb | Member's Selection | $97.95 | 2026-01-02 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Parthenon Green Olives Stuffed with Natural Red Pepper and Almonds  580 g / 20.46 oz | Parthenon | $89.95 | G10D03 |
-| Izzio Artisanal Sourdough Focaccia Bread with Rosemary, Garlic, and Olive Oil Ready to Bake | Izzio | $35.95 | G10D03 |
-| Izzio Artisan Naturally Fermented Sourdough Bread Sliced | Izzio | $49.95 | G10D03 |
+| Perdue Breaded Chicken Breast Tenders 626 g / 1.38 lb | Perdue | $126.95 | G10D03 |
