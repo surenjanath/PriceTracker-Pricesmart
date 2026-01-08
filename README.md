@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1160
-- **Total value**: $129,490.71
-- **Average price**: $111.63
+- **Total products scraped**: 1154
+- **Total value**: $128,782.62
+- **Average price**: $111.60
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1160
-- **Price changes detected**: 22
-- **Stock/availability changes**: 21
-- **Discontinued products**: 2
+- **New products added**: 1
+- **Existing products updated**: 1153
+- **Price changes detected**: 48
+- **Stock/availability changes**: 16
+- **Discontinued products**: 8
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 186 |
-|  | 139 |
+|  | 136 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 11 |
@@ -210,44 +210,44 @@ This project has recently gained unexpected attention. It was created for person
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Member's Selection Iced Coffee Mocha Drink 12 Units / 296 mL / 10 oz | Member's Selection | $159.95 | true |
-| Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $129.95 | true |
 | Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | true |
-| Nescafé Assorted Flavor Milk and Coffee Drink 6 Units / 330 mL / 11.16 oz | Nescafé | $76.95 | true |
+| Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $129.95 | true |
 | Par Excellence Jasmine White Rice 10 kg / 352.74 oz | Par Excellence | $194.95 | true |
+| Nescafé Assorted Flavor Milk and Coffee Drink 6 Units / 330 mL / 11.16 oz | Nescafé | $76.95 | true |
 | Carmencita Paella Seasoning with Saffron 15 Units / 4 g / 0.14 oz | Carmencita | $46.95 | true |
 | Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $90.95 | true |
-| Tsatsakis Sunflower Seed Breadsticks 2 Packs 400 g / 14.1 oz | Tsatsakis | $69.95 | true |
+| Tsatsakis Sunflower Seed Breadsticks 2 Packs 400 g / 14.1 oz | Tsatsakis | $62.95 | true |
 | Trix Fruit-Flavored Whole Corn Cereal with Marshmallows 3 Units / 230 g | Trix | $52.95 | true |
 | Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $144.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1099
-- **Price increases**: 573
-- **Price decreases**: 483
-- **Average increase**: 4.3%
-- **Average decrease**: -6.1%
+- **Total price changes**: 1071
+- **Price increases**: 557
+- **Price decreases**: 472
+- **Average increase**: 4.6%
+- **Average decrease**: -6.4%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Prunes 1 kg / 2.2 lb | $29.70 | $54.95 | $+25.25 | +85.0% | Increase |
-| Papaya | $32.76 | $32.70 | $-0.06 | -0.2% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $115.52 | $115.37 | $-0.15 | -0.1% | Decrease |
-| Frozen Pork Belly Skin On Sliced Tray  | $110.35 | $110.11 | $-0.24 | -0.2% | Decrease |
-| Izzio Artisanal Sourdough Focaccia Bread with Rosemary, Garlic, and Olive Oil Ready to Bake | $35.95 | $39.95 | $+4.00 | +11.1% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $76.99 | $77.20 | $+0.21 | +0.3% | Increase |
-| Frozen Sliced Turkey Drumsticks | $151.62 | $151.33 | $-0.29 | -0.2% | Decrease |
-| Fresh Grape Tomatoes 907 g / 2 lb | $44.95 | $39.95 | $-5.00 | -11.1% | Decrease |
-| Pork Belly with Skin Frozen Vacuum Packaged | $184.38 | $184.16 | $-0.22 | -0.1% | Decrease |
-| Currants 1 kg / 2.2 lb | $29.70 | $59.95 | $+30.25 | +101.9% | Increase |
-| Green Cabbage 1.3 kg / 2.9 lb | $29.95 | $28.95 | $-1.00 | -3.3% | Decrease |
-| Frozen Lamb Shoulder Chops Tray | $122.95 | $122.77 | $-0.18 | -0.1% | Decrease |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $320.31 | $320.86 | $+0.55 | +0.2% | Increase |
-| Frozen Boneless Skinless Chicken Breast Tray | $140.38 | $126.20 | $-14.18 | -10.1% | Decrease |
-| Romaine Lettuce Hearts 3 Units | $59.95 | $54.95 | $-5.00 | -8.3% | Decrease |
+| Carapelli Organic Extra Virgin Olive Oil 880 g / 33.8 oz | $157.95 | $129.95 | $-28.00 | -17.7% | Decrease |
+| Jell-O Assorted Desserts 24 Units 2.41 kg / 5 lb | $159.95 | $164.95 | $+5.00 | +3.1% | Increase |
+| Tropicland Pigeon Peas 1.8 kg / 4 lb | $109.95 | $107.95 | $-2.00 | -1.8% | Decrease |
+| Member's Selection Straight Cut French Fries 2.5 kg / 88 oz | $0.00 | $44.95 | $+44.95 | +100.0% | New |
+| Member Selection String Cheese 24 Units / 28 g / 0.9 oz | $64.95 | $65.95 | $+1.00 | +1.5% | Increase |
+| Parthenon Green Olives Stuffed with Natural Red Pepper and Almonds  580 g / 20.46 oz | $89.95 | $86.95 | $-3.00 | -3.3% | Decrease |
+| Papaya | $32.70 | $32.35 | $-0.35 | -1.1% | Decrease |
+| Frozen Pork Belly Skin On Sliced Tray  | $110.11 | $109.63 | $-0.48 | -0.4% | Decrease |
+| Cole Cold Assorted Sodas 6 Units / 2 L | $37.95 | $47.95 | $+10.00 | +26.4% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $77.20 | $77.31 | $+0.11 | +0.1% | Increase |
+| Columbus Charcuterie Trio Salame 340 g / 12 oz | $72.95 | $74.95 | $+2.00 | +2.7% | Increase |
+| Samyang Buldak Spicy Chicken Ramen 5 Units / 140 g / 4.93 oz | $65.95 | $67.95 | $+2.00 | +3.0% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $89.72 | $89.68 | $-0.04 | -0.0% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $94.81 | $94.71 | $-0.10 | -0.1% | Decrease |
+| Kellogg's Assorted Flavors Crackers 13 Packages / 1.47 kg / 52 oz | $169.95 | $149.95 | $-20.00 | -11.8% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,16 +283,19 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Green pepper |  | $26.62 | 2026-01-07 |
+| Tomato 11.3 kg / 25 lb |  | $157.04 | 2026-01-07 |
+| Angie's Boom Chicka Pop Sweet and Salty Popcorn 652 g / 23 oz | Angie´s | $49.70 | 2026-01-07 |
+| Kool Aid Jammers Juice Assortment 40 Units / 177 mL | Kool Aid | $115.95 | 2026-01-07 |
+| Dried Organic Sorrel 4 Units / 114 g / 4 oz |  | $64.95 | 2026-01-07 |
+| Member's Selection California Sliced Almonds - For Recipes and Toppings 907 g / 32 oz | Member's Selection | $117.95 | 2026-01-07 |
+| Verdant Valley Vacuum Packaged Seasoned Roast Pork | Verdant Valley | $99.95 | 2026-01-07 |
+| Hillshire Farm Ham Mix 3 Units / 454 g / 16 oz | Hillshire Farm | $99.70 | 2026-01-07 |
 | Member's Selection Whole Wheat Pizza of the Month 45.7 cm / 18" Fresh Baked 12 Slices | Member's Selection | $105.00 | 2026-01-06 |
 | Member’s Selection Freshly Prepared Holiday Cake | Member's Selection | $89.95 | 2026-01-06 |
-| Ocean Spray Cranberry Juice Tropical Flavor 2 Units / 1.89 L / 64 oz             | Ocean Spray | $69.95 | 2026-01-05 |
-| Black Raisins 1 kg / 2.2 lb |  | $24.70 | 2026-01-05 |
-| Member's Selection Hickory Smoked Spiral Sliced Ham | Member's Selection | $339.95 | 2026-01-05 |
-| Great Foods Hickory Smoked Turkey Ham | Great Foods | $249.95 | 2026-01-04 |
-| Sundays Peanut Ice Cream 3.78 L / 128 oz | Sundays | $69.95 | 2026-01-04 |
-| Galbani Galbani Mozzarella Cheese 907 g / 32 oz | Galbani | $62.95 | 2026-01-04 |
-| TJC Assorted Juices 6 Units / 540 mL | TJC | $76.95 | 2026-01-04 |
-| Frozen Lamb Leg Whole Boneless Tray Pack |  | $322.65 | 2026-01-04 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Member's Selection Straight Cut French Fries 2.5 kg / 88 oz | Member's Selection | $44.95 | G10D03 |
