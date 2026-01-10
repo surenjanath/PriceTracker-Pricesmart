@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1154
-- **Total value**: $128,869.93
-- **Average price**: $111.67
+- **Total products scraped**: 1156
+- **Total value**: $130,126.70
+- **Average price**: $112.57
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1154
-- **Price changes detected**: 27
-- **Stock/availability changes**: 5
-- **Discontinued products**: 1
+- **New products added**: 3
+- **Existing products updated**: 1153
+- **Price changes detected**: 23
+- **Stock/availability changes**: 11
+- **Discontinued products**: 4
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 186 |
-|  | 136 |
+| Member's Selection | 187 |
+|  | 138 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 11 |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1073
-- **Price increases**: 548
-- **Price decreases**: 484
+- **Total price changes**: 1099
+- **Price increases**: 559
+- **Price decreases**: 496
 - **Average increase**: 4.8%
-- **Average decrease**: -6.3%
+- **Average decrease**: -6.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Mini Sweet Peppers 454 g / 1 lb | $42.95 | $39.95 | $-3.00 | -7.0% | Decrease |
-| Swiss Elbows 6 Units / 300 g / 10.6 oz | $31.95 | $29.95 | $-2.00 | -6.3% | Decrease |
-| KFI Gluten-Free Curry and Coconut Sauce 2 Units / 695 g | $82.70 | $75.70 | $-7.00 | -8.5% | Decrease |
-| Swiss Twists 6 Units / 300 g | $31.95 | $29.95 | $-2.00 | -6.3% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $77.31 | $77.41 | $+0.10 | +0.1% | Increase |
-| Red Cabbage Unit | $23.95 | $22.95 | $-1.00 | -4.2% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $85.56 | $85.47 | $-0.09 | -0.1% | Decrease |
-| Fresh Grape Tomatoes 907 g / 2 lb | $39.95 | $42.95 | $+3.00 | +7.5% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $89.68 | $89.54 | $-0.14 | -0.2% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $93.96 | $93.85 | $-0.11 | -0.1% | Decrease |
-| Fresh Chicken Thighs Boneless Bag | $321.63 | $321.75 | $+0.12 | +0.0% | Increase |
-| Refreshing Kiwi 453 g / 1 lb | $54.95 | $52.95 | $-2.00 | -3.6% | Decrease |
-| Fresh Red Globe Grapes | $83.09 | $82.94 | $-0.15 | -0.2% | Decrease |
-| Swiss Spaghetti 6 Units / 400 g | $31.95 | $29.95 | $-2.00 | -6.3% | Decrease |
-| Fresh Whole Chicken 2 Units | $102.23 | $102.19 | $-0.04 | -0.0% | Decrease |
+| Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | $0.00 | $106.95 | $+106.95 | +100.0% | New |
+|  Gouda Cheese 20 kg / 44 lb | $1113.84 | $1114.97 | $+1.13 | +0.1% | Increase |
+| Member's Selection Sweetener Sucralose 1 000 Units / 1 g / 0.03 oz   | $0.00 | $97.95 | $+97.95 | +100.0% | New |
+| Frozen Lamb Shoulder Case | $1345.41 | $1426.95 | $+81.54 | +6.1% | Increase |
+| YoguRico Strawberry Low Fat Drinkable Yogurt  1.68 L / 57 oz | $0.00 | $54.95 | $+54.95 | +100.0% | New |
+| Papaya | $32.35 | $32.12 | $-0.23 | -0.7% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $77.41 | $77.52 | $+0.11 | +0.1% | Increase |
+| Frozen Sliced Turkey Drumsticks | $151.33 | $152.00 | $+0.67 | +0.4% | Increase |
+| Fresh Chicken Leg Quarters Tray | $94.71 | $94.61 | $-0.10 | -0.1% | Decrease |
+| Pork Belly with Skin Frozen Vacuum Packaged | $184.16 | $184.38 | $+0.22 | +0.1% | Increase |
+| Grey Poupon Dijon Mustard 2 Units / 454 g / 16 oz  | $104.95 | $99.95 | $-5.00 | -4.8% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $93.85 | $93.63 | $-0.22 | -0.2% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $98.20 | $98.11 | $-0.09 | -0.1% | Decrease |
+| Fresh Red Globe Grapes | $82.94 | $82.47 | $-0.47 | -0.6% | Decrease |
+| Fresh Whole Chicken 2 Units | $102.19 | $102.05 | $-0.14 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,16 +283,21 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Hershey's Cocoa Powder 652 g / 23 oz | Hershey's | $115.51 | 2026-01-09 |
+| Virginia Brand Raspberry Vinaigrette 1 L / 33.8 oz | Virginia Brand | $49.95 | 2026-01-09 |
+| Bar-S Classic Smoked Sausage 1.13 kg / 2.5 lb | Bar S | $69.95 | 2026-01-09 |
+| Atlanta Cheesecake Assorted Flavors 12 Slices | Atlanta Cheesecake Company | $119.95 | 2026-01-09 |
 | Garofalo Gluten Free Penne Rigate 4 Units / 340 g / 12 oz | Garofalo | $84.95 | 2026-01-08 |
 | Green pepper |  | $26.62 | 2026-01-07 |
 | Tomato 11.3 kg / 25 lb |  | $157.04 | 2026-01-07 |
 | Angie's Boom Chicka Pop Sweet and Salty Popcorn 652 g / 23 oz | Angie´s | $49.70 | 2026-01-07 |
 | Kool Aid Jammers Juice Assortment 40 Units / 177 mL | Kool Aid | $115.95 | 2026-01-07 |
 | Dried Organic Sorrel 4 Units / 114 g / 4 oz |  | $64.95 | 2026-01-07 |
-| Member's Selection California Sliced Almonds - For Recipes and Toppings 907 g / 32 oz | Member's Selection | $117.95 | 2026-01-07 |
-| Verdant Valley Vacuum Packaged Seasoned Roast Pork | Verdant Valley | $99.95 | 2026-01-07 |
-| Member's Selection Whole Wheat Pizza of the Month 45.7 cm / 18" Fresh Baked 12 Slices | Member's Selection | $105.00 | 2026-01-06 |
-| Member’s Selection Freshly Prepared Holiday Cake | Member's Selection | $89.95 | 2026-01-06 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | Eggo | $106.95 | G10D03 |
+| Member's Selection Sweetener Sucralose 1 000 Units / 1 g / 0.03 oz   | Member's Selection | $97.95 | G10D03 |
+| YoguRico Strawberry Low Fat Drinkable Yogurt  1.68 L / 57 oz | YoguRico | $54.95 | G10D03 |
