@@ -185,15 +185,15 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1156
-- **Total value**: $130,126.70
-- **Average price**: $112.57
+- **Total value**: $130,186.35
+- **Average price**: $112.62
 
 ## Database Changes
-- **New products added**: 3
-- **Existing products updated**: 1153
-- **Price changes detected**: 23
-- **Stock/availability changes**: 11
-- **Discontinued products**: 4
+- **New products added**: 1
+- **Existing products updated**: 1155
+- **Price changes detected**: 22
+- **Stock/availability changes**: 6
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1099
-- **Price increases**: 559
-- **Price decreases**: 496
-- **Average increase**: 4.8%
-- **Average decrease**: -6.1%
+- **Total price changes**: 1059
+- **Price increases**: 534
+- **Price decreases**: 480
+- **Average increase**: 4.9%
+- **Average decrease**: -5.4%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | $0.00 | $106.95 | $+106.95 | +100.0% | New |
-|  Gouda Cheese 20 kg / 44 lb | $1113.84 | $1114.97 | $+1.13 | +0.1% | Increase |
-| Member's Selection Sweetener Sucralose 1 000 Units / 1 g / 0.03 oz   | $0.00 | $97.95 | $+97.95 | +100.0% | New |
-| Frozen Lamb Shoulder Case | $1345.41 | $1426.95 | $+81.54 | +6.1% | Increase |
-| YoguRico Strawberry Low Fat Drinkable Yogurt  1.68 L / 57 oz | $0.00 | $54.95 | $+54.95 | +100.0% | New |
-| Papaya | $32.35 | $32.12 | $-0.23 | -0.7% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $77.41 | $77.52 | $+0.11 | +0.1% | Increase |
-| Frozen Sliced Turkey Drumsticks | $151.33 | $152.00 | $+0.67 | +0.4% | Increase |
-| Fresh Chicken Leg Quarters Tray | $94.71 | $94.61 | $-0.10 | -0.1% | Decrease |
-| Pork Belly with Skin Frozen Vacuum Packaged | $184.16 | $184.38 | $+0.22 | +0.1% | Increase |
-| Grey Poupon Dijon Mustard 2 Units / 454 g / 16 oz  | $104.95 | $99.95 | $-5.00 | -4.8% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $93.85 | $93.63 | $-0.22 | -0.2% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $98.20 | $98.11 | $-0.09 | -0.1% | Decrease |
-| Fresh Red Globe Grapes | $82.94 | $82.47 | $-0.47 | -0.6% | Decrease |
-| Fresh Whole Chicken 2 Units | $102.19 | $102.05 | $-0.14 | -0.1% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $115.37 | $115.21 | $-0.16 | -0.1% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $238.31 | $239.55 | $+1.24 | +0.5% | Increase |
+| Frozen Pork Belly Skin On Sliced Tray  | $109.63 | $109.87 | $+0.24 | +0.2% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $77.52 | $77.62 | $+0.10 | +0.1% | Increase |
+| Frozen Sliced Turkey Drumsticks | $152.00 | $151.71 | $-0.29 | -0.2% | Decrease |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $323.65 | $325.14 | $+1.49 | +0.5% | Increase |
+| Fresh Chicken Mixed Parts Tray | $93.63 | $93.52 | $-0.11 | -0.1% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $98.11 | $98.01 | $-0.10 | -0.1% | Decrease |
+| Fresh Red Globe Grapes | $82.47 | $82.32 | $-0.15 | -0.2% | Decrease |
+| Terra Creta Extra Virgin Olive Oil in Marasca 1 L / 33.81 oz | $0.00 | $134.95 | $+134.95 | +100.0% | New |
+| Fine Choice Fresh Marinated Chicken Tray | $87.74 | $87.56 | $-0.18 | -0.2% | Decrease |
+| Fresh Chicken Breast Boneless Skinless Tray | $125.92 | $125.75 | $-0.17 | -0.1% | Decrease |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $76.57 | $76.69 | $+0.12 | +0.2% | Increase |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $150.50 | $149.28 | $-1.22 | -0.8% | Decrease |
+| Member's Selection Frozen US Ground Beef Patties 80/20 Tray Pack | $137.37 | $137.93 | $+0.56 | +0.4% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Carbonell Extra Virgin Olive Oil Arbequina Special Selection 750 mL / 25.4 oz | Carbonell | $74.95 | 2026-01-10 |
 | Hershey's Cocoa Powder 652 g / 23 oz | Hershey's | $115.51 | 2026-01-09 |
 | Virginia Brand Raspberry Vinaigrette 1 L / 33.8 oz | Virginia Brand | $49.95 | 2026-01-09 |
 | Bar-S Classic Smoked Sausage 1.13 kg / 2.5 lb | Bar S | $69.95 | 2026-01-09 |
@@ -292,12 +293,9 @@ This project has recently gained unexpected attention. It was created for person
 | Tomato 11.3 kg / 25 lb |  | $157.04 | 2026-01-07 |
 | Angie's Boom Chicka Pop Sweet and Salty Popcorn 652 g / 23 oz | Angie´s | $49.70 | 2026-01-07 |
 | Kool Aid Jammers Juice Assortment 40 Units / 177 mL | Kool Aid | $115.95 | 2026-01-07 |
-| Dried Organic Sorrel 4 Units / 114 g / 4 oz |  | $64.95 | 2026-01-07 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | Eggo | $106.95 | G10D03 |
-| Member's Selection Sweetener Sucralose 1 000 Units / 1 g / 0.03 oz   | Member's Selection | $97.95 | G10D03 |
-| YoguRico Strawberry Low Fat Drinkable Yogurt  1.68 L / 57 oz | YoguRico | $54.95 | G10D03 |
+| Terra Creta Extra Virgin Olive Oil in Marasca 1 L / 33.81 oz | Terra Creta | $134.95 | G10D03 |
