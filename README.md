@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1156
-- **Total value**: $130,186.35
-- **Average price**: $112.62
+- **Total products scraped**: 1154
+- **Total value**: $130,236.11
+- **Average price**: $112.86
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1155
-- **Price changes detected**: 22
-- **Stock/availability changes**: 6
-- **Discontinued products**: 1
+- **New products added**: 0
+- **Existing products updated**: 1154
+- **Price changes detected**: 33
+- **Stock/availability changes**: 7
+- **Discontinued products**: 4
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 187 |
-|  | 138 |
+|  | 136 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 11 |
@@ -214,40 +214,40 @@ This project has recently gained unexpected attention. It was created for person
 | Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $129.95 | true |
 | Nescafé Assorted Flavor Milk and Coffee Drink 6 Units / 330 mL / 11.16 oz | Nescafé | $76.95 | true |
 | Carmencita Paella Seasoning with Saffron 15 Units / 4 g / 0.14 oz | Carmencita | $46.95 | true |
-| Par Excellence Jasmine White Rice 10 kg / 352.74 oz | Par Excellence | $194.95 | true |
-| Trix Fruit-Flavored Whole Corn Cereal with Marshmallows 3 Units / 230 g | Trix | $52.95 | true |
 | Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $90.95 | true |
+| Par Excellence Jasmine White Rice 10 kg / 352.74 oz | Par Excellence | $194.95 | true |
 | Tsatsakis Sunflower Seed Breadsticks 2 Packs 400 g / 14.1 oz | Tsatsakis | $62.95 | true |
 | Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $144.95 | true |
+| Nescafé Gold Instant Coffee 200 g + Vanilla-Flavored Cream 425.2 g | Nescafé | $119.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1059
-- **Price increases**: 534
-- **Price decreases**: 480
-- **Average increase**: 4.9%
+- **Total price changes**: 1013
+- **Price increases**: 516
+- **Price decreases**: 463
+- **Average increase**: 5.4%
 - **Average decrease**: -5.4%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $115.37 | $115.21 | $-0.16 | -0.1% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $238.31 | $239.55 | $+1.24 | +0.5% | Increase |
-| Frozen Pork Belly Skin On Sliced Tray  | $109.63 | $109.87 | $+0.24 | +0.2% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $77.52 | $77.62 | $+0.10 | +0.1% | Increase |
-| Frozen Sliced Turkey Drumsticks | $152.00 | $151.71 | $-0.29 | -0.2% | Decrease |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $323.65 | $325.14 | $+1.49 | +0.5% | Increase |
-| Fresh Chicken Mixed Parts Tray | $93.63 | $93.52 | $-0.11 | -0.1% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $98.11 | $98.01 | $-0.10 | -0.1% | Decrease |
-| Fresh Red Globe Grapes | $82.47 | $82.32 | $-0.15 | -0.2% | Decrease |
-| Terra Creta Extra Virgin Olive Oil in Marasca 1 L / 33.81 oz | $0.00 | $134.95 | $+134.95 | +100.0% | New |
-| Fine Choice Fresh Marinated Chicken Tray | $87.74 | $87.56 | $-0.18 | -0.2% | Decrease |
-| Fresh Chicken Breast Boneless Skinless Tray | $125.92 | $125.75 | $-0.17 | -0.1% | Decrease |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $76.57 | $76.69 | $+0.12 | +0.2% | Increase |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $150.50 | $149.28 | $-1.22 | -0.8% | Decrease |
-| Member's Selection Frozen US Ground Beef Patties 80/20 Tray Pack | $137.37 | $137.93 | $+0.56 | +0.4% | Increase |
+| Quaker Instant Oatmeal 52 Units / 43 g / 1.51 oz | $112.95 | $139.95 | $+27.00 | +23.9% | Increase |
+| Gouda Cheese Block | $86.98 | $85.48 | $-1.50 | -1.7% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $239.55 | $240.47 | $+0.92 | +0.4% | Increase |
+| Frozen Pork Belly Skin On Sliced Tray  | $109.87 | $110.11 | $+0.24 | +0.2% | Increase |
+| Papaya | $32.12 | $32.06 | $-0.06 | -0.2% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $57.64 | $57.46 | $-0.18 | -0.3% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $85.47 | $85.30 | $-0.17 | -0.2% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $89.54 | $89.81 | $+0.27 | +0.3% | Increase |
+| Frozen Sliced Turkey Drumsticks | $151.71 | $151.04 | $-0.67 | -0.4% | Decrease |
+| Green pepper | $40.80 | $40.97 | $+0.17 | +0.4% | Increase |
+| Fresh Chicken Thighs Boneless Bag | $321.75 | $321.63 | $-0.12 | -0.0% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $94.61 | $94.51 | $-0.10 | -0.1% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $98.01 | $97.91 | $-0.10 | -0.1% | Decrease |
+| Milo Chocolate Flavored Drink 12 Units / 250 mL | $65.95 | $77.95 | $+12.00 | +18.2% | Increase |
+| Nestle Omega Low Fat Milk 12 Units / 1 L | $169.95 | $199.95 | $+30.00 | +17.7% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,19 +283,16 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Honey Crisp Apple 1.36 kg / 3 lb |  | $52.95 | 2026-01-11 |
+| Red Seedless Grapes 907 g / 2 lb |  | $68.95 | 2026-01-11 |
+| Bartlett Pear 1.3 kg / 3 lb |  | $72.95 | 2026-01-11 |
+| TJC Assorted Juices 6 Units / 540 mL | TJC | $76.95 | 2026-01-11 |
 | Carbonell Extra Virgin Olive Oil Arbequina Special Selection 750 mL / 25.4 oz | Carbonell | $74.95 | 2026-01-10 |
 | Hershey's Cocoa Powder 652 g / 23 oz | Hershey's | $115.51 | 2026-01-09 |
 | Virginia Brand Raspberry Vinaigrette 1 L / 33.8 oz | Virginia Brand | $49.95 | 2026-01-09 |
 | Bar-S Classic Smoked Sausage 1.13 kg / 2.5 lb | Bar S | $69.95 | 2026-01-09 |
 | Atlanta Cheesecake Assorted Flavors 12 Slices | Atlanta Cheesecake Company | $119.95 | 2026-01-09 |
 | Garofalo Gluten Free Penne Rigate 4 Units / 340 g / 12 oz | Garofalo | $84.95 | 2026-01-08 |
-| Green pepper |  | $26.62 | 2026-01-07 |
-| Tomato 11.3 kg / 25 lb |  | $157.04 | 2026-01-07 |
-| Angie's Boom Chicka Pop Sweet and Salty Popcorn 652 g / 23 oz | Angie´s | $49.70 | 2026-01-07 |
-| Kool Aid Jammers Juice Assortment 40 Units / 177 mL | Kool Aid | $115.95 | 2026-01-07 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Terra Creta Extra Virgin Olive Oil in Marasca 1 L / 33.81 oz | Terra Creta | $134.95 | G10D03 |
+No new products added today.
