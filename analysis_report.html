@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1154
-- **Total value**: $130,236.11
-- **Average price**: $112.86
+- **Total products scraped**: 1149
+- **Total value**: $129,807.32
+- **Average price**: $112.97
 
 ## Database Changes
 - **New products added**: 0
-- **Existing products updated**: 1154
-- **Price changes detected**: 33
-- **Stock/availability changes**: 7
-- **Discontinued products**: 4
+- **Existing products updated**: 1149
+- **Price changes detected**: 21
+- **Stock/availability changes**: 17
+- **Discontinued products**: 5
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 187 |
-|  | 136 |
+| Member's Selection | 185 |
+|  | 134 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 11 |
@@ -29,20 +29,20 @@
 | Member's Selection Iced Coffee Mocha Drink 12 Units / 296 mL / 10 oz | Member's Selection | $159.95 | true |
 | Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | true |
 | Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $129.95 | true |
-| Nescafé Assorted Flavor Milk and Coffee Drink 6 Units / 330 mL / 11.16 oz | Nescafé | $76.95 | true |
+| Member's Selection Unsweetened Almond Beverage 6 Units /  946 mL / 32 oz | Member's Selection | $99.95 | true |
 | Carmencita Paella Seasoning with Saffron 15 Units / 4 g / 0.14 oz | Carmencita | $46.95 | true |
+| Nescafé Assorted Flavor Milk and Coffee Drink 6 Units / 330 mL / 11.16 oz | Nescafé | $76.95 | true |
 | Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $90.95 | true |
-| Par Excellence Jasmine White Rice 10 kg / 352.74 oz | Par Excellence | $194.95 | true |
+| Par Excellence Jasmine White Rice 10 kg / 352.74 oz | Par Excellence | $159.70 | true |
 | Tsatsakis Sunflower Seed Breadsticks 2 Packs 400 g / 14.1 oz | Tsatsakis | $62.95 | true |
-| Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $144.95 | true |
-| Nescafé Gold Instant Coffee 200 g + Vanilla-Flavored Cream 425.2 g | Nescafé | $119.95 | true |
+| Hillshire Farm Ham Mix 3 Units / 454 g / 16 oz | Hillshire Farm | $194.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1013
-- **Price increases**: 516
-- **Price decreases**: 463
+- **Total price changes**: 1015
+- **Price increases**: 515
+- **Price decreases**: 468
 - **Average increase**: 5.4%
 - **Average decrease**: -5.4%
 
@@ -50,21 +50,21 @@
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Quaker Instant Oatmeal 52 Units / 43 g / 1.51 oz | $112.95 | $139.95 | $+27.00 | +23.9% | Increase |
-| Gouda Cheese Block | $86.98 | $85.48 | $-1.50 | -1.7% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $239.55 | $240.47 | $+0.92 | +0.4% | Increase |
-| Frozen Pork Belly Skin On Sliced Tray  | $109.87 | $110.11 | $+0.24 | +0.2% | Increase |
-| Papaya | $32.12 | $32.06 | $-0.06 | -0.2% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $57.64 | $57.46 | $-0.18 | -0.3% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $85.47 | $85.30 | $-0.17 | -0.2% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $89.54 | $89.81 | $+0.27 | +0.3% | Increase |
-| Frozen Sliced Turkey Drumsticks | $151.71 | $151.04 | $-0.67 | -0.4% | Decrease |
-| Green pepper | $40.80 | $40.97 | $+0.17 | +0.4% | Increase |
-| Fresh Chicken Thighs Boneless Bag | $321.75 | $321.63 | $-0.12 | -0.0% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $94.61 | $94.51 | $-0.10 | -0.1% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $98.01 | $97.91 | $-0.10 | -0.1% | Decrease |
-| Milo Chocolate Flavored Drink 12 Units / 250 mL | $65.95 | $77.95 | $+12.00 | +18.2% | Increase |
-| Nestle Omega Low Fat Milk 12 Units / 1 L | $169.95 | $199.95 | $+30.00 | +17.7% | Increase |
+| San Pellegrino Sparkling Mineral Water 6 Units / 250 mL / 8.45 oz | $65.95 | $59.70 | $-6.25 | -9.5% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $240.47 | $240.78 | $+0.31 | +0.1% | Increase |
+| Frozen Pork Belly Skin On Sliced Tray  | $110.11 | $109.87 | $-0.24 | -0.2% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $77.62 | $77.73 | $+0.11 | +0.1% | Increase |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $325.14 | $327.93 | $+2.79 | +0.9% | Increase |
+| Frozen Sliced Turkey Drumsticks | $151.04 | $150.85 | $-0.19 | -0.1% | Decrease |
+| Pork Belly with Skin Frozen Vacuum Packaged | $184.38 | $185.24 | $+0.86 | +0.5% | Increase |
+| Fresh Chicken Leg Quarters Tray | $94.51 | $94.41 | $-0.10 | -0.1% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $151.59 | $152.05 | $+0.46 | +0.3% | Increase |
+| Fresh Chicken Breast Bone In Tray | $97.91 | $97.72 | $-0.19 | -0.2% | Decrease |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $149.28 | $148.67 | $-0.61 | -0.4% | Decrease |
+| Fresh Chicken Thighs Boneless Bag | $321.63 | $321.98 | $+0.35 | +0.1% | Increase |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $81.95 | $81.81 | $-0.14 | -0.2% | Decrease |
+| Fresh Red Globe Grapes | $82.47 | $82.32 | $-0.15 | -0.2% | Decrease |
+| Fresh Ground Chicken Meat Bag | $273.96 | $274.28 | $+0.32 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,16 +100,16 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Member’s Selection Breaded Mozzarella Sticks 2.04 kg / 4.5 lb | Member's Selection | $157.95 | 2026-01-12 |
+| Mixed Tomato Cherry 907 g / 2 lb |  | $49.95 | 2026-01-12 |
+| Prunes 1 kg / 2.2 lb |  | $54.95 | 2026-01-12 |
+| Chuckanut Bay Chocalate Covered Cheesecake Bites 634 g / 1.4 lb | Chuckanut Bay | $69.70 | 2026-01-12 |
+| Member's Selection Spaghetti 4 Units / 454 g / 1 lb | Member's Selection | $59.95 | 2026-01-12 |
 | Honey Crisp Apple 1.36 kg / 3 lb |  | $52.95 | 2026-01-11 |
 | Red Seedless Grapes 907 g / 2 lb |  | $68.95 | 2026-01-11 |
 | Bartlett Pear 1.3 kg / 3 lb |  | $72.95 | 2026-01-11 |
 | TJC Assorted Juices 6 Units / 540 mL | TJC | $76.95 | 2026-01-11 |
 | Carbonell Extra Virgin Olive Oil Arbequina Special Selection 750 mL / 25.4 oz | Carbonell | $74.95 | 2026-01-10 |
-| Hershey's Cocoa Powder 652 g / 23 oz | Hershey's | $115.51 | 2026-01-09 |
-| Virginia Brand Raspberry Vinaigrette 1 L / 33.8 oz | Virginia Brand | $49.95 | 2026-01-09 |
-| Bar-S Classic Smoked Sausage 1.13 kg / 2.5 lb | Bar S | $69.95 | 2026-01-09 |
-| Atlanta Cheesecake Assorted Flavors 12 Slices | Atlanta Cheesecake Company | $119.95 | 2026-01-09 |
-| Garofalo Gluten Free Penne Rigate 4 Units / 340 g / 12 oz | Garofalo | $84.95 | 2026-01-08 |
 
 ## New Products Added Today
 No new products added today.
