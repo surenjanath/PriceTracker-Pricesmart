@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1149
-- **Total value**: $129,807.32
-- **Average price**: $112.97
+- **Total products scraped**: 1152
+- **Total value**: $130,023.66
+- **Average price**: $112.87
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1149
-- **Price changes detected**: 21
-- **Stock/availability changes**: 17
-- **Discontinued products**: 5
+- **New products added**: 1
+- **Existing products updated**: 1151
+- **Price changes detected**: 22
+- **Stock/availability changes**: 19
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 185 |
-|  | 134 |
+|  | 135 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 11 |
@@ -26,45 +26,45 @@
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Member's Selection Iced Coffee Mocha Drink 12 Units / 296 mL / 10 oz | Member's Selection | $159.95 | true |
-| Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | true |
-| Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $129.95 | true |
-| Member's Selection Unsweetened Almond Beverage 6 Units /  946 mL / 32 oz | Member's Selection | $99.95 | true |
-| Carmencita Paella Seasoning with Saffron 15 Units / 4 g / 0.14 oz | Carmencita | $46.95 | true |
-| Nescafé Assorted Flavor Milk and Coffee Drink 6 Units / 330 mL / 11.16 oz | Nescafé | $76.95 | true |
-| Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $90.95 | true |
-| Par Excellence Jasmine White Rice 10 kg / 352.74 oz | Par Excellence | $159.70 | true |
-| Tsatsakis Sunflower Seed Breadsticks 2 Packs 400 g / 14.1 oz | Tsatsakis | $62.95 | true |
-| Hillshire Farm Ham Mix 3 Units / 454 g / 16 oz | Hillshire Farm | $194.95 | true |
+| Just About Foods Organic and Creamy Peanut Butter 1.13 kg / 40 oz | Just About Foods | $97.95 | true |
+| Bob's Red Mill Oatmeal with Protein 1.81 kg / 4 lb | Bob's Red Mill | $144.95 | true |
+| Trevijano Thai Style Cous Cous Rice 800 g / 28.2 oz | Trevijano | $75.95 | true |
+| Izzio Artisan Naturally Fermented Sourdough Bread Sliced | Izzio | $49.95 | true |
+| Coffee Toppers Salted Caramel Whipped Cream 2 Units / 425 g / 15 oz | Coffee Toppers | $79.95 | true |
+| Swiss Miss Sugar-free Cocoa 60 Units / 20 g / 0.7 oz | Swiss Miss | $109.95 | true |
+| Terra Creta Extra Virgin Olive Oil in Marasca 1 L / 33.81 oz | Terra Creta | $134.95 | true |
+| Diamond Shelled Walnuts 907 g / 32 oz | Diamond | $139.95 | true |
+| Chobani Greek Yogurt 20G Protein 8 Units / 296 mL / 10 oz | Chobani | $159.95 | true |
+| Galvanina Lemon Flavor Sparkling Mineral Water 24 Units / 500 mL / 16.9 oz | Galvanina | $169.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1015
-- **Price increases**: 515
-- **Price decreases**: 468
+- **Total price changes**: 1038
+- **Price increases**: 525
+- **Price decreases**: 480
 - **Average increase**: 5.4%
-- **Average decrease**: -5.4%
+- **Average decrease**: -5.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| San Pellegrino Sparkling Mineral Water 6 Units / 250 mL / 8.45 oz | $65.95 | $59.70 | $-6.25 | -9.5% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $240.47 | $240.78 | $+0.31 | +0.1% | Increase |
-| Frozen Pork Belly Skin On Sliced Tray  | $110.11 | $109.87 | $-0.24 | -0.2% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $77.62 | $77.73 | $+0.11 | +0.1% | Increase |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $325.14 | $327.93 | $+2.79 | +0.9% | Increase |
-| Frozen Sliced Turkey Drumsticks | $151.04 | $150.85 | $-0.19 | -0.1% | Decrease |
-| Pork Belly with Skin Frozen Vacuum Packaged | $184.38 | $185.24 | $+0.86 | +0.5% | Increase |
-| Fresh Chicken Leg Quarters Tray | $94.51 | $94.41 | $-0.10 | -0.1% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $151.59 | $152.05 | $+0.46 | +0.3% | Increase |
-| Fresh Chicken Breast Bone In Tray | $97.91 | $97.72 | $-0.19 | -0.2% | Decrease |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $149.28 | $148.67 | $-0.61 | -0.4% | Decrease |
-| Fresh Chicken Thighs Boneless Bag | $321.63 | $321.98 | $+0.35 | +0.1% | Increase |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $81.95 | $81.81 | $-0.14 | -0.2% | Decrease |
-| Fresh Red Globe Grapes | $82.47 | $82.32 | $-0.15 | -0.2% | Decrease |
-| Fresh Ground Chicken Meat Bag | $273.96 | $274.28 | $+0.32 | +0.1% | Increase |
+| Sea Best Raw Lobster Cake 762 g / 1.68 lb | $94.95 | $131.95 | $+37.00 | +39.0% | Increase |
+| Dixee Lightly Salted Whole Wheat Crackers 4 Units / 276 g / 9.7 oz | $0.00 | $54.95 | $+54.95 | +100.0% | New |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $209.44 | $210.71 | $+1.27 | +0.6% | Increase |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $327.93 | $329.04 | $+1.11 | +0.3% | Increase |
+| Frozen Sliced Turkey Drumsticks | $150.85 | $150.66 | $-0.19 | -0.1% | Decrease |
+| Pork Belly with Skin Frozen Vacuum Packaged | $185.24 | $186.11 | $+0.87 | +0.5% | Increase |
+| Fresh Chicken Mixed Parts Tray | $93.52 | $93.31 | $-0.21 | -0.2% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $152.05 | $151.59 | $-0.46 | -0.3% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $94.41 | $94.31 | $-0.10 | -0.1% | Decrease |
+| Mowi Tuscan Frozen Herb Salmon Portions 710 g / 1.56 lb | $185.95 | $192.95 | $+7.00 | +3.8% | Increase |
+| Fresh Ground Chicken Tray | $108.47 | $108.59 | $+0.12 | +0.1% | Increase |
+| Fresh Red Globe Grapes | $82.32 | $82.16 | $-0.16 | -0.2% | Decrease |
+| All Inklusive Protein Multicereal 1 kg / 2.2 lb | $91.95 | $82.70 | $-9.25 | -10.1% | Decrease |
+| Ibis All Purpose Flour 10 kg / 22 lb | $59.95 | $63.95 | $+4.00 | +6.7% | Increase |
+| Hillshire Farm Ham Mix 3 Units / 454 g / 16 oz | $194.95 | $99.70 | $-95.25 | -48.9% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,9 +100,9 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| My Mochi Peppermint Ice Cream 420 g / 15 oz | My Mochi | $29.70 | 2026-01-13 |
 | Member’s Selection Breaded Mozzarella Sticks 2.04 kg / 4.5 lb | Member's Selection | $157.95 | 2026-01-12 |
 | Mixed Tomato Cherry 907 g / 2 lb |  | $49.95 | 2026-01-12 |
-| Prunes 1 kg / 2.2 lb |  | $54.95 | 2026-01-12 |
 | Chuckanut Bay Chocalate Covered Cheesecake Bites 634 g / 1.4 lb | Chuckanut Bay | $69.70 | 2026-01-12 |
 | Member's Selection Spaghetti 4 Units / 454 g / 1 lb | Member's Selection | $59.95 | 2026-01-12 |
 | Honey Crisp Apple 1.36 kg / 3 lb |  | $52.95 | 2026-01-11 |
@@ -112,4 +112,7 @@
 | Carbonell Extra Virgin Olive Oil Arbequina Special Selection 750 mL / 25.4 oz | Carbonell | $74.95 | 2026-01-10 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Dixee Lightly Salted Whole Wheat Crackers 4 Units / 276 g / 9.7 oz | Dixee | $54.95 | G10D03 |
