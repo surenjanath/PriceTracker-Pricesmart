@@ -2,22 +2,22 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1152
-- **Total value**: $130,023.66
-- **Average price**: $112.87
+- **Total value**: $129,778.19
+- **Average price**: $112.65
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1151
-- **Price changes detected**: 22
-- **Stock/availability changes**: 19
-- **Discontinued products**: 1
+- **New products added**: 3
+- **Existing products updated**: 1149
+- **Price changes detected**: 51
+- **Stock/availability changes**: 25
+- **Discontinued products**: 5
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 185 |
-|  | 135 |
+| Member's Selection | 186 |
+|  | 133 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 11 |
@@ -28,43 +28,43 @@
 |-------|-------|-------------|--------------|
 | Just About Foods Organic and Creamy Peanut Butter 1.13 kg / 40 oz | Just About Foods | $97.95 | true |
 | Bob's Red Mill Oatmeal with Protein 1.81 kg / 4 lb | Bob's Red Mill | $144.95 | true |
+| Coffee Toppers Salted Caramel Whipped Cream 2 Units / 425 g / 15 oz | Coffee Toppers | $79.95 | true |
 | Trevijano Thai Style Cous Cous Rice 800 g / 28.2 oz | Trevijano | $75.95 | true |
 | Izzio Artisan Naturally Fermented Sourdough Bread Sliced | Izzio | $49.95 | true |
-| Coffee Toppers Salted Caramel Whipped Cream 2 Units / 425 g / 15 oz | Coffee Toppers | $79.95 | true |
 | Swiss Miss Sugar-free Cocoa 60 Units / 20 g / 0.7 oz | Swiss Miss | $109.95 | true |
 | Terra Creta Extra Virgin Olive Oil in Marasca 1 L / 33.81 oz | Terra Creta | $134.95 | true |
+| YoguRico Strawberry Low Fat Drinkable Yogurt  1.68 L / 57 oz | YoguRico | $54.95 | true |
 | Diamond Shelled Walnuts 907 g / 32 oz | Diamond | $139.95 | true |
-| Chobani Greek Yogurt 20G Protein 8 Units / 296 mL / 10 oz | Chobani | $159.95 | true |
-| Galvanina Lemon Flavor Sparkling Mineral Water 24 Units / 500 mL / 16.9 oz | Galvanina | $169.95 | true |
+| Copper Kettle Dark Chocolate Truffles with Sea Salt 448 g / 16 oz | Copper Kettle | $139.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1038
-- **Price increases**: 525
-- **Price decreases**: 480
-- **Average increase**: 5.4%
-- **Average decrease**: -5.5%
+- **Total price changes**: 1002
+- **Price increases**: 501
+- **Price decreases**: 466
+- **Average increase**: 5.1%
+- **Average decrease**: -5.9%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Sea Best Raw Lobster Cake 762 g / 1.68 lb | $94.95 | $131.95 | $+37.00 | +39.0% | Increase |
-| Dixee Lightly Salted Whole Wheat Crackers 4 Units / 276 g / 9.7 oz | $0.00 | $54.95 | $+54.95 | +100.0% | New |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $209.44 | $210.71 | $+1.27 | +0.6% | Increase |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $327.93 | $329.04 | $+1.11 | +0.3% | Increase |
-| Frozen Sliced Turkey Drumsticks | $150.85 | $150.66 | $-0.19 | -0.1% | Decrease |
-| Pork Belly with Skin Frozen Vacuum Packaged | $185.24 | $186.11 | $+0.87 | +0.5% | Increase |
-| Fresh Chicken Mixed Parts Tray | $93.52 | $93.31 | $-0.21 | -0.2% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $152.05 | $151.59 | $-0.46 | -0.3% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $94.41 | $94.31 | $-0.10 | -0.1% | Decrease |
-| Mowi Tuscan Frozen Herb Salmon Portions 710 g / 1.56 lb | $185.95 | $192.95 | $+7.00 | +3.8% | Increase |
-| Fresh Ground Chicken Tray | $108.47 | $108.59 | $+0.12 | +0.1% | Increase |
-| Fresh Red Globe Grapes | $82.32 | $82.16 | $-0.16 | -0.2% | Decrease |
-| All Inklusive Protein Multicereal 1 kg / 2.2 lb | $91.95 | $82.70 | $-9.25 | -10.1% | Decrease |
-| Ibis All Purpose Flour 10 kg / 22 lb | $59.95 | $63.95 | $+4.00 | +6.7% | Increase |
-| Hillshire Farm Ham Mix 3 Units / 454 g / 16 oz | $194.95 | $99.70 | $-95.25 | -48.9% | Decrease |
+| Dare Viva Puffs Cookies with Marshmallows and Strawberry Covered in Chocolate 2 Units / 300 g | $49.95 | $44.70 | $-5.25 | -10.5% | Decrease |
+| Orchard Assorted Drinks Juice Mix 6 Units / 1L | $69.95 | $64.95 | $-5.00 | -7.1% | Decrease |
+| Edwards Signatures Pecan Pie 907g / 2 lb | $68.95 | $69.95 | $+1.00 | +1.5% | Increase |
+| Member's Selection Sliced Swiss Cheese 907 g / 2 lb | $89.95 | $87.95 | $-2.00 | -2.2% | Decrease |
+| Member's Selection Shredded Mexican-Style Cheese 2 Units / 680 g / 1.5 lb | $106.95 | $104.95 | $-2.00 | -1.9% | Decrease |
+| Apple & Eve Organic Orange Carrot Juice 2 Units / 2.84 L / 96 oz | $79.70 | $109.95 | $+30.25 | +38.0% | Increase |
+| DeLallo Provoloni Antipasti 317 g / 11.2 oz | $0.00 | $69.95 | $+69.95 | +100.0% | New |
+|  Best Fruit Ripe Dehydrated Mangoes 4 Units / 100 g | $94.95 | $82.70 | $-12.25 | -12.9% | Decrease |
+| Smartfood White Cheddar Cheese Flavor Popcorn 156 g / 5.50 oz | $23.95 | $24.95 | $+1.00 | +4.2% | Increase |
+| Annie's Organic Macaroni and Cheese Variety Pack 12 Units / 170 g | $199.70 | $99.70 | $-100.00 | -50.1% | Decrease |
+| Swiss Sorrel Drink 3 Units / 750 mL / 25.36 oz | $43.70 | $29.70 | $-14.00 | -32.0% | Decrease |
+| Member's Selection Canola Oil Spray 2 Units 400 mL / 13.5 oz | $0.00 | $74.95 | $+74.95 | +100.0% | New |
+| Frozen Pork Belly Skin On Sliced Tray  | $109.87 | $110.35 | $+0.48 | +0.4% | Increase |
+| Papaya | $32.06 | $31.90 | $-0.16 | -0.5% | Decrease |
+| Holiday Snacks Assorted Hot Potato Chips 12 Units | $49.95 | $39.70 | $-10.25 | -20.5% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,19 +100,21 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Cranberry 907 g / 2 lb |  | $57.95 | 2026-01-14 |
+| Carapelli Organic Extra Virgin Olive Oil 880 g / 33.8 oz | Carapelli | $129.95 | 2026-01-14 |
+| Pink Lady Apple 1.81 kg / 4 lb |  | $81.95 | 2026-01-14 |
+| Coke Soft Drink Zero Sugar Free and Calorie Free 12 Units / 591 mL / 20 oz | Coca-Cola | $52.95 | 2026-01-14 |
+| Gouda Block Cheese 500 g / 1.1 lb | Anchor | $54.95 | 2026-01-14 |
 | My Mochi Peppermint Ice Cream 420 g / 15 oz | My Mochi | $29.70 | 2026-01-13 |
 | Member’s Selection Breaded Mozzarella Sticks 2.04 kg / 4.5 lb | Member's Selection | $157.95 | 2026-01-12 |
 | Mixed Tomato Cherry 907 g / 2 lb |  | $49.95 | 2026-01-12 |
 | Chuckanut Bay Chocalate Covered Cheesecake Bites 634 g / 1.4 lb | Chuckanut Bay | $69.70 | 2026-01-12 |
 | Member's Selection Spaghetti 4 Units / 454 g / 1 lb | Member's Selection | $59.95 | 2026-01-12 |
-| Honey Crisp Apple 1.36 kg / 3 lb |  | $52.95 | 2026-01-11 |
-| Red Seedless Grapes 907 g / 2 lb |  | $68.95 | 2026-01-11 |
-| Bartlett Pear 1.3 kg / 3 lb |  | $72.95 | 2026-01-11 |
-| TJC Assorted Juices 6 Units / 540 mL | TJC | $76.95 | 2026-01-11 |
-| Carbonell Extra Virgin Olive Oil Arbequina Special Selection 750 mL / 25.4 oz | Carbonell | $74.95 | 2026-01-10 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Dixee Lightly Salted Whole Wheat Crackers 4 Units / 276 g / 9.7 oz | Dixee | $54.95 | G10D03 |
+| DeLallo Provoloni Antipasti 317 g / 11.2 oz | DeLallo | $69.95 | G10D03 |
+| Member's Selection Canola Oil Spray 2 Units 400 mL / 13.5 oz | Member's Selection | $74.95 | G10D03 |
+| Nature Valley Sweet and Salty Almond Granola Bar 36 Units / 34 g / 1.2 oz | Nature Valley | $129.95 | G10D03 |
