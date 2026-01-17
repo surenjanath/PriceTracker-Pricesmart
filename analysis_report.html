@@ -1,14 +1,14 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1153
-- **Total value**: $131,854.78
-- **Average price**: $114.36
+- **Total products scraped**: 1155
+- **Total value**: $129,959.19
+- **Average price**: $112.52
 
 ## Database Changes
 - **New products added**: 2
-- **Existing products updated**: 1151
-- **Price changes detected**: 48
+- **Existing products updated**: 1153
+- **Price changes detected**: 21
 - **Stock/availability changes**: 15
 - **Discontinued products**: 1
 
@@ -16,7 +16,7 @@
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 186 |
+| Member's Selection | 187 |
 |  | 133 |
 | Badia | 18 |
 | Swiss | 14 |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1052
-- **Price increases**: 522
-- **Price decreases**: 493
-- **Average increase**: 8.6%
-- **Average decrease**: -6.0%
+- **Total price changes**: 1034
+- **Price increases**: 503
+- **Price decreases**: 492
+- **Average increase**: 8.8%
+- **Average decrease**: -6.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Mixed Pepper Box 9 kg / 20 lb | $229.95 | $249.95 | $+20.00 | +8.7% | Increase |
-| Nectarine 908 g / 2 lb | $59.95 | $72.95 | $+13.00 | +21.7% | Increase |
-| Currants 1 kg / 2.2 lb | $59.95 | $29.70 | $-30.25 | -50.5% | Decrease |
-| Fresh Strawberry 454 g / 1 lb | $39.95 | $34.95 | $-5.00 | -12.5% | Decrease |
-| Cherries 454 g / 1 lb | $82.95 | $69.95 | $-13.00 | -15.7% | Decrease |
-| Rastelli's Ribeye Steak 2 Units 225 g / 8 oz | $0.00 | $129.95 | $+129.95 | +100.0% | New |
-| Frozen Pork Belly Skin On Sliced Tray  | $110.35 | $109.87 | $-0.48 | -0.4% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $240.78 | $242.32 | $+1.54 | +0.6% | Increase |
-| Rastelli's New York Strip Steak 2 Units / 225 g / 8 oz | $0.00 | $126.95 | $+126.95 | +100.0% | New |
-| Frozen Carite Steaks Bag 1 kg / 2.2 lb | $79.95 | $86.95 | $+7.00 | +8.8% | Increase |
-| Frozen King Fish Steaks Bag 1 kg / 2.2 lb | $89.95 | $94.95 | $+5.00 | +5.6% | Increase |
-| Prunes 1 kg / 2.2 lb | $54.95 | $29.70 | $-25.25 | -46.0% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $85.30 | $85.21 | $-0.09 | -0.1% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $209.44 | $208.49 | $-0.95 | -0.5% | Decrease |
-| Avocado Mesh 5 Units | $42.95 | $39.95 | $-3.00 | -7.0% | Decrease |
+| Kiss Muffin Assorted Chocolate and Blueberry Muffins 12 Units / 64 g | $0.00 | $39.95 | $+39.95 | +100.0% | New |
+| Best Fruit Sweetened Fruit Snack Seedless Plum with Strawberry Flavor 454 g | $0.00 | $64.95 | $+64.95 | +100.0% | New |
+| The Happy Planet Oyster Mushroom 310 g / 11.2 oz | $49.95 | $29.95 | $-20.00 | -40.0% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $57.46 | $57.27 | $-0.19 | -0.3% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $150.66 | $150.95 | $+0.29 | +0.2% | Increase |
+| Fresh Chicken Mixed Parts Tray | $93.20 | $92.98 | $-0.22 | -0.2% | Decrease |
+| Frozen Lamb Shoulder Chops Tray | $122.77 | $122.60 | $-0.17 | -0.1% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $152.05 | $152.21 | $+0.16 | +0.1% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $87.47 | $87.38 | $-0.09 | -0.1% | Decrease |
+| Fresh Ground Chicken Tray | $108.59 | $108.70 | $+0.11 | +0.1% | Increase |
+| Fresh Chicken Boneless Breast Bag | $419.57 | $420.47 | $+0.90 | +0.2% | Increase |
+| Chobani Low Fat Greek Yogurt 16 Units 128 g / 4.5 oz | $174.95 | $124.70 | $-50.25 | -28.7% | Decrease |
+| Frozen Bone-In Pork Shoulder Vacuum Packed | $261.44 | $260.04 | $-1.40 | -0.5% | Decrease |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $442.30 | $452.59 | $+10.29 | +2.3% | Increase |
+| Hunt's Diced Tomatoes 8 Units / 411 g / 14.25 oz | $1999.00 | $104.95 | $-1894.05 | -94.7% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -85,6 +85,7 @@
 
 | Product | Old Price | New Price | % Decrease |
 |---------|-----------|-----------|------------|
+| Hunt's Diced Tomatoes 8 Units / 411 g / 14.25 oz | $1999.00 | $104.95 | -94.7% |
 | Tropical Frying Cheese 907 g / 32 oz | $89.95 | $19.70 | -78.1% |
 | Bombolo Biscotti Decorated Cookies with Autumn Patterns 18 Units | $52.70 | $13.77 | -73.9% |
 | Sabra Classic Hummus 850 g / 30 oz | $79.95 | $24.70 | -69.1% |
@@ -94,12 +95,12 @@
 | Pop-Tarts Snack Crunchy Poppers Filled with Strawberry and Brownie 2 Units 360 g / 12.6 oz  | $174.95 | $64.70 | -63.0% |
 | Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $89.95 | $34.70 | -61.4% |
 | Frozen Bone-In Pork Shoulder Case | $1139.93 | $479.50 | -57.9% |
-| Cherries | $75.18 | $32.76 | -56.4% |
 
 ## Recently Discontinued Products
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| La Croix Sparkling Water Variety Pack 24 Units / 355 mL / 12 oz  | La Croix | $109.95 | 2026-01-16 |
 | United With Earth Date and Almond Rolls 340 g / 12 oz | United with Earth | $29.70 | 2026-01-15 |
 | Cranberry 907 g / 2 lb |  | $57.95 | 2026-01-14 |
 | Carapelli Organic Extra Virgin Olive Oil 880 g / 33.8 oz | Carapelli | $129.95 | 2026-01-14 |
@@ -109,11 +110,10 @@
 | My Mochi Peppermint Ice Cream 420 g / 15 oz | My Mochi | $29.70 | 2026-01-13 |
 | Member’s Selection Breaded Mozzarella Sticks 2.04 kg / 4.5 lb | Member's Selection | $157.95 | 2026-01-12 |
 | Mixed Tomato Cherry 907 g / 2 lb |  | $49.95 | 2026-01-12 |
-| Chuckanut Bay Chocalate Covered Cheesecake Bites 634 g / 1.4 lb | Chuckanut Bay | $69.70 | 2026-01-12 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Rastelli's Ribeye Steak 2 Units 225 g / 8 oz | Rastelli's | $129.95 | G10D03 |
-| Rastelli's New York Strip Steak 2 Units / 225 g / 8 oz | Rastelli's | $126.95 | G10D03 |
+| Kiss Muffin Assorted Chocolate and Blueberry Muffins 12 Units / 64 g | Kiss | $39.95 | G10D03 |
+| Best Fruit Sweetened Fruit Snack Seedless Plum with Strawberry Flavor 454 g | Best Fruit | $64.95 | G10D03 |
