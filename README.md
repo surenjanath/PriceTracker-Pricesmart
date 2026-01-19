@@ -185,22 +185,22 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1155
-- **Total value**: $129,958.69
-- **Average price**: $112.52
+- **Total value**: $130,383.28
+- **Average price**: $112.89
 
 ## Database Changes
 - **New products added**: 0
 - **Existing products updated**: 1155
-- **Price changes detected**: 21
-- **Stock/availability changes**: 23
-- **Discontinued products**: 0
+- **Price changes detected**: 37
+- **Stock/availability changes**: 13
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 187 |
-|  | 133 |
+| Member's Selection | 186 |
+|  | 135 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 11 |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1001
-- **Price increases**: 482
-- **Price decreases**: 480
-- **Average increase**: 9.1%
+- **Total price changes**: 954
+- **Price increases**: 447
+- **Price decreases**: 472
+- **Average increase**: 9.4%
 - **Average decrease**: -5.9%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Frozen Pork Belly Skin On Sliced Tray  | $109.87 | $110.35 | $+0.48 | +0.4% | Increase |
-| Frozen Sliced Turkey Drumsticks | $150.95 | $150.66 | $-0.29 | -0.2% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $208.49 | $208.18 | $-0.31 | -0.1% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $94.21 | $94.11 | $-0.10 | -0.1% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $97.72 | $97.63 | $-0.09 | -0.1% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $152.21 | $152.36 | $+0.15 | +0.1% | Increase |
-| Fresh Whole Chicken 2 Units | $102.19 | $102.23 | $+0.04 | +0.0% | Increase |
-| Fresh Ground Chicken Tray | $108.70 | $108.82 | $+0.12 | +0.1% | Increase |
-| Fresh Chicken Boneless Breast Bag | $420.47 | $419.57 | $-0.90 | -0.2% | Decrease |
-| Fresh Ground Chicken Meat Bag | $275.13 | $275.34 | $+0.21 | +0.1% | Increase |
-| Member's Selection Chilled Chicken Liver, Tray Pack | $42.04 | $41.99 | $-0.05 | -0.1% | Decrease |
-| Member's Selection Frozen US Ground Beef Patties 80/20 Tray Pack | $140.93 | $140.36 | $-0.57 | -0.4% | Decrease |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $76.57 | $76.45 | $-0.12 | -0.2% | Decrease |
-| Pork Chop with Bone Frozen Tray | $87.00 | $86.87 | $-0.13 | -0.1% | Decrease |
-| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $162.37 | $162.50 | $+0.13 | +0.1% | Increase |
+| Fresh Chicken Thighs Boneless Bag | $321.63 | $320.33 | $-1.30 | -0.4% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $242.32 | $231.30 | $-11.02 | -4.5% | Decrease |
+| Papaya | $31.90 | $31.87 | $-0.03 | -0.1% | Decrease |
+| Frozen Bone In Baby Back Ribs Vacuum Packaged Case | $1639.00 | $1599.00 | $-40.00 | -2.4% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $57.27 | $57.46 | $+0.19 | +0.3% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $77.84 | $79.31 | $+1.47 | +1.9% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $115.21 | $116.69 | $+1.48 | +1.3% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $85.21 | $85.13 | $-0.08 | -0.1% | Decrease |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $322.65 | $311.24 | $-11.41 | -3.5% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $89.72 | $89.54 | $-0.18 | -0.2% | Decrease |
+| Frozen Lamb Leg Whole Vacuum Packed | $414.29 | $403.35 | $-10.94 | -2.6% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $150.66 | $150.85 | $+0.19 | +0.1% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $208.18 | $194.11 | $-14.07 | -6.8% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $92.98 | $92.76 | $-0.22 | -0.2% | Decrease |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $149.28 | $143.81 | $-5.47 | -3.7% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,8 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Red Rose Pink Salmon 3 Units / 418 g | Red Rose | $125.95 | 2026-01-18 |
+| Member's Selection Freshly Made Chicken Salad Wraps 4 Units | Member's Selection | $65.95 | 2026-01-18 |
 | La Croix Sparkling Water Variety Pack 24 Units / 355 mL / 12 oz  | La Croix | $109.95 | 2026-01-16 |
 | United With Earth Date and Almond Rolls 340 g / 12 oz | United with Earth | $29.70 | 2026-01-15 |
 | Cranberry 907 g / 2 lb |  | $57.95 | 2026-01-14 |
@@ -291,8 +293,6 @@ This project has recently gained unexpected attention. It was created for person
 | Coke Soft Drink Zero Sugar Free and Calorie Free 12 Units / 591 mL / 20 oz | Coca-Cola | $52.95 | 2026-01-14 |
 | Gouda Block Cheese 500 g / 1.1 lb | Anchor | $54.95 | 2026-01-14 |
 | My Mochi Peppermint Ice Cream 420 g / 15 oz | My Mochi | $29.70 | 2026-01-13 |
-| Member’s Selection Breaded Mozzarella Sticks 2.04 kg / 4.5 lb | Member's Selection | $157.95 | 2026-01-12 |
-| Mixed Tomato Cherry 907 g / 2 lb |  | $49.95 | 2026-01-12 |
 
 ## New Products Added Today
 No new products added today.
