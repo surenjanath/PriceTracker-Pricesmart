@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1155
-- **Total value**: $130,383.28
-- **Average price**: $112.89
+- **Total products scraped**: 1152
+- **Total value**: $130,142.63
+- **Average price**: $112.97
 
 ## Database Changes
 - **New products added**: 0
-- **Existing products updated**: 1155
-- **Price changes detected**: 37
-- **Stock/availability changes**: 13
-- **Discontinued products**: 2
+- **Existing products updated**: 1152
+- **Price changes detected**: 22
+- **Stock/availability changes**: 17
+- **Discontinued products**: 3
 
 ## Top 5 Brands
 
@@ -214,40 +214,40 @@ This project has recently gained unexpected attention. It was created for person
 | Swiss Miss Sugar-free Cocoa 60 Units / 20 g / 0.7 oz | Swiss Miss | $109.95 | true |
 | Izzio Artisan Naturally Fermented Sourdough Bread Sliced | Izzio | $49.95 | true |
 | Trevijano Thai Style Cous Cous Rice 800 g / 28.2 oz | Trevijano | $75.95 | true |
-| YoguRico Strawberry Low Fat Drinkable Yogurt  1.68 L / 57 oz | YoguRico | $54.95 | true |
 | Terra Creta Extra Virgin Olive Oil in Marasca 1 L / 33.81 oz | Terra Creta | $134.95 | true |
 | Coffee Toppers Salted Caramel Whipped Cream 2 Units / 425 g / 15 oz | Coffee Toppers | $79.95 | true |
 | Izzio Artisanal Sourdough Focaccia Bread with Rosemary, Garlic, and Olive Oil Ready to Bake | Izzio | $39.95 | true |
 | Copper Kettle Dark Chocolate Truffles with Sea Salt 448 g / 16 oz | Copper Kettle | $139.95 | true |
+| Diamond Shelled Walnuts 907 g / 32 oz | Diamond | $139.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 954
-- **Price increases**: 447
-- **Price decreases**: 472
-- **Average increase**: 9.4%
-- **Average decrease**: -5.9%
+- **Total price changes**: 948
+- **Price increases**: 437
+- **Price decreases**: 476
+- **Average increase**: 9.6%
+- **Average decrease**: -6.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Chicken Thighs Boneless Bag | $321.63 | $320.33 | $-1.30 | -0.4% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $242.32 | $231.30 | $-11.02 | -4.5% | Decrease |
-| Papaya | $31.90 | $31.87 | $-0.03 | -0.1% | Decrease |
-| Frozen Bone In Baby Back Ribs Vacuum Packaged Case | $1639.00 | $1599.00 | $-40.00 | -2.4% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $57.27 | $57.46 | $+0.19 | +0.3% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $77.84 | $79.31 | $+1.47 | +1.9% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $115.21 | $116.69 | $+1.48 | +1.3% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $85.21 | $85.13 | $-0.08 | -0.1% | Decrease |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $322.65 | $311.24 | $-11.41 | -3.5% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $89.72 | $89.54 | $-0.18 | -0.2% | Decrease |
-| Frozen Lamb Leg Whole Vacuum Packed | $414.29 | $403.35 | $-10.94 | -2.6% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $150.66 | $150.85 | $+0.19 | +0.1% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $208.18 | $194.11 | $-14.07 | -6.8% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $92.98 | $92.76 | $-0.22 | -0.2% | Decrease |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $149.28 | $143.81 | $-5.47 | -3.7% | Decrease |
+| Frozen Boneless Skinless Chicken Breast Tray | $131.77 | $131.29 | $-0.48 | -0.4% | Decrease |
+| Alessi Biscotti Savoiardi Cookies 400 g / 14 oz | $42.95 | $36.70 | $-6.25 | -14.6% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $231.30 | $230.71 | $-0.59 | -0.3% | Decrease |
+| Frozen Pork Belly Skin On Sliced Tray  | $110.35 | $110.59 | $+0.24 | +0.2% | Increase |
+| Papaya | $31.87 | $31.80 | $-0.07 | -0.2% | Decrease |
+| McVitie's Ginger Nut Biscuits 4 Units / 250 g | $42.95 | $37.70 | $-5.25 | -12.2% | Decrease |
+| Fresh Cello Carrots 1.3 kg / 3 lb | $18.95 | $17.45 | $-1.50 | -7.9% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $116.69 | $116.53 | $-0.16 | -0.1% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $150.85 | $150.66 | $-0.19 | -0.1% | Decrease |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $143.81 | $145.58 | $+1.77 | +1.2% | Increase |
+| Fresh Chicken Leg Quarters Tray | $94.01 | $93.91 | $-0.10 | -0.1% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $97.53 | $97.43 | $-0.10 | -0.1% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $152.36 | $152.67 | $+0.31 | +0.2% | Increase |
+| Fresh Ground Chicken Tray | $108.82 | $108.59 | $-0.23 | -0.2% | Decrease |
+| Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $54.70 | $89.95 | $+35.25 | +64.4% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,9 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Terra Real Vegetable Chips 425 g / 15 oz | Terra | $82.95 | 2026-01-19 |
+| Sunny Fruits Organic Dried Apricots 10 Units / 50 g / 1.76 oz | Sunny Fruits | $59.95 | 2026-01-19 |
+| Lipton Yellow Label Tea 2 Packs / 100 Units / 2 g | Lipton | $119.95 | 2026-01-19 |
 | Red Rose Pink Salmon 3 Units / 418 g | Red Rose | $125.95 | 2026-01-18 |
 | Member's Selection Freshly Made Chicken Salad Wraps 4 Units | Member's Selection | $65.95 | 2026-01-18 |
 | La Croix Sparkling Water Variety Pack 24 Units / 355 mL / 12 oz  | La Croix | $109.95 | 2026-01-16 |
@@ -290,9 +293,6 @@ This project has recently gained unexpected attention. It was created for person
 | Cranberry 907 g / 2 lb |  | $57.95 | 2026-01-14 |
 | Carapelli Organic Extra Virgin Olive Oil 880 g / 33.8 oz | Carapelli | $129.95 | 2026-01-14 |
 | Pink Lady Apple 1.81 kg / 4 lb |  | $81.95 | 2026-01-14 |
-| Coke Soft Drink Zero Sugar Free and Calorie Free 12 Units / 591 mL / 20 oz | Coca-Cola | $52.95 | 2026-01-14 |
-| Gouda Block Cheese 500 g / 1.1 lb | Anchor | $54.95 | 2026-01-14 |
-| My Mochi Peppermint Ice Cream 420 g / 15 oz | My Mochi | $29.70 | 2026-01-13 |
 
 ## New Products Added Today
 No new products added today.
