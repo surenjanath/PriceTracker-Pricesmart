@@ -1,15 +1,15 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1153
-- **Total value**: $130,228.25
-- **Average price**: $112.95
+- **Total products scraped**: 1152
+- **Total value**: $129,298.32
+- **Average price**: $112.24
 
 ## Database Changes
-- **New products added**: 3
-- **Existing products updated**: 1150
-- **Price changes detected**: 53
-- **Stock/availability changes**: 17
+- **New products added**: 1
+- **Existing products updated**: 1151
+- **Price changes detected**: 43
+- **Stock/availability changes**: 10
 - **Discontinued products**: 2
 
 ## Top 5 Brands
@@ -17,7 +17,7 @@
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 187 |
-|  | 133 |
+|  | 132 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 11 |
@@ -26,45 +26,45 @@
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Izzio Artisan Naturally Fermented Sourdough Bread Sliced | Izzio | $49.95 | true |
-| Bob's Red Mill Oatmeal with Protein 1.81 kg / 4 lb | Bob's Red Mill | $144.95 | true |
 | Just About Foods Organic and Creamy Peanut Butter 1.13 kg / 40 oz | Just About Foods | $97.95 | true |
+| Bob's Red Mill Oatmeal with Protein 1.81 kg / 4 lb | Bob's Red Mill | $144.95 | true |
+| Izzio Artisan Naturally Fermented Sourdough Bread Sliced | Izzio | $49.95 | true |
 | Coffee Toppers Salted Caramel Whipped Cream 2 Units / 425 g / 15 oz | Coffee Toppers | $79.95 | true |
-| Trevijano Thai Style Cous Cous Rice 800 g / 28.2 oz | Trevijano | $75.95 | true |
 | Swiss Miss Sugar-free Cocoa 60 Units / 20 g / 0.7 oz | Swiss Miss | $109.95 | true |
+| Trevijano Thai Style Cous Cous Rice 800 g / 28.2 oz | Trevijano | $75.95 | true |
 | Izzio Artisanal Sourdough Focaccia Bread with Rosemary, Garlic, and Olive Oil Ready to Bake | Izzio | $39.95 | true |
-| Galvanina Lemon Flavor Sparkling Mineral Water 24 Units / 500 mL / 16.9 oz | Galvanina | $169.95 | true |
 | Terra Creta Extra Virgin Olive Oil in Marasca 1 L / 33.81 oz | Terra Creta | $134.95 | true |
+| Galvanina Lemon Flavor Sparkling Mineral Water 24 Units / 500 mL / 16.9 oz | Galvanina | $169.95 | true |
 | Copper Kettle Dark Chocolate Truffles with Sea Salt 448 g / 16 oz | Copper Kettle | $139.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 955
+- **Total price changes**: 961
 - **Price increases**: 431
-- **Price decreases**: 489
-- **Average increase**: 9.9%
-- **Average decrease**: -6.1%
+- **Price decreases**: 496
+- **Average increase**: 10.6%
+- **Average decrease**: -6.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Dietz & Watson Sliced Roast Beef 454 g / 1 lb | $129.95 | $132.95 | $+3.00 | +2.3% | Increase |
-| Fresh Chicken Thighs Boneless Bag | $320.33 | $321.75 | $+1.42 | +0.4% | Increase |
-| Dietz and Watson Honey Turkey Breast 454 g / 16 oz | $94.95 | $99.95 | $+5.00 | +5.3% | Increase |
-| Member's Selection American Cheese Singles 907 g / 2 lb | $56.95 | $54.95 | $-2.00 | -3.5% | Decrease |
-| Member's Selection Sliced Mild Cheddar Cheese 907 g / 2 lb  | $64.95 | $59.95 | $-5.00 | -7.7% | Decrease |
-| Member's Selection American Singles 907 g / 2 lb | $56.95 | $54.95 | $-2.00 | -3.5% | Decrease |
-| Member's Selection Pasteurized American Cheese 1.36 kg / 3 lb | $89.95 | $87.95 | $-2.00 | -2.2% | Decrease |
-| Member's Selection Shredded Mexican-Style Cheese 2 Units / 680 g / 1.5 lb | $104.95 | $99.95 | $-5.00 | -4.8% | Decrease |
-| Member's Selection Premium Turkey Breast 2 Units / 340 g / 12 oz | $109.95 | $112.95 | $+3.00 | +2.7% | Increase |
-| Garden Foods Mixed Vegetables 1.36 kg / 3 lb | $0.00 | $54.95 | $+54.95 | +100.0% | New |
-| Garden Foods Mixed Vegetables 1.36 kg / 3 lb | $0.00 | $54.95 | $+54.95 | +100.0% | New |
-| Fruit Nation Preservative-Free Mango Nectar 36 Units / 200 mL / 6.7 oz | $115.95 | $99.70 | $-16.25 | -14.0% | Decrease |
-| Flipz Pretzels Coated with Milk Chocolate 425 g / 15 oz | $94.95 | $89.95 | $-5.00 | -5.3% | Decrease |
-| Hot Scotch Bonnet Peppers | $31.95 | $28.95 | $-3.00 | -9.4% | Decrease |
-| Papaya | $31.74 | $31.80 | $+0.06 | +0.2% | Increase |
+| Plum 907 g / 2 lb | $77.95 | $82.95 | $+5.00 | +6.4% | Increase |
+| Peach 908 g / 2 lb | $59.95 | $79.95 | $+20.00 | +33.4% | Increase |
+| Molinaro's Organic Pizza Starter Kit 2 Units 380 g / 13.4 oz | $64.95 | $66.95 | $+2.00 | +3.1% | Increase |
+| Hillshire Farm Ham Mix 3 Units / 454 g / 16 oz | $69.70 | $194.95 | $+125.25 | +179.7% | Increase |
+| Green Seedless Grapes 907 g / 2 lb | $69.95 | $99.95 | $+30.00 | +42.9% | Increase |
+| Pringles Honey Mustard, Sour Cream & Onion, and Cheddar Cheese 3-Pack / 158 g / 5.5 oz | $0.00 | $79.95 | $+79.95 | +100.0% | New |
+| Frozen Pork Belly Skin On Sliced Tray  | $110.83 | $111.07 | $+0.24 | +0.2% | Increase |
+| Nectarine 908 g / 2 lb | $72.95 | $69.95 | $-3.00 | -4.1% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $230.71 | $231.30 | $+0.59 | +0.3% | Increase |
+| Papaya | $31.80 | $31.74 | $-0.06 | -0.2% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $194.70 | $195.29 | $+0.59 | +0.3% | Increase |
+| Badia All Purpose Marinade Seasoning 591 mL / 20 oz  | $20.95 | $22.95 | $+2.00 | +9.5% | Increase |
+| Fresh Chicken Breast Bone In Tray | $97.34 | $97.24 | $-0.10 | -0.1% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $92.76 | $92.87 | $+0.11 | +0.1% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $152.67 | $152.36 | $-0.31 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -77,9 +77,9 @@
 | Sabra Classic Hummus 850 g / 30 oz | $24.70 | $79.95 | +223.7% |
 | Avocado 2 Units | $9.70 | $29.95 | +208.8% |
 | Kozyshack Cinnamon Rice Pudding 1.36 kg / 3 lb | $29.70 | $89.95 | +202.9% |
+| Hillshire Farm Ham Mix 3 Units / 454 g / 16 oz | $69.70 | $194.95 | +179.7% |
 | Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $34.70 | $89.95 | +159.2% |
 | Cherries | $31.92 | $73.05 | +128.9% |
-| Nestos Capers in Brine 2 Units / 350 g / 12.4 oz | $29.70 | $64.95 | +118.7% |
 
 ## Biggest Price Decreases (All Time)
 
@@ -100,6 +100,8 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Gouda Cheese Block |  | $85.48 | 2026-01-22 |
+| Swift Frozen Pork Ribs Kansas City Style BBQ Vacuum Packing | Swift | $1169.78 | 2026-01-22 |
 | Prunes 1 kg / 2.2 lb |  | $29.70 | 2026-01-21 |
 | Orchard Orange Drink 24 Units / 250 mL | Orchard | $85.95 | 2026-01-21 |
 | Currants 1 kg / 2.2 lb |  | $29.70 | 2026-01-20 |
@@ -108,13 +110,9 @@
 | Lipton Yellow Label Tea 2 Packs / 100 Units / 2 g | Lipton | $119.95 | 2026-01-19 |
 | Red Rose Pink Salmon 3 Units / 418 g | Red Rose | $125.95 | 2026-01-18 |
 | Member's Selection Freshly Made Chicken Salad Wraps 4 Units | Member's Selection | $65.95 | 2026-01-18 |
-| La Croix Sparkling Water Variety Pack 24 Units / 355 mL / 12 oz  | La Croix | $109.95 | 2026-01-16 |
-| United With Earth Date and Almond Rolls 340 g / 12 oz | United with Earth | $29.70 | 2026-01-15 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Garden Foods Mixed Vegetables 1.36 kg / 3 lb | Garden Foods | $54.95 | G10D03 |
-| Garden Foods Mixed Vegetables 1.36 kg / 3 lb | Garden Foods | $54.95 | G10D03 |
-| Member's Selection Organic Trail Mix with Cranberries 737 g / 26 oz | Member's Selection | $154.95 | G10D03 |
+| Pringles Honey Mustard, Sour Cream & Onion, and Cheddar Cheese 3-Pack / 158 g / 5.5 oz | Pringles | $79.95 | G10D03 |
