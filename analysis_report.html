@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1152
-- **Total value**: $129,298.32
-- **Average price**: $112.24
+- **Total products scraped**: 1154
+- **Total value**: $129,411.59
+- **Average price**: $112.14
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1151
-- **Price changes detected**: 43
-- **Stock/availability changes**: 10
-- **Discontinued products**: 2
+- **New products added**: 0
+- **Existing products updated**: 1154
+- **Price changes detected**: 22
+- **Stock/availability changes**: 20
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -20,51 +20,51 @@
 |  | 132 |
 | Badia | 18 |
 | Swiss | 14 |
-| Kirkland Signature | 11 |
+| Kiss | 11 |
 
 ## Recent Products
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Just About Foods Organic and Creamy Peanut Butter 1.13 kg / 40 oz | Just About Foods | $97.95 | true |
-| Bob's Red Mill Oatmeal with Protein 1.81 kg / 4 lb | Bob's Red Mill | $144.95 | true |
+| Member's Selection Organic Trail Mix with Cranberries 737 g / 26 oz | Member's Selection | $154.95 | true |
+| Member's Selection Canola Oil Spray 2 Units 400 mL / 13.5 oz | Member's Selection | $79.95 | true |
 | Izzio Artisan Naturally Fermented Sourdough Bread Sliced | Izzio | $49.95 | true |
+| Bob's Red Mill Oatmeal with Protein 1.81 kg / 4 lb | Bob's Red Mill | $144.95 | true |
 | Coffee Toppers Salted Caramel Whipped Cream 2 Units / 425 g / 15 oz | Coffee Toppers | $79.95 | true |
-| Swiss Miss Sugar-free Cocoa 60 Units / 20 g / 0.7 oz | Swiss Miss | $109.95 | true |
-| Trevijano Thai Style Cous Cous Rice 800 g / 28.2 oz | Trevijano | $75.95 | true |
-| Izzio Artisanal Sourdough Focaccia Bread with Rosemary, Garlic, and Olive Oil Ready to Bake | Izzio | $39.95 | true |
 | Terra Creta Extra Virgin Olive Oil in Marasca 1 L / 33.81 oz | Terra Creta | $134.95 | true |
 | Galvanina Lemon Flavor Sparkling Mineral Water 24 Units / 500 mL / 16.9 oz | Galvanina | $169.95 | true |
+| Izzio Artisanal Sourdough Focaccia Bread with Rosemary, Garlic, and Olive Oil Ready to Bake | Izzio | $39.95 | true |
 | Copper Kettle Dark Chocolate Truffles with Sea Salt 448 g / 16 oz | Copper Kettle | $139.95 | true |
+| Diamond Shelled Walnuts 907 g / 32 oz | Diamond | $137.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 961
-- **Price increases**: 431
-- **Price decreases**: 496
-- **Average increase**: 10.6%
+- **Total price changes**: 983
+- **Price increases**: 442
+- **Price decreases**: 507
+- **Average increase**: 10.3%
 - **Average decrease**: -6.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Plum 907 g / 2 lb | $77.95 | $82.95 | $+5.00 | +6.4% | Increase |
-| Peach 908 g / 2 lb | $59.95 | $79.95 | $+20.00 | +33.4% | Increase |
-| Molinaro's Organic Pizza Starter Kit 2 Units 380 g / 13.4 oz | $64.95 | $66.95 | $+2.00 | +3.1% | Increase |
-| Hillshire Farm Ham Mix 3 Units / 454 g / 16 oz | $69.70 | $194.95 | $+125.25 | +179.7% | Increase |
-| Green Seedless Grapes 907 g / 2 lb | $69.95 | $99.95 | $+30.00 | +42.9% | Increase |
-| Pringles Honey Mustard, Sour Cream & Onion, and Cheddar Cheese 3-Pack / 158 g / 5.5 oz | $0.00 | $79.95 | $+79.95 | +100.0% | New |
-| Frozen Pork Belly Skin On Sliced Tray  | $110.83 | $111.07 | $+0.24 | +0.2% | Increase |
-| Nectarine 908 g / 2 lb | $72.95 | $69.95 | $-3.00 | -4.1% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $230.71 | $231.30 | $+0.59 | +0.3% | Increase |
-| Papaya | $31.80 | $31.74 | $-0.06 | -0.2% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $194.70 | $195.29 | $+0.59 | +0.3% | Increase |
-| Badia All Purpose Marinade Seasoning 591 mL / 20 oz  | $20.95 | $22.95 | $+2.00 | +9.5% | Increase |
-| Fresh Chicken Breast Bone In Tray | $97.34 | $97.24 | $-0.10 | -0.1% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $92.76 | $92.87 | $+0.11 | +0.1% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $152.67 | $152.36 | $-0.31 | -0.2% | Decrease |
+| Tomato 11.3 kg / 25 lb | $239.95 | $249.95 | $+10.00 | +4.2% | Increase |
+| Mixed Bell Pepper 1.36 kg / 3 lb | $42.95 | $43.95 | $+1.00 | +2.3% | Increase |
+| Hot Scotch Bonnet Peppers | $28.95 | $26.95 | $-2.00 | -6.9% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $85.04 | $84.96 | $-0.08 | -0.1% | Decrease |
+| Frozen Imported Pork Leg Slices | $85.24 | $86.32 | $+1.08 | +1.3% | Increase |
+| Pork Belly with Skin Frozen Vacuum Packaged | $186.11 | $188.26 | $+2.15 | +1.2% | Increase |
+| Philadelphia Cream Cheese 2 Units / 453 g / 16 oz | $99.95 | $112.95 | $+13.00 | +13.0% | Increase |
+| Green pepper | $38.11 | $35.25 | $-2.86 | -7.5% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $93.91 | $93.81 | $-0.10 | -0.1% | Decrease |
+| Fresh Whole Chicken 2 Units | $102.23 | $102.40 | $+0.17 | +0.2% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $152.36 | $152.67 | $+0.31 | +0.2% | Increase |
+| Fresh Ground Chicken Tray | $108.35 | $108.47 | $+0.12 | +0.1% | Increase |
+| Fresh Cucumber 1 kg / 2.2 lb | $22.95 | $20.95 | $-2.00 | -8.7% | Decrease |
+| Member's Selection Chilled Chicken Liver, Tray Pack | $41.99 | $41.91 | $-0.08 | -0.2% | Decrease |
+| Fine Choice Fresh Marinated Chicken Tray | $87.65 | $87.88 | $+0.23 | +0.3% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -112,7 +112,4 @@
 | Member's Selection Freshly Made Chicken Salad Wraps 4 Units | Member's Selection | $65.95 | 2026-01-18 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Pringles Honey Mustard, Sour Cream & Onion, and Cheddar Cheese 3-Pack / 158 g / 5.5 oz | Pringles | $79.95 | G10D03 |
+No new products added today.
