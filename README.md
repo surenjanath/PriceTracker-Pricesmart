@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1155
-- **Total value**: $129,528.49
-- **Average price**: $112.15
+- **Total products scraped**: 1153
+- **Total value**: $129,383.27
+- **Average price**: $112.21
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1154
-- **Price changes detected**: 24
-- **Stock/availability changes**: 30
-- **Discontinued products**: 0
+- **New products added**: 0
+- **Existing products updated**: 1153
+- **Price changes detected**: 37
+- **Stock/availability changes**: 17
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
@@ -211,43 +211,43 @@ This project has recently gained unexpected attention. It was created for person
 |-------|-------|-------------|--------------|
 | Member's Selection Organic Trail Mix with Cranberries 737 g / 26 oz | Member's Selection | $154.95 | true |
 | Member's Selection Canola Oil Spray 2 Units 400 mL / 13.5 oz | Member's Selection | $79.95 | true |
-| Izzio Artisan Naturally Fermented Sourdough Bread Sliced | Izzio | $49.95 | true |
 | Bob's Red Mill Oatmeal with Protein 1.81 kg / 4 lb | Bob's Red Mill | $144.95 | true |
+| Izzio Artisan Naturally Fermented Sourdough Bread Sliced | Izzio | $49.95 | true |
 | Coffee Toppers Salted Caramel Whipped Cream 2 Units / 425 g / 15 oz | Coffee Toppers | $79.95 | true |
 | Galvanina Lemon Flavor Sparkling Mineral Water 24 Units / 500 mL / 16.9 oz | Galvanina | $169.95 | true |
-| Terra Creta Extra Virgin Olive Oil in Marasca 1 L / 33.81 oz | Terra Creta | $134.95 | true |
 | Izzio Artisanal Sourdough Focaccia Bread with Rosemary, Garlic, and Olive Oil Ready to Bake | Izzio | $39.95 | true |
+| Terra Creta Extra Virgin Olive Oil in Marasca 1 L / 33.81 oz | Terra Creta | $134.95 | true |
 | Copper Kettle Dark Chocolate Truffles with Sea Salt 448 g / 16 oz | Copper Kettle | $139.95 | true |
 | Diamond Shelled Walnuts 907 g / 32 oz | Diamond | $137.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 946
-- **Price increases**: 414
-- **Price decreases**: 499
-- **Average increase**: 10.9%
-- **Average decrease**: -5.7%
+- **Total price changes**: 933
+- **Price increases**: 411
+- **Price decreases**: 490
+- **Average increase**: 11.7%
+- **Average decrease**: -5.4%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| General Mills Triple Chex Cereal Mix 1.53 kg / 3 lb | $0.00 | $97.95 | $+97.95 | +100.0% | New |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $231.30 | $232.18 | $+0.88 | +0.4% | Increase |
-| Papaya | $31.74 | $31.68 | $-0.06 | -0.2% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $84.96 | $84.87 | $-0.09 | -0.1% | Decrease |
-| Nutrina Chilled Whole Chicken Bag | $329.60 | $328.40 | $-1.20 | -0.4% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $195.29 | $195.00 | $-0.29 | -0.1% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $79.20 | $79.31 | $+0.11 | +0.1% | Increase |
-| Fresh Chicken Leg Quarters Tray | $93.81 | $93.71 | $-0.10 | -0.1% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $97.24 | $97.15 | $-0.09 | -0.1% | Decrease |
-| Fresh Whole Chicken 2 Units | $102.40 | $102.54 | $+0.14 | +0.1% | Increase |
-| Member's Selection Chilled Chicken Liver, Tray Pack | $41.91 | $41.88 | $-0.03 | -0.1% | Decrease |
-| Fresh Ground Chicken Tray | $108.47 | $108.23 | $-0.24 | -0.2% | Decrease |
-| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | $172.18 | $173.35 | $+1.17 | +0.7% | Increase |
-| Fine Choice Fresh Marinated Chicken Tray | $87.88 | $87.65 | $-0.23 | -0.3% | Decrease |
-| Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $34.70 | $57.95 | $+23.25 | +67.0% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $89.54 | $89.27 | $-0.27 | -0.3% | Decrease |
+| Frozen Boneless Skinless Chicken Breast Tray | $131.29 | $131.05 | $-0.24 | -0.2% | Decrease |
+| Tanty Yvonne Banana Bread with Chocolate Chips | $27.95 | $20.95 | $-7.00 | -25.0% | Decrease |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $311.24 | $322.65 | $+11.41 | +3.7% | Increase |
+| Frozen Lamb Leg Whole Vacuum Packed | $403.35 | $414.29 | $+10.94 | +2.7% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $84.87 | $84.78 | $-0.09 | -0.1% | Decrease |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $147.36 | $147.95 | $+0.59 | +0.4% | Increase |
+| Nutrina Chilled Whole Chicken Bag | $328.40 | $329.60 | $+1.20 | +0.4% | Increase |
+| Frozen Sliced Turkey Drumsticks | $150.08 | $149.32 | $-0.76 | -0.5% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $93.71 | $93.61 | $-0.10 | -0.1% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $97.15 | $96.95 | $-0.20 | -0.2% | Decrease |
+| Fresh Whole Chicken 2 Units | $102.54 | $102.61 | $+0.07 | +0.1% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $152.67 | $153.13 | $+0.46 | +0.3% | Increase |
+| Fresh Chicken Mixed Parts Tray | $92.87 | $92.54 | $-0.33 | -0.4% | Decrease |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $78.07 | $78.46 | $+0.39 | +0.5% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -257,12 +257,12 @@ This project has recently gained unexpected attention. It was created for person
 | Pillsbury Cookie Dough Mix 1.3 kg / 3 lb | $19.70 | $109.95 | +458.1% |
 | Tropical Frying Cheese 907 g / 32 oz | $19.70 | $89.95 | +356.6% |
 | Frozen Boneless Pork Loin Vacuum Packaged | $56.90 | $253.53 | +345.6% |
+| Carrot 2.27 kg / 5 lb | $9.70 | $37.95 | +291.2% |
 | Sabra Classic Hummus 850 g / 30 oz | $24.70 | $79.95 | +223.7% |
 | Avocado 2 Units | $9.70 | $29.95 | +208.8% |
 | Kozyshack Cinnamon Rice Pudding 1.36 kg / 3 lb | $29.70 | $89.95 | +202.9% |
 | Hillshire Farm Ham Mix 3 Units / 454 g / 16 oz | $69.70 | $194.95 | +179.7% |
 | Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $34.70 | $89.95 | +159.2% |
-| Cherries | $31.92 | $73.05 | +128.9% |
 
 ## Biggest Price Decreases (All Time)
 
@@ -283,6 +283,8 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Kozyshack Cinnamon Rice Pudding 1.36 kg / 3 lb | Kozyshack | $89.95 | 2026-01-25 |
+| Wellsley Farms Apple Cider 3.8 L / 128 oz | Wellsley Farms | $76.95 | 2026-01-25 |
 | Gouda Cheese Block |  | $85.48 | 2026-01-22 |
 | Swift Frozen Pork Ribs Kansas City Style BBQ Vacuum Packing | Swift | $1169.78 | 2026-01-22 |
 | Prunes 1 kg / 2.2 lb |  | $29.70 | 2026-01-21 |
@@ -291,11 +293,6 @@ This project has recently gained unexpected attention. It was created for person
 | Terra Real Vegetable Chips 425 g / 15 oz | Terra | $82.95 | 2026-01-19 |
 | Sunny Fruits Organic Dried Apricots 10 Units / 50 g / 1.76 oz | Sunny Fruits | $59.95 | 2026-01-19 |
 | Lipton Yellow Label Tea 2 Packs / 100 Units / 2 g | Lipton | $119.95 | 2026-01-19 |
-| Red Rose Pink Salmon 3 Units / 418 g | Red Rose | $125.95 | 2026-01-18 |
-| Member's Selection Freshly Made Chicken Salad Wraps 4 Units | Member's Selection | $65.95 | 2026-01-18 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| General Mills Triple Chex Cereal Mix 1.53 kg / 3 lb | General Mills | $97.95 | G10D03 |
+No new products added today.
