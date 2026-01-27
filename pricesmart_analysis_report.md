@@ -1,26 +1,26 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1153
-- **Total value**: $129,383.27
-- **Average price**: $112.21
+- **Total products scraped**: 1159
+- **Total value**: $129,792.46
+- **Average price**: $111.99
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1153
-- **Price changes detected**: 37
-- **Stock/availability changes**: 17
-- **Discontinued products**: 2
+- **New products added**: 2
+- **Existing products updated**: 1157
+- **Price changes detected**: 28
+- **Stock/availability changes**: 40
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 187 |
-|  | 132 |
+|  | 136 |
 | Badia | 18 |
 | Swiss | 14 |
-| Kiss | 11 |
+| Kirkland Signature | 11 |
 
 ## Recent Products
 
@@ -32,39 +32,39 @@
 | Izzio Artisan Naturally Fermented Sourdough Bread Sliced | Izzio | $49.95 | true |
 | Coffee Toppers Salted Caramel Whipped Cream 2 Units / 425 g / 15 oz | Coffee Toppers | $79.95 | true |
 | Galvanina Lemon Flavor Sparkling Mineral Water 24 Units / 500 mL / 16.9 oz | Galvanina | $169.95 | true |
-| Izzio Artisanal Sourdough Focaccia Bread with Rosemary, Garlic, and Olive Oil Ready to Bake | Izzio | $39.95 | true |
 | Terra Creta Extra Virgin Olive Oil in Marasca 1 L / 33.81 oz | Terra Creta | $134.95 | true |
+| Izzio Artisanal Sourdough Focaccia Bread with Rosemary, Garlic, and Olive Oil Ready to Bake | Izzio | $39.95 | true |
 | Copper Kettle Dark Chocolate Truffles with Sea Salt 448 g / 16 oz | Copper Kettle | $139.95 | true |
 | Diamond Shelled Walnuts 907 g / 32 oz | Diamond | $137.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 933
-- **Price increases**: 411
-- **Price decreases**: 490
-- **Average increase**: 11.7%
-- **Average decrease**: -5.4%
+- **Total price changes**: 963
+- **Price increases**: 425
+- **Price decreases**: 504
+- **Average increase**: 12.6%
+- **Average decrease**: -5.3%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Seasoned BBQ Chicken Quarters Bag | $89.54 | $89.27 | $-0.27 | -0.3% | Decrease |
-| Frozen Boneless Skinless Chicken Breast Tray | $131.29 | $131.05 | $-0.24 | -0.2% | Decrease |
-| Tanty Yvonne Banana Bread with Chocolate Chips | $27.95 | $20.95 | $-7.00 | -25.0% | Decrease |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $311.24 | $322.65 | $+11.41 | +3.7% | Increase |
-| Frozen Lamb Leg Whole Vacuum Packed | $403.35 | $414.29 | $+10.94 | +2.7% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $84.87 | $84.78 | $-0.09 | -0.1% | Decrease |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $147.36 | $147.95 | $+0.59 | +0.4% | Increase |
-| Nutrina Chilled Whole Chicken Bag | $328.40 | $329.60 | $+1.20 | +0.4% | Increase |
-| Frozen Sliced Turkey Drumsticks | $150.08 | $149.32 | $-0.76 | -0.5% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $93.71 | $93.61 | $-0.10 | -0.1% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $97.15 | $96.95 | $-0.20 | -0.2% | Decrease |
-| Fresh Whole Chicken 2 Units | $102.54 | $102.61 | $+0.07 | +0.1% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $152.67 | $153.13 | $+0.46 | +0.3% | Increase |
-| Fresh Chicken Mixed Parts Tray | $92.87 | $92.54 | $-0.33 | -0.4% | Decrease |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $78.07 | $78.46 | $+0.39 | +0.5% | Increase |
+| Orchard Assorted Juices 24 Units / 250 mL | $102.95 | $88.95 | $-14.00 | -13.6% | Decrease |
+| Golden Raisins 1 kg / 2.2 lb | $19.70 | $44.95 | $+25.25 | +128.2% | Increase |
+| Prunes 1 kg / 2.2 lb | $29.70 | $54.95 | $+25.25 | +85.0% | Increase |
+| Black Raisins 1 kg / 2.2 lb | $24.70 | $49.95 | $+25.25 | +102.2% | Increase |
+| Currants 1 kg / 2.2 lb | $29.70 | $59.95 | $+30.25 | +101.9% | Increase |
+| Frozen Boneless Skinless Chicken Breast Tray | $131.05 | $130.93 | $-0.12 | -0.1% | Decrease |
+| Naz Incredible Creations Red Onion Artisan Loaf Bread | $0.00 | $36.95 | $+36.95 | +100.0% | New |
+| Flipz Pretzels Coated with Milk Chocolate 425 g / 15 oz | $89.95 | $77.70 | $-12.25 | -13.6% | Decrease |
+| Chief Duck & Goat Curry Powder 600 g | $84.95 | $75.70 | $-9.25 | -10.9% | Decrease |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $147.95 | $148.54 | $+0.59 | +0.4% | Increase |
+| Bluewater Farms Cranberry Juice 1.65 L / 56 oz | $0.00 | $62.95 | $+62.95 | +100.0% | New |
+|  Kale 454 g / 1 lb | $25.95 | $23.95 | $-2.00 | -7.7% | Decrease |
+| Frozen Imported Pork Leg Slices | $86.32 | $86.43 | $+0.11 | +0.1% | Increase |
+| Cadbury Delicious Milk Chocolate Bar 180 g       | $51.95 | $53.95 | $+2.00 | +3.8% | Increase |
+| Frozen Sliced Turkey Drumsticks | $149.32 | $148.84 | $-0.48 | -0.3% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,16 +100,20 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Muffin Town Mini Bread Cake with Cinnamon Crumbs Topping | Muffin Town | $47.70 | 2026-01-26 |
 | Kozyshack Cinnamon Rice Pudding 1.36 kg / 3 lb | Kozyshack | $89.95 | 2026-01-25 |
 | Wellsley Farms Apple Cider 3.8 L / 128 oz | Wellsley Farms | $76.95 | 2026-01-25 |
 | Gouda Cheese Block |  | $85.48 | 2026-01-22 |
 | Swift Frozen Pork Ribs Kansas City Style BBQ Vacuum Packing | Swift | $1169.78 | 2026-01-22 |
-| Prunes 1 kg / 2.2 lb |  | $29.70 | 2026-01-21 |
 | Orchard Orange Drink 24 Units / 250 mL | Orchard | $85.95 | 2026-01-21 |
-| Currants 1 kg / 2.2 lb |  | $29.70 | 2026-01-20 |
 | Terra Real Vegetable Chips 425 g / 15 oz | Terra | $82.95 | 2026-01-19 |
 | Sunny Fruits Organic Dried Apricots 10 Units / 50 g / 1.76 oz | Sunny Fruits | $59.95 | 2026-01-19 |
 | Lipton Yellow Label Tea 2 Packs / 100 Units / 2 g | Lipton | $119.95 | 2026-01-19 |
+| Red Rose Pink Salmon 3 Units / 418 g | Red Rose | $125.95 | 2026-01-18 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Naz Incredible Creations Red Onion Artisan Loaf Bread | Naz Incredible Creations | $36.95 | G10D03 |
+| Bluewater Farms Cranberry Juice 1.65 L / 56 oz | Bluewater Farms | $62.95 | G10D03 |
