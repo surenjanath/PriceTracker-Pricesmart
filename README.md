@@ -184,26 +184,26 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1159
-- **Total value**: $129,792.46
-- **Average price**: $111.99
+- **Total products scraped**: 1161
+- **Total value**: $130,494.94
+- **Average price**: $112.40
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1157
+- **New products added**: 1
+- **Existing products updated**: 1160
 - **Price changes detected**: 28
-- **Stock/availability changes**: 40
-- **Discontinued products**: 1
+- **Stock/availability changes**: 32
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 187 |
+| Member's Selection | 188 |
 |  | 136 |
 | Badia | 18 |
 | Swiss | 14 |
-| Kirkland Signature | 11 |
+| Kiss | 11 |
 
 ## Recent Products
 
@@ -213,9 +213,9 @@ This project has recently gained unexpected attention. It was created for person
 | Member's Selection Canola Oil Spray 2 Units 400 mL / 13.5 oz | Member's Selection | $79.95 | true |
 | Bob's Red Mill Oatmeal with Protein 1.81 kg / 4 lb | Bob's Red Mill | $144.95 | true |
 | Izzio Artisan Naturally Fermented Sourdough Bread Sliced | Izzio | $49.95 | true |
-| Coffee Toppers Salted Caramel Whipped Cream 2 Units / 425 g / 15 oz | Coffee Toppers | $79.95 | true |
-| Galvanina Lemon Flavor Sparkling Mineral Water 24 Units / 500 mL / 16.9 oz | Galvanina | $169.95 | true |
 | Terra Creta Extra Virgin Olive Oil in Marasca 1 L / 33.81 oz | Terra Creta | $134.95 | true |
+| Galvanina Lemon Flavor Sparkling Mineral Water 24 Units / 500 mL / 16.9 oz | Galvanina | $169.95 | true |
+| Coffee Toppers Salted Caramel Whipped Cream 2 Units / 425 g / 15 oz | Coffee Toppers | $79.95 | true |
 | Izzio Artisanal Sourdough Focaccia Bread with Rosemary, Garlic, and Olive Oil Ready to Bake | Izzio | $39.95 | true |
 | Copper Kettle Dark Chocolate Truffles with Sea Salt 448 g / 16 oz | Copper Kettle | $139.95 | true |
 | Diamond Shelled Walnuts 907 g / 32 oz | Diamond | $137.95 | true |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 963
-- **Price increases**: 425
-- **Price decreases**: 504
+- **Total price changes**: 953
+- **Price increases**: 413
+- **Price decreases**: 505
 - **Average increase**: 12.6%
-- **Average decrease**: -5.3%
+- **Average decrease**: -5.2%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Orchard Assorted Juices 24 Units / 250 mL | $102.95 | $88.95 | $-14.00 | -13.6% | Decrease |
-| Golden Raisins 1 kg / 2.2 lb | $19.70 | $44.95 | $+25.25 | +128.2% | Increase |
-| Prunes 1 kg / 2.2 lb | $29.70 | $54.95 | $+25.25 | +85.0% | Increase |
-| Black Raisins 1 kg / 2.2 lb | $24.70 | $49.95 | $+25.25 | +102.2% | Increase |
-| Currants 1 kg / 2.2 lb | $29.70 | $59.95 | $+30.25 | +101.9% | Increase |
-| Frozen Boneless Skinless Chicken Breast Tray | $131.05 | $130.93 | $-0.12 | -0.1% | Decrease |
-| Naz Incredible Creations Red Onion Artisan Loaf Bread | $0.00 | $36.95 | $+36.95 | +100.0% | New |
-| Flipz Pretzels Coated with Milk Chocolate 425 g / 15 oz | $89.95 | $77.70 | $-12.25 | -13.6% | Decrease |
-| Chief Duck & Goat Curry Powder 600 g | $84.95 | $75.70 | $-9.25 | -10.9% | Decrease |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $147.95 | $148.54 | $+0.59 | +0.4% | Increase |
-| Bluewater Farms Cranberry Juice 1.65 L / 56 oz | $0.00 | $62.95 | $+62.95 | +100.0% | New |
-|  Kale 454 g / 1 lb | $25.95 | $23.95 | $-2.00 | -7.7% | Decrease |
-| Frozen Imported Pork Leg Slices | $86.32 | $86.43 | $+0.11 | +0.1% | Increase |
-| Cadbury Delicious Milk Chocolate Bar 180 g       | $51.95 | $53.95 | $+2.00 | +3.8% | Increase |
-| Frozen Sliced Turkey Drumsticks | $149.32 | $148.84 | $-0.48 | -0.3% | Decrease |
+| Popsalot Gourmet Caramel Popcorn with Almonds 283 g / 10 oz | $49.70 | $84.95 | $+35.25 | +70.9% | Increase |
+| Maison Bruyére Almond Crisps Cookies 360 g / 12.7 oz | $114.95 | $109.95 | $-5.00 | -4.3% | Decrease |
+| Orchard Assorted Juices 24 Units / 250 mL | $88.95 | $102.95 | $+14.00 | +15.7% | Increase |
+| Sara Lee Classic Pound Butter Cake 2 Pack / 453 g / 15.9 oz | $0.00 | $114.95 | $+114.95 | +100.0% | New |
+| Frozen Pork Belly Skin On Case | $1078.46 | $1169.42 | $+90.96 | +8.4% | Increase |
+| The Happy Planet Oyster Mushroom 310 g / 11.2 oz | $29.95 | $27.95 | $-2.00 | -6.7% | Decrease |
+| Frozen Imported Pork Leg Slices | $86.43 | $86.32 | $-0.11 | -0.1% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $195.29 | $195.00 | $-0.29 | -0.1% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $116.53 | $116.69 | $+0.16 | +0.1% | Increase |
+| Angel Parboiled Rice Extra Long Grain 9 kg / 19.8 lb | $85.95 | $89.95 | $+4.00 | +4.7% | Increase |
+| Orchard Assorted Drinks Juice Mix 6 Units / 1L | $64.95 | $69.95 | $+5.00 | +7.7% | Increase |
+| Orchard Orange Juice with Vitamin C 6 Units / 1 L / 33.8 oz | $62.95 | $67.95 | $+5.00 | +7.9% | Increase |
+| Silk Unsweetened Original 2 Units 1.89 L / 64 oz | $49.70 | $29.70 | $-20.00 | -40.2% | Decrease |
+| Carnation Evaporated Milk 6 Units / 371 mL / 12.5 oz | $66.95 | $71.95 | $+5.00 | +7.5% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $124.01 | $123.83 | $-0.18 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -298,5 +298,4 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Naz Incredible Creations Red Onion Artisan Loaf Bread | Naz Incredible Creations | $36.95 | G10D03 |
-| Bluewater Farms Cranberry Juice 1.65 L / 56 oz | Bluewater Farms | $62.95 | G10D03 |
+| Sara Lee Classic Pound Butter Cake 2 Pack / 453 g / 15.9 oz | Sara Lee | $114.95 | G10D03 |
