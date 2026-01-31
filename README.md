@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1163
-- **Total value**: $132,980.83
-- **Average price**: $114.34
+- **Total products scraped**: 1164
+- **Total value**: $133,221.22
+- **Average price**: $114.45
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1162
-- **Price changes detected**: 36
-- **Stock/availability changes**: 7
-- **Discontinued products**: 1
+- **New products added**: 0
+- **Existing products updated**: 1164
+- **Price changes detected**: 31
+- **Stock/availability changes**: 14
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -209,45 +209,45 @@ This project has recently gained unexpected attention. It was created for person
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Member's Selection Organic Trail Mix with Cranberries 737 g / 26 oz | Member's Selection | $164.95 | true |
 | Member's Selection Canola Oil Spray 2 Units 400 mL / 13.5 oz | Member's Selection | $79.95 | true |
-| Izzio Artisan Naturally Fermented Sourdough Bread Sliced | Izzio | $49.95 | true |
+| Member's Selection Organic Trail Mix with Cranberries 737 g / 26 oz | Member's Selection | $164.95 | true |
 | Bob's Red Mill Oatmeal with Protein 1.81 kg / 4 lb | Bob's Red Mill | $144.95 | true |
+| Izzio Artisan Naturally Fermented Sourdough Bread Sliced | Izzio | $49.95 | true |
 | Terra Creta Extra Virgin Olive Oil in Marasca 1 L / 33.81 oz | Terra Creta | $119.95 | true |
-| Coffee Toppers Salted Caramel Whipped Cream 2 Units / 425 g / 15 oz | Coffee Toppers | $79.95 | true |
 | Galvanina Lemon Flavor Sparkling Mineral Water 24 Units / 500 mL / 16.9 oz | Galvanina | $169.95 | true |
 | Izzio Artisanal Sourdough Focaccia Bread with Rosemary, Garlic, and Olive Oil Ready to Bake | Izzio | $39.95 | true |
+| Coffee Toppers Salted Caramel Whipped Cream 2 Units / 425 g / 15 oz | Coffee Toppers | $79.95 | true |
 | Copper Kettle Dark Chocolate Truffles with Sea Salt 448 g / 16 oz | Copper Kettle | $139.95 | true |
 | Diamond Shelled Walnuts 907 g / 32 oz | Diamond | $137.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1006
-- **Price increases**: 435
-- **Price decreases**: 535
-- **Average increase**: 11.9%
-- **Average decrease**: -5.0%
+- **Total price changes**: 987
+- **Price increases**: 424
+- **Price decreases**: 530
+- **Average increase**: 12.4%
+- **Average decrease**: -5.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Peas and Beans Assorted Grains 5 Units / 800 g | $99.95 | $129.95 | $+30.00 | +30.0% | Increase |
-| Samyang Four Cheese and Ramen Flavor Instant Noodle Soup 5 Units / 140 g | $69.95 | $61.95 | $-8.00 | -11.4% | Decrease |
-| Red Grape Seedless 907 g / 2 lb | $69.95 | $99.95 | $+30.00 | +42.9% | Increase |
-| Fresh Strawberry 454 g / 1 lb | $34.95 | $49.95 | $+15.00 | +42.9% | Increase |
-| Pork Belly with Skin Frozen Vacuum Packaged | $188.26 | $186.11 | $-2.15 | -1.1% | Decrease |
-| Frozen Lamb Shoulder Case | $1426.95 | $1488.78 | $+61.83 | +4.3% | Increase |
-| Fresh Beef Eye of Round Case | $4037.01 | $4477.73 | $+440.72 | +10.9% | Increase |
-| Plum 907 g / 2 lb | $82.95 | $84.95 | $+2.00 | +2.4% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $84.78 | $84.70 | $-0.08 | -0.1% | Decrease |
-| Fresh Start Mauby Concentrate 3 Units / 750 mL / 25.3 oz | $34.95 | $39.95 | $+5.00 | +14.3% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $195.00 | $194.70 | $-0.30 | -0.2% | Decrease |
-| Nutrina Chilled Whole Chicken Bag | $329.60 | $328.40 | $-1.20 | -0.4% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $79.52 | $79.63 | $+0.11 | +0.1% | Increase |
-| Fresh Chicken Breast Bone In Tray | $96.95 | $96.86 | $-0.09 | -0.1% | Decrease |
-| Red Onion 2.2 kg / 5 lb | $34.95 | $32.95 | $-2.00 | -5.7% | Decrease |
+| Samyang Four Cheese and Ramen Flavor Instant Noodle Soup 5 Units / 140 g | $61.95 | $62.95 | $+1.00 | +1.6% | Increase |
+| Chicken Drumsticks Case 15 kg / 33 lb | $449.95 | $499.95 | $+50.00 | +11.1% | Increase |
+| Silk Unsweetened Original 2 Units 1.89 L / 64 oz | $29.70 | $99.95 | $+70.25 | +236.5% | Increase |
+| Chobani Low Fat Greek Yogurt 16 Units 128 g / 4.5 oz | $174.95 | $175.95 | $+1.00 | +0.6% | Increase |
+| Stuffed Foods Lobster Ravioli 680 g / 24 oz | $99.95 | $103.95 | $+4.00 | +4.0% | Increase |
+| Tomato 11.3 kg / 25 lb | $249.95 | $259.95 | $+10.00 | +4.0% | Increase |
+| Papaya | $31.68 | $31.74 | $+0.06 | +0.2% | Increase |
+| Farm and Function Fruition Blends 1.6 kg / 25.6 oz | $87.95 | $99.95 | $+12.00 | +13.6% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $84.70 | $84.61 | $-0.09 | -0.1% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $57.49 | $58.45 | $+0.96 | +1.7% | Increase |
+| Erin Farm Chicken Salami 1 kg / 2.2 lb | $45.95 | $46.95 | $+1.00 | +2.2% | Increase |
+| Great Foods Chicken Hot Dogs 1 kg / 2.2 lb | $29.95 | $30.95 | $+1.00 | +3.3% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $123.83 | $123.66 | $-0.17 | -0.1% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $93.41 | $93.31 | $-0.10 | -0.1% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $92.21 | $91.99 | $-0.22 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -258,11 +258,11 @@ This project has recently gained unexpected attention. It was created for person
 | Tropical Frying Cheese 907 g / 32 oz | $19.70 | $89.95 | +356.6% |
 | Frozen Boneless Pork Loin Vacuum Packaged | $56.90 | $253.53 | +345.6% |
 | Carrot 2.27 kg / 5 lb | $9.70 | $37.95 | +291.2% |
+| Silk Unsweetened Original 2 Units 1.89 L / 64 oz | $29.70 | $99.95 | +236.5% |
 | Sabra Classic Hummus 850 g / 30 oz | $24.70 | $79.95 | +223.7% |
 | Avocado 2 Units | $9.70 | $29.95 | +208.8% |
 | Kozyshack Cinnamon Rice Pudding 1.36 kg / 3 lb | $29.70 | $89.95 | +202.9% |
 | Hillshire Farm Ham Mix 3 Units / 454 g / 16 oz | $69.70 | $194.95 | +179.7% |
-| Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $34.70 | $89.95 | +159.2% |
 
 ## Biggest Price Decreases (All Time)
 
@@ -295,7 +295,4 @@ This project has recently gained unexpected attention. It was created for person
 | Orchard Orange Drink 24 Units / 250 mL | Orchard | $85.95 | 2026-01-21 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Welch's Sparkling Rose Non-Alcoholic 3 Units / 750 mL | Welch's | $105.95 | G10D03 |
+No new products added today.
