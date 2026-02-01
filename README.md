@@ -184,15 +184,15 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1164
-- **Total value**: $133,221.22
-- **Average price**: $114.45
+- **Total products scraped**: 1168
+- **Total value**: $133,817.63
+- **Average price**: $114.57
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1164
-- **Price changes detected**: 31
-- **Stock/availability changes**: 14
+- **New products added**: 2
+- **Existing products updated**: 1166
+- **Price changes detected**: 24
+- **Stock/availability changes**: 19
 - **Discontinued products**: 0
 
 ## Top 5 Brands
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 987
-- **Price increases**: 424
-- **Price decreases**: 530
-- **Average increase**: 12.4%
-- **Average decrease**: -5.1%
+- **Total price changes**: 950
+- **Price increases**: 408
+- **Price decreases**: 507
+- **Average increase**: 12.9%
+- **Average decrease**: -4.9%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Samyang Four Cheese and Ramen Flavor Instant Noodle Soup 5 Units / 140 g | $61.95 | $62.95 | $+1.00 | +1.6% | Increase |
-| Chicken Drumsticks Case 15 kg / 33 lb | $449.95 | $499.95 | $+50.00 | +11.1% | Increase |
-| Silk Unsweetened Original 2 Units 1.89 L / 64 oz | $29.70 | $99.95 | $+70.25 | +236.5% | Increase |
-| Chobani Low Fat Greek Yogurt 16 Units 128 g / 4.5 oz | $174.95 | $175.95 | $+1.00 | +0.6% | Increase |
-| Stuffed Foods Lobster Ravioli 680 g / 24 oz | $99.95 | $103.95 | $+4.00 | +4.0% | Increase |
-| Tomato 11.3 kg / 25 lb | $249.95 | $259.95 | $+10.00 | +4.0% | Increase |
-| Papaya | $31.68 | $31.74 | $+0.06 | +0.2% | Increase |
-| Farm and Function Fruition Blends 1.6 kg / 25.6 oz | $87.95 | $99.95 | $+12.00 | +13.6% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $84.70 | $84.61 | $-0.09 | -0.1% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $57.49 | $58.45 | $+0.96 | +1.7% | Increase |
-| Erin Farm Chicken Salami 1 kg / 2.2 lb | $45.95 | $46.95 | $+1.00 | +2.2% | Increase |
-| Great Foods Chicken Hot Dogs 1 kg / 2.2 lb | $29.95 | $30.95 | $+1.00 | +3.3% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $123.83 | $123.66 | $-0.17 | -0.1% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $93.41 | $93.31 | $-0.10 | -0.1% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $92.21 | $91.99 | $-0.22 | -0.2% | Decrease |
+| SeaPak Garlic Butter Shrimp 680 g / 1.5 lb | $0.00 | $132.95 | $+132.95 | +100.0% | New |
+| Suzy's Cream Cheesecake Assorted Flavors Cheesecake Squares 16 Units | $140.95 | $134.90 | $-6.05 | -4.3% | Decrease |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $148.54 | $147.95 | $-0.59 | -0.4% | Decrease |
+| Papaya | $31.74 | $31.68 | $-0.06 | -0.2% | Decrease |
+| Sambazon Acai Bowl 6 Units / 167 g / 5.9 oz | $0.00 | $179.95 | $+179.95 | +100.0% | New |
+| Frozen Imported Pork Leg Slices | $86.32 | $86.43 | $+0.11 | +0.1% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $84.61 | $84.44 | $-0.17 | -0.2% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $194.70 | $195.00 | $+0.30 | +0.2% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $116.53 | $116.37 | $-0.16 | -0.1% | Decrease |
+| Green pepper | $35.25 | $35.40 | $+0.15 | +0.4% | Increase |
+| Orchard Assorted Drinks Juice Mix 6 Units / 1L | $64.95 | $69.95 | $+5.00 | +7.7% | Increase |
+| Orchard Orange Juice with Vitamin C 6 Units / 1 L / 33.8 oz | $62.95 | $67.95 | $+5.00 | +7.9% | Increase |
+| Carnation Evaporated Milk 6 Units / 371 mL / 12.5 oz | $66.95 | $71.95 | $+5.00 | +7.5% | Increase |
+| Fresh Chicken Leg Quarters Tray | $93.31 | $93.21 | $-0.10 | -0.1% | Decrease |
+| Fresh Ground Chicken Tray | $107.88 | $107.76 | $-0.12 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -295,4 +295,8 @@ This project has recently gained unexpected attention. It was created for person
 | Orchard Orange Drink 24 Units / 250 mL | Orchard | $85.95 | 2026-01-21 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| SeaPak Garlic Butter Shrimp 680 g / 1.5 lb | SeaPak | $132.95 | G10D03 |
+| Sambazon Acai Bowl 6 Units / 167 g / 5.9 oz | Sambazon | $179.95 | G10D03 |
