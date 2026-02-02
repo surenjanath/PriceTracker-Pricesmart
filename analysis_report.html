@@ -1,26 +1,26 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1168
-- **Total value**: $133,817.63
-- **Average price**: $114.57
+- **Total products scraped**: 1167
+- **Total value**: $133,431.56
+- **Average price**: $114.34
 
 ## Database Changes
-- **New products added**: 2
+- **New products added**: 1
 - **Existing products updated**: 1166
-- **Price changes detected**: 24
-- **Stock/availability changes**: 19
-- **Discontinued products**: 0
+- **Price changes detected**: 61
+- **Stock/availability changes**: 11
+- **Discontinued products**: 3
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 188 |
-|  | 136 |
+| Member's Selection | 187 |
+|  | 137 |
 | Badia | 18 |
 | Swiss | 14 |
-| Kiss | 11 |
+| Kirkland Signature | 11 |
 
 ## Recent Products
 
@@ -28,43 +28,43 @@
 |-------|-------|-------------|--------------|
 | Member's Selection Canola Oil Spray 2 Units 400 mL / 13.5 oz | Member's Selection | $79.95 | true |
 | Member's Selection Organic Trail Mix with Cranberries 737 g / 26 oz | Member's Selection | $164.95 | true |
-| Bob's Red Mill Oatmeal with Protein 1.81 kg / 4 lb | Bob's Red Mill | $144.95 | true |
 | Izzio Artisan Naturally Fermented Sourdough Bread Sliced | Izzio | $49.95 | true |
-| Terra Creta Extra Virgin Olive Oil in Marasca 1 L / 33.81 oz | Terra Creta | $119.95 | true |
+| Bob's Red Mill Oatmeal with Protein 1.81 kg / 4 lb | Bob's Red Mill | $144.95 | true |
 | Galvanina Lemon Flavor Sparkling Mineral Water 24 Units / 500 mL / 16.9 oz | Galvanina | $169.95 | true |
 | Izzio Artisanal Sourdough Focaccia Bread with Rosemary, Garlic, and Olive Oil Ready to Bake | Izzio | $39.95 | true |
-| Coffee Toppers Salted Caramel Whipped Cream 2 Units / 425 g / 15 oz | Coffee Toppers | $79.95 | true |
+| Terra Creta Extra Virgin Olive Oil in Marasca 1 L / 33.81 oz | Terra Creta | $119.95 | true |
 | Copper Kettle Dark Chocolate Truffles with Sea Salt 448 g / 16 oz | Copper Kettle | $139.95 | true |
+| Coffee Toppers Salted Caramel Whipped Cream 2 Units / 425 g / 15 oz | Coffee Toppers | $79.95 | true |
 | Diamond Shelled Walnuts 907 g / 32 oz | Diamond | $137.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 950
-- **Price increases**: 408
-- **Price decreases**: 507
-- **Average increase**: 12.9%
-- **Average decrease**: -4.9%
+- **Total price changes**: 1002
+- **Price increases**: 431
+- **Price decreases**: 535
+- **Average increase**: 12.3%
+- **Average decrease**: -4.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| SeaPak Garlic Butter Shrimp 680 g / 1.5 lb | $0.00 | $132.95 | $+132.95 | +100.0% | New |
-| Suzy's Cream Cheesecake Assorted Flavors Cheesecake Squares 16 Units | $140.95 | $134.90 | $-6.05 | -4.3% | Decrease |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $148.54 | $147.95 | $-0.59 | -0.4% | Decrease |
-| Papaya | $31.74 | $31.68 | $-0.06 | -0.2% | Decrease |
-| Sambazon Acai Bowl 6 Units / 167 g / 5.9 oz | $0.00 | $179.95 | $+179.95 | +100.0% | New |
-| Frozen Imported Pork Leg Slices | $86.32 | $86.43 | $+0.11 | +0.1% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $84.61 | $84.44 | $-0.17 | -0.2% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $194.70 | $195.00 | $+0.30 | +0.2% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $116.53 | $116.37 | $-0.16 | -0.1% | Decrease |
-| Green pepper | $35.25 | $35.40 | $+0.15 | +0.4% | Increase |
-| Orchard Assorted Drinks Juice Mix 6 Units / 1L | $64.95 | $69.95 | $+5.00 | +7.7% | Increase |
-| Orchard Orange Juice with Vitamin C 6 Units / 1 L / 33.8 oz | $62.95 | $67.95 | $+5.00 | +7.9% | Increase |
-| Carnation Evaporated Milk 6 Units / 371 mL / 12.5 oz | $66.95 | $71.95 | $+5.00 | +7.5% | Increase |
-| Fresh Chicken Leg Quarters Tray | $93.31 | $93.21 | $-0.10 | -0.1% | Decrease |
-| Fresh Ground Chicken Tray | $107.88 | $107.76 | $-0.12 | -0.1% | Decrease |
+| Cherries | $73.05 | $73.92 | $+0.87 | +1.2% | Increase |
+| The Happy Planet Oyster Mushroom 310 g / 11.2 oz | $27.95 | $49.95 | $+22.00 | +78.7% | Increase |
+| Fresh Whole Chicken for Frying Bag | $263.11 | $262.96 | $-0.15 | -0.1% | Decrease |
+| Fresh Chicken Boneless Breast Bag | $416.57 | $414.17 | $-2.40 | -0.6% | Decrease |
+| Frozen Pork Belly Skin On Sliced Tray  | $111.07 | $113.47 | $+2.40 | +2.2% | Increase |
+| Frozen Lamb Leg Whole Vacuum Packed | $414.29 | $418.32 | $+4.03 | +1.0% | Increase |
+| Kellogg's Rice Krispies Treat 25 Units / 37 g / 1.3 oz | $0.00 | $119.95 | $+119.95 | +100.0% | New |
+| Pork Belly with Skin Frozen Vacuum Packaged | $186.11 | $187.83 | $+1.72 | +0.9% | Increase |
+| Pork Leg Frozen  | $60.24 | $59.34 | $-0.90 | -1.5% | Decrease |
+| Fresh Beef Eye of Round Case | $4477.73 | $4291.08 | $-186.65 | -4.2% | Decrease |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $147.95 | $133.27 | $-14.68 | -9.9% | Decrease |
+| Papaya | $31.68 | $31.80 | $+0.12 | +0.4% | Increase |
+| Frozen Lamb Shoulder Case | $1488.78 | $1284.93 | $-203.85 | -13.7% | Decrease |
+| Frozen Imported Pork Leg Slices | $86.43 | $84.92 | $-1.51 | -1.7% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $84.44 | $85.30 | $+0.86 | +1.0% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,9 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Peas and Beans Assorted Grains 5 Units / 800 g | Peans and Beans | $129.95 | 2026-02-01 |
+| Welch's Concord Grape Fruit Juice 1.75 L / 59 oz | Welch's | $28.95 | 2026-02-01 |
+| Member's Selection Freshly Baked Rectangular Cheese Cake | Member's Selection | $28.95 | 2026-02-01 |
 | McCain Mac and Cheese Triangles 2 Units / 400 g / 14 oz | McCain | $59.70 | 2026-01-29 |
 | Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2026-01-28 |
 | Frozen Skin On Trout Fillet Vacuum Packaged Case |  | $1869.50 | 2026-01-28 |
@@ -107,13 +110,9 @@
 | Muffin Town Mini Bread Cake with Cinnamon Crumbs Topping | Muffin Town | $47.70 | 2026-01-26 |
 | Kozyshack Cinnamon Rice Pudding 1.36 kg / 3 lb | Kozyshack | $89.95 | 2026-01-25 |
 | Wellsley Farms Apple Cider 3.8 L / 128 oz | Wellsley Farms | $76.95 | 2026-01-25 |
-| Gouda Cheese Block |  | $85.48 | 2026-01-22 |
-| Swift Frozen Pork Ribs Kansas City Style BBQ Vacuum Packing | Swift | $1169.78 | 2026-01-22 |
-| Orchard Orange Drink 24 Units / 250 mL | Orchard | $85.95 | 2026-01-21 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| SeaPak Garlic Butter Shrimp 680 g / 1.5 lb | SeaPak | $132.95 | G10D03 |
-| Sambazon Acai Bowl 6 Units / 167 g / 5.9 oz | Sambazon | $179.95 | G10D03 |
+| Kellogg's Rice Krispies Treat 25 Units / 37 g / 1.3 oz | Kellogg's | $119.95 | G10D03 |
