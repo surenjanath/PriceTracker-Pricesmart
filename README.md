@@ -185,22 +185,22 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1167
-- **Total value**: $133,431.56
-- **Average price**: $114.34
+- **Total value**: $133,443.99
+- **Average price**: $114.35
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1166
-- **Price changes detected**: 61
-- **Stock/availability changes**: 11
-- **Discontinued products**: 3
+- **New products added**: 0
+- **Existing products updated**: 1167
+- **Price changes detected**: 25
+- **Stock/availability changes**: 25
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 187 |
-|  | 137 |
+|  | 136 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 11 |
@@ -214,40 +214,40 @@ This project has recently gained unexpected attention. It was created for person
 | Izzio Artisan Naturally Fermented Sourdough Bread Sliced | Izzio | $49.95 | true |
 | Bob's Red Mill Oatmeal with Protein 1.81 kg / 4 lb | Bob's Red Mill | $144.95 | true |
 | Galvanina Lemon Flavor Sparkling Mineral Water 24 Units / 500 mL / 16.9 oz | Galvanina | $169.95 | true |
-| Izzio Artisanal Sourdough Focaccia Bread with Rosemary, Garlic, and Olive Oil Ready to Bake | Izzio | $39.95 | true |
 | Terra Creta Extra Virgin Olive Oil in Marasca 1 L / 33.81 oz | Terra Creta | $119.95 | true |
 | Copper Kettle Dark Chocolate Truffles with Sea Salt 448 g / 16 oz | Copper Kettle | $139.95 | true |
 | Coffee Toppers Salted Caramel Whipped Cream 2 Units / 425 g / 15 oz | Coffee Toppers | $79.95 | true |
 | Diamond Shelled Walnuts 907 g / 32 oz | Diamond | $137.95 | true |
+| Chobani Greek Yogurt 20G Protein 8 Units / 296 mL / 10 oz | Chobani | $159.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1002
-- **Price increases**: 431
-- **Price decreases**: 535
-- **Average increase**: 12.3%
+- **Total price changes**: 998
+- **Price increases**: 434
+- **Price decreases**: 534
+- **Average increase**: 12.4%
 - **Average decrease**: -4.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Cherries | $73.05 | $73.92 | $+0.87 | +1.2% | Increase |
-| The Happy Planet Oyster Mushroom 310 g / 11.2 oz | $27.95 | $49.95 | $+22.00 | +78.7% | Increase |
-| Fresh Whole Chicken for Frying Bag | $263.11 | $262.96 | $-0.15 | -0.1% | Decrease |
-| Fresh Chicken Boneless Breast Bag | $416.57 | $414.17 | $-2.40 | -0.6% | Decrease |
-| Frozen Pork Belly Skin On Sliced Tray  | $111.07 | $113.47 | $+2.40 | +2.2% | Increase |
-| Frozen Lamb Leg Whole Vacuum Packed | $414.29 | $418.32 | $+4.03 | +1.0% | Increase |
-| Kellogg's Rice Krispies Treat 25 Units / 37 g / 1.3 oz | $0.00 | $119.95 | $+119.95 | +100.0% | New |
-| Pork Belly with Skin Frozen Vacuum Packaged | $186.11 | $187.83 | $+1.72 | +0.9% | Increase |
-| Pork Leg Frozen  | $60.24 | $59.34 | $-0.90 | -1.5% | Decrease |
-| Fresh Beef Eye of Round Case | $4477.73 | $4291.08 | $-186.65 | -4.2% | Decrease |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $147.95 | $133.27 | $-14.68 | -9.9% | Decrease |
-| Papaya | $31.68 | $31.80 | $+0.12 | +0.4% | Increase |
-| Frozen Lamb Shoulder Case | $1488.78 | $1284.93 | $-203.85 | -13.7% | Decrease |
-| Frozen Imported Pork Leg Slices | $86.43 | $84.92 | $-1.51 | -1.7% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $84.44 | $85.30 | $+0.86 | +1.0% | Increase |
+| Fresh Chicken Breast Bone In Tray | $96.86 | $96.76 | $-0.10 | -0.1% | Decrease |
+| Fresh Chicken Wings Tray | $79.43 | $80.93 | $+1.50 | +1.9% | Increase |
+| Fresh Chicken Thighs Boneless Bag | $321.87 | $321.75 | $-0.12 | -0.0% | Decrease |
+| Fresh Chicken Boneless Breast Bag | $414.17 | $413.42 | $-0.75 | -0.2% | Decrease |
+| Chobani Low Fat Greek Yogurt 16 Units 128 g / 4.5 oz | $175.95 | $174.95 | $-1.00 | -0.6% | Decrease |
+| Samyang Buldak Stir-Fried Ramen with Creamy Carbonara Spicy Chicken Flavor 5 Units / 140 g | $69.95 | $62.95 | $-7.00 | -10.0% | Decrease |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $133.27 | $133.53 | $+0.26 | +0.2% | Increase |
+| Swiss Twists 6 Units / 300 g | $29.95 | $32.95 | $+3.00 | +10.0% | Increase |
+| Papaya | $31.80 | $31.84 | $+0.04 | +0.1% | Increase |
+| Swiss Elbows 6 Units / 300 g / 10.6 oz | $29.95 | $32.95 | $+3.00 | +10.0% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $115.68 | $115.52 | $-0.16 | -0.1% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $79.52 | $79.63 | $+0.11 | +0.1% | Increase |
+| Swiss Spaghetti 6 Units / 400 g | $31.95 | $39.95 | $+8.00 | +25.0% | Increase |
+| Swiss Penne Pasta 6 Units / 300 g / 10.6 oz | $31.95 | $33.95 | $+2.00 | +6.3% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $124.01 | $123.83 | $-0.18 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Pink Lady Apples 1.36 kg / 3 lb |  | $67.95 | 2026-02-02 |
 | Peas and Beans Assorted Grains 5 Units / 800 g | Peans and Beans | $129.95 | 2026-02-01 |
 | Welch's Concord Grape Fruit Juice 1.75 L / 59 oz | Welch's | $28.95 | 2026-02-01 |
 | Member's Selection Freshly Baked Rectangular Cheese Cake | Member's Selection | $28.95 | 2026-02-01 |
@@ -292,10 +293,6 @@ This project has recently gained unexpected attention. It was created for person
 | Sea Best Raw Lobster Cake 762 g / 1.68 lb | Sea Best | $131.95 | 2026-01-28 |
 | Muffin Town Mini Bread Cake with Cinnamon Crumbs Topping | Muffin Town | $47.70 | 2026-01-26 |
 | Kozyshack Cinnamon Rice Pudding 1.36 kg / 3 lb | Kozyshack | $89.95 | 2026-01-25 |
-| Wellsley Farms Apple Cider 3.8 L / 128 oz | Wellsley Farms | $76.95 | 2026-01-25 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Kellogg's Rice Krispies Treat 25 Units / 37 g / 1.3 oz | Kellogg's | $119.95 | G10D03 |
+No new products added today.
