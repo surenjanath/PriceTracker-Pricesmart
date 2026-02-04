@@ -1,26 +1,26 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1167
-- **Total value**: $133,443.99
-- **Average price**: $114.35
+- **Total products scraped**: 1168
+- **Total value**: $133,602.75
+- **Average price**: $114.39
 
 ## Database Changes
-- **New products added**: 0
+- **New products added**: 1
 - **Existing products updated**: 1167
-- **Price changes detected**: 25
-- **Stock/availability changes**: 25
+- **Price changes detected**: 24
+- **Stock/availability changes**: 34
 - **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 187 |
+| Member's Selection | 186 |
 |  | 136 |
 | Badia | 18 |
 | Swiss | 14 |
-| Kirkland Signature | 11 |
+| Kiss | 11 |
 
 ## Recent Products
 
@@ -33,38 +33,38 @@
 | Galvanina Lemon Flavor Sparkling Mineral Water 24 Units / 500 mL / 16.9 oz | Galvanina | $169.95 | true |
 | Terra Creta Extra Virgin Olive Oil in Marasca 1 L / 33.81 oz | Terra Creta | $119.95 | true |
 | Copper Kettle Dark Chocolate Truffles with Sea Salt 448 g / 16 oz | Copper Kettle | $139.95 | true |
-| Coffee Toppers Salted Caramel Whipped Cream 2 Units / 425 g / 15 oz | Coffee Toppers | $79.95 | true |
 | Diamond Shelled Walnuts 907 g / 32 oz | Diamond | $137.95 | true |
+| Coffee Toppers Salted Caramel Whipped Cream 2 Units / 425 g / 15 oz | Coffee Toppers | $79.95 | true |
 | Chobani Greek Yogurt 20G Protein 8 Units / 296 mL / 10 oz | Chobani | $159.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 998
-- **Price increases**: 434
-- **Price decreases**: 534
-- **Average increase**: 12.4%
-- **Average decrease**: -4.6%
+- **Total price changes**: 982
+- **Price increases**: 432
+- **Price decreases**: 522
+- **Average increase**: 12.6%
+- **Average decrease**: -4.7%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Chicken Breast Bone In Tray | $96.86 | $96.76 | $-0.10 | -0.1% | Decrease |
-| Fresh Chicken Wings Tray | $79.43 | $80.93 | $+1.50 | +1.9% | Increase |
-| Fresh Chicken Thighs Boneless Bag | $321.87 | $321.75 | $-0.12 | -0.0% | Decrease |
-| Fresh Chicken Boneless Breast Bag | $414.17 | $413.42 | $-0.75 | -0.2% | Decrease |
-| Chobani Low Fat Greek Yogurt 16 Units 128 g / 4.5 oz | $175.95 | $174.95 | $-1.00 | -0.6% | Decrease |
-| Samyang Buldak Stir-Fried Ramen with Creamy Carbonara Spicy Chicken Flavor 5 Units / 140 g | $69.95 | $62.95 | $-7.00 | -10.0% | Decrease |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $133.27 | $133.53 | $+0.26 | +0.2% | Increase |
-| Swiss Twists 6 Units / 300 g | $29.95 | $32.95 | $+3.00 | +10.0% | Increase |
-| Papaya | $31.80 | $31.84 | $+0.04 | +0.1% | Increase |
-| Swiss Elbows 6 Units / 300 g / 10.6 oz | $29.95 | $32.95 | $+3.00 | +10.0% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $115.68 | $115.52 | $-0.16 | -0.1% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $79.52 | $79.63 | $+0.11 | +0.1% | Increase |
-| Swiss Spaghetti 6 Units / 400 g | $31.95 | $39.95 | $+8.00 | +25.0% | Increase |
-| Swiss Penne Pasta 6 Units / 300 g / 10.6 oz | $31.95 | $33.95 | $+2.00 | +6.3% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $124.01 | $123.83 | $-0.18 | -0.1% | Decrease |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $133.53 | $133.27 | $-0.26 | -0.2% | Decrease |
+| Florida's Natural Strawberry Lemonade 2 Units 1.75 L / 59 oz | $0.00 | $99.95 | $+99.95 | +100.0% | New |
+| Papaya | $31.84 | $31.90 | $+0.06 | +0.2% | Increase |
+| Fresh Chicken Breast Bone In Tray | $96.76 | $96.67 | $-0.09 | -0.1% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $115.52 | $115.37 | $-0.15 | -0.1% | Decrease |
+| Green pepper | $34.51 | $34.59 | $+0.08 | +0.2% | Increase |
+| Ginseng Up Mixed Bottles 24 Units/275 ml | $152.95 | $139.70 | $-13.25 | -8.7% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $79.63 | $79.52 | $-0.11 | -0.1% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $150.56 | $150.86 | $+0.30 | +0.2% | Increase |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $154.25 | $154.55 | $+0.30 | +0.2% | Increase |
+| Whole Striploin Fresh Vacuum Packed | $1199.70 | $1217.70 | $+18.00 | +1.5% | Increase |
+| Fresh Chicken Mixed Parts Tray | $91.33 | $91.22 | $-0.11 | -0.1% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $221.23 | $222.29 | $+1.06 | +0.5% | Increase |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $419.15 | $419.38 | $+0.23 | +0.1% | Increase |
+| Monster  Energy Drink 6 Units / 473 mL | $66.95 | $64.95 | $-2.00 | -3.0% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Member's Selection Ready-to-Eat Tuna Salad 907 g / 2 lb | Member's Selection | $87.95 | 2026-02-03 |
 | Pink Lady Apples 1.36 kg / 3 lb |  | $67.95 | 2026-02-02 |
 | Peas and Beans Assorted Grains 5 Units / 800 g | Peans and Beans | $129.95 | 2026-02-01 |
 | Welch's Concord Grape Fruit Juice 1.75 L / 59 oz | Welch's | $28.95 | 2026-02-01 |
@@ -109,7 +110,9 @@
 | Frozen Skin On Trout Fillet Vacuum Packaged Case |  | $1869.50 | 2026-01-28 |
 | Sea Best Raw Lobster Cake 762 g / 1.68 lb | Sea Best | $131.95 | 2026-01-28 |
 | Muffin Town Mini Bread Cake with Cinnamon Crumbs Topping | Muffin Town | $47.70 | 2026-01-26 |
-| Kozyshack Cinnamon Rice Pudding 1.36 kg / 3 lb | Kozyshack | $89.95 | 2026-01-25 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Florida's Natural Strawberry Lemonade 2 Units 1.75 L / 59 oz | Florida's Natural | $99.95 | G10D03 |
