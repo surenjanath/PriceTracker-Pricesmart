@@ -184,26 +184,26 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1168
-- **Total value**: $133,602.75
-- **Average price**: $114.39
+- **Total products scraped**: 1164
+- **Total value**: $133,299.36
+- **Average price**: $114.52
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1167
-- **Price changes detected**: 24
-- **Stock/availability changes**: 34
-- **Discontinued products**: 1
+- **New products added**: 4
+- **Existing products updated**: 1160
+- **Price changes detected**: 33
+- **Stock/availability changes**: 15
+- **Discontinued products**: 8
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 186 |
-|  | 136 |
+|  | 135 |
 | Badia | 18 |
 | Swiss | 14 |
-| Kiss | 11 |
+| Brunswick | 12 |
 
 ## Recent Products
 
@@ -211,43 +211,43 @@ This project has recently gained unexpected attention. It was created for person
 |-------|-------|-------------|--------------|
 | Member's Selection Canola Oil Spray 2 Units 400 mL / 13.5 oz | Member's Selection | $79.95 | true |
 | Member's Selection Organic Trail Mix with Cranberries 737 g / 26 oz | Member's Selection | $164.95 | true |
-| Izzio Artisan Naturally Fermented Sourdough Bread Sliced | Izzio | $49.95 | true |
 | Bob's Red Mill Oatmeal with Protein 1.81 kg / 4 lb | Bob's Red Mill | $144.95 | true |
-| Galvanina Lemon Flavor Sparkling Mineral Water 24 Units / 500 mL / 16.9 oz | Galvanina | $169.95 | true |
 | Terra Creta Extra Virgin Olive Oil in Marasca 1 L / 33.81 oz | Terra Creta | $119.95 | true |
+| Galvanina Lemon Flavor Sparkling Mineral Water 24 Units / 500 mL / 16.9 oz | Galvanina | $169.95 | true |
 | Copper Kettle Dark Chocolate Truffles with Sea Salt 448 g / 16 oz | Copper Kettle | $139.95 | true |
 | Diamond Shelled Walnuts 907 g / 32 oz | Diamond | $137.95 | true |
 | Coffee Toppers Salted Caramel Whipped Cream 2 Units / 425 g / 15 oz | Coffee Toppers | $79.95 | true |
 | Chobani Greek Yogurt 20G Protein 8 Units / 296 mL / 10 oz | Chobani | $159.95 | true |
+| Garcia Chicken & Pork Smoked Sausage 680 g / 1.5 lb | Garcia | $44.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 982
-- **Price increases**: 432
-- **Price decreases**: 522
-- **Average increase**: 12.6%
-- **Average decrease**: -4.7%
+- **Total price changes**: 997
+- **Price increases**: 440
+- **Price decreases**: 526
+- **Average increase**: 12.4%
+- **Average decrease**: -4.8%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $133.53 | $133.27 | $-0.26 | -0.2% | Decrease |
-| Florida's Natural Strawberry Lemonade 2 Units 1.75 L / 59 oz | $0.00 | $99.95 | $+99.95 | +100.0% | New |
-| Papaya | $31.84 | $31.90 | $+0.06 | +0.2% | Increase |
-| Fresh Chicken Breast Bone In Tray | $96.76 | $96.67 | $-0.09 | -0.1% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $115.52 | $115.37 | $-0.15 | -0.1% | Decrease |
-| Green pepper | $34.51 | $34.59 | $+0.08 | +0.2% | Increase |
-| Ginseng Up Mixed Bottles 24 Units/275 ml | $152.95 | $139.70 | $-13.25 | -8.7% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $79.63 | $79.52 | $-0.11 | -0.1% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $150.56 | $150.86 | $+0.30 | +0.2% | Increase |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $154.25 | $154.55 | $+0.30 | +0.2% | Increase |
-| Whole Striploin Fresh Vacuum Packed | $1199.70 | $1217.70 | $+18.00 | +1.5% | Increase |
-| Fresh Chicken Mixed Parts Tray | $91.33 | $91.22 | $-0.11 | -0.1% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $221.23 | $222.29 | $+1.06 | +0.5% | Increase |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $419.15 | $419.38 | $+0.23 | +0.1% | Increase |
-| Monster  Energy Drink 6 Units / 473 mL | $66.95 | $64.95 | $-2.00 | -3.0% | Decrease |
+| Babybel Mini Cheese 36 Units / 21 g / 0.75 oz | $157.95 | $159.95 | $+2.00 | +1.3% | Increase |
+| Dewlands Passion Fruit and Apple Juice 3 Units / 1 L | $59.95 | $52.70 | $-7.25 | -12.1% | Decrease |
+| Dietz & Watson Sliced Roast Beef 454 g / 1 lb | $132.95 | $134.95 | $+2.00 | +1.5% | Increase |
+| Brunswick Canned Mackerel in Oil 3 Units / 225 g / 7.9 oz | $0.00 | $34.95 | $+34.95 | +100.0% | New |
+| SeaPak Garlic Butter Shrimp 680 g / 1.5 lb | $132.95 | $134.95 | $+2.00 | +1.5% | Increase |
+| Lunchables Cookie Sandwich 6 Units | $162.95 | $164.95 | $+2.00 | +1.2% | Increase |
+| Activia Assorted Probiotics Low Fat Yogurt Drink 24 Units / 93 mL / 3.1 oz | $0.00 | $159.95 | $+159.95 | +100.0% | New |
+| Sacla Hot Sauce for Arrabbiata Pasta with Tomatoes and Chili Peppers / 2 Units / 680 g / 24 oz | $0.00 | $102.95 | $+102.95 | +100.0% | New |
+| Fruit by the Foot Fruit Flavored Snacks 48 Units / 21 g / 0.75 oz | $199.95 | $172.70 | $-27.25 | -13.6% | Decrease |
+| Fratelli Beretta Italian Style Platter 340 g / 12 oz  | $77.95 | $79.95 | $+2.00 | +2.6% | Increase |
+| Green pepper | $34.59 | $37.39 | $+2.80 | +8.1% | Increase |
+| Ferrero Rocher Hazelnut and Chocolate Cream Filled Chocolates 48 Units / 12.5 g / 0.4 oz | $199.95 | $149.70 | $-50.25 | -25.1% | Decrease |
+| Sambazon Dragon Fruit Juice 1.89 L / 64 oz | $112.95 | $113.95 | $+1.00 | +0.9% | Increase |
+| Swiss Macaroni 6 Units / 400 g | $33.95 | $35.95 | $+2.00 | +5.9% | Increase |
+| Brunswick Tuna in Oil 6 Units/ 142 g / 5 oz | $36.95 | $35.95 | $-1.00 | -2.7% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,19 +283,22 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Red Rose Pink Salmon 3 Units / 418 g | Red Rose | $125.95 | 2026-02-04 |
+| Svelty Slim 99.5% Fat-Free Skimmed Milk 3 Units / 1 L | Svelty | $48.95 | 2026-02-04 |
+| Carr's Assorted Seasonal Crackers 400 g | Carr's | $49.70 | 2026-02-04 |
+| Omypop Popcorn with Salted Egg Yolk and Baked Cheese Flavors 2 Units / 70 g / 2.46 oz | Omypop | $24.70 | 2026-02-04 |
+| Cook's Mate Cornstarch 700 g | Cook's Mate | $27.95 | 2026-02-04 |
+| Annie's Organic Macaroni and Cheese Variety Pack 12 Units / 170 g | Annies | $99.70 | 2026-02-04 |
+| Pork Leg Frozen  |  | $59.34 | 2026-02-04 |
+| Rastelli's New York Strip Steak 2 Units / 225 g / 8 oz | Rastelli's | $126.95 | 2026-02-04 |
 | Member's Selection Ready-to-Eat Tuna Salad 907 g / 2 lb | Member's Selection | $87.95 | 2026-02-03 |
 | Pink Lady Apples 1.36 kg / 3 lb |  | $67.95 | 2026-02-02 |
-| Peas and Beans Assorted Grains 5 Units / 800 g | Peans and Beans | $129.95 | 2026-02-01 |
-| Welch's Concord Grape Fruit Juice 1.75 L / 59 oz | Welch's | $28.95 | 2026-02-01 |
-| Member's Selection Freshly Baked Rectangular Cheese Cake | Member's Selection | $28.95 | 2026-02-01 |
-| McCain Mac and Cheese Triangles 2 Units / 400 g / 14 oz | McCain | $59.70 | 2026-01-29 |
-| Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2026-01-28 |
-| Frozen Skin On Trout Fillet Vacuum Packaged Case |  | $1869.50 | 2026-01-28 |
-| Sea Best Raw Lobster Cake 762 g / 1.68 lb | Sea Best | $131.95 | 2026-01-28 |
-| Muffin Town Mini Bread Cake with Cinnamon Crumbs Topping | Muffin Town | $47.70 | 2026-01-26 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Florida's Natural Strawberry Lemonade 2 Units 1.75 L / 59 oz | Florida's Natural | $99.95 | G10D03 |
+| Brunswick Canned Mackerel in Oil 3 Units / 225 g / 7.9 oz | Brunswick | $34.95 | G10D03 |
+| Activia Assorted Probiotics Low Fat Yogurt Drink 24 Units / 93 mL / 3.1 oz | Activia | $159.95 | G10D03 |
+| Sacla Hot Sauce for Arrabbiata Pasta with Tomatoes and Chili Peppers / 2 Units / 680 g / 24 oz | Sacla | $102.95 | G10D03 |
+| Breakstone's Cottage Cheese 680 g / 1.5 lb | Breakstone's | $33.95 | G10D03 |
