@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1164
-- **Total value**: $133,299.36
-- **Average price**: $114.52
+- **Total products scraped**: 1163
+- **Total value**: $133,001.91
+- **Average price**: $114.36
 
 ## Database Changes
-- **New products added**: 4
-- **Existing products updated**: 1160
-- **Price changes detected**: 33
-- **Stock/availability changes**: 15
-- **Discontinued products**: 8
+- **New products added**: 2
+- **Existing products updated**: 1161
+- **Price changes detected**: 39
+- **Stock/availability changes**: 18
+- **Discontinued products**: 4
 
 ## Top 5 Brands
 
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 997
-- **Price increases**: 440
-- **Price decreases**: 526
-- **Average increase**: 12.4%
-- **Average decrease**: -4.8%
+- **Total price changes**: 1016
+- **Price increases**: 445
+- **Price decreases**: 538
+- **Average increase**: 12.2%
+- **Average decrease**: -5.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Babybel Mini Cheese 36 Units / 21 g / 0.75 oz | $157.95 | $159.95 | $+2.00 | +1.3% | Increase |
-| Dewlands Passion Fruit and Apple Juice 3 Units / 1 L | $59.95 | $52.70 | $-7.25 | -12.1% | Decrease |
-| Dietz & Watson Sliced Roast Beef 454 g / 1 lb | $132.95 | $134.95 | $+2.00 | +1.5% | Increase |
-| Brunswick Canned Mackerel in Oil 3 Units / 225 g / 7.9 oz | $0.00 | $34.95 | $+34.95 | +100.0% | New |
-| SeaPak Garlic Butter Shrimp 680 g / 1.5 lb | $132.95 | $134.95 | $+2.00 | +1.5% | Increase |
-| Lunchables Cookie Sandwich 6 Units | $162.95 | $164.95 | $+2.00 | +1.2% | Increase |
-| Activia Assorted Probiotics Low Fat Yogurt Drink 24 Units / 93 mL / 3.1 oz | $0.00 | $159.95 | $+159.95 | +100.0% | New |
-| Sacla Hot Sauce for Arrabbiata Pasta with Tomatoes and Chili Peppers / 2 Units / 680 g / 24 oz | $0.00 | $102.95 | $+102.95 | +100.0% | New |
-| Fruit by the Foot Fruit Flavored Snacks 48 Units / 21 g / 0.75 oz | $199.95 | $172.70 | $-27.25 | -13.6% | Decrease |
-| Fratelli Beretta Italian Style Platter 340 g / 12 oz  | $77.95 | $79.95 | $+2.00 | +2.6% | Increase |
-| Green pepper | $34.59 | $37.39 | $+2.80 | +8.1% | Increase |
-| Ferrero Rocher Hazelnut and Chocolate Cream Filled Chocolates 48 Units / 12.5 g / 0.4 oz | $199.95 | $149.70 | $-50.25 | -25.1% | Decrease |
-| Sambazon Dragon Fruit Juice 1.89 L / 64 oz | $112.95 | $113.95 | $+1.00 | +0.9% | Increase |
-| Swiss Macaroni 6 Units / 400 g | $33.95 | $35.95 | $+2.00 | +5.9% | Increase |
-| Brunswick Tuna in Oil 6 Units/ 142 g / 5 oz | $36.95 | $35.95 | $-1.00 | -2.7% | Decrease |
+| Samyang Spicy Chicken-Flavored Ramen with Cheese Sauce 5 Units / 140 g | $62.95 | $67.95 | $+5.00 | +7.9% | Increase |
+| San Clemente Seedless Green Grapes 907 g / 2 lb | $0.00 | $99.95 | $+99.95 | +100.0% | New |
+| Fruit Roll Ups Assorted Fruit Rolls 72 Units / 14 g | $139.70 | $99.70 | $-40.00 | -28.6% | Decrease |
+| Fresh Strawberry 454 g / 1 lb | $49.95 | $56.95 | $+7.00 | +14.0% | Increase |
+| Chief Duck & Goat Curry Powder 600 g | $75.70 | $59.70 | $-16.00 | -21.1% | Decrease |
+| DeMet's Turtles Chocolate Filled with Creamy Caramel 496 g | $114.70 | $89.70 | $-25.00 | -21.8% | Decrease |
+| Par Excellence Jasmine White Rice 10 kg / 352.74 oz | $159.70 | $124.70 | $-35.00 | -21.9% | Decrease |
+| KFI Gluten-Free Butter Chicken Sauce 2 Units / 695 g | $81.70 | $69.70 | $-12.00 | -14.7% | Decrease |
+| KFI Gluten-Free Curry and Coconut Sauce 2 Units / 695 g | $75.70 | $69.70 | $-6.00 | -7.9% | Decrease |
+| M&M Mini Chocolate Candies 800 g | $129.70 | $99.70 | $-30.00 | -23.1% | Decrease |
+| Nectarine 908 g / 2 lb | $69.95 | $64.95 | $-5.00 | -7.1% | Decrease |
+| Orchard Assorted Juices 24 Units / 250 mL | $102.95 | $88.95 | $-14.00 | -13.6% | Decrease |
+| Carmencita Paella Seasoning with Saffron 15 Units / 4 g / 0.14 oz | $46.95 | $55.95 | $+9.00 | +19.2% | Increase |
+| Fresh Grape Tomatoes 907 g / 2 lb | $44.95 | $59.95 | $+15.00 | +33.4% | Increase |
+| Badia All Purpose Marinade Seasoning 591 mL / 20 oz  | $22.95 | $22.45 | $-0.50 | -2.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,22 +100,20 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Bumble Bee Tuna Salad Snack 6 Units / 100 g / 3.5 oz | Bumble Bee | $79.95 | 2026-02-05 |
+| Maggi Chicken Broth Flavored Cubed Seasoning 128 Units / 11.33 g / 0.39 oz | Maggi | $99.95 | 2026-02-05 |
+| Frozen Chicken Legs 1 kg / 2.2 lb |  | $39.95 | 2026-02-05 |
+| Rastelli's Ribeye Steak 2 Units 225 g / 8 oz | Rastelli's | $129.95 | 2026-02-05 |
 | Red Rose Pink Salmon 3 Units / 418 g | Red Rose | $125.95 | 2026-02-04 |
 | Svelty Slim 99.5% Fat-Free Skimmed Milk 3 Units / 1 L | Svelty | $48.95 | 2026-02-04 |
 | Carr's Assorted Seasonal Crackers 400 g | Carr's | $49.70 | 2026-02-04 |
 | Omypop Popcorn with Salted Egg Yolk and Baked Cheese Flavors 2 Units / 70 g / 2.46 oz | Omypop | $24.70 | 2026-02-04 |
 | Cook's Mate Cornstarch 700 g | Cook's Mate | $27.95 | 2026-02-04 |
 | Annie's Organic Macaroni and Cheese Variety Pack 12 Units / 170 g | Annies | $99.70 | 2026-02-04 |
-| Pork Leg Frozen  |  | $59.34 | 2026-02-04 |
-| Rastelli's New York Strip Steak 2 Units / 225 g / 8 oz | Rastelli's | $126.95 | 2026-02-04 |
-| Member's Selection Ready-to-Eat Tuna Salad 907 g / 2 lb | Member's Selection | $87.95 | 2026-02-03 |
-| Pink Lady Apples 1.36 kg / 3 lb |  | $67.95 | 2026-02-02 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Brunswick Canned Mackerel in Oil 3 Units / 225 g / 7.9 oz | Brunswick | $34.95 | G10D03 |
-| Activia Assorted Probiotics Low Fat Yogurt Drink 24 Units / 93 mL / 3.1 oz | Activia | $159.95 | G10D03 |
-| Sacla Hot Sauce for Arrabbiata Pasta with Tomatoes and Chili Peppers / 2 Units / 680 g / 24 oz | Sacla | $102.95 | G10D03 |
-| Breakstone's Cottage Cheese 680 g / 1.5 lb | Breakstone's | $33.95 | G10D03 |
+| San Clemente Seedless Green Grapes 907 g / 2 lb | San Clemente | $99.95 | G10D03 |
+| Red Grapes Seedless 907 g / 2 lb |  | $99.95 | G10D03 |
