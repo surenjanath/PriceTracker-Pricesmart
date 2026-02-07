@@ -1,15 +1,15 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1163
-- **Total value**: $133,001.91
-- **Average price**: $114.36
+- **Total products scraped**: 1159
+- **Total value**: $132,834.49
+- **Average price**: $114.61
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1161
-- **Price changes detected**: 39
-- **Stock/availability changes**: 18
+- **New products added**: 0
+- **Existing products updated**: 1159
+- **Price changes detected**: 32
+- **Stock/availability changes**: 22
 - **Discontinued products**: 4
 
 ## Top 5 Brands
@@ -17,7 +17,7 @@
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 186 |
-|  | 135 |
+|  | 134 |
 | Badia | 18 |
 | Swiss | 14 |
 | Brunswick | 12 |
@@ -28,43 +28,43 @@
 |-------|-------|-------------|--------------|
 | Member's Selection Canola Oil Spray 2 Units 400 mL / 13.5 oz | Member's Selection | $79.95 | true |
 | Member's Selection Organic Trail Mix with Cranberries 737 g / 26 oz | Member's Selection | $164.95 | true |
+| Galvanina Lemon Flavor Sparkling Mineral Water 24 Units / 500 mL / 16.9 oz | Galvanina | $169.95 | true |
 | Bob's Red Mill Oatmeal with Protein 1.81 kg / 4 lb | Bob's Red Mill | $144.95 | true |
 | Terra Creta Extra Virgin Olive Oil in Marasca 1 L / 33.81 oz | Terra Creta | $119.95 | true |
-| Galvanina Lemon Flavor Sparkling Mineral Water 24 Units / 500 mL / 16.9 oz | Galvanina | $169.95 | true |
 | Copper Kettle Dark Chocolate Truffles with Sea Salt 448 g / 16 oz | Copper Kettle | $139.95 | true |
-| Diamond Shelled Walnuts 907 g / 32 oz | Diamond | $137.95 | true |
 | Coffee Toppers Salted Caramel Whipped Cream 2 Units / 425 g / 15 oz | Coffee Toppers | $79.95 | true |
-| Chobani Greek Yogurt 20G Protein 8 Units / 296 mL / 10 oz | Chobani | $159.95 | true |
+| Diamond Shelled Walnuts 907 g / 32 oz | Diamond | $137.95 | true |
 | Garcia Chicken & Pork Smoked Sausage 680 g / 1.5 lb | Garcia | $44.95 | true |
+| Pringles Honey Mustard, Sour Cream & Onion, and Cheddar Cheese 3-Pack / 158 g / 5.5 oz | Pringles | $79.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1016
-- **Price increases**: 445
-- **Price decreases**: 538
-- **Average increase**: 12.2%
-- **Average decrease**: -5.1%
+- **Total price changes**: 999
+- **Price increases**: 434
+- **Price decreases**: 533
+- **Average increase**: 12.4%
+- **Average decrease**: -4.9%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Samyang Spicy Chicken-Flavored Ramen with Cheese Sauce 5 Units / 140 g | $62.95 | $67.95 | $+5.00 | +7.9% | Increase |
-| San Clemente Seedless Green Grapes 907 g / 2 lb | $0.00 | $99.95 | $+99.95 | +100.0% | New |
-| Fruit Roll Ups Assorted Fruit Rolls 72 Units / 14 g | $139.70 | $99.70 | $-40.00 | -28.6% | Decrease |
-| Fresh Strawberry 454 g / 1 lb | $49.95 | $56.95 | $+7.00 | +14.0% | Increase |
-| Chief Duck & Goat Curry Powder 600 g | $75.70 | $59.70 | $-16.00 | -21.1% | Decrease |
-| DeMet's Turtles Chocolate Filled with Creamy Caramel 496 g | $114.70 | $89.70 | $-25.00 | -21.8% | Decrease |
-| Par Excellence Jasmine White Rice 10 kg / 352.74 oz | $159.70 | $124.70 | $-35.00 | -21.9% | Decrease |
-| KFI Gluten-Free Butter Chicken Sauce 2 Units / 695 g | $81.70 | $69.70 | $-12.00 | -14.7% | Decrease |
-| KFI Gluten-Free Curry and Coconut Sauce 2 Units / 695 g | $75.70 | $69.70 | $-6.00 | -7.9% | Decrease |
-| M&M Mini Chocolate Candies 800 g | $129.70 | $99.70 | $-30.00 | -23.1% | Decrease |
-| Nectarine 908 g / 2 lb | $69.95 | $64.95 | $-5.00 | -7.1% | Decrease |
-| Orchard Assorted Juices 24 Units / 250 mL | $102.95 | $88.95 | $-14.00 | -13.6% | Decrease |
-| Carmencita Paella Seasoning with Saffron 15 Units / 4 g / 0.14 oz | $46.95 | $55.95 | $+9.00 | +19.2% | Increase |
-| Fresh Grape Tomatoes 907 g / 2 lb | $44.95 | $59.95 | $+15.00 | +33.4% | Increase |
-| Badia All Purpose Marinade Seasoning 591 mL / 20 oz  | $22.95 | $22.45 | $-0.50 | -2.2% | Decrease |
+| Nongshim Shin Ramyun Korean Spicy Flavor Instant Noodle Soup 4 Units / 120 g | $39.95 | $41.95 | $+2.00 | +5.0% | Increase |
+| Pork Belly with Skin Frozen Vacuum Packaged | $187.83 | $187.62 | $-0.21 | -0.1% | Decrease |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $133.27 | $132.48 | $-0.79 | -0.6% | Decrease |
+| Frozen Lamb Shoulder Case | $1284.93 | $1286.29 | $+1.36 | +0.1% | Increase |
+| Papaya | $31.90 | $32.00 | $+0.10 | +0.3% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Case | $1376.48 | $1373.54 | $-2.94 | -0.2% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $181.91 | $183.53 | $+1.62 | +0.9% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $85.30 | $85.21 | $-0.09 | -0.1% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $96.67 | $96.57 | $-0.10 | -0.1% | Decrease |
+| Green pepper | $37.39 | $40.20 | $+2.81 | +7.5% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $123.83 | $123.66 | $-0.17 | -0.1% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $91.22 | $91.11 | $-0.11 | -0.1% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $92.31 | $92.21 | $-0.10 | -0.1% | Decrease |
+| Frozen Bone-In Pork Shoulder Vacuum Packed | $261.44 | $260.24 | $-1.20 | -0.5% | Decrease |
+| Dutch Potatoes 4.54 kg / 10 lb | $26.95 | $29.95 | $+3.00 | +11.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,20 +100,16 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Pop-Tarts Snack Crunchy Poppers Filled with Strawberry and Brownie 2 Units 360 g / 12.6 oz  | Pop Tarts | $64.70 | 2026-02-06 |
+| Red Onion 1.36 kg / 3 lb |  | $42.95 | 2026-02-06 |
+| Trias Assorted Flavor Special Cookies 600 g / 21.16 oz | Trias | $29.70 | 2026-02-06 |
+| Breakstone's Cottage Cheese 680 g / 1.5 lb | Breakstone's | $33.95 | 2026-02-06 |
 | Bumble Bee Tuna Salad Snack 6 Units / 100 g / 3.5 oz | Bumble Bee | $79.95 | 2026-02-05 |
 | Maggi Chicken Broth Flavored Cubed Seasoning 128 Units / 11.33 g / 0.39 oz | Maggi | $99.95 | 2026-02-05 |
 | Frozen Chicken Legs 1 kg / 2.2 lb |  | $39.95 | 2026-02-05 |
 | Rastelli's Ribeye Steak 2 Units 225 g / 8 oz | Rastelli's | $129.95 | 2026-02-05 |
 | Red Rose Pink Salmon 3 Units / 418 g | Red Rose | $125.95 | 2026-02-04 |
 | Svelty Slim 99.5% Fat-Free Skimmed Milk 3 Units / 1 L | Svelty | $48.95 | 2026-02-04 |
-| Carr's Assorted Seasonal Crackers 400 g | Carr's | $49.70 | 2026-02-04 |
-| Omypop Popcorn with Salted Egg Yolk and Baked Cheese Flavors 2 Units / 70 g / 2.46 oz | Omypop | $24.70 | 2026-02-04 |
-| Cook's Mate Cornstarch 700 g | Cook's Mate | $27.95 | 2026-02-04 |
-| Annie's Organic Macaroni and Cheese Variety Pack 12 Units / 170 g | Annies | $99.70 | 2026-02-04 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| San Clemente Seedless Green Grapes 907 g / 2 lb | San Clemente | $99.95 | G10D03 |
-| Red Grapes Seedless 907 g / 2 lb |  | $99.95 | G10D03 |
+No new products added today.
