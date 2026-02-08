@@ -1,22 +1,22 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1159
-- **Total value**: $132,834.49
-- **Average price**: $114.61
+- **Total products scraped**: 1160
+- **Total value**: $133,227.31
+- **Average price**: $114.85
 
 ## Database Changes
-- **New products added**: 0
+- **New products added**: 1
 - **Existing products updated**: 1159
-- **Price changes detected**: 32
-- **Stock/availability changes**: 22
-- **Discontinued products**: 4
+- **Price changes detected**: 36
+- **Stock/availability changes**: 14
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 186 |
+| Member's Selection | 185 |
 |  | 134 |
 | Badia | 18 |
 | Swiss | 14 |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 999
-- **Price increases**: 434
-- **Price decreases**: 533
-- **Average increase**: 12.4%
-- **Average decrease**: -4.9%
+- **Total price changes**: 1009
+- **Price increases**: 445
+- **Price decreases**: 531
+- **Average increase**: 11.9%
+- **Average decrease**: -4.8%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Nongshim Shin Ramyun Korean Spicy Flavor Instant Noodle Soup 4 Units / 120 g | $39.95 | $41.95 | $+2.00 | +5.0% | Increase |
-| Pork Belly with Skin Frozen Vacuum Packaged | $187.83 | $187.62 | $-0.21 | -0.1% | Decrease |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $133.27 | $132.48 | $-0.79 | -0.6% | Decrease |
-| Frozen Lamb Shoulder Case | $1284.93 | $1286.29 | $+1.36 | +0.1% | Increase |
-| Papaya | $31.90 | $32.00 | $+0.10 | +0.3% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Case | $1376.48 | $1373.54 | $-2.94 | -0.2% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $181.91 | $183.53 | $+1.62 | +0.9% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $85.30 | $85.21 | $-0.09 | -0.1% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $96.67 | $96.57 | $-0.10 | -0.1% | Decrease |
-| Green pepper | $37.39 | $40.20 | $+2.81 | +7.5% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $123.83 | $123.66 | $-0.17 | -0.1% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $91.22 | $91.11 | $-0.11 | -0.1% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $92.31 | $92.21 | $-0.10 | -0.1% | Decrease |
-| Frozen Bone-In Pork Shoulder Vacuum Packed | $261.44 | $260.24 | $-1.20 | -0.5% | Decrease |
-| Dutch Potatoes 4.54 kg / 10 lb | $26.95 | $29.95 | $+3.00 | +11.1% | Increase |
+| Pork Belly with Skin Frozen Vacuum Packaged | $187.62 | $187.83 | $+0.21 | +0.1% | Increase |
+| Royal Asia Coconut Shrimp with Sweet Thai Chili Sauce 907 g / 2 lb | $169.95 | $174.95 | $+5.00 | +2.9% | Increase |
+| Royal Asia Honey Walnut Shrimp 907 g / 2 lb | $0.00 | $177.95 | $+177.95 | +100.0% | New |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $132.48 | $131.42 | $-1.06 | -0.8% | Decrease |
+| Frozen Lamb Shoulder Case | $1286.29 | $1426.95 | $+140.66 | +10.9% | Increase |
+| Papaya | $32.00 | $32.12 | $+0.12 | +0.4% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $183.53 | $181.91 | $-1.62 | -0.9% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $85.21 | $85.13 | $-0.08 | -0.1% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $96.57 | $96.38 | $-0.19 | -0.2% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $57.86 | $57.94 | $+0.08 | +0.1% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $150.86 | $151.45 | $+0.59 | +0.4% | Increase |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $81.45 | $82.10 | $+0.65 | +0.8% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $123.66 | $123.48 | $-0.18 | -0.1% | Decrease |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $79.89 | $79.24 | $-0.65 | -0.8% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $91.11 | $91.44 | $+0.33 | +0.4% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Member's Selection Sweetener Sucralose 1 000 Units / 1 g / 0.03 oz   | Member's Selection | $97.95 | 2026-02-07 |
 | Pop-Tarts Snack Crunchy Poppers Filled with Strawberry and Brownie 2 Units 360 g / 12.6 oz  | Pop Tarts | $64.70 | 2026-02-06 |
 | Red Onion 1.36 kg / 3 lb |  | $42.95 | 2026-02-06 |
 | Trias Assorted Flavor Special Cookies 600 g / 21.16 oz | Trias | $29.70 | 2026-02-06 |
@@ -109,7 +110,9 @@
 | Frozen Chicken Legs 1 kg / 2.2 lb |  | $39.95 | 2026-02-05 |
 | Rastelli's Ribeye Steak 2 Units 225 g / 8 oz | Rastelli's | $129.95 | 2026-02-05 |
 | Red Rose Pink Salmon 3 Units / 418 g | Red Rose | $125.95 | 2026-02-04 |
-| Svelty Slim 99.5% Fat-Free Skimmed Milk 3 Units / 1 L | Svelty | $48.95 | 2026-02-04 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Royal Asia Honey Walnut Shrimp 907 g / 2 lb | Royal Asia | $177.95 | G10D03 |
