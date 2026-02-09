@@ -2,15 +2,15 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1160
-- **Total value**: $133,227.31
-- **Average price**: $114.85
+- **Total value**: $133,312.00
+- **Average price**: $114.92
 
 ## Database Changes
 - **New products added**: 1
 - **Existing products updated**: 1159
-- **Price changes detected**: 36
-- **Stock/availability changes**: 14
-- **Discontinued products**: 1
+- **Price changes detected**: 43
+- **Stock/availability changes**: 10
+- **Discontinued products**: 3
 
 ## Top 5 Brands
 
@@ -20,7 +20,7 @@
 |  | 134 |
 | Badia | 18 |
 | Swiss | 14 |
-| Brunswick | 12 |
+| Kiss | 11 |
 
 ## Recent Products
 
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1009
-- **Price increases**: 445
-- **Price decreases**: 531
-- **Average increase**: 11.9%
-- **Average decrease**: -4.8%
+- **Total price changes**: 1027
+- **Price increases**: 460
+- **Price decreases**: 536
+- **Average increase**: 11.8%
+- **Average decrease**: -4.9%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Pork Belly with Skin Frozen Vacuum Packaged | $187.62 | $187.83 | $+0.21 | +0.1% | Increase |
-| Royal Asia Coconut Shrimp with Sweet Thai Chili Sauce 907 g / 2 lb | $169.95 | $174.95 | $+5.00 | +2.9% | Increase |
-| Royal Asia Honey Walnut Shrimp 907 g / 2 lb | $0.00 | $177.95 | $+177.95 | +100.0% | New |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $132.48 | $131.42 | $-1.06 | -0.8% | Decrease |
-| Frozen Lamb Shoulder Case | $1286.29 | $1426.95 | $+140.66 | +10.9% | Increase |
-| Papaya | $32.00 | $32.12 | $+0.12 | +0.4% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $183.53 | $181.91 | $-1.62 | -0.9% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $85.21 | $85.13 | $-0.08 | -0.1% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $96.57 | $96.38 | $-0.19 | -0.2% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $57.86 | $57.94 | $+0.08 | +0.1% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $150.86 | $151.45 | $+0.59 | +0.4% | Increase |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $81.45 | $82.10 | $+0.65 | +0.8% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $123.66 | $123.48 | $-0.18 | -0.1% | Decrease |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $79.89 | $79.24 | $-0.65 | -0.8% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $91.11 | $91.44 | $+0.33 | +0.4% | Increase |
+| Orchard Orange Drink 24 Units / 250 mL | $85.95 | $89.95 | $+4.00 | +4.7% | Increase |
+| Folgers Instant Coffee 453 g /16 oz | $105.45 | $129.95 | $+24.50 | +23.2% | Increase |
+| Happy Village Organic Fig and Nut Mini Bars 24 Units / 20 g / 0.7 oz | $0.00 | $136.95 | $+136.95 | +100.0% | New |
+| Pork Belly with Skin Frozen Vacuum Packaged | $187.83 | $189.56 | $+1.73 | +0.9% | Increase |
+| Tanty Yvonne Banana Bread with Chocolate Chips | $20.95 | $27.95 | $+7.00 | +33.4% | Increase |
+| Papaya | $32.12 | $32.25 | $+0.13 | +0.4% | Increase |
+| Cadbury Delicious Milk Chocolate Bar 180 g       | $53.95 | $55.95 | $+2.00 | +3.7% | Increase |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $82.10 | $82.62 | $+0.52 | +0.6% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $181.91 | $183.26 | $+1.35 | +0.7% | Increase |
+| Fresh Chicken Breast Bone In Tray | $96.38 | $96.19 | $-0.19 | -0.2% | Decrease |
+| Cadbury Whole Nut Chocolate Bar 180 g  | $53.95 | $55.95 | $+2.00 | +3.7% | Increase |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $131.42 | $130.63 | $-0.79 | -0.6% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $222.29 | $222.82 | $+0.53 | +0.2% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $151.45 | $151.60 | $+0.15 | +0.1% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $79.52 | $79.41 | $-0.11 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,9 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Chosen Foods Avocado Oil 800 mL / 27 oz | Chosen Foods | $139.95 | 2026-02-08 |
+| Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | Eggo | $106.95 | 2026-02-08 |
+| Brunswick Hot Thai Chili Flavored Boneless Sardines 5 Units / 106 g | Brunswick | $53.95 | 2026-02-08 |
 | Member's Selection Sweetener Sucralose 1 000 Units / 1 g / 0.03 oz   | Member's Selection | $97.95 | 2026-02-07 |
 | Pop-Tarts Snack Crunchy Poppers Filled with Strawberry and Brownie 2 Units 360 g / 12.6 oz  | Pop Tarts | $64.70 | 2026-02-06 |
 | Red Onion 1.36 kg / 3 lb |  | $42.95 | 2026-02-06 |
@@ -107,12 +110,9 @@
 | Breakstone's Cottage Cheese 680 g / 1.5 lb | Breakstone's | $33.95 | 2026-02-06 |
 | Bumble Bee Tuna Salad Snack 6 Units / 100 g / 3.5 oz | Bumble Bee | $79.95 | 2026-02-05 |
 | Maggi Chicken Broth Flavored Cubed Seasoning 128 Units / 11.33 g / 0.39 oz | Maggi | $99.95 | 2026-02-05 |
-| Frozen Chicken Legs 1 kg / 2.2 lb |  | $39.95 | 2026-02-05 |
-| Rastelli's Ribeye Steak 2 Units 225 g / 8 oz | Rastelli's | $129.95 | 2026-02-05 |
-| Red Rose Pink Salmon 3 Units / 418 g | Red Rose | $125.95 | 2026-02-04 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Royal Asia Honey Walnut Shrimp 907 g / 2 lb | Royal Asia | $177.95 | G10D03 |
+| Happy Village Organic Fig and Nut Mini Bars 24 Units / 20 g / 0.7 oz | Happy Village | $136.95 | G10D03 |
