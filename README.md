@@ -184,15 +184,15 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1160
-- **Total value**: $133,248.96
-- **Average price**: $114.87
+- **Total products scraped**: 1161
+- **Total value**: $133,432.40
+- **Average price**: $114.93
 
 ## Database Changes
-- **New products added**: 1
+- **New products added**: 2
 - **Existing products updated**: 1159
-- **Price changes detected**: 24
-- **Stock/availability changes**: 27
+- **Price changes detected**: 18
+- **Stock/availability changes**: 16
 - **Discontinued products**: 1
 
 ## Top 5 Brands
@@ -203,57 +203,58 @@ This project has recently gained unexpected attention. It was created for person
 |  | 134 |
 | Badia | 18 |
 | Swiss | 14 |
-| Kiss | 11 |
+| Kirkland Signature | 11 |
 
 ## Recent Products
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Member's Selection Canola Oil Spray 2 Units 400 mL / 13.5 oz | Member's Selection | $79.95 | true |
 | Member's Selection Organic Trail Mix with Cranberries 737 g / 26 oz | Member's Selection | $164.95 | true |
-| Bob's Red Mill Oatmeal with Protein 1.81 kg / 4 lb | Bob's Red Mill | $144.95 | true |
-| Galvanina Lemon Flavor Sparkling Mineral Water 24 Units / 500 mL / 16.9 oz | Galvanina | $169.95 | true |
-| Terra Creta Extra Virgin Olive Oil in Marasca 1 L / 33.81 oz | Terra Creta | $119.95 | true |
-| Copper Kettle Dark Chocolate Truffles with Sea Salt 448 g / 16 oz | Copper Kettle | $139.95 | true |
-| Coffee Toppers Salted Caramel Whipped Cream 2 Units / 425 g / 15 oz | Coffee Toppers | $79.95 | true |
-| Diamond Shelled Walnuts 907 g / 32 oz | Diamond | $137.95 | true |
-| Garcia Chicken & Pork Smoked Sausage 680 g / 1.5 lb | Garcia | $44.95 | true |
+| General Mills Triple Chex Cereal Mix 1.53 kg / 3 lb | General Mills | $97.95 | true |
+| Carapelli Organic Extra Virgin Olive Oil 880 g / 33.8 oz | Carapelli | $129.95 | true |
 | Pringles Honey Mustard, Sour Cream & Onion, and Cheddar Cheese 3-Pack / 158 g / 5.5 oz | Pringles | $79.95 | true |
+| Sacla Hot Sauce for Arrabbiata Pasta with Tomatoes and Chili Peppers / 2 Units / 680 g / 24 oz | Sacla | $102.95 | true |
+| Bluewater Farms Cranberry Juice 1.65 L / 56 oz | Bluewater Farms | $62.95 | true |
+| Sara Lee Classic Pound Butter Cake 2 Pack / 453 g / 15.9 oz | Sara Lee | $114.95 | true |
+| Florida's Natural Strawberry Lemonade 2 Units 1.75 L / 59 oz | Florida's Natural | $99.95 | true |
+| Activia Assorted Probiotics Low Fat Yogurt Drink 24 Units / 93 mL / 3.1 oz | Activia | $159.95 | true |
+| Naz Incredible Creations Red Onion Artisan Loaf Bread | Naz Incredible Creations | $36.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1029
-- **Price increases**: 466
-- **Price decreases**: 532
-- **Average increase**: 11.7%
-- **Average decrease**: -5.2%
+- **Total price changes**: 1016
+- **Price increases**: 453
+- **Price decreases**: 530
+- **Average increase**: 12.9%
+- **Average decrease**: -5.3%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Aziz's Assortment Pack of Freshly Baked Traditional Sweets | $58.95 | $66.95 | $+8.00 | +13.6% | Increase |
-| Bombolo Biscotti Festive Valentine's Day Cookies | $0.00 | $76.95 | $+76.95 | +100.0% | New |
-| The Happy Planet Oyster Mushroom 310 g / 11.2 oz | $49.95 | $42.95 | $-7.00 | -14.0% | Decrease |
-| Papaya | $32.25 | $32.35 | $+0.10 | +0.3% | Increase |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $130.63 | $128.78 | $-1.85 | -1.4% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $151.60 | $152.34 | $+0.74 | +0.5% | Increase |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $78.98 | $78.72 | $-0.26 | -0.3% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $79.41 | $79.31 | $-0.10 | -0.1% | Decrease |
-| Fresh Ground Chicken Tray | $108.70 | $108.47 | $-0.23 | -0.2% | Decrease |
-| Garlic 1 kg / 2.2 lb | $21.95 | $19.95 | $-2.00 | -9.1% | Decrease |
-| Erin Farm Smoked Picnic Ham 4.6 kg / 10.1 lb | $212.95 | $219.95 | $+7.00 | +3.3% | Increase |
-| Fine Choice Fresh Marinated Chicken Tray | $86.12 | $86.30 | $+0.18 | +0.2% | Increase |
-| Swiss Macaroni 6 Units / 400 g | $35.95 | $37.95 | $+2.00 | +5.6% | Increase |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $78.30 | $78.43 | $+0.13 | +0.2% | Increase |
-| Fresh Ground Chicken Meat Bag | $271.85 | $271.53 | $-0.32 | -0.1% | Decrease |
+| Tropical Gold Breaded Calamari Rings 2 Units / 454 g / 1 lb | $0.00 | $92.95 | $+92.95 | +100.0% | New |
+| Frozen Bone-In Goat Carcass Case | $1251.21 | $1342.29 | $+91.08 | +7.3% | Increase |
+| Macfoods Roast Boneless Pork Belly, 1 kg / 2.2 lb | $0.00 | $79.95 | $+79.95 | +100.0% | New |
+| San Clemente Seedless Green Grapes 907 g / 2 lb | $99.95 | $89.95 | $-10.00 | -10.0% | Decrease |
+| Bombolo Biscotti Festive Valentine's Day Cookies | $76.95 | $57.95 | $-19.00 | -24.7% | Decrease |
+| The Happy Planet Oyster Mushroom 310 g / 11.2 oz | $42.95 | $29.95 | $-13.00 | -30.3% | Decrease |
+| Papaya | $32.35 | $32.38 | $+0.03 | +0.1% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $183.26 | $181.91 | $-1.35 | -0.7% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $96.19 | $96.09 | $-0.10 | -0.1% | Decrease |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $78.72 | $78.07 | $-0.65 | -0.8% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $91.33 | $91.22 | $-0.11 | -0.1% | Decrease |
+| Frozen Lamb Shoulder Chops Tray | $123.48 | $123.31 | $-0.17 | -0.1% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $262.51 | $262.21 | $-0.30 | -0.1% | Decrease |
+| Pork Chop with Bone Frozen Tray | $88.12 | $88.00 | $-0.12 | -0.1% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.74 | $114.59 | $-0.15 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
 | Product | Old Price | New Price | % Increase |
 |---------|-----------|-----------|------------|
 | Hunt's Diced Tomatoes 8 Units / 411 g / 14.25 oz | $104.95 | $1999.00 | +1804.7% |
+| Member's Selection Premium Carved Cooked Ham with Natural Juices 2 Units / 340 g / 12 oz  | $9.70 | $69.95 | +621.1% |
 | Pillsbury Cookie Dough Mix 1.3 kg / 3 lb | $19.70 | $109.95 | +458.1% |
 | Tropical Frying Cheese 907 g / 32 oz | $19.70 | $89.95 | +356.6% |
 | Frozen Boneless Pork Loin Vacuum Packaged | $56.90 | $253.53 | +345.6% |
@@ -262,7 +263,6 @@ This project has recently gained unexpected attention. It was created for person
 | Sabra Classic Hummus 850 g / 30 oz | $24.70 | $79.95 | +223.7% |
 | Avocado 2 Units | $9.70 | $29.95 | +208.8% |
 | Kozyshack Cinnamon Rice Pudding 1.36 kg / 3 lb | $29.70 | $89.95 | +202.9% |
-| Hillshire Farm Ham Mix 3 Units / 454 g / 16 oz | $69.70 | $194.95 | +179.7% |
 
 ## Biggest Price Decreases (All Time)
 
@@ -283,6 +283,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Bumble Bee Skinless and Boneless Canned Wild Caught Pink Salmon 5 Units / 5 oz | Bumble Bee | $99.95 | 2026-02-10 |
 | Orchard Assorted Juices 24 Units / 250 mL | Orchard | $88.95 | 2026-02-09 |
 | Chosen Foods Avocado Oil 800 mL / 27 oz | Chosen Foods | $139.95 | 2026-02-08 |
 | Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | Eggo | $106.95 | 2026-02-08 |
@@ -292,10 +293,10 @@ This project has recently gained unexpected attention. It was created for person
 | Red Onion 1.36 kg / 3 lb |  | $42.95 | 2026-02-06 |
 | Trias Assorted Flavor Special Cookies 600 g / 21.16 oz | Trias | $29.70 | 2026-02-06 |
 | Breakstone's Cottage Cheese 680 g / 1.5 lb | Breakstone's | $33.95 | 2026-02-06 |
-| Bumble Bee Tuna Salad Snack 6 Units / 100 g / 3.5 oz | Bumble Bee | $79.95 | 2026-02-05 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Bombolo Biscotti Festive Valentine's Day Cookies | Bombolo Biscotti | $76.95 | G10D03 |
+| Tropical Gold Breaded Calamari Rings 2 Units / 454 g / 1 lb | Tropical Gold | $92.95 | G10D03 |
+| Macfoods Roast Boneless Pork Belly, 1 kg / 2.2 lb | Macfoods | $79.95 | G10D03 |
