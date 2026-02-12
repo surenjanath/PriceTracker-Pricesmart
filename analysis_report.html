@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1161
-- **Total value**: $133,432.40
-- **Average price**: $114.93
+- **Total products scraped**: 1164
+- **Total value**: $133,849.96
+- **Average price**: $114.99
 
 ## Database Changes
 - **New products added**: 2
-- **Existing products updated**: 1159
-- **Price changes detected**: 18
-- **Stock/availability changes**: 16
+- **Existing products updated**: 1162
+- **Price changes detected**: 81
+- **Stock/availability changes**: 19
 - **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 185 |
-|  | 134 |
+| Member's Selection | 186 |
+|  | 136 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 11 |
@@ -28,10 +28,10 @@
 |-------|-------|-------------|--------------|
 | Member's Selection Organic Trail Mix with Cranberries 737 g / 26 oz | Member's Selection | $164.95 | true |
 | General Mills Triple Chex Cereal Mix 1.53 kg / 3 lb | General Mills | $97.95 | true |
+| Bluewater Farms Cranberry Juice 1.65 L / 56 oz | Bluewater Farms | $62.95 | true |
 | Carapelli Organic Extra Virgin Olive Oil 880 g / 33.8 oz | Carapelli | $129.95 | true |
 | Pringles Honey Mustard, Sour Cream & Onion, and Cheddar Cheese 3-Pack / 158 g / 5.5 oz | Pringles | $79.95 | true |
 | Sacla Hot Sauce for Arrabbiata Pasta with Tomatoes and Chili Peppers / 2 Units / 680 g / 24 oz | Sacla | $102.95 | true |
-| Bluewater Farms Cranberry Juice 1.65 L / 56 oz | Bluewater Farms | $62.95 | true |
 | Sara Lee Classic Pound Butter Cake 2 Pack / 453 g / 15.9 oz | Sara Lee | $114.95 | true |
 | Florida's Natural Strawberry Lemonade 2 Units 1.75 L / 59 oz | Florida's Natural | $99.95 | true |
 | Activia Assorted Probiotics Low Fat Yogurt Drink 24 Units / 93 mL / 3.1 oz | Activia | $159.95 | true |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1016
-- **Price increases**: 453
-- **Price decreases**: 530
-- **Average increase**: 12.9%
-- **Average decrease**: -5.3%
+- **Total price changes**: 1078
+- **Price increases**: 490
+- **Price decreases**: 553
+- **Average increase**: 12.2%
+- **Average decrease**: -5.4%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Tropical Gold Breaded Calamari Rings 2 Units / 454 g / 1 lb | $0.00 | $92.95 | $+92.95 | +100.0% | New |
-| Frozen Bone-In Goat Carcass Case | $1251.21 | $1342.29 | $+91.08 | +7.3% | Increase |
-| Macfoods Roast Boneless Pork Belly, 1 kg / 2.2 lb | $0.00 | $79.95 | $+79.95 | +100.0% | New |
-| San Clemente Seedless Green Grapes 907 g / 2 lb | $99.95 | $89.95 | $-10.00 | -10.0% | Decrease |
-| Bombolo Biscotti Festive Valentine's Day Cookies | $76.95 | $57.95 | $-19.00 | -24.7% | Decrease |
-| The Happy Planet Oyster Mushroom 310 g / 11.2 oz | $42.95 | $29.95 | $-13.00 | -30.3% | Decrease |
-| Papaya | $32.35 | $32.38 | $+0.03 | +0.1% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $183.26 | $181.91 | $-1.35 | -0.7% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $96.19 | $96.09 | $-0.10 | -0.1% | Decrease |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $78.72 | $78.07 | $-0.65 | -0.8% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $91.33 | $91.22 | $-0.11 | -0.1% | Decrease |
-| Frozen Lamb Shoulder Chops Tray | $123.48 | $123.31 | $-0.17 | -0.1% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $262.51 | $262.21 | $-0.30 | -0.1% | Decrease |
-| Pork Chop with Bone Frozen Tray | $88.12 | $88.00 | $-0.12 | -0.1% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.74 | $114.59 | $-0.15 | -0.1% | Decrease |
+| Kellogg’s Assorted Cereals Corn Pops, Froot Loops & Apple Jacks 3 Bags / 1.05 kg / 37.3 oz | $59.70 | $49.70 | $-10.00 | -16.8% | Decrease |
+| Eggo Waffles 40 Units / 35 g / 1.2 oz  | $129.95 | $132.95 | $+3.00 | +2.3% | Increase |
+| Member's Selection American Cheese Singles 907 g / 2 lb | $54.95 | $52.95 | $-2.00 | -3.6% | Decrease |
+| Member's Selection Whole Almonds 907 g / 2 lb | $124.95 | $129.95 | $+5.00 | +4.0% | Increase |
+| Member's Selection Whole Almonds - Healthy Snack 907 g / 32 oz | $127.95 | $129.95 | $+2.00 | +1.6% | Increase |
+| Donafe's Chocolate Cheesecake with Crunchy Chocolate Chunk Topping 12 Slices | $0.00 | $184.95 | $+184.95 | +100.0% | New |
+| Papaya | $32.38 | $32.28 | $-0.10 | -0.3% | Decrease |
+| Ribeye Choice Fillet Fresh Tray | $0.00 | $229.00 | $+229.00 | +100.0% | New |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $181.91 | $183.53 | $+1.62 | +0.9% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $85.13 | $85.04 | $-0.09 | -0.1% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $96.09 | $96.00 | $-0.09 | -0.1% | Decrease |
+| Il Boero Chocolates Filled with Cherry and Liquor 1 kg / 35.2 oz | $139.70 | $99.70 | $-40.00 | -28.6% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $222.82 | $221.23 | $-1.59 | -0.7% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $152.34 | $152.93 | $+0.59 | +0.4% | Increase |
+| Quantum Energy Bars Cookie Dough Flavor with Chocolate Chips and Peanut Butter with Dark Chocolate 16 Units / 48 g / 1.7 oz | $239.95 | $234.95 | $-5.00 | -2.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Select Harvest Honey and Cinnamon Glazed Almonds 680 g / 1 lb | Select Harvest | $89.95 | 2026-02-11 |
 | Bumble Bee Skinless and Boneless Canned Wild Caught Pink Salmon 5 Units / 5 oz | Bumble Bee | $99.95 | 2026-02-10 |
 | Orchard Assorted Juices 24 Units / 250 mL | Orchard | $88.95 | 2026-02-09 |
 | Chosen Foods Avocado Oil 800 mL / 27 oz | Chosen Foods | $139.95 | 2026-02-08 |
@@ -109,11 +110,10 @@
 | Pop-Tarts Snack Crunchy Poppers Filled with Strawberry and Brownie 2 Units 360 g / 12.6 oz  | Pop Tarts | $64.70 | 2026-02-06 |
 | Red Onion 1.36 kg / 3 lb |  | $42.95 | 2026-02-06 |
 | Trias Assorted Flavor Special Cookies 600 g / 21.16 oz | Trias | $29.70 | 2026-02-06 |
-| Breakstone's Cottage Cheese 680 g / 1.5 lb | Breakstone's | $33.95 | 2026-02-06 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Tropical Gold Breaded Calamari Rings 2 Units / 454 g / 1 lb | Tropical Gold | $92.95 | G10D03 |
-| Macfoods Roast Boneless Pork Belly, 1 kg / 2.2 lb | Macfoods | $79.95 | G10D03 |
+| Donafe's Chocolate Cheesecake with Crunchy Chocolate Chunk Topping 12 Slices | Donafe's | $184.95 | G10D03 |
+| Ribeye Choice Fillet Fresh Tray |  | $229.00 | G10D03 |
