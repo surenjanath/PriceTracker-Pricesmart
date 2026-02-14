@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1164
-- **Total value**: $133,367.17
-- **Average price**: $114.58
+- **Total products scraped**: 1166
+- **Total value**: $133,487.10
+- **Average price**: $114.48
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1163
-- **Price changes detected**: 41
-- **Stock/availability changes**: 12
-- **Discontinued products**: 3
+- **New products added**: 2
+- **Existing products updated**: 1164
+- **Price changes detected**: 19
+- **Stock/availability changes**: 7
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 185 |
-|  | 136 |
+| Member's Selection | 186 |
+|  | 137 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 11 |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1097
-- **Price increases**: 497
-- **Price decreases**: 565
-- **Average increase**: 12.1%
-- **Average decrease**: -5.2%
+- **Total price changes**: 1064
+- **Price increases**: 483
+- **Price decreases**: 547
+- **Average increase**: 12.2%
+- **Average decrease**: -4.8%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Sugar Bowl Bakery Brownie Bites | $0.00 | $52.70 | $+52.70 | +100.0% | New |
-| Fresh Strawberry 454 g / 1 lb | $56.95 | $54.95 | $-2.00 | -3.5% | Decrease |
-| Green Seedless Grapes 907 g / 2 lb | $94.95 | $89.95 | $-5.00 | -5.3% | Decrease |
-| Frozen Lamb Shoulder Case | $1426.95 | $1331.82 | $-95.13 | -6.7% | Decrease |
-| Papaya | $32.28 | $32.38 | $+0.10 | +0.3% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $85.04 | $84.70 | $-0.34 | -0.4% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $183.53 | $183.26 | $-0.27 | -0.1% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $96.00 | $95.90 | $-0.10 | -0.1% | Decrease |
-| Sunberry Farms Organic Guava Nectar Juice - Gluten Free 3.78 L / 128 oz | $84.95 | $89.95 | $+5.00 | +5.9% | Increase |
-| Fresh Chicken Mixed Parts Tray | $91.33 | $91.22 | $-0.11 | -0.1% | Decrease |
-| Fresh Grape Tomatoes 907 g / 2 lb | $59.95 | $69.95 | $+10.00 | +16.7% | Increase |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $78.07 | $77.81 | $-0.26 | -0.3% | Decrease |
-| Green Cabbage 1.3 kg / 2.9 lb | $27.95 | $29.95 | $+2.00 | +7.2% | Increase |
-| Orchard Orange Juice with Vitamin C 6 Units / 1 L / 33.8 oz | $67.95 | $59.95 | $-8.00 | -11.8% | Decrease |
-| Fresh Ground Chicken Tray | $108.11 | $108.35 | $+0.24 | +0.2% | Increase |
+| Aziz's Assortment Pack of Freshly Baked Traditional Sweets | $66.95 | $63.95 | $-3.00 | -4.5% | Decrease |
+| Seedless Red Grapes | $0.00 | $95.65 | $+95.65 | +100.0% | New |
+| Ribeye Choice Fillet Fresh Tray | $229.00 | $237.96 | $+8.96 | +3.9% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $221.23 | $221.49 | $+0.26 | +0.1% | Increase |
+| Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $57.95 | $24.70 | $-33.25 | -57.4% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $153.22 | $153.52 | $+0.30 | +0.2% | Increase |
+| Nutrina Chilled Whole Chicken Bag | $328.40 | $326.60 | $-1.80 | -0.5% | Decrease |
+| Fine Choice Fresh Marinated Chicken Tray | $86.21 | $86.12 | $-0.09 | -0.1% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Case | $1370.59 | $1351.13 | $-19.46 | -1.4% | Decrease |
+| Fresh Ground Chicken Meat Bag | $271.10 | $271.00 | $-0.10 | -0.0% | Decrease |
+| Smalta Malt Beverage 24 Units / 250 ml / 8.9 oz | $92.95 | $102.95 | $+10.00 | +10.8% | Increase |
+| Belgioioso Ricotta Cheese with whole Milk 453 g / 1 lb | $29.70 | $24.70 | $-5.00 | -16.8% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $92.01 | $92.11 | $+0.10 | +0.1% | Increase |
+| Fresh Chicken Boneless Breast Bag | $414.02 | $413.57 | $-0.45 | -0.1% | Decrease |
+| Frozen Pork Belly Skin On Sliced Tray  | $114.43 | $114.67 | $+0.24 | +0.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -298,4 +298,5 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Sugar Bowl Bakery Brownie Bites | Sugar Bowl | $52.70 | G10D03 |
+| Seedless Red Grapes |  | $95.65 | G10D03 |
+| Member's Selection Freshly Baked Strawberry and Cream Cake 10 to 15 Slices | Member's Selection | $68.47 | G10D03 |
