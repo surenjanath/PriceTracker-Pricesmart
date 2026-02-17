@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1166
-- **Total value**: $133,660.32
-- **Average price**: $114.63
+- **Total products scraped**: 1167
+- **Total value**: $133,816.82
+- **Average price**: $114.67
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1164
-- **Price changes detected**: 34
-- **Stock/availability changes**: 12
-- **Discontinued products**: 2
+- **New products added**: 0
+- **Existing products updated**: 1167
+- **Price changes detected**: 21
+- **Stock/availability changes**: 0
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -29,20 +29,20 @@
 | Member's Selection Organic Trail Mix with Cranberries 737 g / 26 oz | Member's Selection | $164.95 | true |
 | Royal Asia Honey Walnut Shrimp 907 g / 2 lb | Royal Asia | $176.95 | true |
 | Activia Assorted Probiotics Low Fat Yogurt Drink 24 Units / 93 mL / 3.1 oz | Activia | $159.95 | true |
-| SeaPak Garlic Butter Shrimp 680 g / 1.5 lb | SeaPak | $134.95 | true |
 | Florida's Natural Strawberry Lemonade 2 Units 1.75 L / 59 oz | Florida's Natural | $99.95 | true |
+| SeaPak Garlic Butter Shrimp 680 g / 1.5 lb | SeaPak | $134.95 | true |
 | Sacla Hot Sauce for Arrabbiata Pasta with Tomatoes and Chili Peppers / 2 Units / 680 g / 24 oz | Sacla | $102.95 | true |
 | General Mills Triple Chex Cereal Mix 1.53 kg / 3 lb | General Mills | $97.95 | true |
 | Bluewater Farms Cranberry Juice 1.65 L / 56 oz | Bluewater Farms | $62.95 | true |
-| Pringles Honey Mustard, Sour Cream & Onion, and Cheddar Cheese 3-Pack / 158 g / 5.5 oz | Pringles | $79.95 | true |
 | Carapelli Organic Extra Virgin Olive Oil 880 g / 33.8 oz | Carapelli | $129.95 | true |
+| Pringles Honey Mustard, Sour Cream & Onion, and Cheddar Cheese 3-Pack / 158 g / 5.5 oz | Pringles | $79.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
 - **Total price changes**: 1049
-- **Price increases**: 476
-- **Price decreases**: 540
+- **Price increases**: 477
+- **Price decreases**: 539
 - **Average increase**: 8.4%
 - **Average decrease**: -4.2%
 
@@ -50,21 +50,21 @@
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Beef Ribeye Steak Vacuum Packed | $0.00 | $220.04 | $+220.04 | +100.0% | New |
-| Panamei Medium Shrimp 51-60 Cooked 907 g / 2 lb | $0.00 | $129.95 | $+129.95 | +100.0% | New |
-| Fresh Beef Eye of Round Case | $4291.08 | $4216.42 | $-74.66 | -1.7% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $57.94 | $58.01 | $+0.07 | +0.1% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $84.70 | $84.61 | $-0.09 | -0.1% | Decrease |
-| Pier 33 Coho Salmon Steak Frozen, Skin on 1 kg / 2.2 lb | $224.95 | $219.95 | $-5.00 | -2.2% | Decrease |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $77.29 | $76.77 | $-0.52 | -0.7% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $95.90 | $95.80 | $-0.10 | -0.1% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $79.20 | $79.31 | $+0.11 | +0.1% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $88.73 | $88.46 | $-0.27 | -0.3% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $91.11 | $91.00 | $-0.11 | -0.1% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $153.52 | $155.60 | $+2.08 | +1.4% | Increase |
-| Fine Choice Fresh Marinated Chicken Tray | $86.08 | $86.12 | $+0.04 | +0.0% | Increase |
-| Panamei Cooked 31-40 Shrimp 908 g / 2 lb | $146.95 | $144.95 | $-2.00 | -1.4% | Decrease |
-| Hickory House Smoked Salmon 2 Units / 227 g / 8 oz | $209.95 | $204.95 | $-5.00 | -2.4% | Decrease |
+| Gorton's Pub Style Cod 921 g / 2 lb | $149.95 | $167.95 | $+18.00 | +12.0% | Increase |
+| Ribeye Choice Fillet Fresh Tray | $237.96 | $238.56 | $+0.60 | +0.3% | Increase |
+| Papaya | $32.38 | $32.54 | $+0.16 | +0.5% | Increase |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $128.78 | $132.48 | $+3.70 | +2.9% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $79.31 | $79.20 | $-0.11 | -0.1% | Decrease |
+| Frozen Lamb Shoulder Chops Tray | $122.95 | $122.78 | $-0.17 | -0.1% | Decrease |
+| Nutrina Chilled Whole Chicken Bag | $326.60 | $326.31 | $-0.29 | -0.1% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $91.00 | $91.11 | $+0.11 | +0.1% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $155.60 | $155.45 | $-0.15 | -0.1% | Decrease |
+| Chilled Skinless Boneless Beef Ribeye Steak Vacuum Package Whole Piece | $2780.08 | $2770.04 | $-10.04 | -0.4% | Decrease |
+| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $163.67 | $163.80 | $+0.13 | +0.1% | Increase |
+| Green pepper | $40.72 | $40.80 | $+0.08 | +0.2% | Increase |
+| Pork Chop with Bone Frozen Tray | $87.61 | $87.48 | $-0.13 | -0.1% | Decrease |
+| Red Grapes Seedless 907 g / 2 lb | $99.95 | $94.95 | $-5.00 | -5.0% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $92.67 | $92.53 | $-0.14 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -112,8 +112,4 @@
 | Chosen Foods Avocado Oil 800 mL / 27 oz | Chosen Foods | $139.95 | 2026-02-08 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Fresh Beef Ribeye Steak Vacuum Packed |  | $220.04 | G10D03 |
-| Panamei Medium Shrimp 51-60 Cooked 907 g / 2 lb | Panamei | $129.95 | G10D03 |
+No new products added today.
