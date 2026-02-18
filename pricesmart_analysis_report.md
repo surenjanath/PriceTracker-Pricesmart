@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1167
-- **Total value**: $133,816.82
-- **Average price**: $114.67
+- **Total products scraped**: 1166
+- **Total value**: $133,714.44
+- **Average price**: $114.68
 
 ## Database Changes
 - **New products added**: 0
-- **Existing products updated**: 1167
-- **Price changes detected**: 21
+- **Existing products updated**: 1166
+- **Price changes detected**: 8
 - **Stock/availability changes**: 0
-- **Discontinued products**: 0
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -27,29 +27,37 @@
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Member's Selection Organic Trail Mix with Cranberries 737 g / 26 oz | Member's Selection | $164.95 | true |
-| Royal Asia Honey Walnut Shrimp 907 g / 2 lb | Royal Asia | $176.95 | true |
-| Activia Assorted Probiotics Low Fat Yogurt Drink 24 Units / 93 mL / 3.1 oz | Activia | $159.95 | true |
 | Florida's Natural Strawberry Lemonade 2 Units 1.75 L / 59 oz | Florida's Natural | $99.95 | true |
+| Royal Asia Honey Walnut Shrimp 907 g / 2 lb | Royal Asia | $176.95 | true |
 | SeaPak Garlic Butter Shrimp 680 g / 1.5 lb | SeaPak | $134.95 | true |
-| Sacla Hot Sauce for Arrabbiata Pasta with Tomatoes and Chili Peppers / 2 Units / 680 g / 24 oz | Sacla | $102.95 | true |
 | General Mills Triple Chex Cereal Mix 1.53 kg / 3 lb | General Mills | $97.95 | true |
-| Bluewater Farms Cranberry Juice 1.65 L / 56 oz | Bluewater Farms | $62.95 | true |
+| Activia Assorted Probiotics Low Fat Yogurt Drink 24 Units / 93 mL / 3.1 oz | Activia | $159.95 | true |
+| Sacla Hot Sauce for Arrabbiata Pasta with Tomatoes and Chili Peppers / 2 Units / 680 g / 24 oz | Sacla | $102.95 | true |
 | Carapelli Organic Extra Virgin Olive Oil 880 g / 33.8 oz | Carapelli | $129.95 | true |
+| Bluewater Farms Cranberry Juice 1.65 L / 56 oz | Bluewater Farms | $62.95 | true |
 | Pringles Honey Mustard, Sour Cream & Onion, and Cheddar Cheese 3-Pack / 158 g / 5.5 oz | Pringles | $79.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1049
-- **Price increases**: 477
-- **Price decreases**: 539
-- **Average increase**: 8.4%
-- **Average decrease**: -4.2%
+- **Total price changes**: 1020
+- **Price increases**: 467
+- **Price decreases**: 520
+- **Average increase**: 8.6%
+- **Average decrease**: -4.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $183.53 | $190.33 | $+6.80 | +3.7% | Increase |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $132.48 | $138.50 | $+6.02 | +4.5% | Increase |
+| Mini Sweet Peppers 454 g / 1 lb | $42.95 | $36.95 | $-6.00 | -14.0% | Decrease |
+| Plum 907 g / 2 lb | $84.95 | $74.95 | $-10.00 | -11.8% | Decrease |
+| Anjous Pears 1.36 kg / 3 lb | $62.95 | $54.95 | $-8.00 | -12.7% | Decrease |
+| Peach 908 g / 2 lb | $74.95 | $59.95 | $-15.00 | -20.0% | Decrease |
+| Bombolo Biscotti Festive Valentine's Day Cookies | $57.95 | $39.70 | $-18.25 | -31.5% | Decrease |
+| Gala Apple 1.36 kg / 3 lb | $59.95 | $64.95 | $+5.00 | +8.3% | Increase |
 | Gorton's Pub Style Cod 921 g / 2 lb | $149.95 | $167.95 | $+18.00 | +12.0% | Increase |
 | Ribeye Choice Fillet Fresh Tray | $237.96 | $238.56 | $+0.60 | +0.3% | Increase |
 | Papaya | $32.38 | $32.54 | $+0.16 | +0.5% | Increase |
@@ -57,14 +65,6 @@
 | Frozen Bone In Pork Shoulder Sliced Tray | $79.31 | $79.20 | $-0.11 | -0.1% | Decrease |
 | Frozen Lamb Shoulder Chops Tray | $122.95 | $122.78 | $-0.17 | -0.1% | Decrease |
 | Nutrina Chilled Whole Chicken Bag | $326.60 | $326.31 | $-0.29 | -0.1% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $91.00 | $91.11 | $+0.11 | +0.1% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $155.60 | $155.45 | $-0.15 | -0.1% | Decrease |
-| Chilled Skinless Boneless Beef Ribeye Steak Vacuum Package Whole Piece | $2780.08 | $2770.04 | $-10.04 | -0.4% | Decrease |
-| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $163.67 | $163.80 | $+0.13 | +0.1% | Increase |
-| Green pepper | $40.72 | $40.80 | $+0.08 | +0.2% | Increase |
-| Pork Chop with Bone Frozen Tray | $87.61 | $87.48 | $-0.13 | -0.1% | Decrease |
-| Red Grapes Seedless 907 g / 2 lb | $99.95 | $94.95 | $-5.00 | -5.0% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $92.67 | $92.53 | $-0.14 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Mucci Farms Snack Cucumbers 681 g / 1.5 lb | Mucci Farms | $62.95 | 2026-02-17 |
 | Fruit Roll Ups Assorted Fruit Rolls 72 Units / 14 g | Fruit Roll-Ups | $99.70 | 2026-02-15 |
 | Green Cabbage Unit |  | $25.95 | 2026-02-15 |
 | Member's Selection Freshly Baked Strawberry and Cream Cake 10 to 15 Slices | Member's Selection | $68.47 | 2026-02-14 |
@@ -109,7 +110,6 @@
 | Select Harvest Honey and Cinnamon Glazed Almonds 680 g / 1 lb | Select Harvest | $89.95 | 2026-02-11 |
 | Bumble Bee Skinless and Boneless Canned Wild Caught Pink Salmon 5 Units / 5 oz | Bumble Bee | $99.95 | 2026-02-10 |
 | Orchard Assorted Juices 24 Units / 250 mL | Orchard | $88.95 | 2026-02-09 |
-| Chosen Foods Avocado Oil 800 mL / 27 oz | Chosen Foods | $139.95 | 2026-02-08 |
 
 ## New Products Added Today
 No new products added today.
