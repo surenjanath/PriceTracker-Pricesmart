@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1160
-- **Total value**: $131,675.44
-- **Average price**: $113.51
+- **Total products scraped**: 1161
+- **Total value**: $131,919.02
+- **Average price**: $113.63
 
 ## Database Changes
-- **New products added**: 0
+- **New products added**: 1
 - **Existing products updated**: 1160
-- **Price changes detected**: 21
+- **Price changes detected**: 42
 - **Stock/availability changes**: 17
-- **Discontinued products**: 6
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1019
-- **Price increases**: 468
-- **Price decreases**: 518
-- **Average increase**: 8.6%
+- **Total price changes**: 1043
+- **Price increases**: 490
+- **Price decreases**: 520
+- **Average increase**: 8.9%
 - **Average decrease**: -4.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Land O' Frost Oven Roasted Chicken 566 g / 1.25 lb | $64.95 | $63.95 | $-1.00 | -1.5% | Decrease |
-| Member's Selection Pepper Jack Cheese Sliced 907 g / 2 lb  | $67.95 | $62.95 | $-5.00 | -7.4% | Decrease |
-| Member's Selection Sliced Mild Cheddar Cheese 907 g / 2 lb  | $59.95 | $56.95 | $-3.00 | -5.0% | Decrease |
-| Member's Selection Pasteurized American Cheese 1.36 kg / 3 lb | $84.95 | $79.95 | $-5.00 | -5.9% | Decrease |
-| Gwaltney Chicken Bologna 2 Units / 567 g | $53.95 | $54.95 | $+1.00 | +1.9% | Increase |
-| Maeva Spray BIO Extra Organic Virgin Olive Oil 2 Units / 200 mL / 6.7 oz | $62.95 | $59.95 | $-3.00 | -4.8% | Decrease |
-| Chosen Foods Avocado Oil Spray 2 Units / 134 g / 4.7 oz | $97.95 | $94.95 | $-3.00 | -3.1% | Decrease |
-| Nestos Capers in Brine 2 Units / 350 g / 12.4 oz | $69.95 | $74.95 | $+5.00 | +7.1% | Increase |
-| Red Grapes Seedless 907 g / 2 lb | $94.95 | $89.95 | $-5.00 | -5.3% | Decrease |
-| Hershey's Kisses Chocolate Candies 1.58 kg / 56 oz | $239.95 | $249.95 | $+10.00 | +4.2% | Increase |
-| Hershey's Assorted Chocolate Nuggets 1.47 kg / 3 lb | $239.95 | $244.95 | $+5.00 | +2.1% | Increase |
-| Terra Creta Extra Virgin Olive Oil in Marasca 1 L / 33.81 oz | $119.95 | $109.95 | $-10.00 | -8.3% | Decrease |
-| Wonderful Toasted Shelled Pistachios with Salt 680 g / 24 oz | $172.95 | $179.95 | $+7.00 | +4.0% | Increase |
-| Member's Selection Mixed Fruit in Cups 16 Units / 113 g / 4 oz | $109.95 | $114.95 | $+5.00 | +4.5% | Increase |
-| Member's Selection Mozzarella Cheese 907 g / 2 lb | $64.95 | $61.95 | $-3.00 | -4.6% | Decrease |
+| Avocado Mesh 5 Units | $39.95 | $44.95 | $+5.00 | +12.5% | Increase |
+| Ocean Delight Frozen Octopus 907 g / 2 lb | $0.00 | $98.95 | $+98.95 | +100.0% | New |
+| Frozen Bone-In Goat Carcass Case | $1342.29 | $1433.37 | $+91.08 | +6.8% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $221.49 | $222.82 | $+1.33 | +0.6% | Increase |
+| The Happy Planet Oyster Mushroom 310 g / 11.2 oz | $29.95 | $24.95 | $-5.00 | -16.7% | Decrease |
+| Ribeye Choice Fillet Fresh Tray | $238.56 | $248.73 | $+10.17 | +4.3% | Increase |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $138.50 | $137.12 | $-1.38 | -1.0% | Decrease |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $76.77 | $76.64 | $-0.13 | -0.2% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $95.80 | $95.71 | $-0.09 | -0.1% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $79.20 | $79.09 | $-0.11 | -0.1% | Decrease |
+| Fresh Cello Carrots 1.3 kg / 3 lb | $17.45 | $19.95 | $+2.50 | +14.3% | Increase |
+| Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $24.70 | $57.95 | $+33.25 | +134.6% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $88.46 | $88.64 | $+0.18 | +0.2% | Increase |
+| Nutrina Chilled Whole Chicken Bag | $326.31 | $325.86 | $-0.45 | -0.1% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $155.45 | $155.15 | $-0.30 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -295,4 +295,7 @@ This project has recently gained unexpected attention. It was created for person
 | Member's Selection Freshly Baked Strawberry and Cream Cake 10 to 15 Slices | Member's Selection | $68.47 | 2026-02-14 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Ocean Delight Frozen Octopus 907 g / 2 lb | Ocean Delight | $98.95 | G10D03 |
