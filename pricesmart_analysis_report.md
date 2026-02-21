@@ -1,15 +1,15 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1161
-- **Total value**: $131,919.02
-- **Average price**: $113.63
+- **Total products scraped**: 1164
+- **Total value**: $132,028.36
+- **Average price**: $113.43
 
 ## Database Changes
 - **New products added**: 1
-- **Existing products updated**: 1160
-- **Price changes detected**: 42
-- **Stock/availability changes**: 17
+- **Existing products updated**: 1163
+- **Price changes detected**: 22
+- **Stock/availability changes**: 15
 - **Discontinued products**: 0
 
 ## Top 5 Brands
@@ -17,7 +17,7 @@
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 185 |
-|  | 136 |
+|  | 138 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 11 |
@@ -29,20 +29,20 @@
 | Member's Selection Organic Trail Mix with Cranberries 737 g / 26 oz | Member's Selection | $164.95 | true |
 | Florida's Natural Strawberry Lemonade 2 Units 1.75 L / 59 oz | Florida's Natural | $99.95 | true |
 | SeaPak Garlic Butter Shrimp 680 g / 1.5 lb | SeaPak | $134.95 | true |
-| Royal Asia Honey Walnut Shrimp 907 g / 2 lb | Royal Asia | $169.95 | true |
 | Sacla Hot Sauce for Arrabbiata Pasta with Tomatoes and Chili Peppers / 2 Units / 680 g / 24 oz | Sacla | $102.95 | true |
-| Activia Assorted Probiotics Low Fat Yogurt Drink 24 Units / 93 mL / 3.1 oz | Activia | $159.95 | true |
+| Royal Asia Honey Walnut Shrimp 907 g / 2 lb | Royal Asia | $169.95 | true |
 | General Mills Triple Chex Cereal Mix 1.53 kg / 3 lb | General Mills | $97.95 | true |
 | Carapelli Organic Extra Virgin Olive Oil 880 g / 33.8 oz | Carapelli | $119.95 | true |
-| Bluewater Farms Cranberry Juice 1.65 L / 56 oz | Bluewater Farms | $64.95 | true |
 | Pringles Honey Mustard, Sour Cream & Onion, and Cheddar Cheese 3-Pack / 158 g / 5.5 oz | Pringles | $79.95 | true |
+| Bluewater Farms Cranberry Juice 1.65 L / 56 oz | Bluewater Farms | $64.95 | true |
+| Sara Lee Classic Pound Butter Cake 2 Pack / 453 g / 15.9 oz | Sara Lee | $114.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1043
-- **Price increases**: 490
-- **Price decreases**: 520
+- **Total price changes**: 1066
+- **Price increases**: 498
+- **Price decreases**: 534
 - **Average increase**: 8.9%
 - **Average decrease**: -4.5%
 
@@ -50,21 +50,21 @@
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Avocado Mesh 5 Units | $39.95 | $44.95 | $+5.00 | +12.5% | Increase |
-| Ocean Delight Frozen Octopus 907 g / 2 lb | $0.00 | $98.95 | $+98.95 | +100.0% | New |
-| Frozen Bone-In Goat Carcass Case | $1342.29 | $1433.37 | $+91.08 | +6.8% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $221.49 | $222.82 | $+1.33 | +0.6% | Increase |
-| The Happy Planet Oyster Mushroom 310 g / 11.2 oz | $29.95 | $24.95 | $-5.00 | -16.7% | Decrease |
-| Ribeye Choice Fillet Fresh Tray | $238.56 | $248.73 | $+10.17 | +4.3% | Increase |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $138.50 | $137.12 | $-1.38 | -1.0% | Decrease |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $76.77 | $76.64 | $-0.13 | -0.2% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $95.80 | $95.71 | $-0.09 | -0.1% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $79.20 | $79.09 | $-0.11 | -0.1% | Decrease |
-| Fresh Cello Carrots 1.3 kg / 3 lb | $17.45 | $19.95 | $+2.50 | +14.3% | Increase |
-| Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $24.70 | $57.95 | $+33.25 | +134.6% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $88.46 | $88.64 | $+0.18 | +0.2% | Increase |
-| Nutrina Chilled Whole Chicken Bag | $326.31 | $325.86 | $-0.45 | -0.1% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $155.45 | $155.15 | $-0.30 | -0.2% | Decrease |
+| Green Bell Peppers 1.36 kg / 3 lb | $0.00 | $39.95 | $+39.95 | +100.0% | New |
+| Russet Potato 2.2 kg / 5 lb | $22.95 | $29.95 | $+7.00 | +30.5% | Increase |
+| Ribeye Choice Fillet Fresh Tray | $248.73 | $238.56 | $-10.17 | -4.1% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $84.61 | $84.53 | $-0.08 | -0.1% | Decrease |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $76.64 | $75.86 | $-0.78 | -1.0% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $95.71 | $95.80 | $+0.09 | +0.1% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $88.64 | $88.78 | $+0.14 | +0.2% | Increase |
+| Fresh Chicken Mixed Parts Tray | $91.11 | $91.00 | $-0.11 | -0.1% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $155.15 | $155.00 | $-0.15 | -0.1% | Decrease |
+| Plum 907 g / 2 lb | $74.95 | $84.95 | $+10.00 | +13.3% | Increase |
+| Peach 908 g / 2 lb | $59.95 | $74.95 | $+15.00 | +25.0% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $122.78 | $122.60 | $-0.18 | -0.1% | Decrease |
+| Fresh Ground Chicken Meat Bag | $271.00 | $271.53 | $+0.53 | +0.2% | Increase |
+| Member's Selection Frozen Bone-In Lamb Shoulder Round Tray | $123.23 | $123.05 | $-0.18 | -0.1% | Decrease |
+| Green pepper | $40.97 | $41.15 | $+0.18 | +0.4% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -107,12 +107,12 @@
 | Orchard Orange Drink 24 Units / 250 mL | Orchard | $89.95 | 2026-02-18 |
 | Salmon Fillet with Skin on Boneless Skin Frozen Case |  | $1699.50 | 2026-02-18 |
 | Mucci Farms Snack Cucumbers 681 g / 1.5 lb | Mucci Farms | $62.95 | 2026-02-17 |
-| Fruit Roll Ups Assorted Fruit Rolls 72 Units / 14 g | Fruit Roll-Ups | $99.70 | 2026-02-15 |
 | Green Cabbage Unit |  | $25.95 | 2026-02-15 |
 | Member's Selection Freshly Baked Strawberry and Cream Cake 10 to 15 Slices | Member's Selection | $68.47 | 2026-02-14 |
+| Breakstone's Sour Cream 680 g / 1.5 lb  | Breakstone's | $43.95 | 2026-02-12 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Ocean Delight Frozen Octopus 907 g / 2 lb | Ocean Delight | $98.95 | G10D03 |
+| Green Bell Peppers 1.36 kg / 3 lb |  | $39.95 | G10D03 |
