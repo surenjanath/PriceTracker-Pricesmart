@@ -1,15 +1,15 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1164
-- **Total value**: $132,028.36
-- **Average price**: $113.43
+- **Total products scraped**: 1166
+- **Total value**: $132,377.17
+- **Average price**: $113.53
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1163
-- **Price changes detected**: 22
-- **Stock/availability changes**: 15
+- **New products added**: 2
+- **Existing products updated**: 1164
+- **Price changes detected**: 17
+- **Stock/availability changes**: 21
 - **Discontinued products**: 0
 
 ## Top 5 Brands
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1066
-- **Price increases**: 498
-- **Price decreases**: 534
-- **Average increase**: 8.9%
-- **Average decrease**: -4.5%
+- **Total price changes**: 985
+- **Price increases**: 452
+- **Price decreases**: 501
+- **Average increase**: 8.8%
+- **Average decrease**: -4.3%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Green Bell Peppers 1.36 kg / 3 lb | $0.00 | $39.95 | $+39.95 | +100.0% | New |
-| Russet Potato 2.2 kg / 5 lb | $22.95 | $29.95 | $+7.00 | +30.5% | Increase |
-| Ribeye Choice Fillet Fresh Tray | $248.73 | $238.56 | $-10.17 | -4.1% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $84.61 | $84.53 | $-0.08 | -0.1% | Decrease |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $76.64 | $75.86 | $-0.78 | -1.0% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $95.71 | $95.80 | $+0.09 | +0.1% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $88.64 | $88.78 | $+0.14 | +0.2% | Increase |
-| Fresh Chicken Mixed Parts Tray | $91.11 | $91.00 | $-0.11 | -0.1% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $155.15 | $155.00 | $-0.15 | -0.1% | Decrease |
-| Plum 907 g / 2 lb | $74.95 | $84.95 | $+10.00 | +13.3% | Increase |
-| Peach 908 g / 2 lb | $59.95 | $74.95 | $+15.00 | +25.0% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $122.78 | $122.60 | $-0.18 | -0.1% | Decrease |
-| Fresh Ground Chicken Meat Bag | $271.00 | $271.53 | $+0.53 | +0.2% | Increase |
-| Member's Selection Frozen Bone-In Lamb Shoulder Round Tray | $123.23 | $123.05 | $-0.18 | -0.1% | Decrease |
-| Green pepper | $40.97 | $41.15 | $+0.18 | +0.4% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $86.12 | $86.30 | $+0.18 | +0.2% | Increase |
+| Ocean Delight Caribbean Spiny Lobster Tails 2 Units / 170 g / 5.9 oz | $0.00 | $245.95 | $+245.95 | +100.0% | New |
+| Ribeye Choice Fillet Fresh Tray | $238.56 | $252.31 | $+13.75 | +5.8% | Increase |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $137.12 | $137.40 | $+0.28 | +0.2% | Increase |
+| Pork Belly with Skin Frozen Vacuum Packaged | $191.72 | $193.23 | $+1.51 | +0.8% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $88.78 | $88.64 | $-0.14 | -0.2% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $91.00 | $90.78 | $-0.22 | -0.2% | Decrease |
+| San Clemente Grape Black Seedless 907 g / 2 lb | $0.00 | $84.95 | $+84.95 | +100.0% | New |
+| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $73.49 | $73.28 | $-0.21 | -0.3% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $92.53 | $92.39 | $-0.14 | -0.2% | Decrease |
+| Fresh Chicken Thighs Boneless Bag | $320.57 | $321.75 | $+1.18 | +0.4% | Increase |
+| Green pepper | $41.15 | $41.23 | $+0.08 | +0.2% | Increase |
+| Fresh Chicken Boneless Breast Bag | $413.27 | $412.67 | $-0.60 | -0.1% | Decrease |
+| Pork Chop with Bone Frozen Tray | $87.36 | $87.10 | $-0.26 | -0.3% | Decrease |
+| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $141.58 | $141.94 | $+0.36 | +0.3% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -115,4 +115,5 @@
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Green Bell Peppers 1.36 kg / 3 lb |  | $39.95 | G10D03 |
+| Ocean Delight Caribbean Spiny Lobster Tails 2 Units / 170 g / 5.9 oz | Ocean Delight | $245.95 | G10D03 |
+| San Clemente Grape Black Seedless 907 g / 2 lb | San Clemente | $84.95 | G10D03 |
