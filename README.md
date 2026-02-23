@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1166
-- **Total value**: $132,377.17
-- **Average price**: $113.53
+- **Total products scraped**: 1169
+- **Total value**: $132,845.82
+- **Average price**: $113.64
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1164
-- **Price changes detected**: 17
-- **Stock/availability changes**: 21
-- **Discontinued products**: 0
+- **New products added**: 3
+- **Existing products updated**: 1166
+- **Price changes detected**: 40
+- **Stock/availability changes**: 22
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -210,44 +210,44 @@ This project has recently gained unexpected attention. It was created for person
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Member's Selection Organic Trail Mix with Cranberries 737 g / 26 oz | Member's Selection | $164.95 | true |
-| Florida's Natural Strawberry Lemonade 2 Units 1.75 L / 59 oz | Florida's Natural | $99.95 | true |
 | SeaPak Garlic Butter Shrimp 680 g / 1.5 lb | SeaPak | $134.95 | true |
-| Sacla Hot Sauce for Arrabbiata Pasta with Tomatoes and Chili Peppers / 2 Units / 680 g / 24 oz | Sacla | $102.95 | true |
 | Royal Asia Honey Walnut Shrimp 907 g / 2 lb | Royal Asia | $169.95 | true |
-| General Mills Triple Chex Cereal Mix 1.53 kg / 3 lb | General Mills | $97.95 | true |
+| Florida's Natural Strawberry Lemonade 2 Units 1.75 L / 59 oz | Florida's Natural | $99.95 | true |
+| Sacla Hot Sauce for Arrabbiata Pasta with Tomatoes and Chili Peppers / 2 Units / 680 g / 24 oz | Sacla | $102.95 | true |
 | Carapelli Organic Extra Virgin Olive Oil 880 g / 33.8 oz | Carapelli | $119.95 | true |
-| Pringles Honey Mustard, Sour Cream & Onion, and Cheddar Cheese 3-Pack / 158 g / 5.5 oz | Pringles | $79.95 | true |
 | Bluewater Farms Cranberry Juice 1.65 L / 56 oz | Bluewater Farms | $64.95 | true |
+| General Mills Triple Chex Cereal Mix 1.53 kg / 3 lb | General Mills | $97.95 | true |
+| Pringles Honey Mustard, Sour Cream & Onion, and Cheddar Cheese 3-Pack / 158 g / 5.5 oz | Pringles | $79.95 | true |
 | Sara Lee Classic Pound Butter Cake 2 Pack / 453 g / 15.9 oz | Sara Lee | $114.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 985
-- **Price increases**: 452
-- **Price decreases**: 501
-- **Average increase**: 8.8%
-- **Average decrease**: -4.3%
+- **Total price changes**: 1006
+- **Price increases**: 453
+- **Price decreases**: 518
+- **Average increase**: 9.2%
+- **Average decrease**: -4.7%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fine Choice Fresh Marinated Chicken Tray | $86.12 | $86.30 | $+0.18 | +0.2% | Increase |
-| Ocean Delight Caribbean Spiny Lobster Tails 2 Units / 170 g / 5.9 oz | $0.00 | $245.95 | $+245.95 | +100.0% | New |
-| Ribeye Choice Fillet Fresh Tray | $238.56 | $252.31 | $+13.75 | +5.8% | Increase |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $137.12 | $137.40 | $+0.28 | +0.2% | Increase |
-| Pork Belly with Skin Frozen Vacuum Packaged | $191.72 | $193.23 | $+1.51 | +0.8% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $88.78 | $88.64 | $-0.14 | -0.2% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $91.00 | $90.78 | $-0.22 | -0.2% | Decrease |
-| San Clemente Grape Black Seedless 907 g / 2 lb | $0.00 | $84.95 | $+84.95 | +100.0% | New |
-| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $73.49 | $73.28 | $-0.21 | -0.3% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $92.53 | $92.39 | $-0.14 | -0.2% | Decrease |
-| Fresh Chicken Thighs Boneless Bag | $320.57 | $321.75 | $+1.18 | +0.4% | Increase |
-| Green pepper | $41.15 | $41.23 | $+0.08 | +0.2% | Increase |
-| Fresh Chicken Boneless Breast Bag | $413.27 | $412.67 | $-0.60 | -0.1% | Decrease |
-| Pork Chop with Bone Frozen Tray | $87.36 | $87.10 | $-0.26 | -0.3% | Decrease |
-| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $141.58 | $141.94 | $+0.36 | +0.3% | Increase |
+| Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $57.95 | $9.70 | $-48.25 | -83.3% | Decrease |
+| Frito Lay Assortment Box 24 Units | $99.95 | $109.95 | $+10.00 | +10.0% | Increase |
+| Wellsley Farms Crab Cakes 510 g / 1 lb | $0.00 | $229.95 | $+229.95 | +100.0% | New |
+| Mowi Lightly Smoked Salmon 680 g / 1.5 lb | $144.70 | $214.95 | $+70.25 | +48.5% | Increase |
+| Pier 33 Wild Yellowfin Tuna Steak 397 g / 14 oz | $0.00 | $112.45 | $+112.45 | +100.0% | New |
+| Papaya | $32.54 | $32.86 | $+0.32 | +1.0% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $190.33 | $190.05 | $-0.28 | -0.1% | Decrease |
+| Sundays Strawberry Cheesecake Ice Cream 3.78 L / 1 gal | $68.95 | $58.45 | $-10.50 | -15.2% | Decrease |
+| Latitude 45 Frozen Smoked Salmon Charcuterie 567 g / 1.25 lb | $0.00 | $205.95 | $+205.95 | +100.0% | New |
+| Fresh Bone-in Chicken Thighs Tray | $84.53 | $84.44 | $-0.09 | -0.1% | Decrease |
+| Maggi Vegetable Soup 12 Units / 45 g | $79.95 | $67.95 | $-12.00 | -15.0% | Decrease |
+| TGI Fridays Chicken Wings with Honey BBQ Sauce 723 g / 1.59 lb | $159.95 | $134.95 | $-25.00 | -15.6% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $95.80 | $95.71 | $-0.09 | -0.1% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $90.78 | $91.00 | $+0.22 | +0.2% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $155.00 | $154.40 | $-0.60 | -0.4% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -270,6 +270,7 @@ This project has recently gained unexpected attention. It was created for person
 |---------|-----------|-----------|------------|
 | Hunt's Diced Tomatoes 8 Units / 411 g / 14.25 oz | $1999.00 | $104.95 | -94.7% |
 | Member's Selection Premium Carved Cooked Ham with Natural Juices 2 Units / 340 g / 12 oz  | $69.95 | $9.70 | -86.1% |
+| Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $57.95 | $9.70 | -83.3% |
 | Tropical Frying Cheese 907 g / 32 oz | $89.95 | $19.70 | -78.1% |
 | Bombolo Biscotti Decorated Cookies with Autumn Patterns 18 Units | $52.70 | $13.77 | -73.9% |
 | Sabra Classic Hummus 850 g / 30 oz | $79.95 | $24.70 | -69.1% |
@@ -277,12 +278,12 @@ This project has recently gained unexpected attention. It was created for person
 | Kozyshack Cinnamon Rice Pudding 1.36 kg / 3 lb | $87.95 | $29.70 | -66.2% |
 | Hillshire Farm Ham Mix 3 Units / 454 g / 16 oz | $194.95 | $69.70 | -64.2% |
 | Pillsbury Cookie Dough Mix 1.3 kg / 3 lb | $109.95 | $39.70 | -63.9% |
-| Pop-Tarts Snack Crunchy Poppers Filled with Strawberry and Brownie 2 Units 360 g / 12.6 oz  | $174.95 | $64.70 | -63.0% |
 
 ## Recently Discontinued Products
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Terra Creta Greek Extra Virgin Olive Oil 500 mL / 16.9 oz | Terra Creta | $79.95 | 2026-02-22 |
 | Flavorite Ponche De Crème & Sorrel Ice Cream 2 Units / 1 L / 33.8 oz | Flavorite | $59.70 | 2026-02-18 |
 | Ribena Blackcurrant Juice 12 Units / 250 mL | Ribena | $79.95 | 2026-02-18 |
 | Montchevre Goat Cheese with Blueberry and Vanilla 298 g / 10.51 oz | Montchevre | $59.95 | 2026-02-18 |
@@ -292,11 +293,11 @@ This project has recently gained unexpected attention. It was created for person
 | Mucci Farms Snack Cucumbers 681 g / 1.5 lb | Mucci Farms | $62.95 | 2026-02-17 |
 | Green Cabbage Unit |  | $25.95 | 2026-02-15 |
 | Member's Selection Freshly Baked Strawberry and Cream Cake 10 to 15 Slices | Member's Selection | $68.47 | 2026-02-14 |
-| Breakstone's Sour Cream 680 g / 1.5 lb  | Breakstone's | $43.95 | 2026-02-12 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Ocean Delight Caribbean Spiny Lobster Tails 2 Units / 170 g / 5.9 oz | Ocean Delight | $245.95 | G10D03 |
-| San Clemente Grape Black Seedless 907 g / 2 lb | San Clemente | $84.95 | G10D03 |
+| Wellsley Farms Crab Cakes 510 g / 1 lb | Wellsley Farms | $229.95 | G10D03 |
+| Pier 33 Wild Yellowfin Tuna Steak 397 g / 14 oz | Pier 33 | $112.45 | G10D03 |
+| Latitude 45 Frozen Smoked Salmon Charcuterie 567 g / 1.25 lb | Latitude 45 | $205.95 | G10D03 |
