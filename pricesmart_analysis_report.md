@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1171
-- **Total value**: $133,428.05
-- **Average price**: $113.94
+- **Total products scraped**: 1161
+- **Total value**: $132,935.01
+- **Average price**: $114.50
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1169
-- **Price changes detected**: 29
-- **Stock/availability changes**: 24
-- **Discontinued products**: 0
+- **New products added**: 1
+- **Existing products updated**: 1160
+- **Price changes detected**: 73
+- **Stock/availability changes**: 11
+- **Discontinued products**: 11
 
 ## Top 5 Brands
 
@@ -27,11 +27,11 @@
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Member's Selection Organic Trail Mix with Cranberries 737 g / 26 oz | Member's Selection | $164.95 | true |
+| Sacla Hot Sauce for Arrabbiata Pasta with Tomatoes and Chili Peppers / 2 Units / 680 g / 24 oz | Sacla | $102.95 | true |
 | Royal Asia Honey Walnut Shrimp 907 g / 2 lb | Royal Asia | $169.95 | true |
 | SeaPak Garlic Butter Shrimp 680 g / 1.5 lb | SeaPak | $134.95 | true |
-| Sacla Hot Sauce for Arrabbiata Pasta with Tomatoes and Chili Peppers / 2 Units / 680 g / 24 oz | Sacla | $102.95 | true |
+| Carapelli Organic Extra Virgin Olive Oil 880 g / 33.8 oz | Carapelli | $114.95 | true |
 | Florida's Natural Strawberry Lemonade 2 Units 1.75 L / 59 oz | Florida's Natural | $99.95 | true |
-| Carapelli Organic Extra Virgin Olive Oil 880 g / 33.8 oz | Carapelli | $119.95 | true |
 | Pringles Honey Mustard, Sour Cream & Onion, and Cheddar Cheese 3-Pack / 158 g / 5.5 oz | Pringles | $79.95 | true |
 | Bluewater Farms Cranberry Juice 1.65 L / 56 oz | Bluewater Farms | $59.95 | true |
 | General Mills Triple Chex Cereal Mix 1.53 kg / 3 lb | General Mills | $97.95 | true |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 999
-- **Price increases**: 447
-- **Price decreases**: 516
-- **Average increase**: 9.8%
+- **Total price changes**: 1043
+- **Price increases**: 475
+- **Price decreases**: 533
+- **Average increase**: 8.7%
 - **Average decrease**: -5.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $9.70 | $57.95 | $+48.25 | +497.4% | Increase |
-| President Brie Cheese Spreadable 3 Units / 139 g / 4.9 oz | $0.00 | $74.95 | $+74.95 | +100.0% | New |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $222.82 | $226.18 | $+3.36 | +1.5% | Increase |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $137.40 | $137.12 | $-0.28 | -0.2% | Decrease |
-| Papaya | $32.92 | $32.86 | $-0.06 | -0.2% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $190.05 | $190.33 | $+0.28 | +0.1% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $84.44 | $84.35 | $-0.09 | -0.1% | Decrease |
-| Belgioioso Artigiano Vino Rosso Cheese 453 g / 16 oz | $0.00 | $99.95 | $+99.95 | +100.0% | New |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $75.86 | $75.73 | $-0.13 | -0.2% | Decrease |
-| Pork Belly with Skin Frozen Vacuum Packaged | $193.23 | $193.01 | $-0.22 | -0.1% | Decrease |
-| Green pepper | $18.91 | $18.95 | $+0.04 | +0.2% | Increase |
-| Fresh Ground Chicken Tray | $107.88 | $107.64 | $-0.24 | -0.2% | Decrease |
-| Orchard Orange Juice with Vitamin C 6 Units / 1 L / 33.8 oz | $59.95 | $67.95 | $+8.00 | +13.3% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $154.40 | $155.30 | $+0.90 | +0.6% | Increase |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $417.51 | $421.08 | $+3.57 | +0.9% | Increase |
+| Frito Lay Bold Mix Chips with Assorted Presentations 24 Units | $99.95 | $109.95 | $+10.00 | +10.0% | Increase |
+| Campoverde Mango Chunks 1.36 kg / 3 lb | $82.95 | $94.95 | $+12.00 | +14.5% | Increase |
+| Kerrygold Full Cream Milk Powder 1.8 kg / 3.97 lb | $89.95 | $98.95 | $+9.00 | +10.0% | Increase |
+| Silk Unsweetened Original 2 Units 1.89 L / 64 oz | $99.95 | $104.95 | $+5.00 | +5.0% | Increase |
+| Bolthouse Farms Carrot Juice 1.54 L | $74.95 | $77.95 | $+3.00 | +4.0% | Increase |
+| Butterball Turkey Breast 1.3 kg / 3 lb | $149.95 | $174.95 | $+25.00 | +16.7% | Increase |
+| Member's Selection Sliced Assorted Cheese Pack 907 g / 32 oz | $72.95 | $67.95 | $-5.00 | -6.9% | Decrease |
+| Activia Assorted Probiotics Low Fat Yogurt Drink 24 Units / 93 mL / 3.1 oz | $159.95 | $157.95 | $-2.00 | -1.3% | Decrease |
+| Fresh Beef Ribeye Steak Vacuum Packed | $220.04 | $235.16 | $+15.12 | +6.9% | Increase |
+| Ribeye Choice Fillet Fresh Tray | $246.93 | $260.37 | $+13.44 | +5.4% | Increase |
+| Wellsley Farms Crab Cakes 510 g / 1 lb | $229.95 | $219.95 | $-10.00 | -4.3% | Decrease |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $137.12 | $136.57 | $-0.55 | -0.4% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $226.18 | $226.45 | $+0.27 | +0.1% | Increase |
+| Papaya | $32.86 | $32.92 | $+0.06 | +0.2% | Increase |
+| Caribbean Foods Delight Curry Chicken Patties 10 Units / 142 g / 5 oz | $144.95 | $149.95 | $+5.00 | +3.4% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,20 +100,19 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
-| Bella Contadina Capricciosa Italiana Olives and Vegetables in Oil 600 g / 21 oz | Bella Contadina | $49.70 | 2026-02-23 |
-| Terra Creta Greek Extra Virgin Olive Oil 500 mL / 16.9 oz | Terra Creta | $79.95 | 2026-02-22 |
-| Flavorite Ponche De Crème & Sorrel Ice Cream 2 Units / 1 L / 33.8 oz | Flavorite | $59.70 | 2026-02-18 |
-| Ribena Blackcurrant Juice 12 Units / 250 mL | Ribena | $79.95 | 2026-02-18 |
-| Montchevre Goat Cheese with Blueberry and Vanilla 298 g / 10.51 oz | Montchevre | $59.95 | 2026-02-18 |
-| Mixed Tomato Cherry 907 g / 2 lb |  | $49.95 | 2026-02-18 |
-| Orchard Orange Drink 24 Units / 250 mL | Orchard | $89.95 | 2026-02-18 |
-| Salmon Fillet with Skin on Boneless Skin Frozen Case |  | $1699.50 | 2026-02-18 |
-| Mucci Farms Snack Cucumbers 681 g / 1.5 lb | Mucci Farms | $62.95 | 2026-02-17 |
-| Green Cabbage Unit |  | $25.95 | 2026-02-15 |
+| Angel Parboiled Rice 4 kg | Angel | $39.95 | 2026-02-25 |
+| Nature's Pride Pigeon Peas 1.8 kg / 4 lb | Nature's Pride | $41.95 | 2026-02-25 |
+| Caffe D'Vita Piña Colada Powdered Drink Mix 907 g / 32 oz | Caffe D'Vita | $35.70 | 2026-02-25 |
+| McVitie's Ginger Nut Biscuits 4 Units / 250 g | McVitie's | $37.70 | 2026-02-25 |
+| Southco Parboiled Rice 9 kg / 19.8 lb | Southco | $81.95 | 2026-02-25 |
+| Kiss Assorted Flavor Pastries 9 Units | Kiss | $39.95 | 2026-02-25 |
+| Best Fruit Premium Dehydrated Coconut 5 Units / 80 g / 2.82 oz | Best Fruit | $59.70 | 2026-02-25 |
+| Campbell's Cream of Mushroom 4 Units / 298 g / 10.5 oz | Campbell's | $49.95 | 2026-02-25 |
+| Real Fruit Tropical Flavored Gummies 350 g / 12.35 oz | Real Fruit | $37.95 | 2026-02-25 |
+| Best Fruit Snack Snow Pruning without Artificial Flavors and Colors 454 g | Best Fruit | $49.95 | 2026-02-25 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| President Brie Cheese Spreadable 3 Units / 139 g / 4.9 oz | President | $74.95 | G10D03 |
-| Belgioioso Artigiano Vino Rosso Cheese 453 g / 16 oz | Belgioioso | $99.95 | G10D03 |
+| Maeva Extra Virgin Olive Oil Spray 2 Units / 400 mL / 13.5 oz | Maeva | $109.95 | G10D03 |
