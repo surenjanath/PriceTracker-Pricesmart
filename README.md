@@ -185,22 +185,22 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1161
-- **Total value**: $132,935.01
-- **Average price**: $114.50
+- **Total value**: $133,239.26
+- **Average price**: $114.76
 
 ## Database Changes
 - **New products added**: 1
 - **Existing products updated**: 1160
-- **Price changes detected**: 73
-- **Stock/availability changes**: 11
-- **Discontinued products**: 11
+- **Price changes detected**: 38
+- **Stock/availability changes**: 12
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 186 |
-|  | 138 |
+|  | 137 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 11 |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1043
-- **Price increases**: 475
-- **Price decreases**: 533
-- **Average increase**: 8.7%
-- **Average decrease**: -5.1%
+- **Total price changes**: 1053
+- **Price increases**: 480
+- **Price decreases**: 538
+- **Average increase**: 9.2%
+- **Average decrease**: -5.3%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Frito Lay Bold Mix Chips with Assorted Presentations 24 Units | $99.95 | $109.95 | $+10.00 | +10.0% | Increase |
-| Campoverde Mango Chunks 1.36 kg / 3 lb | $82.95 | $94.95 | $+12.00 | +14.5% | Increase |
-| Kerrygold Full Cream Milk Powder 1.8 kg / 3.97 lb | $89.95 | $98.95 | $+9.00 | +10.0% | Increase |
-| Silk Unsweetened Original 2 Units 1.89 L / 64 oz | $99.95 | $104.95 | $+5.00 | +5.0% | Increase |
-| Bolthouse Farms Carrot Juice 1.54 L | $74.95 | $77.95 | $+3.00 | +4.0% | Increase |
-| Butterball Turkey Breast 1.3 kg / 3 lb | $149.95 | $174.95 | $+25.00 | +16.7% | Increase |
-| Member's Selection Sliced Assorted Cheese Pack 907 g / 32 oz | $72.95 | $67.95 | $-5.00 | -6.9% | Decrease |
-| Activia Assorted Probiotics Low Fat Yogurt Drink 24 Units / 93 mL / 3.1 oz | $159.95 | $157.95 | $-2.00 | -1.3% | Decrease |
-| Fresh Beef Ribeye Steak Vacuum Packed | $220.04 | $235.16 | $+15.12 | +6.9% | Increase |
-| Ribeye Choice Fillet Fresh Tray | $246.93 | $260.37 | $+13.44 | +5.4% | Increase |
-| Wellsley Farms Crab Cakes 510 g / 1 lb | $229.95 | $219.95 | $-10.00 | -4.3% | Decrease |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $137.12 | $136.57 | $-0.55 | -0.4% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $226.18 | $226.45 | $+0.27 | +0.1% | Increase |
-| Papaya | $32.86 | $32.92 | $+0.06 | +0.2% | Increase |
-| Caribbean Foods Delight Curry Chicken Patties 10 Units / 142 g / 5 oz | $144.95 | $149.95 | $+5.00 | +3.4% | Increase |
+| Fruit Roll Ups Assorted Fruit Rolls 72 Units / 14 g | $199.95 | $174.70 | $-25.25 | -12.6% | Decrease |
+| Kerrygold Full Cream Milk Powder 1.8 kg / 3.97 lb | $98.95 | $89.95 | $-9.00 | -9.1% | Decrease |
+| Fruit by the Foot Fruit Flavored Snacks 48 Units / 21 g / 0.75 oz | $172.70 | $99.70 | $-73.00 | -42.3% | Decrease |
+| DeMet's Turtles Chocolate Filled with Creamy Caramel 496 g | $89.70 | $49.70 | $-40.00 | -44.6% | Decrease |
+| Oscar Mayer Turkey Bacon 3 Units / 340 g / 12 oz | $69.70 | $139.95 | $+70.25 | +100.8% | Increase |
+| Fresh Strawberry 454 g / 1 lb | $59.95 | $47.95 | $-12.00 | -20.0% | Decrease |
+| Ribeye Choice Fillet Fresh Tray | $260.37 | $259.75 | $-0.62 | -0.2% | Decrease |
+| Moy Park Frozen Chicken Drumstick 10 kg / 22 lb | $0.00 | $349.95 | $+349.95 | +100.0% | New |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $322.65 | $325.22 | $+2.57 | +0.8% | Increase |
+| Green Bell Peppers 1.36 kg / 3 lb | $39.95 | $42.95 | $+3.00 | +7.5% | Increase |
+| Papaya | $32.92 | $32.86 | $-0.06 | -0.2% | Decrease |
+| Frozen Pork Belly Skin On Sliced Tray  | $114.67 | $114.91 | $+0.24 | +0.2% | Increase |
+| M&M Mini Chocolate Candies 800 g | $99.70 | $49.70 | $-50.00 | -50.2% | Decrease |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $75.21 | $75.08 | $-0.13 | -0.2% | Decrease |
+| Old Mac Pre-cooked Rice 4 Units / 2 kg | $74.95 | $65.70 | $-9.25 | -12.3% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,8 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Glazed Fruits 908 g / 2 lb |  | $53.95 | 2026-02-26 |
+| Ferrero Rocher Hazelnut & Chocolate Cream Filled Chocolates 24 Units / 12.5 g / 0.4 oz | Ferrero Rocher | $109.95 | 2026-02-26 |
 | Angel Parboiled Rice 4 kg | Angel | $39.95 | 2026-02-25 |
 | Nature's Pride Pigeon Peas 1.8 kg / 4 lb | Nature's Pride | $41.95 | 2026-02-25 |
 | Caffe D'Vita Piña Colada Powdered Drink Mix 907 g / 32 oz | Caffe D'Vita | $35.70 | 2026-02-25 |
@@ -291,11 +293,9 @@ This project has recently gained unexpected attention. It was created for person
 | Kiss Assorted Flavor Pastries 9 Units | Kiss | $39.95 | 2026-02-25 |
 | Best Fruit Premium Dehydrated Coconut 5 Units / 80 g / 2.82 oz | Best Fruit | $59.70 | 2026-02-25 |
 | Campbell's Cream of Mushroom 4 Units / 298 g / 10.5 oz | Campbell's | $49.95 | 2026-02-25 |
-| Real Fruit Tropical Flavored Gummies 350 g / 12.35 oz | Real Fruit | $37.95 | 2026-02-25 |
-| Best Fruit Snack Snow Pruning without Artificial Flavors and Colors 454 g | Best Fruit | $49.95 | 2026-02-25 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Maeva Extra Virgin Olive Oil Spray 2 Units / 400 mL / 13.5 oz | Maeva | $109.95 | G10D03 |
+| Moy Park Frozen Chicken Drumstick 10 kg / 22 lb | Moy Park | $349.95 | G10D03 |
