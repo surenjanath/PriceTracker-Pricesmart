@@ -2,22 +2,22 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1161
-- **Total value**: $133,239.26
-- **Average price**: $114.76
+- **Total value**: $129,132.40
+- **Average price**: $111.23
 
 ## Database Changes
 - **New products added**: 1
 - **Existing products updated**: 1160
-- **Price changes detected**: 38
-- **Stock/availability changes**: 12
-- **Discontinued products**: 2
+- **Price changes detected**: 23
+- **Stock/availability changes**: 15
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 186 |
-|  | 137 |
+|  | 136 |
 | Badia | 18 |
 | Swiss | 14 |
 | Kirkland Signature | 11 |
@@ -27,44 +27,44 @@
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Member's Selection Organic Trail Mix with Cranberries 737 g / 26 oz | Member's Selection | $164.95 | true |
-| Sacla Hot Sauce for Arrabbiata Pasta with Tomatoes and Chili Peppers / 2 Units / 680 g / 24 oz | Sacla | $102.95 | true |
+| Happy Village Organic Fig and Nut Mini Bars 24 Units / 20 g / 0.7 oz | Happy Village | $146.95 | true |
 | Royal Asia Honey Walnut Shrimp 907 g / 2 lb | Royal Asia | $169.95 | true |
-| SeaPak Garlic Butter Shrimp 680 g / 1.5 lb | SeaPak | $134.95 | true |
 | Carapelli Organic Extra Virgin Olive Oil 880 g / 33.8 oz | Carapelli | $114.95 | true |
-| Florida's Natural Strawberry Lemonade 2 Units 1.75 L / 59 oz | Florida's Natural | $99.95 | true |
-| Pringles Honey Mustard, Sour Cream & Onion, and Cheddar Cheese 3-Pack / 158 g / 5.5 oz | Pringles | $79.95 | true |
-| Bluewater Farms Cranberry Juice 1.65 L / 56 oz | Bluewater Farms | $59.95 | true |
-| General Mills Triple Chex Cereal Mix 1.53 kg / 3 lb | General Mills | $97.95 | true |
-| Sara Lee Classic Pound Butter Cake 2 Pack / 453 g / 15.9 oz | Sara Lee | $114.95 | true |
+| Maeva Extra Virgin Olive Oil Spray 2 Units / 400 mL / 13.5 oz | Maeva | $109.95 | true |
+| Belgioioso Artigiano Vino Rosso Cheese 453 g / 16 oz | Belgioioso | $99.95 | true |
+| Tropical Gold Breaded Calamari Rings 2 Units / 454 g / 1 lb | Tropical Gold | $92.95 | true |
+| Moy Park Frozen Chicken Drumstick 10 kg / 22 lb | Moy Park | $349.95 | true |
+| President Brie Cheese Spreadable 3 Units / 139 g / 4.9 oz | President | $74.95 | true |
+| Wellsley Farms Crab Cakes 510 g / 1 lb | Wellsley Farms | $219.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1053
-- **Price increases**: 480
-- **Price decreases**: 538
-- **Average increase**: 9.2%
-- **Average decrease**: -5.3%
+- **Total price changes**: 1077
+- **Price increases**: 490
+- **Price decreases**: 551
+- **Average increase**: 9.1%
+- **Average decrease**: -5.2%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fruit Roll Ups Assorted Fruit Rolls 72 Units / 14 g | $199.95 | $174.70 | $-25.25 | -12.6% | Decrease |
-| Kerrygold Full Cream Milk Powder 1.8 kg / 3.97 lb | $98.95 | $89.95 | $-9.00 | -9.1% | Decrease |
-| Fruit by the Foot Fruit Flavored Snacks 48 Units / 21 g / 0.75 oz | $172.70 | $99.70 | $-73.00 | -42.3% | Decrease |
-| DeMet's Turtles Chocolate Filled with Creamy Caramel 496 g | $89.70 | $49.70 | $-40.00 | -44.6% | Decrease |
-| Oscar Mayer Turkey Bacon 3 Units / 340 g / 12 oz | $69.70 | $139.95 | $+70.25 | +100.8% | Increase |
-| Fresh Strawberry 454 g / 1 lb | $59.95 | $47.95 | $-12.00 | -20.0% | Decrease |
-| Ribeye Choice Fillet Fresh Tray | $260.37 | $259.75 | $-0.62 | -0.2% | Decrease |
-| Moy Park Frozen Chicken Drumstick 10 kg / 22 lb | $0.00 | $349.95 | $+349.95 | +100.0% | New |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $322.65 | $325.22 | $+2.57 | +0.8% | Increase |
-| Green Bell Peppers 1.36 kg / 3 lb | $39.95 | $42.95 | $+3.00 | +7.5% | Increase |
-| Papaya | $32.92 | $32.86 | $-0.06 | -0.2% | Decrease |
-| Frozen Pork Belly Skin On Sliced Tray  | $114.67 | $114.91 | $+0.24 | +0.2% | Increase |
-| M&M Mini Chocolate Candies 800 g | $99.70 | $49.70 | $-50.00 | -50.2% | Decrease |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $75.21 | $75.08 | $-0.13 | -0.2% | Decrease |
-| Old Mac Pre-cooked Rice 4 Units / 2 kg | $74.95 | $65.70 | $-9.25 | -12.3% | Decrease |
+| Ocean Delight Frozen Blue Crab Meat 680 g / 1.5 lb | $0.00 | $124.95 | $+124.95 | +100.0% | New |
+| Ribeye Choice Fillet Fresh Tray | $259.75 | $260.37 | $+0.62 | +0.2% | Increase |
+| Frozen Pork Belly Skin On Sliced Tray  | $114.91 | $114.67 | $-0.24 | -0.2% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $95.71 | $95.80 | $+0.09 | +0.1% | Increase |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $75.08 | $74.82 | $-0.26 | -0.3% | Decrease |
+| Pork Belly with Skin Frozen Vacuum Packaged | $193.23 | $191.72 | $-1.51 | -0.8% | Decrease |
+| Mini Sweet Peppers 454 g / 1 lb | $36.95 | $42.95 | $+6.00 | +16.2% | Increase |
+| Fresh Chicken Mixed Parts Tray | $90.78 | $90.67 | $-0.11 | -0.1% | Decrease |
+| Nutrina Chilled Whole Chicken Bag | $325.86 | $324.36 | $-1.50 | -0.5% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $92.21 | $92.31 | $+0.10 | +0.1% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $86.30 | $86.39 | $+0.09 | +0.1% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $155.15 | $155.00 | $-0.15 | -0.1% | Decrease |
+| Frozen Boneless Skinless Chicken Breast Tray | $127.09 | $126.13 | $-0.96 | -0.8% | Decrease |
+| Dutch Potatoes 4.54 kg / 10 lb | $24.95 | $27.95 | $+3.00 | +12.0% | Increase |
+| Fresh Ground Chicken Meat Bag | $270.89 | $271.10 | $+0.21 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Fresh Beef Eye of Round Case |  | $4216.42 | 2026-02-27 |
 | Glazed Fruits 908 g / 2 lb |  | $53.95 | 2026-02-26 |
 | Ferrero Rocher Hazelnut & Chocolate Cream Filled Chocolates 24 Units / 12.5 g / 0.4 oz | Ferrero Rocher | $109.95 | 2026-02-26 |
 | Angel Parboiled Rice 4 kg | Angel | $39.95 | 2026-02-25 |
@@ -109,10 +110,9 @@
 | Southco Parboiled Rice 9 kg / 19.8 lb | Southco | $81.95 | 2026-02-25 |
 | Kiss Assorted Flavor Pastries 9 Units | Kiss | $39.95 | 2026-02-25 |
 | Best Fruit Premium Dehydrated Coconut 5 Units / 80 g / 2.82 oz | Best Fruit | $59.70 | 2026-02-25 |
-| Campbell's Cream of Mushroom 4 Units / 298 g / 10.5 oz | Campbell's | $49.95 | 2026-02-25 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Moy Park Frozen Chicken Drumstick 10 kg / 22 lb | Moy Park | $349.95 | G10D03 |
+| Ocean Delight Frozen Blue Crab Meat 680 g / 1.5 lb | Ocean Delight | $124.95 | G10D03 |
