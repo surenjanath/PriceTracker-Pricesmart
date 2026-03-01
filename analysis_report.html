@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1161
-- **Total value**: $129,132.40
-- **Average price**: $111.23
+- **Total products scraped**: 1164
+- **Total value**: $129,639.64
+- **Average price**: $111.37
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1160
-- **Price changes detected**: 23
-- **Stock/availability changes**: 15
-- **Discontinued products**: 1
+- **New products added**: 2
+- **Existing products updated**: 1162
+- **Price changes detected**: 29
+- **Stock/availability changes**: 21
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -19,7 +19,7 @@
 | Member's Selection | 186 |
 |  | 136 |
 | Badia | 18 |
-| Swiss | 14 |
+| Swiss | 15 |
 | Kirkland Signature | 11 |
 
 ## Recent Products
@@ -30,41 +30,41 @@
 | Happy Village Organic Fig and Nut Mini Bars 24 Units / 20 g / 0.7 oz | Happy Village | $146.95 | true |
 | Royal Asia Honey Walnut Shrimp 907 g / 2 lb | Royal Asia | $169.95 | true |
 | Carapelli Organic Extra Virgin Olive Oil 880 g / 33.8 oz | Carapelli | $114.95 | true |
+| President Brie Cheese Spreadable 3 Units / 139 g / 4.9 oz | President | $74.95 | true |
 | Maeva Extra Virgin Olive Oil Spray 2 Units / 400 mL / 13.5 oz | Maeva | $109.95 | true |
 | Belgioioso Artigiano Vino Rosso Cheese 453 g / 16 oz | Belgioioso | $99.95 | true |
 | Tropical Gold Breaded Calamari Rings 2 Units / 454 g / 1 lb | Tropical Gold | $92.95 | true |
-| Moy Park Frozen Chicken Drumstick 10 kg / 22 lb | Moy Park | $349.95 | true |
-| President Brie Cheese Spreadable 3 Units / 139 g / 4.9 oz | President | $74.95 | true |
 | Wellsley Farms Crab Cakes 510 g / 1 lb | Wellsley Farms | $219.95 | true |
+| Moy Park Frozen Chicken Drumstick 10 kg / 22 lb | Moy Park | $349.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1077
-- **Price increases**: 490
-- **Price decreases**: 551
-- **Average increase**: 9.1%
-- **Average decrease**: -5.2%
+- **Total price changes**: 1047
+- **Price increases**: 478
+- **Price decreases**: 531
+- **Average increase**: 9.3%
+- **Average decrease**: -5.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Ocean Delight Frozen Blue Crab Meat 680 g / 1.5 lb | $0.00 | $124.95 | $+124.95 | +100.0% | New |
-| Ribeye Choice Fillet Fresh Tray | $259.75 | $260.37 | $+0.62 | +0.2% | Increase |
-| Frozen Pork Belly Skin On Sliced Tray  | $114.91 | $114.67 | $-0.24 | -0.2% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $95.71 | $95.80 | $+0.09 | +0.1% | Increase |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $75.08 | $74.82 | $-0.26 | -0.3% | Decrease |
-| Pork Belly with Skin Frozen Vacuum Packaged | $193.23 | $191.72 | $-1.51 | -0.8% | Decrease |
-| Mini Sweet Peppers 454 g / 1 lb | $36.95 | $42.95 | $+6.00 | +16.2% | Increase |
-| Fresh Chicken Mixed Parts Tray | $90.78 | $90.67 | $-0.11 | -0.1% | Decrease |
-| Nutrina Chilled Whole Chicken Bag | $325.86 | $324.36 | $-1.50 | -0.5% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $92.21 | $92.31 | $+0.10 | +0.1% | Increase |
-| Fine Choice Fresh Marinated Chicken Tray | $86.30 | $86.39 | $+0.09 | +0.1% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $155.15 | $155.00 | $-0.15 | -0.1% | Decrease |
-| Frozen Boneless Skinless Chicken Breast Tray | $127.09 | $126.13 | $-0.96 | -0.8% | Decrease |
-| Dutch Potatoes 4.54 kg / 10 lb | $24.95 | $27.95 | $+3.00 | +12.0% | Increase |
-| Fresh Ground Chicken Meat Bag | $270.89 | $271.10 | $+0.21 | +0.1% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $226.45 | $226.72 | $+0.27 | +0.1% | Increase |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $136.57 | $134.64 | $-1.93 | -1.4% | Decrease |
+| Papaya | $32.86 | $32.73 | $-0.13 | -0.4% | Decrease |
+| Bussetto Prosciutto Classico 189 g / 7 oz | $0.00 | $124.95 | $+124.95 | +100.0% | New |
+| Fresh Bone-in Chicken Thighs Tray | $84.27 | $84.18 | $-0.09 | -0.1% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $58.01 | $58.20 | $+0.19 | +0.3% | Increase |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.82 | $74.69 | $-0.13 | -0.2% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $95.80 | $95.90 | $+0.10 | +0.1% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $79.09 | $79.20 | $+0.11 | +0.1% | Increase |
+| Orchard Orange Juice with Vitamin C 6 Units / 1 L / 33.8 oz | $59.95 | $67.95 | $+8.00 | +13.3% | Increase |
+| Fresh Ground Chicken Tray | $107.52 | $107.29 | $-0.23 | -0.2% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $91.98 | $91.70 | $-0.28 | -0.3% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $155.00 | $155.15 | $+0.15 | +0.1% | Increase |
+| Carnation Evaporated Milk 6 Units / 371 mL / 12.5 oz | $66.95 | $71.95 | $+5.00 | +7.5% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $122.07 | $121.90 | $-0.17 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -115,4 +115,5 @@
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Ocean Delight Frozen Blue Crab Meat 680 g / 1.5 lb | Ocean Delight | $124.95 | G10D03 |
+| Bussetto Prosciutto Classico 189 g / 7 oz | Bussetto | $124.95 | G10D03 |
+| Pan White Corn Meal Flour 2 Units / 1 kg | Pan | $34.95 | G10D03 |
