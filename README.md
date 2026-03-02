@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1164
-- **Total value**: $129,639.64
-- **Average price**: $111.37
+- **Total products scraped**: 1163
+- **Total value**: $129,198.20
+- **Average price**: $111.09
 
 ## Database Changes
 - **New products added**: 2
-- **Existing products updated**: 1162
-- **Price changes detected**: 29
-- **Stock/availability changes**: 21
-- **Discontinued products**: 0
+- **Existing products updated**: 1161
+- **Price changes detected**: 61
+- **Stock/availability changes**: 17
+- **Discontinued products**: 4
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 186 |
-|  | 136 |
+|  | 134 |
 | Badia | 18 |
 | Swiss | 15 |
 | Kirkland Signature | 11 |
@@ -213,8 +213,8 @@ This project has recently gained unexpected attention. It was created for person
 | Happy Village Organic Fig and Nut Mini Bars 24 Units / 20 g / 0.7 oz | Happy Village | $146.95 | true |
 | Royal Asia Honey Walnut Shrimp 907 g / 2 lb | Royal Asia | $169.95 | true |
 | Carapelli Organic Extra Virgin Olive Oil 880 g / 33.8 oz | Carapelli | $114.95 | true |
-| President Brie Cheese Spreadable 3 Units / 139 g / 4.9 oz | President | $74.95 | true |
 | Maeva Extra Virgin Olive Oil Spray 2 Units / 400 mL / 13.5 oz | Maeva | $109.95 | true |
+| President Brie Cheese Spreadable 3 Units / 139 g / 4.9 oz | President | $74.95 | true |
 | Belgioioso Artigiano Vino Rosso Cheese 453 g / 16 oz | Belgioioso | $99.95 | true |
 | Tropical Gold Breaded Calamari Rings 2 Units / 454 g / 1 lb | Tropical Gold | $92.95 | true |
 | Wellsley Farms Crab Cakes 510 g / 1 lb | Wellsley Farms | $219.95 | true |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1047
-- **Price increases**: 478
-- **Price decreases**: 531
-- **Average increase**: 9.3%
+- **Total price changes**: 1042
+- **Price increases**: 467
+- **Price decreases**: 536
+- **Average increase**: 8.6%
 - **Average decrease**: -5.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $226.45 | $226.72 | $+0.27 | +0.1% | Increase |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $136.57 | $134.64 | $-1.93 | -1.4% | Decrease |
-| Papaya | $32.86 | $32.73 | $-0.13 | -0.4% | Decrease |
-| Bussetto Prosciutto Classico 189 g / 7 oz | $0.00 | $124.95 | $+124.95 | +100.0% | New |
-| Fresh Bone-in Chicken Thighs Tray | $84.27 | $84.18 | $-0.09 | -0.1% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $58.01 | $58.20 | $+0.19 | +0.3% | Increase |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.82 | $74.69 | $-0.13 | -0.2% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $95.80 | $95.90 | $+0.10 | +0.1% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $79.09 | $79.20 | $+0.11 | +0.1% | Increase |
-| Orchard Orange Juice with Vitamin C 6 Units / 1 L / 33.8 oz | $59.95 | $67.95 | $+8.00 | +13.3% | Increase |
-| Fresh Ground Chicken Tray | $107.52 | $107.29 | $-0.23 | -0.2% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $91.98 | $91.70 | $-0.28 | -0.3% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $155.00 | $155.15 | $+0.15 | +0.1% | Increase |
-| Carnation Evaporated Milk 6 Units / 371 mL / 12.5 oz | $66.95 | $71.95 | $+5.00 | +7.5% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $122.07 | $121.90 | $-0.17 | -0.1% | Decrease |
+| Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | $0.00 | $126.95 | $+126.95 | +100.0% | New |
+| Seedless Red Grapes | $95.65 | $97.01 | $+1.36 | +1.4% | Increase |
+| Fresh Red Globe Grapes | $82.32 | $81.07 | $-1.25 | -1.5% | Decrease |
+| Fresh Chicken Thighs Boneless Bag | $319.86 | $320.57 | $+0.71 | +0.2% | Increase |
+| Fresh Chicken Breast Boneless Skinless Tray | $126.08 | $126.91 | $+0.83 | +0.7% | Increase |
+| Member's Selection Chilled Chicken Liver, Tray Pack | $42.04 | $42.18 | $+0.14 | +0.3% | Increase |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $325.22 | $348.77 | $+23.55 | +7.2% | Increase |
+| Ribeye Choice Fillet Fresh Tray | $260.37 | $264.13 | $+3.76 | +1.4% | Increase |
+| Frozen Bone-In Goat Carcass Case | $1433.37 | $1384.90 | $-48.47 | -3.4% | Decrease |
+| Frozen Lamb Leg Whole Vacuum Packed | $418.32 | $370.82 | $-47.50 | -11.4% | Decrease |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $134.64 | $133.81 | $-0.83 | -0.6% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $226.72 | $229.95 | $+3.23 | +1.4% | Increase |
+| Member's Selection Frozen Bone-In Pork Leg Vacuum Packed | $440.66 | $455.82 | $+15.16 | +3.4% | Increase |
+| Kashi Strawberry Banana Multi-Grain Cereal 720 g / 25.4 oz | $0.00 | $97.95 | $+97.95 | +100.0% | New |
+| Papaya | $32.73 | $33.18 | $+0.45 | +1.4% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,20 +283,20 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Cherries |  | $73.92 | 2026-03-01 |
+| Treasured Harvest Shelled Natural Hazelnuts 680 g | Treasured Harvest | $52.99 | 2026-03-01 |
+| Orchard Assorted Drinks 24 Units / 200 ml / 6.7 oz | Orchard | $75.95 | 2026-03-01 |
+| Member's Selection Frozen Bone-In Pork Leg Case |  | $381.05 | 2026-03-01 |
 | Fresh Beef Eye of Round Case |  | $4216.42 | 2026-02-27 |
 | Glazed Fruits 908 g / 2 lb |  | $53.95 | 2026-02-26 |
-| Ferrero Rocher Hazelnut & Chocolate Cream Filled Chocolates 24 Units / 12.5 g / 0.4 oz | Ferrero Rocher | $109.95 | 2026-02-26 |
 | Angel Parboiled Rice 4 kg | Angel | $39.95 | 2026-02-25 |
 | Nature's Pride Pigeon Peas 1.8 kg / 4 lb | Nature's Pride | $41.95 | 2026-02-25 |
 | Caffe D'Vita Piña Colada Powdered Drink Mix 907 g / 32 oz | Caffe D'Vita | $35.70 | 2026-02-25 |
 | McVitie's Ginger Nut Biscuits 4 Units / 250 g | McVitie's | $37.70 | 2026-02-25 |
-| Southco Parboiled Rice 9 kg / 19.8 lb | Southco | $81.95 | 2026-02-25 |
-| Kiss Assorted Flavor Pastries 9 Units | Kiss | $39.95 | 2026-02-25 |
-| Best Fruit Premium Dehydrated Coconut 5 Units / 80 g / 2.82 oz | Best Fruit | $59.70 | 2026-02-25 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Bussetto Prosciutto Classico 189 g / 7 oz | Bussetto | $124.95 | G10D03 |
-| Pan White Corn Meal Flour 2 Units / 1 kg | Pan | $34.95 | G10D03 |
+| Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | MorningStar Farms | $126.95 | G10D03 |
+| Kashi Strawberry Banana Multi-Grain Cereal 720 g / 25.4 oz | Kashi | $97.95 | G10D03 |
