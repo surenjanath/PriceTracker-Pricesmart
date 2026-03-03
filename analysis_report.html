@@ -2,15 +2,15 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1163
-- **Total value**: $129,198.20
-- **Average price**: $111.09
+- **Total value**: $129,170.46
+- **Average price**: $111.07
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1161
-- **Price changes detected**: 61
-- **Stock/availability changes**: 17
-- **Discontinued products**: 4
+- **New products added**: 0
+- **Existing products updated**: 1163
+- **Price changes detected**: 32
+- **Stock/availability changes**: 27
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1042
+- **Total price changes**: 1048
 - **Price increases**: 467
-- **Price decreases**: 536
-- **Average increase**: 8.6%
-- **Average decrease**: -5.0%
+- **Price decreases**: 544
+- **Average increase**: 8.8%
+- **Average decrease**: -5.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | $0.00 | $126.95 | $+126.95 | +100.0% | New |
-| Seedless Red Grapes | $95.65 | $97.01 | $+1.36 | +1.4% | Increase |
-| Fresh Red Globe Grapes | $82.32 | $81.07 | $-1.25 | -1.5% | Decrease |
-| Fresh Chicken Thighs Boneless Bag | $319.86 | $320.57 | $+0.71 | +0.2% | Increase |
-| Fresh Chicken Breast Boneless Skinless Tray | $126.08 | $126.91 | $+0.83 | +0.7% | Increase |
-| Member's Selection Chilled Chicken Liver, Tray Pack | $42.04 | $42.18 | $+0.14 | +0.3% | Increase |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $325.22 | $348.77 | $+23.55 | +7.2% | Increase |
-| Ribeye Choice Fillet Fresh Tray | $260.37 | $264.13 | $+3.76 | +1.4% | Increase |
-| Frozen Bone-In Goat Carcass Case | $1433.37 | $1384.90 | $-48.47 | -3.4% | Decrease |
-| Frozen Lamb Leg Whole Vacuum Packed | $418.32 | $370.82 | $-47.50 | -11.4% | Decrease |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $134.64 | $133.81 | $-0.83 | -0.6% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $226.72 | $229.95 | $+3.23 | +1.4% | Increase |
-| Member's Selection Frozen Bone-In Pork Leg Vacuum Packed | $440.66 | $455.82 | $+15.16 | +3.4% | Increase |
-| Kashi Strawberry Banana Multi-Grain Cereal 720 g / 25.4 oz | $0.00 | $97.95 | $+97.95 | +100.0% | New |
-| Papaya | $32.73 | $33.18 | $+0.45 | +1.4% | Increase |
+| Member's Selection Chilled Chicken Liver, Tray Pack | $42.18 | $42.31 | $+0.13 | +0.3% | Increase |
+| Kerrygold Full Cream Milk Powder 1.8 kg / 3.97 lb | $89.95 | $99.95 | $+10.00 | +11.1% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $229.95 | $230.76 | $+0.81 | +0.4% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $185.36 | $186.19 | $+0.83 | +0.4% | Increase |
+| Cheez-It White and Jack Cheddar Crackers 2 Pack 351 g / 12.4 oz | $59.70 | $29.70 | $-30.00 | -50.3% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $81.09 | $81.43 | $+0.34 | +0.4% | Increase |
+| Pork Belly with Skin Frozen Vacuum Packaged | $193.23 | $194.09 | $+0.86 | +0.4% | Increase |
+| Nutrina Chilled Whole Chicken Bag | $313.88 | $313.28 | $-0.60 | -0.2% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $80.06 | $79.95 | $-0.11 | -0.1% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $90.81 | $90.71 | $-0.10 | -0.1% | Decrease |
+| Green pepper | $22.69 | $49.48 | $+26.79 | +118.1% | Increase |
+| Fresh Chicken Breast Bone In Tray | $91.97 | $92.26 | $+0.29 | +0.3% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $159.94 | $159.04 | $-0.90 | -0.6% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $87.04 | $86.93 | $-0.11 | -0.1% | Decrease |
+| Fresh Grape Tomatoes 907 g / 2 lb | $74.95 | $59.70 | $-15.25 | -20.3% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -112,8 +112,4 @@
 | McVitie's Ginger Nut Biscuits 4 Units / 250 g | McVitie's | $37.70 | 2026-02-25 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | MorningStar Farms | $126.95 | G10D03 |
-| Kashi Strawberry Banana Multi-Grain Cereal 720 g / 25.4 oz | Kashi | $97.95 | G10D03 |
+No new products added today.
