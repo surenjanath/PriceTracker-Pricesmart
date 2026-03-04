@@ -184,26 +184,26 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1163
-- **Total value**: $129,170.46
-- **Average price**: $111.07
+- **Total products scraped**: 1167
+- **Total value**: $129,528.40
+- **Average price**: $110.99
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1163
-- **Price changes detected**: 32
-- **Stock/availability changes**: 27
-- **Discontinued products**: 0
+- **New products added**: 5
+- **Existing products updated**: 1162
+- **Price changes detected**: 23
+- **Stock/availability changes**: 25
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 186 |
-|  | 134 |
-| Badia | 18 |
+| Member's Selection | 188 |
+|  | 135 |
+| Badia | 19 |
 | Swiss | 15 |
-| Kirkland Signature | 11 |
+| Brunswick | 11 |
 
 ## Recent Products
 
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1048
-- **Price increases**: 467
-- **Price decreases**: 544
-- **Average increase**: 8.8%
-- **Average decrease**: -5.1%
+- **Total price changes**: 1076
+- **Price increases**: 475
+- **Price decreases**: 559
+- **Average increase**: 8.7%
+- **Average decrease**: -5.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Member's Selection Chilled Chicken Liver, Tray Pack | $42.18 | $42.31 | $+0.13 | +0.3% | Increase |
-| Kerrygold Full Cream Milk Powder 1.8 kg / 3.97 lb | $89.95 | $99.95 | $+10.00 | +11.1% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $229.95 | $230.76 | $+0.81 | +0.4% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $185.36 | $186.19 | $+0.83 | +0.4% | Increase |
-| Cheez-It White and Jack Cheddar Crackers 2 Pack 351 g / 12.4 oz | $59.70 | $29.70 | $-30.00 | -50.3% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $81.09 | $81.43 | $+0.34 | +0.4% | Increase |
-| Pork Belly with Skin Frozen Vacuum Packaged | $193.23 | $194.09 | $+0.86 | +0.4% | Increase |
-| Nutrina Chilled Whole Chicken Bag | $313.88 | $313.28 | $-0.60 | -0.2% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $80.06 | $79.95 | $-0.11 | -0.1% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $90.81 | $90.71 | $-0.10 | -0.1% | Decrease |
-| Green pepper | $22.69 | $49.48 | $+26.79 | +118.1% | Increase |
-| Fresh Chicken Breast Bone In Tray | $91.97 | $92.26 | $+0.29 | +0.3% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $159.94 | $159.04 | $-0.90 | -0.6% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $87.04 | $86.93 | $-0.11 | -0.1% | Decrease |
-| Fresh Grape Tomatoes 907 g / 2 lb | $74.95 | $59.70 | $-15.25 | -20.3% | Decrease |
+| Kawan Flaky Paratha 25 Units | $0.00 | $99.95 | $+99.95 | +100.0% | New |
+| Ribeye Choice Fillet Fresh Tray | $264.13 | $267.26 | $+3.13 | +1.2% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $186.19 | $186.47 | $+0.28 | +0.2% | Increase |
+| Fresh Beef Striploin Steak Tray | $0.00 | $170.27 | $+170.27 | +100.0% | New |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $76.38 | $76.25 | $-0.13 | -0.2% | Decrease |
+| Pork Belly with Skin Frozen Vacuum Packaged | $194.09 | $193.23 | $-0.86 | -0.4% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $90.71 | $90.61 | $-0.10 | -0.1% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $92.26 | $92.54 | $+0.28 | +0.3% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $159.04 | $158.29 | $-0.75 | -0.5% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $86.93 | $87.04 | $+0.11 | +0.1% | Increase |
+| Badia Lemon Pepper - Ideal for Special Recipes 680.4 g / 24 oz | $0.00 | $52.95 | $+52.95 | +100.0% | New |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $109.44 | $109.29 | $-0.15 | -0.1% | Decrease |
+| Frozen Boneless Skinless Chicken Breast Tray | $120.02 | $119.54 | $-0.48 | -0.4% | Decrease |
+| LAY'S Classic Toasted Chips 425.2 g / 15 oz | $39.95 | $41.95 | $+2.00 | +5.0% | Increase |
+| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | $159.93 | $157.80 | $-2.13 | -1.3% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Kirkland Signature FunHouse Assorted Candies 2.61 kg / 5.75 lb | Kirkland Signature | $229.95 | 2026-03-03 |
 | Cherries |  | $73.92 | 2026-03-01 |
 | Treasured Harvest Shelled Natural Hazelnuts 680 g | Treasured Harvest | $52.99 | 2026-03-01 |
 | Orchard Assorted Drinks 24 Units / 200 ml / 6.7 oz | Orchard | $75.95 | 2026-03-01 |
@@ -292,7 +293,13 @@ This project has recently gained unexpected attention. It was created for person
 | Angel Parboiled Rice 4 kg | Angel | $39.95 | 2026-02-25 |
 | Nature's Pride Pigeon Peas 1.8 kg / 4 lb | Nature's Pride | $41.95 | 2026-02-25 |
 | Caffe D'Vita Piña Colada Powdered Drink Mix 907 g / 32 oz | Caffe D'Vita | $35.70 | 2026-02-25 |
-| McVitie's Ginger Nut Biscuits 4 Units / 250 g | McVitie's | $37.70 | 2026-02-25 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Kawan Flaky Paratha 25 Units | Kawan | $99.95 | G10D03 |
+| Fresh Beef Striploin Steak Tray |  | $170.27 | G10D03 |
+| Badia Lemon Pepper - Ideal for Special Recipes 680.4 g / 24 oz | Badia | $52.95 | G10D03 |
+| Member's Selection Freshly Baked Berries Cake 12 Slices | Member's Selection | $139.95 | G10D03 |
+| Member's Selection Cookies and Cream Cake Decorated with Oreo Cookie 12 Slices | Member's Selection | $139.95 | G10D03 |
