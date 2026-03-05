@@ -1,25 +1,25 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1167
-- **Total value**: $129,528.40
-- **Average price**: $110.99
+- **Total products scraped**: 1156
+- **Total value**: $128,241.83
+- **Average price**: $110.94
 
 ## Database Changes
-- **New products added**: 5
-- **Existing products updated**: 1162
-- **Price changes detected**: 23
-- **Stock/availability changes**: 25
-- **Discontinued products**: 1
+- **New products added**: 0
+- **Existing products updated**: 1156
+- **Price changes detected**: 73
+- **Stock/availability changes**: 26
+- **Discontinued products**: 12
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 188 |
-|  | 135 |
-| Badia | 19 |
-| Swiss | 15 |
+|  | 136 |
+| Badia | 18 |
+| Swiss | 14 |
 | Brunswick | 11 |
 
 ## Recent Products
@@ -30,7 +30,7 @@
 | Happy Village Organic Fig and Nut Mini Bars 24 Units / 20 g / 0.7 oz | Happy Village | $146.95 | true |
 | Royal Asia Honey Walnut Shrimp 907 g / 2 lb | Royal Asia | $169.95 | true |
 | Carapelli Organic Extra Virgin Olive Oil 880 g / 33.8 oz | Carapelli | $114.95 | true |
-| Maeva Extra Virgin Olive Oil Spray 2 Units / 400 mL / 13.5 oz | Maeva | $109.95 | true |
+| Maeva Extra Virgin Olive Oil Spray 2 Units / 400 mL / 13.5 oz | Maeva | $94.95 | true |
 | President Brie Cheese Spreadable 3 Units / 139 g / 4.9 oz | President | $74.95 | true |
 | Belgioioso Artigiano Vino Rosso Cheese 453 g / 16 oz | Belgioioso | $99.95 | true |
 | Tropical Gold Breaded Calamari Rings 2 Units / 454 g / 1 lb | Tropical Gold | $92.95 | true |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1076
-- **Price increases**: 475
-- **Price decreases**: 559
-- **Average increase**: 8.7%
-- **Average decrease**: -5.0%
+- **Total price changes**: 1062
+- **Price increases**: 468
+- **Price decreases**: 553
+- **Average increase**: 8.6%
+- **Average decrease**: -5.2%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Kawan Flaky Paratha 25 Units | $0.00 | $99.95 | $+99.95 | +100.0% | New |
-| Ribeye Choice Fillet Fresh Tray | $264.13 | $267.26 | $+3.13 | +1.2% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $186.19 | $186.47 | $+0.28 | +0.2% | Increase |
-| Fresh Beef Striploin Steak Tray | $0.00 | $170.27 | $+170.27 | +100.0% | New |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $76.38 | $76.25 | $-0.13 | -0.2% | Decrease |
-| Pork Belly with Skin Frozen Vacuum Packaged | $194.09 | $193.23 | $-0.86 | -0.4% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $90.71 | $90.61 | $-0.10 | -0.1% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $92.26 | $92.54 | $+0.28 | +0.3% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $159.04 | $158.29 | $-0.75 | -0.5% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $86.93 | $87.04 | $+0.11 | +0.1% | Increase |
-| Badia Lemon Pepper - Ideal for Special Recipes 680.4 g / 24 oz | $0.00 | $52.95 | $+52.95 | +100.0% | New |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $109.44 | $109.29 | $-0.15 | -0.1% | Decrease |
-| Frozen Boneless Skinless Chicken Breast Tray | $120.02 | $119.54 | $-0.48 | -0.4% | Decrease |
-| LAY'S Classic Toasted Chips 425.2 g / 15 oz | $39.95 | $41.95 | $+2.00 | +5.0% | Increase |
-| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | $159.93 | $157.80 | $-2.13 | -1.3% | Decrease |
+| Aqua Star Breaded Shrimp 1.36 kg / 3 lb | $159.95 | $192.95 | $+33.00 | +20.6% | Increase |
+| Bolthouse Farms Carrot Juice 1.54 L | $77.95 | $79.95 | $+2.00 | +2.6% | Increase |
+| Member Selection String Cheese 24 Units / 28 g / 0.9 oz | $61.95 | $58.95 | $-3.00 | -4.8% | Decrease |
+| Member's Selection Sliced Smoked Bacon 2 Units / 680 g / 24 oz | $139.95 | $142.95 | $+3.00 | +2.1% | Increase |
+| Kerrygold Full Cream Milk Powder 1.8 kg / 3.97 lb | $99.95 | $89.95 | $-10.00 | -10.0% | Decrease |
+| Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | $126.95 | $124.95 | $-2.00 | -1.6% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $230.76 | $229.95 | $-0.81 | -0.4% | Decrease |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $133.81 | $134.64 | $+0.83 | +0.6% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $186.47 | $186.19 | $-0.28 | -0.2% | Decrease |
+| Tostitos Scoops 411 g | $49.95 | $51.95 | $+2.00 | +4.0% | Increase |
+| Tropicland Peas and Carrots 1.8 kg / 4 lb | $84.95 | $82.95 | $-2.00 | -2.4% | Decrease |
+| Peche Patisserie Harvest Grain Loaf 650 g / 1.43 lb | $40.95 | $41.95 | $+1.00 | +2.4% | Increase |
+| Peche Patisserie Square Artisan Sourdough Bread with Garlic and Rosemary 6 Units | $29.95 | $31.95 | $+2.00 | +6.7% | Increase |
+| Peche Patisserie Sourdough and Butter Bread  | $35.95 | $37.95 | $+2.00 | +5.6% | Increase |
+| Peche Patisserie Italian Ciabatta Sourdough Bread 600 g / 1.32 lb | $32.95 | $33.95 | $+1.00 | +3.0% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -93,30 +93,23 @@
 | Sabra Classic Hummus 850 g / 30 oz | $79.95 | $24.70 | -69.1% |
 | Avocado 2 Units | $29.95 | $9.70 | -67.6% |
 | Kozyshack Cinnamon Rice Pudding 1.36 kg / 3 lb | $87.95 | $29.70 | -66.2% |
+| Green pepper | $49.48 | $16.93 | -65.8% |
 | Hillshire Farm Ham Mix 3 Units / 454 g / 16 oz | $194.95 | $69.70 | -64.2% |
-| Pillsbury Cookie Dough Mix 1.3 kg / 3 lb | $109.95 | $39.70 | -63.9% |
 
 ## Recently Discontinued Products
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
-| Kirkland Signature FunHouse Assorted Candies 2.61 kg / 5.75 lb | Kirkland Signature | $229.95 | 2026-03-03 |
-| Cherries |  | $73.92 | 2026-03-01 |
-| Treasured Harvest Shelled Natural Hazelnuts 680 g | Treasured Harvest | $52.99 | 2026-03-01 |
-| Orchard Assorted Drinks 24 Units / 200 ml / 6.7 oz | Orchard | $75.95 | 2026-03-01 |
-| Member's Selection Frozen Bone-In Pork Leg Case |  | $381.05 | 2026-03-01 |
-| Fresh Beef Eye of Round Case |  | $4216.42 | 2026-02-27 |
-| Glazed Fruits 908 g / 2 lb |  | $53.95 | 2026-02-26 |
-| Angel Parboiled Rice 4 kg | Angel | $39.95 | 2026-02-25 |
-| Nature's Pride Pigeon Peas 1.8 kg / 4 lb | Nature's Pride | $41.95 | 2026-02-25 |
-| Caffe D'Vita Piña Colada Powdered Drink Mix 907 g / 32 oz | Caffe D'Vita | $35.70 | 2026-02-25 |
+| Solo Sorrel-Flavored Carbonated Drink 8 Units / 1.5 L / 51 oz | Solo | $44.95 | 2026-03-04 |
+| Red Rose Pink Salmon 3 Units / 418 g | Red Rose | $125.95 | 2026-03-04 |
+| Donafe's Egg Free Chocolate Cake 10 to 12 Slices | Donafe's | $97.95 | 2026-03-04 |
+| Dare Graham Cookies with Chocolate Coating 2 Units / 280 g | Dare | $39.70 | 2026-03-04 |
+| Badia Hot Sriracha Garlic and Cayenne Sauce 500 mL | Badia | $39.95 | 2026-03-04 |
+| Donafe's Egg Free Carrot Cake 10 to 12 Slices | Donafe's | $134.95 | 2026-03-04 |
+| Donafe’s Eggless Creamy Cheesecake with Cardamom Notes 10 to 12 Slices | Donafe's | $176.95 | 2026-03-04 |
+| Sugar Bowl Bakery Brownie Bites | Sugar Bowl | $52.70 | 2026-03-04 |
+| Fruit by the Foot Fruit Flavored Snacks 48 Units / 21 g / 0.75 oz | Fruit by the Foot | $99.70 | 2026-03-04 |
+| Swiss Katerpack BBQ Sauce 8 Units / 2 L | Swiss | $294.95 | 2026-03-04 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Kawan Flaky Paratha 25 Units | Kawan | $99.95 | G10D03 |
-| Fresh Beef Striploin Steak Tray |  | $170.27 | G10D03 |
-| Badia Lemon Pepper - Ideal for Special Recipes 680.4 g / 24 oz | Badia | $52.95 | G10D03 |
-| Member's Selection Freshly Baked Berries Cake 12 Slices | Member's Selection | $139.95 | G10D03 |
-| Member's Selection Cookies and Cream Cake Decorated with Oreo Cookie 12 Slices | Member's Selection | $139.95 | G10D03 |
+No new products added today.
