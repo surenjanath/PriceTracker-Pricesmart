@@ -184,22 +184,22 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1156
-- **Total value**: $128,241.83
-- **Average price**: $110.94
+- **Total products scraped**: 1157
+- **Total value**: $128,348.33
+- **Average price**: $110.93
 
 ## Database Changes
-- **New products added**: 0
+- **New products added**: 1
 - **Existing products updated**: 1156
-- **Price changes detected**: 73
-- **Stock/availability changes**: 26
-- **Discontinued products**: 12
+- **Price changes detected**: 33
+- **Stock/availability changes**: 15
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 188 |
+| Member's Selection | 189 |
 |  | 136 |
 | Badia | 18 |
 | Swiss | 14 |
@@ -212,42 +212,42 @@ This project has recently gained unexpected attention. It was created for person
 | Member's Selection Organic Trail Mix with Cranberries 737 g / 26 oz | Member's Selection | $164.95 | true |
 | Happy Village Organic Fig and Nut Mini Bars 24 Units / 20 g / 0.7 oz | Happy Village | $146.95 | true |
 | Royal Asia Honey Walnut Shrimp 907 g / 2 lb | Royal Asia | $169.95 | true |
-| Carapelli Organic Extra Virgin Olive Oil 880 g / 33.8 oz | Carapelli | $114.95 | true |
 | Maeva Extra Virgin Olive Oil Spray 2 Units / 400 mL / 13.5 oz | Maeva | $94.95 | true |
-| President Brie Cheese Spreadable 3 Units / 139 g / 4.9 oz | President | $74.95 | true |
+| Carapelli Organic Extra Virgin Olive Oil 880 g / 33.8 oz | Carapelli | $114.95 | true |
 | Belgioioso Artigiano Vino Rosso Cheese 453 g / 16 oz | Belgioioso | $99.95 | true |
 | Tropical Gold Breaded Calamari Rings 2 Units / 454 g / 1 lb | Tropical Gold | $92.95 | true |
+| President Brie Cheese Spreadable 3 Units / 139 g / 4.9 oz | President | $74.95 | true |
 | Wellsley Farms Crab Cakes 510 g / 1 lb | Wellsley Farms | $219.95 | true |
 | Moy Park Frozen Chicken Drumstick 10 kg / 22 lb | Moy Park | $349.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1062
-- **Price increases**: 468
-- **Price decreases**: 553
-- **Average increase**: 8.6%
-- **Average decrease**: -5.2%
+- **Total price changes**: 1096
+- **Price increases**: 483
+- **Price decreases**: 571
+- **Average increase**: 8.7%
+- **Average decrease**: -5.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Aqua Star Breaded Shrimp 1.36 kg / 3 lb | $159.95 | $192.95 | $+33.00 | +20.6% | Increase |
-| Bolthouse Farms Carrot Juice 1.54 L | $77.95 | $79.95 | $+2.00 | +2.6% | Increase |
-| Member Selection String Cheese 24 Units / 28 g / 0.9 oz | $61.95 | $58.95 | $-3.00 | -4.8% | Decrease |
-| Member's Selection Sliced Smoked Bacon 2 Units / 680 g / 24 oz | $139.95 | $142.95 | $+3.00 | +2.1% | Increase |
-| Kerrygold Full Cream Milk Powder 1.8 kg / 3.97 lb | $99.95 | $89.95 | $-10.00 | -10.0% | Decrease |
-| Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | $126.95 | $124.95 | $-2.00 | -1.6% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $230.76 | $229.95 | $-0.81 | -0.4% | Decrease |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $133.81 | $134.64 | $+0.83 | +0.6% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $186.47 | $186.19 | $-0.28 | -0.2% | Decrease |
-| Tostitos Scoops 411 g | $49.95 | $51.95 | $+2.00 | +4.0% | Increase |
-| Tropicland Peas and Carrots 1.8 kg / 4 lb | $84.95 | $82.95 | $-2.00 | -2.4% | Decrease |
-| Peche Patisserie Harvest Grain Loaf 650 g / 1.43 lb | $40.95 | $41.95 | $+1.00 | +2.4% | Increase |
-| Peche Patisserie Square Artisan Sourdough Bread with Garlic and Rosemary 6 Units | $29.95 | $31.95 | $+2.00 | +6.7% | Increase |
-| Peche Patisserie Sourdough and Butter Bread  | $35.95 | $37.95 | $+2.00 | +5.6% | Increase |
-| Peche Patisserie Italian Ciabatta Sourdough Bread 600 g / 1.32 lb | $32.95 | $33.95 | $+1.00 | +3.0% | Increase |
+| Member's Selection Premium Mayonnaise 591 mL / 20 oz | $0.00 | $28.95 | $+28.95 | +100.0% | New |
+| Fresh Whole Chicken for Frying Bag | $259.37 | $258.92 | $-0.45 | -0.2% | Decrease |
+| Fresh Strawberry 454 g / 1 lb | $47.95 | $42.95 | $-5.00 | -10.4% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $229.95 | $229.41 | $-0.54 | -0.2% | Decrease |
+| Papaya | $33.18 | $33.34 | $+0.16 | +0.5% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $58.01 | $58.20 | $+0.19 | +0.3% | Increase |
+| Frozen Pork Belly Skin On Sliced Tray  | $115.87 | $117.31 | $+1.44 | +1.2% | Increase |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $76.25 | $76.12 | $-0.13 | -0.2% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $81.43 | $81.35 | $-0.08 | -0.1% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $92.54 | $92.45 | $-0.09 | -0.1% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $86.82 | $86.49 | $-0.33 | -0.4% | Decrease |
+| Fine Choice Fresh Marinated Chicken Tray | $86.98 | $87.20 | $+0.22 | +0.3% | Increase |
+| Fresh Ground Chicken Tray | $101.04 | $100.92 | $-0.12 | -0.1% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $109.13 | $108.97 | $-0.16 | -0.1% | Decrease |
+| Red Cabbage Unit | $22.95 | $23.95 | $+1.00 | +4.4% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -295,4 +295,7 @@ This project has recently gained unexpected attention. It was created for person
 | Swiss Katerpack BBQ Sauce 8 Units / 2 L | Swiss | $294.95 | 2026-03-04 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Member's Selection Premium Mayonnaise 591 mL / 20 oz | Member's Selection | $28.95 | G10D03 |
