@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1157
-- **Total value**: $128,348.33
-- **Average price**: $110.93
+- **Total products scraped**: 1158
+- **Total value**: $128,272.02
+- **Average price**: $110.77
 
 ## Database Changes
-- **New products added**: 1
+- **New products added**: 2
 - **Existing products updated**: 1156
-- **Price changes detected**: 33
-- **Stock/availability changes**: 15
-- **Discontinued products**: 0
+- **Price changes detected**: 25
+- **Stock/availability changes**: 16
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -201,7 +201,7 @@ This project has recently gained unexpected attention. It was created for person
 |-------|-------|
 | Member's Selection | 189 |
 |  | 136 |
-| Badia | 18 |
+| Badia | 19 |
 | Swiss | 14 |
 | Brunswick | 11 |
 
@@ -210,44 +210,44 @@ This project has recently gained unexpected attention. It was created for person
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Member's Selection Organic Trail Mix with Cranberries 737 g / 26 oz | Member's Selection | $164.95 | true |
-| Happy Village Organic Fig and Nut Mini Bars 24 Units / 20 g / 0.7 oz | Happy Village | $146.95 | true |
 | Royal Asia Honey Walnut Shrimp 907 g / 2 lb | Royal Asia | $169.95 | true |
 | Maeva Extra Virgin Olive Oil Spray 2 Units / 400 mL / 13.5 oz | Maeva | $94.95 | true |
 | Carapelli Organic Extra Virgin Olive Oil 880 g / 33.8 oz | Carapelli | $114.95 | true |
+| President Brie Cheese Spreadable 3 Units / 139 g / 4.9 oz | President | $74.95 | true |
 | Belgioioso Artigiano Vino Rosso Cheese 453 g / 16 oz | Belgioioso | $99.95 | true |
 | Tropical Gold Breaded Calamari Rings 2 Units / 454 g / 1 lb | Tropical Gold | $92.95 | true |
-| President Brie Cheese Spreadable 3 Units / 139 g / 4.9 oz | President | $74.95 | true |
 | Wellsley Farms Crab Cakes 510 g / 1 lb | Wellsley Farms | $219.95 | true |
 | Moy Park Frozen Chicken Drumstick 10 kg / 22 lb | Moy Park | $349.95 | true |
+| Member's Selection Shredded Mozzarella Cheese 2.26 kg / 5 lb | Member's Selection | $118.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1096
-- **Price increases**: 483
-- **Price decreases**: 571
-- **Average increase**: 8.7%
-- **Average decrease**: -5.0%
+- **Total price changes**: 1098
+- **Price increases**: 481
+- **Price decreases**: 574
+- **Average increase**: 8.8%
+- **Average decrease**: -5.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Member's Selection Premium Mayonnaise 591 mL / 20 oz | $0.00 | $28.95 | $+28.95 | +100.0% | New |
-| Fresh Whole Chicken for Frying Bag | $259.37 | $258.92 | $-0.45 | -0.2% | Decrease |
-| Fresh Strawberry 454 g / 1 lb | $47.95 | $42.95 | $-5.00 | -10.4% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $229.95 | $229.41 | $-0.54 | -0.2% | Decrease |
-| Papaya | $33.18 | $33.34 | $+0.16 | +0.5% | Increase |
-| Chilled Chicken Gizzard Tray Pack | $58.01 | $58.20 | $+0.19 | +0.3% | Increase |
-| Frozen Pork Belly Skin On Sliced Tray  | $115.87 | $117.31 | $+1.44 | +1.2% | Increase |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $76.25 | $76.12 | $-0.13 | -0.2% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $81.43 | $81.35 | $-0.08 | -0.1% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $92.54 | $92.45 | $-0.09 | -0.1% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $86.82 | $86.49 | $-0.33 | -0.4% | Decrease |
-| Fine Choice Fresh Marinated Chicken Tray | $86.98 | $87.20 | $+0.22 | +0.3% | Increase |
-| Fresh Ground Chicken Tray | $101.04 | $100.92 | $-0.12 | -0.1% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $109.13 | $108.97 | $-0.16 | -0.1% | Decrease |
-| Red Cabbage Unit | $22.95 | $23.95 | $+1.00 | +4.4% | Increase |
+| Papaya | $33.34 | $33.18 | $-0.16 | -0.5% | Decrease |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $134.64 | $136.57 | $+1.93 | +1.4% | Increase |
+| Member's Selection Fresh Baked Vanilla Cake 10 to 15 Slices | $0.00 | $58.95 | $+58.95 | +100.0% | New |
+| Swiss Elbows 6 Units / 300 g / 10.6 oz | $32.95 | $29.95 | $-3.00 | -9.1% | Decrease |
+| Pork Belly with Skin Frozen Vacuum Packaged | $193.23 | $192.37 | $-0.86 | -0.4% | Decrease |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $76.12 | $75.99 | $-0.13 | -0.2% | Decrease |
+| Coke Soft Drink 8 units / 2 L / 67.6 oz | $82.95 | $84.95 | $+2.00 | +2.4% | Increase |
+| Swiss Twists 6 Units / 300 g | $32.95 | $29.95 | $-3.00 | -9.1% | Decrease |
+| Fresh Grape Tomatoes 907 g / 2 lb | $59.70 | $74.95 | $+15.25 | +25.5% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $87.20 | $87.43 | $+0.23 | +0.3% | Increase |
+| Nutrina Chilled Whole Chicken Bag | $312.38 | $312.83 | $+0.45 | +0.1% | Increase |
+| Swiss Macaroni 6 Units / 400 g | $37.95 | $34.95 | $-3.00 | -7.9% | Decrease |
+| Sprite Lemon Flavored Soft Drink in Can 24 Units / 355 mL / 12 oz | $95.95 | $97.95 | $+2.00 | +2.1% | Increase |
+| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $69.79 | $69.68 | $-0.11 | -0.2% | Decrease |
+| Coke Slim Can 24 Units / 355 ml / 12 oz | $95.95 | $97.95 | $+2.00 | +2.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Member's Selection Freshly Baked Chocolate Chocolate Chip Muffins 35 Units | Member's Selection | $231.95 | 2026-03-06 |
 | Solo Sorrel-Flavored Carbonated Drink 8 Units / 1.5 L / 51 oz | Solo | $44.95 | 2026-03-04 |
 | Red Rose Pink Salmon 3 Units / 418 g | Red Rose | $125.95 | 2026-03-04 |
 | Donafe's Egg Free Chocolate Cake 10 to 12 Slices | Donafe's | $97.95 | 2026-03-04 |
@@ -292,10 +293,10 @@ This project has recently gained unexpected attention. It was created for person
 | Donafe’s Eggless Creamy Cheesecake with Cardamom Notes 10 to 12 Slices | Donafe's | $176.95 | 2026-03-04 |
 | Sugar Bowl Bakery Brownie Bites | Sugar Bowl | $52.70 | 2026-03-04 |
 | Fruit by the Foot Fruit Flavored Snacks 48 Units / 21 g / 0.75 oz | Fruit by the Foot | $99.70 | 2026-03-04 |
-| Swiss Katerpack BBQ Sauce 8 Units / 2 L | Swiss | $294.95 | 2026-03-04 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Member's Selection Premium Mayonnaise 591 mL / 20 oz | Member's Selection | $28.95 | G10D03 |
+| Member's Selection Fresh Baked Vanilla Cake 10 to 15 Slices | Member's Selection | $58.95 | G10D03 |
+| Badia Parsley Flakes 85 g / 3 oz | Badia | $24.95 | G10D03 |
