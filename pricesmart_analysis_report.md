@@ -1,26 +1,26 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1156
-- **Total value**: $128,009.80
-- **Average price**: $110.74
+- **Total products scraped**: 1150
+- **Total value**: $127,417.52
+- **Average price**: $110.80
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1156
-- **Price changes detected**: 19
-- **Stock/availability changes**: 21
-- **Discontinued products**: 2
+- **New products added**: 1
+- **Existing products updated**: 1149
+- **Price changes detected**: 53
+- **Stock/availability changes**: 8
+- **Discontinued products**: 7
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 187 |
-|  | 136 |
+| Member's Selection | 186 |
+|  | 135 |
 | Badia | 19 |
 | Swiss | 14 |
-| Brunswick | 11 |
+| Nestle | 11 |
 
 ## Recent Products
 
@@ -31,8 +31,8 @@
 | Maeva Extra Virgin Olive Oil Spray 2 Units / 400 mL / 13.5 oz | Maeva | $94.95 | true |
 | Carapelli Organic Extra Virgin Olive Oil 880 g / 33.8 oz | Carapelli | $114.95 | true |
 | President Brie Cheese Spreadable 3 Units / 139 g / 4.9 oz | President | $74.95 | true |
-| Tropical Gold Breaded Calamari Rings 2 Units / 454 g / 1 lb | Tropical Gold | $92.95 | true |
 | Belgioioso Artigiano Vino Rosso Cheese 453 g / 16 oz | Belgioioso | $99.95 | true |
+| Tropical Gold Breaded Calamari Rings 2 Units / 454 g / 1 lb | Tropical Gold | $92.95 | true |
 | Wellsley Farms Crab Cakes 510 g / 1 lb | Wellsley Farms | $219.95 | true |
 | Moy Park Frozen Chicken Drumstick 10 kg / 22 lb | Moy Park | $349.95 | true |
 | Member's Selection Shredded Mozzarella Cheese 2.26 kg / 5 lb | Member's Selection | $118.95 | true |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1080
-- **Price increases**: 470
-- **Price decreases**: 571
-- **Average increase**: 9.0%
-- **Average decrease**: -4.9%
+- **Total price changes**: 1061
+- **Price increases**: 476
+- **Price decreases**: 547
+- **Average increase**: 9.1%
+- **Average decrease**: -5.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Ribeye Choice Fillet Fresh Tray | $267.26 | $264.13 | $-3.13 | -1.2% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $229.41 | $229.68 | $+0.27 | +0.1% | Increase |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $136.57 | $137.40 | $+0.83 | +0.6% | Increase |
-| Ocean Delight Whole Snapper 6 Units | $54.95 | $76.95 | $+22.00 | +40.0% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $80.06 | $79.95 | $-0.11 | -0.1% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $81.35 | $81.26 | $-0.09 | -0.1% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $92.45 | $92.64 | $+0.19 | +0.2% | Increase |
-| Fine Choice Fresh Marinated Chicken Tray | $87.43 | $87.65 | $+0.22 | +0.3% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $119.61 | $119.44 | $-0.17 | -0.1% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $258.92 | $259.37 | $+0.45 | +0.2% | Increase |
-| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $69.68 | $69.58 | $-0.10 | -0.1% | Decrease |
-| Frozen Boneless Skinless Chicken Breast Tray | $123.53 | $123.28 | $-0.25 | -0.2% | Decrease |
-| Fresh Ground Chicken Meat Bag | $268.99 | $269.62 | $+0.63 | +0.2% | Increase |
-| Pork Chop with Bone Frozen Tray | $84.16 | $84.03 | $-0.13 | -0.2% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $88.67 | $88.53 | $-0.14 | -0.2% | Decrease |
+| Carrington Farms Coconut Oil Spray 2 Units / 141.7 g / 5 oz | $0.00 | $69.95 | $+69.95 | +100.0% | New |
+| Frozen Lamb Leg Whole Vacuum Packed | $370.82 | $373.41 | $+2.59 | +0.7% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $229.68 | $229.95 | $+0.27 | +0.1% | Increase |
+| Pork Belly with Skin Frozen Vacuum Packaged | $192.37 | $193.23 | $+0.86 | +0.4% | Increase |
+| Sundays Strawberry Cheesecake Ice Cream 3.78 L / 1 gal | $58.45 | $68.95 | $+10.50 | +18.0% | Increase |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $75.99 | $74.69 | $-1.30 | -1.7% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $79.95 | $80.06 | $+0.11 | +0.1% | Increase |
+| Fresh Chicken Leg Quarters Tray | $90.61 | $90.71 | $+0.10 | +0.1% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $81.26 | $81.35 | $+0.09 | +0.1% | Increase |
+| Maggi Vegetable Soup 12 Units / 45 g | $67.95 | $79.95 | $+12.00 | +17.7% | Increase |
+| TGI Fridays Chicken Wings with Honey BBQ Sauce 723 g / 1.59 lb | $134.95 | $159.95 | $+25.00 | +18.5% | Increase |
+| Fresh Chicken Mixed Parts Tray | $86.49 | $86.27 | $-0.22 | -0.3% | Decrease |
+| Fine Choice Fresh Marinated Chicken Tray | $87.65 | $87.88 | $+0.23 | +0.3% | Increase |
+| Nestle Lucky Charms Cereal 2 Units 652 g / 23 oz  | $124.95 | $98.95 | $-26.00 | -20.8% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $108.97 | $108.66 | $-0.31 | -0.3% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,16 +100,19 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| San Pellegrino Sparkling Mineral Water 6 Units / 250 mL / 8.45 oz | San Pellegrino | $59.70 | 2026-03-08 |
+| Orchard Orange Drink 24 Units / 200 mL / 6.7 oz | Orchard | $67.95 | 2026-03-08 |
+| Thinsters Chocolate Chip Cookies 454 g / 16 oz | Thinsters | $79.95 | 2026-03-08 |
+| Cheetos Puffs Snack Cheese Flavor 255 g / 9 oz | Cheetos | $24.95 | 2026-03-08 |
+| Reny Picot Brie with Peppercorns 396 g /14 oz | Reny Picot | $69.95 | 2026-03-08 |
+| Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2026-03-08 |
+| Frozen Chicken Legs 1 kg / 2.2 lb |  | $39.95 | 2026-03-08 |
 | Member's Selection Freshly Baked Berries Cake 12 Slices | Member's Selection | $139.95 | 2026-03-07 |
 | Member's Selection Cookies and Cream Cake Decorated with Oreo Cookie 12 Slices | Member's Selection | $139.95 | 2026-03-07 |
 | Member's Selection Freshly Baked Chocolate Chocolate Chip Muffins 35 Units | Member's Selection | $231.95 | 2026-03-06 |
-| Solo Sorrel-Flavored Carbonated Drink 8 Units / 1.5 L / 51 oz | Solo | $44.95 | 2026-03-04 |
-| Red Rose Pink Salmon 3 Units / 418 g | Red Rose | $125.95 | 2026-03-04 |
-| Donafe's Egg Free Chocolate Cake 10 to 12 Slices | Donafe's | $97.95 | 2026-03-04 |
-| Dare Graham Cookies with Chocolate Coating 2 Units / 280 g | Dare | $39.70 | 2026-03-04 |
-| Badia Hot Sriracha Garlic and Cayenne Sauce 500 mL | Badia | $39.95 | 2026-03-04 |
-| Donafe's Egg Free Carrot Cake 10 to 12 Slices | Donafe's | $134.95 | 2026-03-04 |
-| Donafe’s Eggless Creamy Cheesecake with Cardamom Notes 10 to 12 Slices | Donafe's | $176.95 | 2026-03-04 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Carrington Farms Coconut Oil Spray 2 Units / 141.7 g / 5 oz | Carrington Farms | $69.95 | G10D03 |
