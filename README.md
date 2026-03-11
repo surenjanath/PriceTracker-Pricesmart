@@ -185,15 +185,15 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1151
-- **Total value**: $127,272.63
+- **Total value**: $127,275.77
 - **Average price**: $110.58
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1149
-- **Price changes detected**: 26
-- **Stock/availability changes**: 8
-- **Discontinued products**: 1
+- **New products added**: 0
+- **Existing products updated**: 1151
+- **Price changes detected**: 19
+- **Stock/availability changes**: 5
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -209,45 +209,45 @@ This project has recently gained unexpected attention. It was created for person
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Member's Selection Organic Trail Mix with Cranberries 737 g / 26 oz | Member's Selection | $164.95 | true |
+| Happy Village Organic Fig and Nut Mini Bars 24 Units / 20 g / 0.7 oz | Happy Village | $146.95 | true |
 | Maeva Extra Virgin Olive Oil Spray 2 Units / 400 mL / 13.5 oz | Maeva | $94.95 | true |
-| Royal Asia Honey Walnut Shrimp 907 g / 2 lb | Royal Asia | $169.95 | true |
-| Carapelli Organic Extra Virgin Olive Oil 880 g / 33.8 oz | Carapelli | $114.95 | true |
 | President Brie Cheese Spreadable 3 Units / 139 g / 4.9 oz | President | $74.95 | true |
+| Bussetto Prosciutto Classico 189 g / 7 oz | Bussetto | $164.95 | true |
+| Badia Parsley Flakes 85 g / 3 oz | Badia | $24.95 | true |
+| Pan White Corn Meal Flour 2 Units / 1 kg | Pan | $34.95 | true |
 | Belgioioso Artigiano Vino Rosso Cheese 453 g / 16 oz | Belgioioso | $99.95 | true |
-| Tropical Gold Breaded Calamari Rings 2 Units / 454 g / 1 lb | Tropical Gold | $92.95 | true |
+| Kashi Strawberry Banana Multi-Grain Cereal 720 g / 25.4 oz | Kashi | $97.95 | true |
+| Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | MorningStar Farms | $124.95 | true |
 | Wellsley Farms Crab Cakes 510 g / 1 lb | Wellsley Farms | $219.95 | true |
-| Moy Park Frozen Chicken Drumstick 10 kg / 22 lb | Moy Park | $349.95 | true |
-| Member's Selection Shredded Mozzarella Cheese 2.26 kg / 5 lb | Member's Selection | $118.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1052
-- **Price increases**: 470
-- **Price decreases**: 543
-- **Average increase**: 9.4%
+- **Total price changes**: 1071
+- **Price increases**: 480
+- **Price decreases**: 552
+- **Average increase**: 9.3%
 - **Average decrease**: -5.4%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Philadelphia Salmon Cream Cheese 2 Units / 212 g / 7.5 oz | $0.00 | $82.95 | $+82.95 | +100.0% | New |
-| Green Seedless Grape 1.36 kg / 3 lb | $0.00 | $48.95 | $+48.95 | +100.0% | New |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $186.19 | $186.47 | $+0.28 | +0.2% | Increase |
-| Frozen Lamb Leg Whole Vacuum Packed | $373.41 | $374.85 | $+1.44 | +0.4% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $229.95 | $229.68 | $-0.27 | -0.1% | Decrease |
-| Papaya | $33.18 | $33.02 | $-0.16 | -0.5% | Decrease |
-| The Happy Planet Oyster Mushroom 310 g / 11.2 oz | $24.95 | $49.95 | $+25.00 | +100.2% | Increase |
-| Pork Belly with Skin Frozen Vacuum Packaged | $193.23 | $193.01 | $-0.22 | -0.1% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $81.35 | $81.26 | $-0.09 | -0.1% | Decrease |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $153.55 | $153.65 | $+0.10 | +0.1% | Increase |
-| Fresh Grape Tomatoes 907 g / 2 lb | $74.95 | $39.70 | $-35.25 | -47.0% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $92.64 | $92.83 | $+0.19 | +0.2% | Increase |
-| Fresh Whole Chicken for Frying Bag | $259.67 | $259.97 | $+0.30 | +0.1% | Increase |
-| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $69.58 | $69.36 | $-0.22 | -0.3% | Decrease |
-| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | $161.89 | $160.11 | $-1.78 | -1.1% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $186.47 | $186.19 | $-0.28 | -0.2% | Decrease |
+| Fresh Beef Ribeye Steak Vacuum Packed | $235.16 | $246.08 | $+10.92 | +4.6% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $229.68 | $228.61 | $-1.07 | -0.5% | Decrease |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $137.40 | $136.57 | $-0.83 | -0.6% | Decrease |
+| Ribeye Choice Fillet Fresh Tray | $264.13 | $285.06 | $+20.93 | +7.9% | Increase |
+| Pork Belly with Skin Frozen Vacuum Packaged | $193.01 | $192.37 | $-0.64 | -0.3% | Decrease |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.69 | $74.82 | $+0.13 | +0.2% | Increase |
+| Fresh Chicken Leg Quarters Tray | $90.71 | $90.81 | $+0.10 | +0.1% | Increase |
+| Fresh Chicken Breast Bone In Tray | $92.83 | $93.02 | $+0.19 | +0.2% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $108.66 | $108.35 | $-0.31 | -0.3% | Decrease |
+| Fresh Ground Chicken Tray | $101.39 | $101.87 | $+0.48 | +0.5% | Increase |
+| Nutrina Chilled Whole Chicken Bag | $312.83 | $313.43 | $+0.60 | +0.2% | Increase |
+| Carnation Evaporated Milk 6 Units / 371 mL / 12.5 oz | $71.95 | $55.95 | $-16.00 | -22.2% | Decrease |
+| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | $160.11 | $162.42 | $+2.31 | +1.4% | Increase |
+| Nestle Sweetened Condensed Milk 6 Pack / 395 g / 14 oz | $89.95 | $76.95 | $-13.00 | -14.5% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -295,8 +295,4 @@ This project has recently gained unexpected attention. It was created for person
 | Member's Selection Cookies and Cream Cake Decorated with Oreo Cookie 12 Slices | Member's Selection | $139.95 | 2026-03-07 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Philadelphia Salmon Cream Cheese 2 Units / 212 g / 7.5 oz | Philadelphia | $82.95 | G10D03 |
-| Green Seedless Grape 1.36 kg / 3 lb |  | $48.95 | G10D03 |
+No new products added today.
