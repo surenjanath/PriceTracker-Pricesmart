@@ -1,22 +1,22 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1150
-- **Total value**: $127,318.62
-- **Average price**: $110.71
+- **Total products scraped**: 1149
+- **Total value**: $127,158.34
+- **Average price**: $110.67
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1148
-- **Price changes detected**: 55
-- **Stock/availability changes**: 9
-- **Discontinued products**: 6
+- **New products added**: 0
+- **Existing products updated**: 1149
+- **Price changes detected**: 41
+- **Stock/availability changes**: 8
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 186 |
+| Member's Selection | 185 |
 |  | 136 |
 | Badia | 19 |
 | Swiss | 14 |
@@ -30,8 +30,8 @@
 | Maeva Extra Virgin Olive Oil Spray 2 Units / 400 mL / 13.5 oz | Maeva | $94.95 | true |
 | President Brie Cheese Spreadable 3 Units / 139 g / 4.9 oz | President | $74.95 | true |
 | Bussetto Prosciutto Classico 189 g / 7 oz | Bussetto | $164.95 | true |
+| Badia Parsley Flakes 85 g / 3 oz | Badia | $22.18 | true |
 | Belgioioso Artigiano Vino Rosso Cheese 453 g / 16 oz | Belgioioso | $99.95 | true |
-| Badia Parsley Flakes 85 g / 3 oz | Badia | $24.95 | true |
 | Pan White Corn Meal Flour 2 Units / 1 kg | Pan | $34.95 | true |
 | Kashi Strawberry Banana Multi-Grain Cereal 720 g / 25.4 oz | Kashi | $97.95 | true |
 | Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | MorningStar Farms | $124.95 | true |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1084
-- **Price increases**: 485
-- **Price decreases**: 559
-- **Average increase**: 9.8%
+- **Total price changes**: 1100
+- **Price increases**: 491
+- **Price decreases**: 570
+- **Average increase**: 10.0%
 - **Average decrease**: -5.4%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Sambazon Dragon Fruit Juice 1.89 L / 64 oz | $113.95 | $114.95 | $+1.00 | +0.9% | Increase |
-| Bolthouse Farms Carrot Juice 1.54 L | $79.95 | $82.95 | $+3.00 | +3.8% | Increase |
-| Orchard Assorted Juices 24 Units / 250 mL | $88.95 | $102.95 | $+14.00 | +15.7% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $186.19 | $186.47 | $+0.28 | +0.2% | Increase |
-| Orchard Orange Drink 24 Units / 250 mL | $0.00 | $89.95 | $+89.95 | +100.0% | New |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $136.57 | $137.40 | $+0.83 | +0.6% | Increase |
-| Carmencita Paella Seasoning with Saffron 15 Units / 4 g / 0.14 oz | $55.95 | $37.70 | $-18.25 | -32.6% | Decrease |
-| Frozen Pork Belly Skin On Sliced Tray  | $117.31 | $118.03 | $+0.72 | +0.6% | Increase |
-| Chilled Chicken Gizzard Tray Pack | $58.20 | $58.38 | $+0.18 | +0.3% | Increase |
-| Ribeye Choice Fillet Fresh Tray | $285.06 | $290.45 | $+5.39 | +1.9% | Increase |
-| Cadbury Whole Nut Chocolate Bar 180 g  | $55.95 | $57.95 | $+2.00 | +3.6% | Increase |
-| Pier 33 Wild Yellowfin Tuna Steak 397 g / 14 oz | $112.45 | $109.95 | $-2.50 | -2.2% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $80.06 | $80.17 | $+0.11 | +0.1% | Increase |
-| Bella Contadina Italian Antipasto Mix 600 g / 21 oz | $79.95 | $49.77 | $-30.18 | -37.7% | Decrease |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $153.65 | $153.85 | $+0.20 | +0.1% | Increase |
+| Member's Selection Premium Mayonnaise 591 mL / 20 oz | $28.95 | $27.95 | $-1.00 | -3.5% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $228.61 | $228.34 | $-0.27 | -0.1% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $58.38 | $58.20 | $-0.18 | -0.3% | Decrease |
+| Pork Belly with Skin Frozen Vacuum Packaged | $192.37 | $191.72 | $-0.65 | -0.3% | Decrease |
+| Ribeye Choice Fillet Fresh Tray | $290.45 | $291.80 | $+1.35 | +0.5% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $80.17 | $80.06 | $-0.11 | -0.1% | Decrease |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.82 | $74.95 | $+0.13 | +0.2% | Increase |
+| Peach 908 g / 2 lb | $74.95 | $69.95 | $-5.00 | -6.7% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $90.91 | $91.01 | $+0.10 | +0.1% | Increase |
+| Ginger 680 g / 1.5 | $22.95 | $24.95 | $+2.00 | +8.7% | Increase |
+| Live Savers Assorted Gummies 15 Units / 119 g / 4.2 oz | $99.70 | $49.70 | $-50.00 | -50.2% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $157.25 | $157.10 | $-0.15 | -0.1% | Decrease |
+| Orchard Assorted Drinks Juice Mix 6 Units / 1L | $69.95 | $54.95 | $-15.00 | -21.4% | Decrease |
+| Red Cabbage Unit | $23.95 | $27.95 | $+4.00 | +16.7% | Increase |
+| Green Cabbage 1.3 kg / 2.9 lb | $29.95 | $32.95 | $+3.00 | +10.0% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Member's Selection Frozen Bone-In Goat Stew Bag | Member's Selection | $87.54 | 2026-03-12 |
 | Stauffers Snaps Crunchy Lemon-Flavored Cookies 397 g / 14 oz | Stauffers | $29.70 | 2026-03-11 |
 | ChefMate  Brown Sugar 5 kg      | Chef Mate | $57.95 | 2026-03-11 |
 | Natural Delights Soy Minced Meat 227 g | Natural Delights | $29.95 | 2026-03-11 |
@@ -109,11 +110,6 @@
 | Curly's Baby Back Pork Ribs 680 g / 24 oz | Curly's | $134.95 | 2026-03-09 |
 | San Pellegrino Sparkling Mineral Water 6 Units / 250 mL / 8.45 oz | San Pellegrino | $59.70 | 2026-03-08 |
 | Orchard Orange Drink 24 Units / 200 mL / 6.7 oz | Orchard | $67.95 | 2026-03-08 |
-| Thinsters Chocolate Chip Cookies 454 g / 16 oz | Thinsters | $79.95 | 2026-03-08 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Orchard Orange Drink 24 Units / 250 mL | Orchard | $89.95 | G10D03 |
-| Mrs Thinster Toasted Coconut Cookies 454 g | Mrs. Thinster's | $76.95 | G10D03 |
+No new products added today.
