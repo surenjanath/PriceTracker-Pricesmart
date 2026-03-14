@@ -184,15 +184,15 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1149
-- **Total value**: $127,158.34
-- **Average price**: $110.67
+- **Total products scraped**: 1150
+- **Total value**: $129,368.43
+- **Average price**: $112.49
 
 ## Database Changes
 - **New products added**: 0
-- **Existing products updated**: 1149
-- **Price changes detected**: 41
-- **Stock/availability changes**: 8
+- **Existing products updated**: 1150
+- **Price changes detected**: 30
+- **Stock/availability changes**: 21
 - **Discontinued products**: 1
 
 ## Top 5 Brands
@@ -223,37 +223,38 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1100
-- **Price increases**: 491
-- **Price decreases**: 570
-- **Average increase**: 10.0%
-- **Average decrease**: -5.4%
+- **Total price changes**: 1110
+- **Price increases**: 495
+- **Price decreases**: 578
+- **Average increase**: 10.4%
+- **Average decrease**: -5.3%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Member's Selection Premium Mayonnaise 591 mL / 20 oz | $28.95 | $27.95 | $-1.00 | -3.5% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $228.61 | $228.34 | $-0.27 | -0.1% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $58.38 | $58.20 | $-0.18 | -0.3% | Decrease |
-| Pork Belly with Skin Frozen Vacuum Packaged | $192.37 | $191.72 | $-0.65 | -0.3% | Decrease |
-| Ribeye Choice Fillet Fresh Tray | $290.45 | $291.80 | $+1.35 | +0.5% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $80.17 | $80.06 | $-0.11 | -0.1% | Decrease |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.82 | $74.95 | $+0.13 | +0.2% | Increase |
-| Peach 908 g / 2 lb | $74.95 | $69.95 | $-5.00 | -6.7% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $90.91 | $91.01 | $+0.10 | +0.1% | Increase |
-| Ginger 680 g / 1.5 | $22.95 | $24.95 | $+2.00 | +8.7% | Increase |
-| Live Savers Assorted Gummies 15 Units / 119 g / 4.2 oz | $99.70 | $49.70 | $-50.00 | -50.2% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $157.25 | $157.10 | $-0.15 | -0.1% | Decrease |
-| Orchard Assorted Drinks Juice Mix 6 Units / 1L | $69.95 | $54.95 | $-15.00 | -21.4% | Decrease |
-| Red Cabbage Unit | $23.95 | $27.95 | $+4.00 | +16.7% | Increase |
-| Green Cabbage 1.3 kg / 2.9 lb | $29.95 | $32.95 | $+3.00 | +10.0% | Increase |
+| Fresh Beef Ribeye Steak Vacuum Packed | $246.08 | $2434.41 | $+2188.33 | +889.3% | Increase |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $137.40 | $134.64 | $-2.76 | -2.0% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $228.34 | $226.72 | $-1.62 | -0.7% | Decrease |
+| Papaya | $33.02 | $32.86 | $-0.16 | -0.5% | Decrease |
+| Frozen Pork Belly Skin On Sliced Tray  | $118.03 | $118.99 | $+0.96 | +0.8% | Increase |
+| Kerrygold Full Cream Milk Powder 1.8 kg / 3.97 lb | $89.95 | $94.95 | $+5.00 | +5.6% | Increase |
+| Pork Belly with Skin Frozen Vacuum Packaged | $191.72 | $189.56 | $-2.16 | -1.1% | Decrease |
+| Ribeye Choice Fillet Fresh Tray | $291.80 | $285.73 | $-6.07 | -2.1% | Decrease |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.95 | $74.82 | $-0.13 | -0.2% | Decrease |
+| Green Bell Peppers 1.36 kg / 3 lb | $42.95 | $44.95 | $+2.00 | +4.7% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $81.26 | $81.09 | $-0.17 | -0.2% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $88.82 | $88.78 | $-0.04 | -0.0% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $93.02 | $92.93 | $-0.09 | -0.1% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $108.35 | $108.19 | $-0.16 | -0.1% | Decrease |
+| Fresh Ground Chicken Tray | $101.87 | $101.63 | $-0.24 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
 | Product | Old Price | New Price | % Increase |
 |---------|-----------|-----------|------------|
 | Hunt's Diced Tomatoes 8 Units / 411 g / 14.25 oz | $104.95 | $1999.00 | +1804.7% |
+| Fresh Beef Ribeye Steak Vacuum Packed | $246.08 | $2434.41 | +889.3% |
 | Member's Selection Premium Carved Cooked Ham with Natural Juices 2 Units / 340 g / 12 oz  | $9.70 | $69.95 | +621.1% |
 | Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $9.70 | $57.95 | +497.4% |
 | Pillsbury Cookie Dough Mix 1.3 kg / 3 lb | $19.70 | $109.95 | +458.1% |
@@ -262,7 +263,6 @@ This project has recently gained unexpected attention. It was created for person
 | Frozen Boneless Pork Loin Vacuum Packaged | $56.90 | $253.53 | +345.6% |
 | Carrot 2.27 kg / 5 lb | $9.70 | $37.95 | +291.2% |
 | Silk Unsweetened Original 2 Units 1.89 L / 64 oz | $29.70 | $99.95 | +236.5% |
-| Sabra Classic Hummus 850 g / 30 oz | $24.70 | $79.95 | +223.7% |
 
 ## Biggest Price Decreases (All Time)
 
@@ -283,6 +283,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Eggo Chocolatey Chip Waffles 2 Pack / 349 g / 12.3 oz | Eggo | $97.95 | 2026-03-13 |
 | Member's Selection Frozen Bone-In Goat Stew Bag | Member's Selection | $87.54 | 2026-03-12 |
 | Stauffers Snaps Crunchy Lemon-Flavored Cookies 397 g / 14 oz | Stauffers | $29.70 | 2026-03-11 |
 | ChefMate  Brown Sugar 5 kg      | Chef Mate | $57.95 | 2026-03-11 |
@@ -292,7 +293,6 @@ This project has recently gained unexpected attention. It was created for person
 | Nilo Soursop Juice 12 Units / 320 mL / 10.82 oz | Nilo | $139.95 | 2026-03-11 |
 | Curly's Baby Back Pork Ribs 680 g / 24 oz | Curly's | $134.95 | 2026-03-09 |
 | San Pellegrino Sparkling Mineral Water 6 Units / 250 mL / 8.45 oz | San Pellegrino | $59.70 | 2026-03-08 |
-| Orchard Orange Drink 24 Units / 200 mL / 6.7 oz | Orchard | $67.95 | 2026-03-08 |
 
 ## New Products Added Today
 No new products added today.
