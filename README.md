@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1150
-- **Total value**: $129,368.43
-- **Average price**: $112.49
+- **Total products scraped**: 1151
+- **Total value**: $130,163.03
+- **Average price**: $113.09
 
 ## Database Changes
-- **New products added**: 0
+- **New products added**: 1
 - **Existing products updated**: 1150
-- **Price changes detected**: 30
-- **Stock/availability changes**: 21
-- **Discontinued products**: 1
+- **Price changes detected**: 25
+- **Stock/availability changes**: 4
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 185 |
-|  | 136 |
+|  | 137 |
 | Badia | 19 |
 | Swiss | 14 |
 | Nestle | 11 |
@@ -213,41 +213,41 @@ This project has recently gained unexpected attention. It was created for person
 | Maeva Extra Virgin Olive Oil Spray 2 Units / 400 mL / 13.5 oz | Maeva | $94.95 | true |
 | President Brie Cheese Spreadable 3 Units / 139 g / 4.9 oz | President | $74.95 | true |
 | Bussetto Prosciutto Classico 189 g / 7 oz | Bussetto | $164.95 | true |
+| Kawan Flaky Paratha 25 Units | Kawan | $99.95 | true |
 | Badia Parsley Flakes 85 g / 3 oz | Badia | $22.18 | true |
 | Belgioioso Artigiano Vino Rosso Cheese 453 g / 16 oz | Belgioioso | $99.95 | true |
-| Pan White Corn Meal Flour 2 Units / 1 kg | Pan | $34.95 | true |
 | Kashi Strawberry Banana Multi-Grain Cereal 720 g / 25.4 oz | Kashi | $97.95 | true |
-| Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | MorningStar Farms | $124.95 | true |
-| Wellsley Farms Crab Cakes 510 g / 1 lb | Wellsley Farms | $219.95 | true |
+| Carrington Farms Coconut Oil Spray 2 Units / 141.7 g / 5 oz | Carrington Farms | $69.95 | true |
+| Pan White Corn Meal Flour 2 Units / 1 kg | Pan | $34.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1110
-- **Price increases**: 495
-- **Price decreases**: 578
-- **Average increase**: 10.4%
-- **Average decrease**: -5.3%
+- **Total price changes**: 1053
+- **Price increases**: 462
+- **Price decreases**: 555
+- **Average increase**: 11.3%
+- **Average decrease**: -5.2%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Beef Ribeye Steak Vacuum Packed | $246.08 | $2434.41 | $+2188.33 | +889.3% | Increase |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $137.40 | $134.64 | $-2.76 | -2.0% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $228.34 | $226.72 | $-1.62 | -0.7% | Decrease |
-| Papaya | $33.02 | $32.86 | $-0.16 | -0.5% | Decrease |
-| Frozen Pork Belly Skin On Sliced Tray  | $118.03 | $118.99 | $+0.96 | +0.8% | Increase |
-| Kerrygold Full Cream Milk Powder 1.8 kg / 3.97 lb | $89.95 | $94.95 | $+5.00 | +5.6% | Increase |
-| Pork Belly with Skin Frozen Vacuum Packaged | $191.72 | $189.56 | $-2.16 | -1.1% | Decrease |
-| Ribeye Choice Fillet Fresh Tray | $291.80 | $285.73 | $-6.07 | -2.1% | Decrease |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.95 | $74.82 | $-0.13 | -0.2% | Decrease |
-| Green Bell Peppers 1.36 kg / 3 lb | $42.95 | $44.95 | $+2.00 | +4.7% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $81.26 | $81.09 | $-0.17 | -0.2% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $88.82 | $88.78 | $-0.04 | -0.0% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $93.02 | $92.93 | $-0.09 | -0.1% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $108.35 | $108.19 | $-0.16 | -0.1% | Decrease |
-| Fresh Ground Chicken Tray | $101.87 | $101.63 | $-0.24 | -0.2% | Decrease |
+| Macfoods Black Forest Ham 454 g / 1 lb | $45.95 | $46.95 | $+1.00 | +2.2% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $186.47 | $186.19 | $-0.28 | -0.2% | Decrease |
+| Frozen Beef Feet Sliced Case | $0.00 | $756.87 | $+756.87 | +100.0% | New |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $134.64 | $136.57 | $+1.93 | +1.4% | Increase |
+| Macfoods Turkey Pastrami 454 g / 1 lb | $48.95 | $49.95 | $+1.00 | +2.0% | Increase |
+| Pork Belly with Skin Frozen Vacuum Packaged | $189.56 | $191.72 | $+2.16 | +1.1% | Increase |
+| Frozen Pork Belly Skin On Sliced Tray  | $118.99 | $119.71 | $+0.72 | +0.6% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $80.06 | $79.95 | $-0.11 | -0.1% | Decrease |
+| MacFoods Spicy Sausage 454 g / 1 lb | $38.95 | $39.95 | $+1.00 | +2.6% | Increase |
+| Fresh Chicken Leg Quarters Tray | $91.01 | $91.11 | $+0.10 | +0.1% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $88.78 | $88.64 | $-0.14 | -0.2% | Decrease |
+| Green pepper | $16.93 | $49.48 | $+32.55 | +192.3% | Increase |
+| Fresh Chicken Mixed Parts Tray | $86.27 | $86.16 | $-0.11 | -0.1% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $92.93 | $93.02 | $+0.09 | +0.1% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $157.10 | $156.35 | $-0.75 | -0.5% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -295,4 +295,7 @@ This project has recently gained unexpected attention. It was created for person
 | San Pellegrino Sparkling Mineral Water 6 Units / 250 mL / 8.45 oz | San Pellegrino | $59.70 | 2026-03-08 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Frozen Beef Feet Sliced Case |  | $756.87 | G10D03 |
