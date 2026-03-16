@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1151
-- **Total value**: $130,163.03
-- **Average price**: $113.09
+- **Total products scraped**: 1148
+- **Total value**: $129,963.69
+- **Average price**: $113.21
 
 ## Database Changes
 - **New products added**: 1
-- **Existing products updated**: 1150
-- **Price changes detected**: 25
-- **Stock/availability changes**: 4
-- **Discontinued products**: 0
+- **Existing products updated**: 1147
+- **Price changes detected**: 23
+- **Stock/availability changes**: 14
+- **Discontinued products**: 4
 
 ## Top 5 Brands
 
@@ -212,42 +212,42 @@ This project has recently gained unexpected attention. It was created for person
 | Happy Village Organic Fig and Nut Mini Bars 24 Units / 20 g / 0.7 oz | Happy Village | $146.95 | true |
 | Maeva Extra Virgin Olive Oil Spray 2 Units / 400 mL / 13.5 oz | Maeva | $94.95 | true |
 | President Brie Cheese Spreadable 3 Units / 139 g / 4.9 oz | President | $74.95 | true |
+| Wellsley Farms Crab Cakes 510 g / 1 lb | Wellsley Farms | $219.95 | true |
 | Bussetto Prosciutto Classico 189 g / 7 oz | Bussetto | $164.95 | true |
-| Kawan Flaky Paratha 25 Units | Kawan | $99.95 | true |
+| Carrington Farms Coconut Oil Spray 2 Units / 141.7 g / 5 oz | Carrington Farms | $69.95 | true |
 | Badia Parsley Flakes 85 g / 3 oz | Badia | $22.18 | true |
+| Kawan Flaky Paratha 25 Units | Kawan | $99.95 | true |
 | Belgioioso Artigiano Vino Rosso Cheese 453 g / 16 oz | Belgioioso | $99.95 | true |
 | Kashi Strawberry Banana Multi-Grain Cereal 720 g / 25.4 oz | Kashi | $97.95 | true |
-| Carrington Farms Coconut Oil Spray 2 Units / 141.7 g / 5 oz | Carrington Farms | $69.95 | true |
-| Pan White Corn Meal Flour 2 Units / 1 kg | Pan | $34.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1053
-- **Price increases**: 462
-- **Price decreases**: 555
-- **Average increase**: 11.3%
-- **Average decrease**: -5.2%
+- **Total price changes**: 1014
+- **Price increases**: 447
+- **Price decreases**: 533
+- **Average increase**: 11.7%
+- **Average decrease**: -5.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Macfoods Black Forest Ham 454 g / 1 lb | $45.95 | $46.95 | $+1.00 | +2.2% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $186.47 | $186.19 | $-0.28 | -0.2% | Decrease |
-| Frozen Beef Feet Sliced Case | $0.00 | $756.87 | $+756.87 | +100.0% | New |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $134.64 | $136.57 | $+1.93 | +1.4% | Increase |
-| Macfoods Turkey Pastrami 454 g / 1 lb | $48.95 | $49.95 | $+1.00 | +2.0% | Increase |
-| Pork Belly with Skin Frozen Vacuum Packaged | $189.56 | $191.72 | $+2.16 | +1.1% | Increase |
-| Frozen Pork Belly Skin On Sliced Tray  | $118.99 | $119.71 | $+0.72 | +0.6% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $80.06 | $79.95 | $-0.11 | -0.1% | Decrease |
-| MacFoods Spicy Sausage 454 g / 1 lb | $38.95 | $39.95 | $+1.00 | +2.6% | Increase |
-| Fresh Chicken Leg Quarters Tray | $91.01 | $91.11 | $+0.10 | +0.1% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $88.78 | $88.64 | $-0.14 | -0.2% | Decrease |
-| Green pepper | $16.93 | $49.48 | $+32.55 | +192.3% | Increase |
-| Fresh Chicken Mixed Parts Tray | $86.27 | $86.16 | $-0.11 | -0.1% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $92.93 | $93.02 | $+0.09 | +0.1% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $157.10 | $156.35 | $-0.75 | -0.5% | Decrease |
+| Frozen Lamb Leg Whole Vacuum Packed | $374.85 | $381.18 | $+6.33 | +1.7% | Increase |
+| Fresh Beef Ribeye Steak Vacuum Packed | $2434.41 | $2290.87 | $-143.54 | -5.9% | Decrease |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $136.57 | $134.64 | $-1.93 | -1.4% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $226.72 | $226.18 | $-0.54 | -0.2% | Decrease |
+| Papaya | $32.86 | $32.54 | $-0.32 | -1.0% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $58.20 | $58.38 | $+0.18 | +0.3% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $186.19 | $186.47 | $+0.28 | +0.2% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $79.95 | $79.85 | $-0.10 | -0.1% | Decrease |
+| Fresh Grape Tomatoes 907 g / 2 lb | $39.70 | $74.95 | $+35.25 | +88.8% | Increase |
+| Fresh Ground Chicken Tray | $101.39 | $101.28 | $-0.11 | -0.1% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $86.16 | $86.05 | $-0.11 | -0.1% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $156.35 | $153.82 | $-2.53 | -1.6% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $108.19 | $108.04 | $-0.15 | -0.1% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $259.37 | $258.92 | $-0.45 | -0.2% | Decrease |
+| Frozen Boneless Skinless Chicken Breast Tray | $123.16 | $122.91 | $-0.25 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,19 +283,19 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Tostitos Santa Elena Chips 430 g  / 15.17 oz | Tostitos | $32.95 | 2026-03-15 |
+| Anchor Gouda Cheese Block 500 g / 1.1 lb | Anchor | $59.95 | 2026-03-15 |
+| Dewlands Natural Lychee and Apple Juice 3 Units / 1 L | Dewlands | $59.95 | 2026-03-15 |
+| Naz Incredible Creations Red Onion Artisan Loaf Bread | Naz Incredible Creations | $36.95 | 2026-03-15 |
 | Eggo Chocolatey Chip Waffles 2 Pack / 349 g / 12.3 oz | Eggo | $97.95 | 2026-03-13 |
 | Member's Selection Frozen Bone-In Goat Stew Bag | Member's Selection | $87.54 | 2026-03-12 |
 | Stauffers Snaps Crunchy Lemon-Flavored Cookies 397 g / 14 oz | Stauffers | $29.70 | 2026-03-11 |
 | ChefMate  Brown Sugar 5 kg      | Chef Mate | $57.95 | 2026-03-11 |
 | Natural Delights Soy Minced Meat 227 g | Natural Delights | $29.95 | 2026-03-11 |
 | EcoLife Organic Brown Rice 1.81 kg / 32 oz | ecoLife | $94.95 | 2026-03-11 |
-| Cheez-It White and Jack Cheddar Crackers 2 Pack 351 g / 12.4 oz | CheezIt | $29.70 | 2026-03-11 |
-| Nilo Soursop Juice 12 Units / 320 mL / 10.82 oz | Nilo | $139.95 | 2026-03-11 |
-| Curly's Baby Back Pork Ribs 680 g / 24 oz | Curly's | $134.95 | 2026-03-09 |
-| San Pellegrino Sparkling Mineral Water 6 Units / 250 mL / 8.45 oz | San Pellegrino | $59.70 | 2026-03-08 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Frozen Beef Feet Sliced Case |  | $756.87 | G10D03 |
+| Cheez-It Original, Grahams, and White Cheddar Cheez-It Gripz Variety Pack 12 Units / 25 g / 0.9 oz | CheezIt | $64.95 | G10D03 |
