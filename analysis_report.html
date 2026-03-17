@@ -1,26 +1,26 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1148
-- **Total value**: $129,963.69
-- **Average price**: $113.21
+- **Total products scraped**: 1146
+- **Total value**: $129,532.26
+- **Average price**: $113.03
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1147
-- **Price changes detected**: 23
-- **Stock/availability changes**: 14
+- **New products added**: 2
+- **Existing products updated**: 1144
+- **Price changes detected**: 26
+- **Stock/availability changes**: 28
 - **Discontinued products**: 4
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 185 |
-|  | 137 |
+| Member's Selection | 184 |
+|  | 136 |
 | Badia | 19 |
 | Swiss | 14 |
-| Nestle | 11 |
+| Brunswick | 11 |
 
 ## Recent Products
 
@@ -29,42 +29,42 @@
 | Happy Village Organic Fig and Nut Mini Bars 24 Units / 20 g / 0.7 oz | Happy Village | $146.95 | true |
 | Maeva Extra Virgin Olive Oil Spray 2 Units / 400 mL / 13.5 oz | Maeva | $94.95 | true |
 | President Brie Cheese Spreadable 3 Units / 139 g / 4.9 oz | President | $74.95 | true |
-| Wellsley Farms Crab Cakes 510 g / 1 lb | Wellsley Farms | $219.95 | true |
+| Activia Assorted Probiotics Low Fat Yogurt Drink 24 Units / 93 mL / 3.1 oz | Activia | $157.95 | true |
 | Bussetto Prosciutto Classico 189 g / 7 oz | Bussetto | $164.95 | true |
+| Wellsley Farms Crab Cakes 510 g / 1 lb | Wellsley Farms | $219.95 | true |
 | Carrington Farms Coconut Oil Spray 2 Units / 141.7 g / 5 oz | Carrington Farms | $69.95 | true |
 | Badia Parsley Flakes 85 g / 3 oz | Badia | $22.18 | true |
-| Kawan Flaky Paratha 25 Units | Kawan | $99.95 | true |
 | Belgioioso Artigiano Vino Rosso Cheese 453 g / 16 oz | Belgioioso | $99.95 | true |
 | Kashi Strawberry Banana Multi-Grain Cereal 720 g / 25.4 oz | Kashi | $97.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1014
-- **Price increases**: 447
-- **Price decreases**: 533
-- **Average increase**: 11.7%
-- **Average decrease**: -5.1%
+- **Total price changes**: 1020
+- **Price increases**: 448
+- **Price decreases**: 537
+- **Average increase**: 11.6%
+- **Average decrease**: -5.3%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Frozen Lamb Leg Whole Vacuum Packed | $374.85 | $381.18 | $+6.33 | +1.7% | Increase |
-| Fresh Beef Ribeye Steak Vacuum Packed | $2434.41 | $2290.87 | $-143.54 | -5.9% | Decrease |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $136.57 | $134.64 | $-1.93 | -1.4% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $226.72 | $226.18 | $-0.54 | -0.2% | Decrease |
-| Papaya | $32.86 | $32.54 | $-0.32 | -1.0% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $58.20 | $58.38 | $+0.18 | +0.3% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $186.19 | $186.47 | $+0.28 | +0.2% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $79.95 | $79.85 | $-0.10 | -0.1% | Decrease |
-| Fresh Grape Tomatoes 907 g / 2 lb | $39.70 | $74.95 | $+35.25 | +88.8% | Increase |
-| Fresh Ground Chicken Tray | $101.39 | $101.28 | $-0.11 | -0.1% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $86.16 | $86.05 | $-0.11 | -0.1% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $156.35 | $153.82 | $-2.53 | -1.6% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $108.19 | $108.04 | $-0.15 | -0.1% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $259.37 | $258.92 | $-0.45 | -0.2% | Decrease |
-| Frozen Boneless Skinless Chicken Breast Tray | $123.16 | $122.91 | $-0.25 | -0.2% | Decrease |
+| KIWA Organic Vegetable Chip Mix 453 g / 16 oz  | $0.00 | $66.95 | $+66.95 | +100.0% | New |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $226.18 | $224.83 | $-1.35 | -0.6% | Decrease |
+| Pork Belly with Skin Frozen Vacuum Packaged | $191.72 | $192.37 | $+0.65 | +0.3% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $58.38 | $58.20 | $-0.18 | -0.3% | Decrease |
+| Ribeye Choice Fillet Fresh Tray | $285.73 | $290.45 | $+4.72 | +1.7% | Increase |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $153.85 | $153.95 | $+0.10 | +0.1% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $79.85 | $79.74 | $-0.11 | -0.1% | Decrease |
+| Prairie Farms Half and Half 946 mL / 32 oz | $0.00 | $37.95 | $+37.95 | +100.0% | New |
+| Ovaltine Nutritional Beverage 800 mL / 27 oz | $109.95 | $97.95 | $-12.00 | -10.9% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $86.05 | $86.16 | $+0.11 | +0.1% | Increase |
+| Fresh Ground Chicken Tray | $101.28 | $101.04 | $-0.24 | -0.2% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $93.02 | $92.93 | $-0.09 | -0.1% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $88.64 | $88.55 | $-0.09 | -0.1% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $108.04 | $108.19 | $+0.15 | +0.1% | Increase |
+| Frozen Boneless Skinless Chicken Breast Tray | $122.91 | $122.66 | $-0.25 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,19 +100,20 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Green Seedless Grape 1.36 kg / 3 lb |  | $48.95 | 2026-03-16 |
+| Nature Valley Sweet & Salty Nut Bar 24 Units / 1.2 oz / 35 g | Nature Valley | $112.95 | 2026-03-16 |
+| Lifeway Strawberry Kefir 2 Units / 946 mL / 32 oz | Lifeway | $89.95 | 2026-03-16 |
+| Member's Selection Fresh Baked Vanilla Cake 10 to 15 Slices | Member's Selection | $58.95 | 2026-03-16 |
 | Tostitos Santa Elena Chips 430 g  / 15.17 oz | Tostitos | $32.95 | 2026-03-15 |
 | Anchor Gouda Cheese Block 500 g / 1.1 lb | Anchor | $59.95 | 2026-03-15 |
 | Dewlands Natural Lychee and Apple Juice 3 Units / 1 L | Dewlands | $59.95 | 2026-03-15 |
 | Naz Incredible Creations Red Onion Artisan Loaf Bread | Naz Incredible Creations | $36.95 | 2026-03-15 |
 | Eggo Chocolatey Chip Waffles 2 Pack / 349 g / 12.3 oz | Eggo | $97.95 | 2026-03-13 |
 | Member's Selection Frozen Bone-In Goat Stew Bag | Member's Selection | $87.54 | 2026-03-12 |
-| Stauffers Snaps Crunchy Lemon-Flavored Cookies 397 g / 14 oz | Stauffers | $29.70 | 2026-03-11 |
-| ChefMate  Brown Sugar 5 kg      | Chef Mate | $57.95 | 2026-03-11 |
-| Natural Delights Soy Minced Meat 227 g | Natural Delights | $29.95 | 2026-03-11 |
-| EcoLife Organic Brown Rice 1.81 kg / 32 oz | ecoLife | $94.95 | 2026-03-11 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Cheez-It Original, Grahams, and White Cheddar Cheez-It Gripz Variety Pack 12 Units / 25 g / 0.9 oz | CheezIt | $64.95 | G10D03 |
+| KIWA Organic Vegetable Chip Mix 453 g / 16 oz  | Kiwa | $66.95 | G10D03 |
+| Prairie Farms Half and Half 946 mL / 32 oz | Prairie Farms | $37.95 | G10D03 |
