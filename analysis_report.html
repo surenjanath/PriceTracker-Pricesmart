@@ -1,22 +1,22 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1146
-- **Total value**: $129,532.26
-- **Average price**: $113.03
+- **Total products scraped**: 1147
+- **Total value**: $129,511.76
+- **Average price**: $112.91
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1144
-- **Price changes detected**: 26
-- **Stock/availability changes**: 28
-- **Discontinued products**: 4
+- **New products added**: 1
+- **Existing products updated**: 1146
+- **Price changes detected**: 23
+- **Stock/availability changes**: 10
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 184 |
+| Member's Selection | 185 |
 |  | 136 |
 | Badia | 19 |
 | Swiss | 14 |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1020
-- **Price increases**: 448
-- **Price decreases**: 537
-- **Average increase**: 11.6%
-- **Average decrease**: -5.3%
+- **Total price changes**: 1008
+- **Price increases**: 445
+- **Price decreases**: 529
+- **Average increase**: 11.7%
+- **Average decrease**: -5.4%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| KIWA Organic Vegetable Chip Mix 453 g / 16 oz  | $0.00 | $66.95 | $+66.95 | +100.0% | New |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $226.18 | $224.83 | $-1.35 | -0.6% | Decrease |
-| Pork Belly with Skin Frozen Vacuum Packaged | $191.72 | $192.37 | $+0.65 | +0.3% | Increase |
-| Chilled Chicken Gizzard Tray Pack | $58.38 | $58.20 | $-0.18 | -0.3% | Decrease |
-| Ribeye Choice Fillet Fresh Tray | $285.73 | $290.45 | $+4.72 | +1.7% | Increase |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $153.85 | $153.95 | $+0.10 | +0.1% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $79.85 | $79.74 | $-0.11 | -0.1% | Decrease |
-| Prairie Farms Half and Half 946 mL / 32 oz | $0.00 | $37.95 | $+37.95 | +100.0% | New |
-| Ovaltine Nutritional Beverage 800 mL / 27 oz | $109.95 | $97.95 | $-12.00 | -10.9% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $86.05 | $86.16 | $+0.11 | +0.1% | Increase |
-| Fresh Ground Chicken Tray | $101.28 | $101.04 | $-0.24 | -0.2% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $93.02 | $92.93 | $-0.09 | -0.1% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $88.64 | $88.55 | $-0.09 | -0.1% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $108.04 | $108.19 | $+0.15 | +0.1% | Increase |
-| Frozen Boneless Skinless Chicken Breast Tray | $122.91 | $122.66 | $-0.25 | -0.2% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $224.83 | $224.02 | $-0.81 | -0.4% | Decrease |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $134.64 | $133.81 | $-0.83 | -0.6% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $58.20 | $59.05 | $+0.85 | +1.5% | Increase |
+| Ribeye Choice Fillet Fresh Tray | $290.45 | $285.73 | $-4.72 | -1.6% | Decrease |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $153.95 | $154.05 | $+0.10 | +0.1% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $186.47 | $187.03 | $+0.56 | +0.3% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $81.09 | $81.26 | $+0.17 | +0.2% | Increase |
+| Fresh Chicken Leg Quarters Tray | $91.11 | $91.21 | $+0.10 | +0.1% | Increase |
+| Nesquick Liquid Milk Drink with Cocoa Flavor 12 Units / 250 mL | $77.95 | $69.95 | $-8.00 | -10.3% | Decrease |
+| Fresh Ground Chicken Tray | $101.04 | $100.69 | $-0.35 | -0.3% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $92.93 | $93.02 | $+0.09 | +0.1% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $88.55 | $88.46 | $-0.09 | -0.1% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Case | $1374.05 | $1371.66 | $-2.39 | -0.2% | Decrease |
+| Milo Chocolate Flavored Drink 12 Units / 250 mL | $77.95 | $69.95 | $-8.00 | -10.3% | Decrease |
+| Fresh Whole Chicken 2 Units | $104.85 | $104.68 | $-0.17 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,8 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Fresh Apple Cosmic Crisp 1.36 kg / 3 lb |  | $67.95 | 2026-03-17 |
+| All Inklusive Protein Multicereal 1 kg / 2.2 lb | All Inklusive | $82.70 | 2026-03-17 |
 | Green Seedless Grape 1.36 kg / 3 lb |  | $48.95 | 2026-03-16 |
 | Nature Valley Sweet & Salty Nut Bar 24 Units / 1.2 oz / 35 g | Nature Valley | $112.95 | 2026-03-16 |
 | Lifeway Strawberry Kefir 2 Units / 946 mL / 32 oz | Lifeway | $89.95 | 2026-03-16 |
@@ -108,12 +110,9 @@
 | Anchor Gouda Cheese Block 500 g / 1.1 lb | Anchor | $59.95 | 2026-03-15 |
 | Dewlands Natural Lychee and Apple Juice 3 Units / 1 L | Dewlands | $59.95 | 2026-03-15 |
 | Naz Incredible Creations Red Onion Artisan Loaf Bread | Naz Incredible Creations | $36.95 | 2026-03-15 |
-| Eggo Chocolatey Chip Waffles 2 Pack / 349 g / 12.3 oz | Eggo | $97.95 | 2026-03-13 |
-| Member's Selection Frozen Bone-In Goat Stew Bag | Member's Selection | $87.54 | 2026-03-12 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| KIWA Organic Vegetable Chip Mix 453 g / 16 oz  | Kiwa | $66.95 | G10D03 |
-| Prairie Farms Half and Half 946 mL / 32 oz | Prairie Farms | $37.95 | G10D03 |
+| Member's Selection Freshly Prepared Chicken Salad | Member's Selection | $103.95 | G10D03 |
