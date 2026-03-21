@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1143
-- **Total value**: $129,737.19
-- **Average price**: $113.51
+- **Total products scraped**: 1142
+- **Total value**: $129,670.29
+- **Average price**: $113.55
 
 ## Database Changes
-- **New products added**: 1
+- **New products added**: 0
 - **Existing products updated**: 1142
-- **Price changes detected**: 32
+- **Price changes detected**: 21
 - **Stock/availability changes**: 4
-- **Discontinued products**: 6
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -32,7 +32,7 @@
 | Carrington Farms Coconut Oil Spray 2 Units / 141.7 g / 5 oz | Carrington Farms | $69.95 | true |
 | President Brie Cheese Spreadable 3 Units / 139 g / 4.9 oz | President | $74.95 | true |
 | Activia Assorted Probiotics Low Fat Yogurt Drink 24 Units / 93 mL / 3.1 oz | Activia | $157.95 | true |
-| Badia Parsley Flakes 85 g / 3 oz | Badia | $22.18 | true |
+| Badia Parsley Flakes 85 g / 3 oz | Badia | $22.95 | true |
 | Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | MorningStar Farms | $124.95 | true |
 | Wellsley Farms Crab Cakes 510 g / 1 lb | Wellsley Farms | $219.95 | true |
 | Belgioioso Artigiano Vino Rosso Cheese 453 g / 16 oz | Belgioioso | $99.95 | true |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1067
-- **Price increases**: 466
-- **Price decreases**: 565
-- **Average increase**: 11.7%
-- **Average decrease**: -5.4%
+- **Total price changes**: 1080
+- **Price increases**: 478
+- **Price decreases**: 566
+- **Average increase**: 11.4%
+- **Average decrease**: -5.2%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Refreshing Kiwi 453 g / 1 lb | $47.95 | $54.95 | $+7.00 | +14.6% | Increase |
-| Pork Belly with Skin Frozen Vacuum Packaged | $191.72 | $189.56 | $-2.16 | -1.1% | Decrease |
-| Rastelli's Ribeye Steak Frozen 2 Units / 225 g / 8 oz  | $0.00 | $599.95 | $+599.95 | +100.0% | New |
-| Frozen Bone-In Goat Carcass Case | $1384.90 | $1582.90 | $+198.00 | +14.3% | Increase |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $133.81 | $132.98 | $-0.83 | -0.6% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $224.83 | $224.02 | $-0.81 | -0.4% | Decrease |
-| Sundays Strawberry Cheesecake Ice Cream 3.78 L / 1 gal | $68.95 | $59.95 | $-9.00 | -13.1% | Decrease |
-| Ribeye Choice Fillet Fresh Tray | $290.45 | $285.73 | $-4.72 | -1.6% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $186.75 | $187.03 | $+0.28 | +0.1% | Increase |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.95 | $74.82 | $-0.13 | -0.2% | Decrease |
-| Mini Sweet Peppers 454 g / 1 lb | $42.95 | $39.95 | $-3.00 | -7.0% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $91.21 | $91.31 | $+0.10 | +0.1% | Increase |
-| Fresh Grape Tomatoes 907 g / 2 lb | $74.95 | $67.95 | $-7.00 | -9.3% | Decrease |
-| Ginger 680 g / 1.5 | $24.95 | $26.95 | $+2.00 | +8.0% | Increase |
-| Fresh Chicken Breast Bone In Tray | $93.41 | $93.31 | $-0.10 | -0.1% | Decrease |
+| Frozen Lamb Leg Whole Vacuum Packed | $381.18 | $398.17 | $+16.99 | +4.5% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $224.02 | $224.83 | $+0.81 | +0.4% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $119.96 | $119.79 | $-0.17 | -0.1% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $93.31 | $93.41 | $+0.10 | +0.1% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $88.55 | $88.64 | $+0.09 | +0.1% | Increase |
+| Fresh Chicken Mixed Parts Tray | $86.16 | $86.27 | $+0.11 | +0.1% | Increase |
+| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | $165.80 | $166.16 | $+0.36 | +0.2% | Increase |
+| Fresh Whole Chicken 2 Units | $104.68 | $104.50 | $-0.18 | -0.2% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $258.62 | $258.92 | $+0.30 | +0.1% | Increase |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $81.98 | $82.75 | $+0.77 | +0.9% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Case | $1371.66 | $1374.05 | $+2.39 | +0.2% | Increase |
+| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $141.22 | $141.58 | $+0.36 | +0.3% | Increase |
+| Pork Chop with Bone Frozen Tray | $83.65 | $83.52 | $-0.13 | -0.2% | Decrease |
+| Member's Selection Chilled Chicken Liver, Tray Pack | $42.20 | $42.31 | $+0.11 | +0.3% | Increase |
+| Fresh Chicken Thighs Boneless Bag | $319.16 | $319.04 | $-0.12 | -0.0% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Real Coco Organic Coconut Water 12 Units / 500 mL / 17 oz | Real Coco | $89.70 | 2026-03-20 |
 | Member's Selection Tropical Trail Mix 850 g / 30 oz | Member's Selection | $124.95 | 2026-03-19 |
 | Member's Selection Organic Fruit and Nut Trail Mix - Snack and Energy Boost 737 g / 26 oz | Member's Selection | $164.95 | 2026-03-19 |
 | Member's Selection Unsalted Roasted Mixed Nuts 907 g / 2 lb | Member's Selection | $164.95 | 2026-03-19 |
@@ -109,10 +110,6 @@
 | Twinings Assorted Flavor Christmas Edition Tea 40 Units / 2 g / 0.07 oz | Twinings | $69.95 | 2026-03-18 |
 | Holiday Snacks Assorted Hot Potato Chips 12 Units | Holiday Snacks | $29.70 | 2026-03-18 |
 | Kawan Plain Paratha 25 Units 2 kg / 4.4 lb | Kawan | $99.95 | 2026-03-18 |
-| Fresh Apple Cosmic Crisp 1.36 kg / 3 lb |  | $67.95 | 2026-03-17 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Rastelli's Ribeye Steak Frozen 2 Units / 225 g / 8 oz  | Rastelli's | $599.95 | G10D03 |
+No new products added today.
