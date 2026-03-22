@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1142
-- **Total value**: $129,670.29
-- **Average price**: $113.55
+- **Total products scraped**: 1143
+- **Total value**: $129,848.85
+- **Average price**: $113.60
 
 ## Database Changes
-- **New products added**: 0
+- **New products added**: 1
 - **Existing products updated**: 1142
-- **Price changes detected**: 21
-- **Stock/availability changes**: 4
-- **Discontinued products**: 1
+- **Price changes detected**: 11
+- **Stock/availability changes**: 11
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -203,7 +203,7 @@ This project has recently gained unexpected attention. It was created for person
 |  | 137 |
 | Badia | 19 |
 | Swiss | 14 |
-| Brunswick | 11 |
+| Nestle | 11 |
 
 ## Recent Products
 
@@ -216,38 +216,38 @@ This project has recently gained unexpected attention. It was created for person
 | President Brie Cheese Spreadable 3 Units / 139 g / 4.9 oz | President | $74.95 | true |
 | Activia Assorted Probiotics Low Fat Yogurt Drink 24 Units / 93 mL / 3.1 oz | Activia | $157.95 | true |
 | Badia Parsley Flakes 85 g / 3 oz | Badia | $22.95 | true |
-| Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | MorningStar Farms | $124.95 | true |
 | Wellsley Farms Crab Cakes 510 g / 1 lb | Wellsley Farms | $219.95 | true |
+| Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | MorningStar Farms | $124.95 | true |
 | Belgioioso Artigiano Vino Rosso Cheese 453 g / 16 oz | Belgioioso | $99.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1080
-- **Price increases**: 478
-- **Price decreases**: 566
-- **Average increase**: 11.4%
-- **Average decrease**: -5.2%
+- **Total price changes**: 1071
+- **Price increases**: 471
+- **Price decreases**: 563
+- **Average increase**: 11.5%
+- **Average decrease**: -5.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
+| Papaya | $32.54 | $32.51 | $-0.03 | -0.1% | Decrease |
+| Pork Belly with Skin Frozen Vacuum Packaged | $189.56 | $188.91 | $-0.65 | -0.3% | Decrease |
+| Fresh Chicken Thighs Boneless Tray | $64.95 | $81.84 | $+16.89 | +26.0% | Increase |
+| Fresh Ground Chicken Tray | $100.57 | $100.33 | $-0.24 | -0.2% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $93.41 | $93.50 | $+0.09 | +0.1% | Increase |
+| Frozen Boneless Skinless Chicken Breast Tray | $122.78 | $122.54 | $-0.24 | -0.2% | Decrease |
+| Fresh Chicken Thighs Boneless Bag | $319.04 | $318.92 | $-0.12 | -0.0% | Decrease |
+| Jimmy Dean Croissant Sausage, Egg & Cheese Sandwiches 1.53 kg / 3.38 lb | $0.00 | $163.95 | $+163.95 | +100.0% | New |
+| Member's Selection Frozen Oxtail Bag | $178.58 | $178.30 | $-0.28 | -0.2% | Decrease |
+| Member's Selection Frozen Boneless Pork Loin Steak Vacuum Packed | $78.78 | $78.67 | $-0.11 | -0.1% | Decrease |
+| Member's Selection Frozen Skinless Boneless Salmon Fillets Vacuum Packaged | $306.84 | $306.37 | $-0.47 | -0.2% | Decrease |
+| Member's Selection Chilled Ground Beef | $295.87 | $295.64 | $-0.23 | -0.1% | Decrease |
 | Frozen Lamb Leg Whole Vacuum Packed | $381.18 | $398.17 | $+16.99 | +4.5% | Increase |
 | Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $224.02 | $224.83 | $+0.81 | +0.4% | Increase |
 | Frozen Lamb Shoulder Chops Tray | $119.96 | $119.79 | $-0.17 | -0.1% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $93.31 | $93.41 | $+0.10 | +0.1% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $88.55 | $88.64 | $+0.09 | +0.1% | Increase |
-| Fresh Chicken Mixed Parts Tray | $86.16 | $86.27 | $+0.11 | +0.1% | Increase |
-| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | $165.80 | $166.16 | $+0.36 | +0.2% | Increase |
-| Fresh Whole Chicken 2 Units | $104.68 | $104.50 | $-0.18 | -0.2% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $258.62 | $258.92 | $+0.30 | +0.1% | Increase |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $81.98 | $82.75 | $+0.77 | +0.9% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Case | $1371.66 | $1374.05 | $+2.39 | +0.2% | Increase |
-| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $141.22 | $141.58 | $+0.36 | +0.3% | Increase |
-| Pork Chop with Bone Frozen Tray | $83.65 | $83.52 | $-0.13 | -0.2% | Decrease |
-| Member's Selection Chilled Chicken Liver, Tray Pack | $42.20 | $42.31 | $+0.11 | +0.3% | Increase |
-| Fresh Chicken Thighs Boneless Bag | $319.16 | $319.04 | $-0.12 | -0.0% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -295,4 +295,7 @@ This project has recently gained unexpected attention. It was created for person
 | Kawan Plain Paratha 25 Units 2 kg / 4.4 lb | Kawan | $99.95 | 2026-03-18 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Jimmy Dean Croissant Sausage, Egg & Cheese Sandwiches 1.53 kg / 3.38 lb | Jimmy Dean | $163.95 | G10D03 |
