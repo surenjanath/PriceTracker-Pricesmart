@@ -1,15 +1,15 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1143
-- **Total value**: $129,848.85
-- **Average price**: $113.60
+- **Total products scraped**: 1144
+- **Total value**: $129,736.80
+- **Average price**: $113.41
 
 ## Database Changes
 - **New products added**: 1
-- **Existing products updated**: 1142
-- **Price changes detected**: 11
-- **Stock/availability changes**: 11
+- **Existing products updated**: 1143
+- **Price changes detected**: 50
+- **Stock/availability changes**: 7
 - **Discontinued products**: 0
 
 ## Top 5 Brands
@@ -35,36 +35,36 @@
 | Badia Parsley Flakes 85 g / 3 oz | Badia | $22.95 | true |
 | Wellsley Farms Crab Cakes 510 g / 1 lb | Wellsley Farms | $219.95 | true |
 | Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | MorningStar Farms | $124.95 | true |
-| Belgioioso Artigiano Vino Rosso Cheese 453 g / 16 oz | Belgioioso | $99.95 | true |
+| Pan White Corn Meal Flour 2 Units / 1 kg | Pan | $34.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1071
-- **Price increases**: 471
-- **Price decreases**: 563
-- **Average increase**: 11.5%
-- **Average decrease**: -5.1%
+- **Total price changes**: 1056
+- **Price increases**: 452
+- **Price decreases**: 568
+- **Average increase**: 11.6%
+- **Average decrease**: -5.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Papaya | $32.54 | $32.51 | $-0.03 | -0.1% | Decrease |
-| Pork Belly with Skin Frozen Vacuum Packaged | $189.56 | $188.91 | $-0.65 | -0.3% | Decrease |
-| Fresh Chicken Thighs Boneless Tray | $64.95 | $81.84 | $+16.89 | +26.0% | Increase |
-| Fresh Ground Chicken Tray | $100.57 | $100.33 | $-0.24 | -0.2% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $93.41 | $93.50 | $+0.09 | +0.1% | Increase |
-| Frozen Boneless Skinless Chicken Breast Tray | $122.78 | $122.54 | $-0.24 | -0.2% | Decrease |
-| Fresh Chicken Thighs Boneless Bag | $319.04 | $318.92 | $-0.12 | -0.0% | Decrease |
-| Jimmy Dean Croissant Sausage, Egg & Cheese Sandwiches 1.53 kg / 3.38 lb | $0.00 | $163.95 | $+163.95 | +100.0% | New |
-| Member's Selection Frozen Oxtail Bag | $178.58 | $178.30 | $-0.28 | -0.2% | Decrease |
-| Member's Selection Frozen Boneless Pork Loin Steak Vacuum Packed | $78.78 | $78.67 | $-0.11 | -0.1% | Decrease |
-| Member's Selection Frozen Skinless Boneless Salmon Fillets Vacuum Packaged | $306.84 | $306.37 | $-0.47 | -0.2% | Decrease |
-| Member's Selection Chilled Ground Beef | $295.87 | $295.64 | $-0.23 | -0.1% | Decrease |
-| Frozen Lamb Leg Whole Vacuum Packed | $381.18 | $398.17 | $+16.99 | +4.5% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $224.02 | $224.83 | $+0.81 | +0.4% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $119.96 | $119.79 | $-0.17 | -0.1% | Decrease |
+| Frozen Lamb Leg Whole Vacuum Packed | $398.17 | $404.50 | $+6.33 | +1.6% | Increase |
+| Sincerely Brigitte Cheese Sticks 24 Units / 510 g / 18 oz | $0.00 | $99.95 | $+99.95 | +100.0% | New |
+| Tostitos Scoops 411 g | $51.95 | $43.95 | $-8.00 | -15.4% | Decrease |
+| Frozen Beef Feet Sliced Case | $756.87 | $743.58 | $-13.29 | -1.8% | Decrease |
+| Rastelli's Ribeye Steak Frozen 2 Units / 225 g / 8 oz  | $599.95 | $557.95 | $-42.00 | -7.0% | Decrease |
+| Orchard Orange Drink 24 Units / 250 mL | $89.95 | $70.95 | $-19.00 | -21.1% | Decrease |
+| Papaya | $32.51 | $32.22 | $-0.29 | -0.9% | Decrease |
+| Pork Belly with Skin Frozen Vacuum Packaged | $188.91 | $187.83 | $-1.08 | -0.6% | Decrease |
+| Orchard Assorted Juices 24 Units / 250 mL | $102.95 | $81.95 | $-21.00 | -20.4% | Decrease |
+| Fresh Chicken Thighs Boneless Tray | $81.84 | $81.97 | $+0.13 | +0.2% | Increase |
+| Red Rose Keta Salmon 3 Units / 418 g / 15 oz | $117.95 | $99.95 | $-18.00 | -15.3% | Decrease |
+| Orchard Party Mix Orange Juice 3 Units / 946 mL / 32 oz | $105.95 | $89.95 | $-16.00 | -15.1% | Decrease |
+| Soldanza Mix Holiday Snacks 12 Units | $52.95 | $44.95 | $-8.00 | -15.1% | Decrease |
+| Ribeye Choice Fillet Fresh Tray | $285.73 | $285.06 | $-0.67 | -0.2% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $88.64 | $88.78 | $+0.14 | +0.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -115,4 +115,4 @@
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Jimmy Dean Croissant Sausage, Egg & Cheese Sandwiches 1.53 kg / 3.38 lb | Jimmy Dean | $163.95 | G10D03 |
+| Sincerely Brigitte Cheese Sticks 24 Units / 510 g / 18 oz | Sincerely  Brigitte | $99.95 | G10D03 |
