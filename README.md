@@ -184,22 +184,22 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1144
-- **Total value**: $129,736.80
-- **Average price**: $113.41
+- **Total products scraped**: 1145
+- **Total value**: $130,052.66
+- **Average price**: $113.58
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1143
-- **Price changes detected**: 50
-- **Stock/availability changes**: 7
-- **Discontinued products**: 0
+- **New products added**: 3
+- **Existing products updated**: 1142
+- **Price changes detected**: 23
+- **Stock/availability changes**: 11
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 180 |
+| Member's Selection | 181 |
 |  | 137 |
 | Badia | 19 |
 | Swiss | 14 |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1056
-- **Price increases**: 452
-- **Price decreases**: 568
-- **Average increase**: 11.6%
-- **Average decrease**: -5.5%
+- **Total price changes**: 1063
+- **Price increases**: 453
+- **Price decreases**: 573
+- **Average increase**: 11.7%
+- **Average decrease**: -5.7%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Frozen Lamb Leg Whole Vacuum Packed | $398.17 | $404.50 | $+6.33 | +1.6% | Increase |
-| Sincerely Brigitte Cheese Sticks 24 Units / 510 g / 18 oz | $0.00 | $99.95 | $+99.95 | +100.0% | New |
-| Tostitos Scoops 411 g | $51.95 | $43.95 | $-8.00 | -15.4% | Decrease |
-| Frozen Beef Feet Sliced Case | $756.87 | $743.58 | $-13.29 | -1.8% | Decrease |
-| Rastelli's Ribeye Steak Frozen 2 Units / 225 g / 8 oz  | $599.95 | $557.95 | $-42.00 | -7.0% | Decrease |
-| Orchard Orange Drink 24 Units / 250 mL | $89.95 | $70.95 | $-19.00 | -21.1% | Decrease |
-| Papaya | $32.51 | $32.22 | $-0.29 | -0.9% | Decrease |
-| Pork Belly with Skin Frozen Vacuum Packaged | $188.91 | $187.83 | $-1.08 | -0.6% | Decrease |
-| Orchard Assorted Juices 24 Units / 250 mL | $102.95 | $81.95 | $-21.00 | -20.4% | Decrease |
-| Fresh Chicken Thighs Boneless Tray | $81.84 | $81.97 | $+0.13 | +0.2% | Increase |
-| Red Rose Keta Salmon 3 Units / 418 g / 15 oz | $117.95 | $99.95 | $-18.00 | -15.3% | Decrease |
-| Orchard Party Mix Orange Juice 3 Units / 946 mL / 32 oz | $105.95 | $89.95 | $-16.00 | -15.1% | Decrease |
-| Soldanza Mix Holiday Snacks 12 Units | $52.95 | $44.95 | $-8.00 | -15.1% | Decrease |
-| Ribeye Choice Fillet Fresh Tray | $285.73 | $285.06 | $-0.67 | -0.2% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $88.64 | $88.78 | $+0.14 | +0.2% | Increase |
+| Sunny Fruits Dried Organics Figs 10 Units / 50 g / 1.76 oz | $0.00 | $79.95 | $+79.95 | +100.0% | New |
+| Golden Raisins 1 kg / 2.2 lb | $44.95 | $24.70 | $-20.25 | -45.1% | Decrease |
+| Prunes 1 kg / 2.2 lb | $54.95 | $24.70 | $-30.25 | -55.1% | Decrease |
+| Carapelli Oro Verde Italian Extra Virgin Olive Oil 1 L / 33.8 oz | $0.00 | $109.95 | $+109.95 | +100.0% | New |
+| Black Raisins 1 kg / 2.2 lb | $49.95 | $24.70 | $-25.25 | -50.6% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $81.35 | $81.43 | $+0.08 | +0.1% | Increase |
+| Member's Selection Refined Avocado Oil 1 L / 33.8 oz | $0.00 | $169.95 | $+169.95 | +100.0% | New |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $153.82 | $164.22 | $+10.40 | +6.8% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $108.04 | $116.19 | $+8.15 | +7.5% | Increase |
+| Fresh Ground Chicken Tray | $100.33 | $100.10 | $-0.23 | -0.2% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $93.50 | $93.41 | $-0.09 | -0.1% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $88.78 | $88.82 | $+0.04 | +0.0% | Increase |
+| Fresh Whole Chicken for Frying Bag | $258.77 | $258.62 | $-0.15 | -0.1% | Decrease |
+| Fine Choice Fresh Marinated Chicken Tray | $88.10 | $87.88 | $-0.22 | -0.2% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Case | $1374.05 | $1488.65 | $+114.60 | +8.3% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,8 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Califia Farms Matcha Latte Almond Milk 1.4 L / 48 oz | Califia Farms | $69.95 | 2026-03-23 |
+| Maeva Air Fryer Oil Spray 2 Units / 400 mL / 12.98 oz | Maeva | $54.70 | 2026-03-23 |
 | Real Coco Organic Coconut Water 12 Units / 500 mL / 17 oz | Real Coco | $89.70 | 2026-03-20 |
 | Member's Selection Tropical Trail Mix 850 g / 30 oz | Member's Selection | $124.95 | 2026-03-19 |
 | Member's Selection Organic Fruit and Nut Trail Mix - Snack and Energy Boost 737 g / 26 oz | Member's Selection | $164.95 | 2026-03-19 |
@@ -291,11 +293,11 @@ This project has recently gained unexpected attention. It was created for person
 | Member's Selection Roasted Unsalted Cashews 907 g / 32 oz | Member's Selection | $177.95 | 2026-03-19 |
 | Member's Selection Roasted and Sea Salted Cashews 907 g / 2 lb | Member's Selection | $177.95 | 2026-03-19 |
 | Twinings Assorted Flavor Christmas Edition Tea 40 Units / 2 g / 0.07 oz | Twinings | $69.95 | 2026-03-18 |
-| Holiday Snacks Assorted Hot Potato Chips 12 Units | Holiday Snacks | $29.70 | 2026-03-18 |
-| Kawan Plain Paratha 25 Units 2 kg / 4.4 lb | Kawan | $99.95 | 2026-03-18 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Sincerely Brigitte Cheese Sticks 24 Units / 510 g / 18 oz | Sincerely  Brigitte | $99.95 | G10D03 |
+| Sunny Fruits Dried Organics Figs 10 Units / 50 g / 1.76 oz | Sunny Fruits | $79.95 | G10D03 |
+| Carapelli Oro Verde Italian Extra Virgin Olive Oil 1 L / 33.8 oz | Carapelli | $109.95 | G10D03 |
+| Member's Selection Refined Avocado Oil 1 L / 33.8 oz | Member's Selection | $169.95 | G10D03 |
