@@ -1,15 +1,15 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1145
-- **Total value**: $130,052.66
-- **Average price**: $113.58
+- **Total products scraped**: 1144
+- **Total value**: $129,737.41
+- **Average price**: $113.41
 
 ## Database Changes
-- **New products added**: 3
-- **Existing products updated**: 1142
-- **Price changes detected**: 23
-- **Stock/availability changes**: 11
+- **New products added**: 1
+- **Existing products updated**: 1143
+- **Price changes detected**: 25
+- **Stock/availability changes**: 10
 - **Discontinued products**: 2
 
 ## Top 5 Brands
@@ -26,45 +26,45 @@
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Happy Village Organic Fig and Nut Mini Bars 24 Units / 20 g / 0.7 oz | Happy Village | $146.95 | true |
-| Maeva Extra Virgin Olive Oil Spray 2 Units / 400 mL / 13.5 oz | Maeva | $94.95 | true |
-| Bussetto Prosciutto Classico 189 g / 7 oz | Bussetto | $164.95 | true |
+| Mrs Thinster Toasted Coconut Cookies 454 g | Mrs. Thinster's | $89.95 | true |
+| Jimmy Dean Croissant Sausage, Egg & Cheese Sandwiches 1.53 kg / 3.38 lb | Jimmy Dean | $163.95 | true |
 | Carrington Farms Coconut Oil Spray 2 Units / 141.7 g / 5 oz | Carrington Farms | $69.95 | true |
-| President Brie Cheese Spreadable 3 Units / 139 g / 4.9 oz | President | $74.95 | true |
-| Activia Assorted Probiotics Low Fat Yogurt Drink 24 Units / 93 mL / 3.1 oz | Activia | $157.95 | true |
-| Badia Parsley Flakes 85 g / 3 oz | Badia | $22.95 | true |
-| Wellsley Farms Crab Cakes 510 g / 1 lb | Wellsley Farms | $219.95 | true |
+| Cheez-It Original, Grahams, and White Cheddar Cheez-It Gripz Variety Pack 12 Units / 25 g / 0.9 oz | CheezIt | $66.95 | true |
+| Philadelphia Salmon Cream Cheese 2 Units / 212 g / 7.5 oz | Philadelphia | $82.95 | true |
 | Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | MorningStar Farms | $124.95 | true |
-| Pan White Corn Meal Flour 2 Units / 1 kg | Pan | $34.95 | true |
+| Member's Selection Refined Avocado Oil 1 L / 33.8 oz | Member's Selection | $169.95 | true |
+| Prairie Farms Half and Half 946 mL / 32 oz | Prairie Farms | $37.95 | true |
+| Bombolo Biscotti Baked Cookies Decorated for Easter with Assorted Designs | Bombolo Biscotti | $76.95 | true |
+| Aqua Star Breaded Shrimp 1.36 kg / 3 lb | Aqua Star | $192.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1063
-- **Price increases**: 453
-- **Price decreases**: 573
-- **Average increase**: 11.7%
-- **Average decrease**: -5.7%
+- **Total price changes**: 1046
+- **Price increases**: 454
+- **Price decreases**: 557
+- **Average increase**: 11.2%
+- **Average decrease**: -5.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Sunny Fruits Dried Organics Figs 10 Units / 50 g / 1.76 oz | $0.00 | $79.95 | $+79.95 | +100.0% | New |
-| Golden Raisins 1 kg / 2.2 lb | $44.95 | $24.70 | $-20.25 | -45.1% | Decrease |
-| Prunes 1 kg / 2.2 lb | $54.95 | $24.70 | $-30.25 | -55.1% | Decrease |
-| Carapelli Oro Verde Italian Extra Virgin Olive Oil 1 L / 33.8 oz | $0.00 | $109.95 | $+109.95 | +100.0% | New |
-| Black Raisins 1 kg / 2.2 lb | $49.95 | $24.70 | $-25.25 | -50.6% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $81.35 | $81.43 | $+0.08 | +0.1% | Increase |
-| Member's Selection Refined Avocado Oil 1 L / 33.8 oz | $0.00 | $169.95 | $+169.95 | +100.0% | New |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $153.82 | $164.22 | $+10.40 | +6.8% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $108.04 | $116.19 | $+8.15 | +7.5% | Increase |
-| Fresh Ground Chicken Tray | $100.33 | $100.10 | $-0.23 | -0.2% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $93.50 | $93.41 | $-0.09 | -0.1% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $88.78 | $88.82 | $+0.04 | +0.0% | Increase |
-| Fresh Whole Chicken for Frying Bag | $258.77 | $258.62 | $-0.15 | -0.1% | Decrease |
-| Fine Choice Fresh Marinated Chicken Tray | $88.10 | $87.88 | $-0.22 | -0.2% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Case | $1374.05 | $1488.65 | $+114.60 | +8.3% | Increase |
+| Coke Soft Drink Zero Sugar Free and Calorie Free 12 Units / 591 mL / 20 oz | $52.95 | $56.95 | $+4.00 | +7.6% | Increase |
+| Tetley Super Tea Boost Raspberry & Blueberry Tea 3 Units / 40 g  | $0.00 | $84.95 | $+84.95 | +100.0% | New |
+| Frozen Lamb Leg Whole Vacuum Packed | $404.50 | $406.23 | $+1.73 | +0.4% | Increase |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $132.98 | $133.81 | $+0.83 | +0.6% | Increase |
+| Sea Best Raw Lobster Cake 762 g / 1.68 lb | $124.95 | $64.70 | $-60.25 | -48.2% | Decrease |
+| Pork Belly with Skin Frozen Vacuum Packaged | $187.83 | $187.62 | $-0.21 | -0.1% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $81.43 | $81.86 | $+0.43 | +0.5% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $119.79 | $119.61 | $-0.18 | -0.2% | Decrease |
+| Kerrygold Full Cream Milk Powder 1.8 kg / 3.97 lb | $94.95 | $96.95 | $+2.00 | +2.1% | Increase |
+| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $69.36 | $69.58 | $+0.22 | +0.3% | Increase |
+| Fresh Ground Chicken Tray | $100.10 | $100.22 | $+0.12 | +0.1% | Increase |
+| Fresh Chicken Leg Quarters Tray | $91.31 | $91.41 | $+0.10 | +0.1% | Increase |
+| Nutrina Chilled Whole Chicken Bag | $313.43 | $317.02 | $+3.59 | +1.1% | Increase |
+| Fresh Whole Chicken 2 Units | $104.50 | $104.68 | $+0.18 | +0.2% | Increase |
+| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $141.58 | $141.76 | $+0.18 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,8 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Rockit Apple 1.36 kg / 3 lb | Rockit | $77.95 | 2026-03-24 |
+| Live Savers Assorted Gummies 15 Units / 119 g / 4.2 oz | Lifesavers | $49.70 | 2026-03-24 |
 | Califia Farms Matcha Latte Almond Milk 1.4 L / 48 oz | Califia Farms | $69.95 | 2026-03-23 |
 | Maeva Air Fryer Oil Spray 2 Units / 400 mL / 12.98 oz | Maeva | $54.70 | 2026-03-23 |
 | Real Coco Organic Coconut Water 12 Units / 500 mL / 17 oz | Real Coco | $89.70 | 2026-03-20 |
@@ -108,13 +110,9 @@
 | Member's Selection Unsalted Roasted Mixed Nuts 907 g / 2 lb | Member's Selection | $164.95 | 2026-03-19 |
 | Member's Selection Toasted and Salted Deluxe Mixed Nuts 907 g / 2 lb | Member's Selection | $169.95 | 2026-03-19 |
 | Member's Selection Roasted Unsalted Cashews 907 g / 32 oz | Member's Selection | $177.95 | 2026-03-19 |
-| Member's Selection Roasted and Sea Salted Cashews 907 g / 2 lb | Member's Selection | $177.95 | 2026-03-19 |
-| Twinings Assorted Flavor Christmas Edition Tea 40 Units / 2 g / 0.07 oz | Twinings | $69.95 | 2026-03-18 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Sunny Fruits Dried Organics Figs 10 Units / 50 g / 1.76 oz | Sunny Fruits | $79.95 | G10D03 |
-| Carapelli Oro Verde Italian Extra Virgin Olive Oil 1 L / 33.8 oz | Carapelli | $109.95 | G10D03 |
-| Member's Selection Refined Avocado Oil 1 L / 33.8 oz | Member's Selection | $169.95 | G10D03 |
+| Tetley Super Tea Boost Raspberry & Blueberry Tea 3 Units / 40 g  | Tetley | $84.95 | G10D03 |
