@@ -1,22 +1,22 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1144
-- **Total value**: $129,737.41
-- **Average price**: $113.41
+- **Total products scraped**: 1139
+- **Total value**: $128,179.23
+- **Average price**: $112.54
 
 ## Database Changes
 - **New products added**: 1
-- **Existing products updated**: 1143
-- **Price changes detected**: 25
-- **Stock/availability changes**: 10
-- **Discontinued products**: 2
+- **Existing products updated**: 1138
+- **Price changes detected**: 49
+- **Stock/availability changes**: 15
+- **Discontinued products**: 7
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 181 |
+| Member's Selection | 179 |
 |  | 137 |
 | Badia | 19 |
 | Swiss | 14 |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1046
-- **Price increases**: 454
-- **Price decreases**: 557
-- **Average increase**: 11.2%
-- **Average decrease**: -5.5%
+- **Total price changes**: 1072
+- **Price increases**: 467
+- **Price decreases**: 569
+- **Average increase**: 10.7%
+- **Average decrease**: -5.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Coke Soft Drink Zero Sugar Free and Calorie Free 12 Units / 591 mL / 20 oz | $52.95 | $56.95 | $+4.00 | +7.6% | Increase |
-| Tetley Super Tea Boost Raspberry & Blueberry Tea 3 Units / 40 g  | $0.00 | $84.95 | $+84.95 | +100.0% | New |
-| Frozen Lamb Leg Whole Vacuum Packed | $404.50 | $406.23 | $+1.73 | +0.4% | Increase |
-| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | $132.98 | $133.81 | $+0.83 | +0.6% | Increase |
-| Sea Best Raw Lobster Cake 762 g / 1.68 lb | $124.95 | $64.70 | $-60.25 | -48.2% | Decrease |
-| Pork Belly with Skin Frozen Vacuum Packaged | $187.83 | $187.62 | $-0.21 | -0.1% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $81.43 | $81.86 | $+0.43 | +0.5% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $119.79 | $119.61 | $-0.18 | -0.2% | Decrease |
-| Kerrygold Full Cream Milk Powder 1.8 kg / 3.97 lb | $94.95 | $96.95 | $+2.00 | +2.1% | Increase |
-| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $69.36 | $69.58 | $+0.22 | +0.3% | Increase |
-| Fresh Ground Chicken Tray | $100.10 | $100.22 | $+0.12 | +0.1% | Increase |
-| Fresh Chicken Leg Quarters Tray | $91.31 | $91.41 | $+0.10 | +0.1% | Increase |
-| Nutrina Chilled Whole Chicken Bag | $313.43 | $317.02 | $+3.59 | +1.1% | Increase |
-| Fresh Whole Chicken 2 Units | $104.50 | $104.68 | $+0.18 | +0.2% | Increase |
-| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $141.58 | $141.76 | $+0.18 | +0.1% | Increase |
+| Air Heads Sweet Candies with Assorted Fruit Flavors 90 Units / 15.6 g / 0.55 oz | $112.95 | $114.95 | $+2.00 | +1.8% | Increase |
+| Verdant Valley Dim Sum Combo 40 Units | $174.95 | $169.95 | $-5.00 | -2.9% | Decrease |
+| Califia Farms Lime and Coconut Lemonade 1.4 L / 48 oz | $0.00 | $54.95 | $+54.95 | +100.0% | New |
+| Papaya | $32.22 | $32.06 | $-0.16 | -0.5% | Decrease |
+| Amare Probiotics Sauerkraut / Chucrut 500 g / 17.6 oz | $49.95 | $46.95 | $-3.00 | -6.0% | Decrease |
+| Fresh Start Orange Drink 1.8 L / 60.8 oz | $36.95 | $35.95 | $-1.00 | -2.7% | Decrease |
+| Pork Belly with Skin Frozen Vacuum Packaged | $187.62 | $186.97 | $-0.65 | -0.3% | Decrease |
+| Swiss Elbows 6 Units / 300 g / 10.6 oz | $29.95 | $28.95 | $-1.00 | -3.3% | Decrease |
+| Swiss Twists 6 Units / 300 g | $29.95 | $28.95 | $-1.00 | -3.3% | Decrease |
+| Frozen Lamb Shoulder Chops Tray | $119.61 | $119.44 | $-0.17 | -0.1% | Decrease |
+| Fresh Beef Ribeye Steak Vacuum Packed | $2290.87 | $2435.88 | $+145.01 | +6.3% | Increase |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.82 | $74.95 | $+0.13 | +0.2% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $164.22 | $163.74 | $-0.48 | -0.3% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $93.41 | $93.31 | $-0.10 | -0.1% | Decrease |
+| Coke Zero 12 Units / 355 mL | $46.95 | $49.95 | $+3.00 | +6.4% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,19 +100,19 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Red Rose Pink Salmon 3 Units / 418 g | Red Rose | $125.95 | 2026-03-25 |
+| Pirouline Dark Chocolate Cream Filled Wafer Rolls 12 Units / 92 g / 3.25 oz | Pirouline | $134.95 | 2026-03-25 |
+| Old Mac Pre-cooked Rice 4 Units / 2 kg | Old Mac | $65.70 | 2026-03-25 |
+|  Gouda Cheese 20 kg / 44 lb |  | $1114.97 | 2026-03-25 |
+| Brunswick Canned Pink Salmon 2 Units / 418 g / 15 oz | Brunswick | $74.95 | 2026-03-25 |
+| Member's Selection Cranberry Cashew Trail Mix 850 g / 30 oz | Member's Selection | $132.95 | 2026-03-25 |
+| Member's Selection Pecan Pralines  850 g / 30 oz | Member's Selection | $129.95 | 2026-03-25 |
 | Rockit Apple 1.36 kg / 3 lb | Rockit | $77.95 | 2026-03-24 |
 | Live Savers Assorted Gummies 15 Units / 119 g / 4.2 oz | Lifesavers | $49.70 | 2026-03-24 |
 | Califia Farms Matcha Latte Almond Milk 1.4 L / 48 oz | Califia Farms | $69.95 | 2026-03-23 |
-| Maeva Air Fryer Oil Spray 2 Units / 400 mL / 12.98 oz | Maeva | $54.70 | 2026-03-23 |
-| Real Coco Organic Coconut Water 12 Units / 500 mL / 17 oz | Real Coco | $89.70 | 2026-03-20 |
-| Member's Selection Tropical Trail Mix 850 g / 30 oz | Member's Selection | $124.95 | 2026-03-19 |
-| Member's Selection Organic Fruit and Nut Trail Mix - Snack and Energy Boost 737 g / 26 oz | Member's Selection | $164.95 | 2026-03-19 |
-| Member's Selection Unsalted Roasted Mixed Nuts 907 g / 2 lb | Member's Selection | $164.95 | 2026-03-19 |
-| Member's Selection Toasted and Salted Deluxe Mixed Nuts 907 g / 2 lb | Member's Selection | $169.95 | 2026-03-19 |
-| Member's Selection Roasted Unsalted Cashews 907 g / 32 oz | Member's Selection | $177.95 | 2026-03-19 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Tetley Super Tea Boost Raspberry & Blueberry Tea 3 Units / 40 g  | Tetley | $84.95 | G10D03 |
+| Califia Farms Lime and Coconut Lemonade 1.4 L / 48 oz | Califia Farms | $54.95 | G10D03 |
