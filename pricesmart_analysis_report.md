@@ -1,22 +1,22 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1141
-- **Total value**: $128,696.53
-- **Average price**: $112.79
+- **Total products scraped**: 1144
+- **Total value**: $128,751.29
+- **Average price**: $112.54
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1140
-- **Price changes detected**: 28
-- **Stock/availability changes**: 8
+- **New products added**: 0
+- **Existing products updated**: 1144
+- **Price changes detected**: 33
+- **Stock/availability changes**: 10
 - **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 180 |
+| Member's Selection | 182 |
 |  | 137 |
 | Badia | 19 |
 | Swiss | 14 |
@@ -27,44 +27,44 @@
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Mrs Thinster Toasted Coconut Cookies 454 g | Mrs. Thinster's | $89.95 | true |
-| Jimmy Dean Croissant Sausage, Egg & Cheese Sandwiches 1.53 kg / 3.38 lb | Jimmy Dean | $163.95 | true |
-| Cheez-It Original, Grahams, and White Cheddar Cheez-It Gripz Variety Pack 12 Units / 25 g / 0.9 oz | CheezIt | $66.95 | true |
 | Carrington Farms Coconut Oil Spray 2 Units / 141.7 g / 5 oz | Carrington Farms | $69.95 | true |
+| Cheez-It Original, Grahams, and White Cheddar Cheez-It Gripz Variety Pack 12 Units / 25 g / 0.9 oz | CheezIt | $66.95 | true |
+| Jimmy Dean Croissant Sausage, Egg & Cheese Sandwiches 1.53 kg / 3.38 lb | Jimmy Dean | $163.95 | true |
 | Philadelphia Salmon Cream Cheese 2 Units / 212 g / 7.5 oz | Philadelphia | $82.95 | true |
+| Bombolo Biscotti Baked Cookies Decorated for Easter with Assorted Designs | Bombolo Biscotti | $76.95 | true |
+| Sincerely Brigitte Cheese Sticks 24 Units / 510 g / 18 oz | Sincerely  Brigitte | $99.95 | true |
 | Member's Selection Refined Avocado Oil 1 L / 33.8 oz | Member's Selection | $169.95 | true |
 | Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | MorningStar Farms | $124.95 | true |
-| Bombolo Biscotti Baked Cookies Decorated for Easter with Assorted Designs | Bombolo Biscotti | $76.95 | true |
 | Prairie Farms Half and Half 946 mL / 32 oz | Prairie Farms | $37.95 | true |
-| Aqua Star Breaded Shrimp 1.36 kg / 3 lb | Aqua Star | $192.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1070
-- **Price increases**: 470
-- **Price decreases**: 565
-- **Average increase**: 9.8%
-- **Average decrease**: -5.1%
+- **Total price changes**: 1103
+- **Price increases**: 485
+- **Price decreases**: 583
+- **Average increase**: 9.6%
+- **Average decrease**: -5.3%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Red Globe Grape 907 g / 2 lb | $59.95 | $109.95 | $+50.00 | +83.4% | Increase |
-| Fresh Strawberry 454 g / 1 lb | $42.95 | $54.95 | $+12.00 | +27.9% | Increase |
-| Barista Classic Blend Cappuccino Powder 2 Units / 320 g | $0.00 | $72.95 | $+72.95 | +100.0% | New |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $154.05 | $154.15 | $+0.10 | +0.1% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $187.03 | $187.58 | $+0.55 | +0.3% | Increase |
-| Pork Belly with Skin Frozen Vacuum Packaged | $186.97 | $186.32 | $-0.65 | -0.3% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $81.86 | $82.03 | $+0.17 | +0.2% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $79.74 | $79.63 | $-0.11 | -0.1% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $88.82 | $88.78 | $-0.04 | -0.0% | Decrease |
-| Iceberg Lettuce Unit | $29.95 | $27.95 | $-2.00 | -6.7% | Decrease |
-| Fresh Chicken Thighs Boneless Tray | $81.97 | $82.10 | $+0.13 | +0.2% | Increase |
-| Fresh Ground Chicken Tray | $100.22 | $100.33 | $+0.11 | +0.1% | Increase |
-| Fresh Whole Chicken for Frying Bag | $258.62 | $258.77 | $+0.15 | +0.1% | Increase |
-| Plum 907 g / 2 lb | $84.95 | $74.95 | $-10.00 | -11.8% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $86.27 | $86.49 | $+0.22 | +0.3% | Increase |
+| Frozen Lamb Shoulder Case | $1331.82 | $1426.95 | $+95.13 | +7.1% | Increase |
+| Whole Striploin Fresh Vacuum Packed | $1217.70 | $1372.96 | $+155.26 | +12.8% | Increase |
+| Frozen Beef Tails Case | $2124.15 | $1731.81 | $-392.34 | -18.5% | Decrease |
+| Papaya | $32.06 | $31.90 | $-0.16 | -0.5% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $82.03 | $81.86 | $-0.17 | -0.2% | Decrease |
+| Fresh Beef Ribeye Steak Vacuum Packed | $2435.88 | $2290.87 | $-145.01 | -6.0% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $79.63 | $79.74 | $+0.11 | +0.1% | Increase |
+| Frozen Bone In Baby Back Ribs Vacuum Packaged Case | $1599.00 | $1352.75 | $-246.25 | -15.4% | Decrease |
+| Fresh Chicken Thighs Boneless Tray | $82.10 | $64.95 | $-17.15 | -20.9% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $91.51 | $91.41 | $-0.10 | -0.1% | Decrease |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $233.52 | $234.19 | $+0.67 | +0.3% | Increase |
+| Fresh Chicken Wings Tray | $80.93 | $96.79 | $+15.86 | +19.6% | Increase |
+| Fresh Whole Chicken for Frying Bag | $258.77 | $258.62 | $-0.15 | -0.1% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $86.49 | $86.60 | $+0.11 | +0.1% | Increase |
+| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $69.58 | $69.36 | $-0.22 | -0.3% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -112,7 +112,4 @@
 | Califia Farms Matcha Latte Almond Milk 1.4 L / 48 oz | Califia Farms | $69.95 | 2026-03-23 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Barista Classic Blend Cappuccino Powder 2 Units / 320 g | Café Barista | $72.95 | G10D03 |
+No new products added today.
