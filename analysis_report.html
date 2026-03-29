@@ -1,14 +1,14 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1144
-- **Total value**: $128,751.29
-- **Average price**: $112.54
+- **Total products scraped**: 1149
+- **Total value**: $129,026.25
+- **Average price**: $112.29
 
 ## Database Changes
-- **New products added**: 0
+- **New products added**: 5
 - **Existing products updated**: 1144
-- **Price changes detected**: 33
+- **Price changes detected**: 25
 - **Stock/availability changes**: 10
 - **Discontinued products**: 0
 
@@ -17,7 +17,7 @@
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 182 |
-|  | 137 |
+|  | 140 |
 | Badia | 19 |
 | Swiss | 14 |
 | Nestle | 11 |
@@ -33,38 +33,38 @@
 | Philadelphia Salmon Cream Cheese 2 Units / 212 g / 7.5 oz | Philadelphia | $82.95 | true |
 | Bombolo Biscotti Baked Cookies Decorated for Easter with Assorted Designs | Bombolo Biscotti | $76.95 | true |
 | Sincerely Brigitte Cheese Sticks 24 Units / 510 g / 18 oz | Sincerely  Brigitte | $99.95 | true |
-| Member's Selection Refined Avocado Oil 1 L / 33.8 oz | Member's Selection | $169.95 | true |
 | Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | MorningStar Farms | $124.95 | true |
+| Member's Selection Refined Avocado Oil 1 L / 33.8 oz | Member's Selection | $169.95 | true |
 | Prairie Farms Half and Half 946 mL / 32 oz | Prairie Farms | $37.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1103
-- **Price increases**: 485
-- **Price decreases**: 583
+- **Total price changes**: 1059
+- **Price increases**: 455
+- **Price decreases**: 565
 - **Average increase**: 9.6%
-- **Average decrease**: -5.3%
+- **Average decrease**: -5.2%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Frozen Lamb Shoulder Case | $1331.82 | $1426.95 | $+95.13 | +7.1% | Increase |
-| Whole Striploin Fresh Vacuum Packed | $1217.70 | $1372.96 | $+155.26 | +12.8% | Increase |
-| Frozen Beef Tails Case | $2124.15 | $1731.81 | $-392.34 | -18.5% | Decrease |
-| Papaya | $32.06 | $31.90 | $-0.16 | -0.5% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $82.03 | $81.86 | $-0.17 | -0.2% | Decrease |
-| Fresh Beef Ribeye Steak Vacuum Packed | $2435.88 | $2290.87 | $-145.01 | -6.0% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $79.63 | $79.74 | $+0.11 | +0.1% | Increase |
-| Frozen Bone In Baby Back Ribs Vacuum Packaged Case | $1599.00 | $1352.75 | $-246.25 | -15.4% | Decrease |
-| Fresh Chicken Thighs Boneless Tray | $82.10 | $64.95 | $-17.15 | -20.9% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $91.51 | $91.41 | $-0.10 | -0.1% | Decrease |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $233.52 | $234.19 | $+0.67 | +0.3% | Increase |
-| Fresh Chicken Wings Tray | $80.93 | $96.79 | $+15.86 | +19.6% | Increase |
-| Fresh Whole Chicken for Frying Bag | $258.77 | $258.62 | $-0.15 | -0.1% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $86.49 | $86.60 | $+0.11 | +0.1% | Increase |
-| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $69.58 | $69.36 | $-0.22 | -0.3% | Decrease |
+| Purple Cauliflower  | $0.00 | $62.95 | $+62.95 | +100.0% | New |
+| Dramas Cherry Tomato 340 g / 12 oz | $0.00 | $54.95 | $+54.95 | +100.0% | New |
+| Nescafé Original Instant Iced Coffee 16 Units / 15 g | $0.00 | $59.95 | $+59.95 | +100.0% | New |
+| Small Red Potato 1.3 kg / 3 lb | $0.00 | $48.95 | $+48.95 | +100.0% | New |
+| Frozen Pork Belly Skin On Sliced Tray  | $119.71 | $119.23 | $-0.48 | -0.4% | Decrease |
+| Pork Belly with Skin Frozen Vacuum Packaged | $186.32 | $186.11 | $-0.21 | -0.1% | Decrease |
+| Fresh Red Globe Grapes 1.36 kg / 3 lb | $0.00 | $114.95 | $+114.95 | +100.0% | New |
+| Frozen Bone In Pork Shoulder Sliced Tray | $79.74 | $79.63 | $-0.11 | -0.1% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $116.02 | $116.19 | $+0.17 | +0.1% | Increase |
+| Fresh Chicken Breast Bone In Tray | $93.31 | $93.21 | $-0.10 | -0.1% | Decrease |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $234.19 | $233.92 | $-0.27 | -0.1% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $88.78 | $88.64 | $-0.14 | -0.2% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $91.41 | $91.51 | $+0.10 | +0.1% | Increase |
+| Fresh Ground Chicken Tray | $100.33 | $100.69 | $+0.36 | +0.4% | Increase |
+| Fresh Chicken Drumsticks Tray  | $95.22 | $95.11 | $-0.11 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -112,4 +112,11 @@
 | Califia Farms Matcha Latte Almond Milk 1.4 L / 48 oz | Califia Farms | $69.95 | 2026-03-23 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Purple Cauliflower  |  | $62.95 | G10D03 |
+| Dramas Cherry Tomato 340 g / 12 oz | Dramas | $54.95 | G10D03 |
+| Nescafé Original Instant Iced Coffee 16 Units / 15 g | Nescafé | $59.95 | G10D03 |
+| Small Red Potato 1.3 kg / 3 lb |  | $48.95 | G10D03 |
+| Fresh Red Globe Grapes 1.36 kg / 3 lb |  | $114.95 | G10D03 |
