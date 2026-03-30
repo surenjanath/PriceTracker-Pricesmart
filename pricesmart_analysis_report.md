@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1149
-- **Total value**: $129,026.25
-- **Average price**: $112.29
+- **Total products scraped**: 1148
+- **Total value**: $128,937.65
+- **Average price**: $112.32
 
 ## Database Changes
-- **New products added**: 5
-- **Existing products updated**: 1144
-- **Price changes detected**: 25
-- **Stock/availability changes**: 10
-- **Discontinued products**: 0
+- **New products added**: 0
+- **Existing products updated**: 1148
+- **Price changes detected**: 26
+- **Stock/availability changes**: 21
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1059
-- **Price increases**: 455
-- **Price decreases**: 565
-- **Average increase**: 9.6%
-- **Average decrease**: -5.2%
+- **Total price changes**: 1022
+- **Price increases**: 438
+- **Price decreases**: 547
+- **Average increase**: 9.0%
+- **Average decrease**: -5.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Purple Cauliflower  | $0.00 | $62.95 | $+62.95 | +100.0% | New |
-| Dramas Cherry Tomato 340 g / 12 oz | $0.00 | $54.95 | $+54.95 | +100.0% | New |
-| Nescafé Original Instant Iced Coffee 16 Units / 15 g | $0.00 | $59.95 | $+59.95 | +100.0% | New |
-| Small Red Potato 1.3 kg / 3 lb | $0.00 | $48.95 | $+48.95 | +100.0% | New |
-| Frozen Pork Belly Skin On Sliced Tray  | $119.71 | $119.23 | $-0.48 | -0.4% | Decrease |
-| Pork Belly with Skin Frozen Vacuum Packaged | $186.32 | $186.11 | $-0.21 | -0.1% | Decrease |
-| Fresh Red Globe Grapes 1.36 kg / 3 lb | $0.00 | $114.95 | $+114.95 | +100.0% | New |
-| Frozen Bone In Pork Shoulder Sliced Tray | $79.74 | $79.63 | $-0.11 | -0.1% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $116.02 | $116.19 | $+0.17 | +0.1% | Increase |
-| Fresh Chicken Breast Bone In Tray | $93.31 | $93.21 | $-0.10 | -0.1% | Decrease |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $234.19 | $233.92 | $-0.27 | -0.1% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $88.78 | $88.64 | $-0.14 | -0.2% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $91.41 | $91.51 | $+0.10 | +0.1% | Increase |
-| Fresh Ground Chicken Tray | $100.33 | $100.69 | $+0.36 | +0.4% | Increase |
-| Fresh Chicken Drumsticks Tray  | $95.22 | $95.11 | $-0.11 | -0.1% | Decrease |
+| Fresh Chicken Breast Boneless Skinless Tray | $128.57 | $128.41 | $-0.16 | -0.1% | Decrease |
+| Frozen Pork Belly Skin On Sliced Tray  | $119.23 | $118.99 | $-0.24 | -0.2% | Decrease |
+| Papaya | $31.90 | $31.74 | $-0.16 | -0.5% | Decrease |
+| Pork Belly with Skin Frozen Vacuum Packaged | $186.11 | $185.89 | $-0.22 | -0.1% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $79.63 | $79.74 | $+0.11 | +0.1% | Increase |
+| Frozen Bone In Baby Back Ribs Vacuum Packaged Case | $1352.75 | $1386.59 | $+33.84 | +2.5% | Increase |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.95 | $74.82 | $-0.13 | -0.2% | Decrease |
+| Frozen Lamb Shoulder Chops Tray | $119.44 | $119.61 | $+0.17 | +0.1% | Increase |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $233.92 | $234.46 | $+0.54 | +0.2% | Increase |
+| Fresh Ground Chicken Tray | $100.69 | $101.16 | $+0.47 | +0.5% | Increase |
+| Fresh Chicken Wings Tray | $96.79 | $96.68 | $-0.11 | -0.1% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $258.62 | $259.07 | $+0.45 | +0.2% | Increase |
+| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | $166.16 | $165.80 | $-0.36 | -0.2% | Decrease |
+| Fresh Whole Chicken 2 Units | $105.83 | $105.20 | $-0.63 | -0.6% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $86.60 | $86.71 | $+0.11 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $144.95 | 2026-03-29 |
 | Red Rose Pink Salmon 3 Units / 418 g | Red Rose | $125.95 | 2026-03-25 |
 | Pirouline Dark Chocolate Cream Filled Wafer Rolls 12 Units / 92 g / 3.25 oz | Pirouline | $134.95 | 2026-03-25 |
 | Old Mac Pre-cooked Rice 4 Units / 2 kg | Old Mac | $65.70 | 2026-03-25 |
@@ -109,14 +110,6 @@
 | Member's Selection Pecan Pralines  850 g / 30 oz | Member's Selection | $129.95 | 2026-03-25 |
 | Rockit Apple 1.36 kg / 3 lb | Rockit | $77.95 | 2026-03-24 |
 | Live Savers Assorted Gummies 15 Units / 119 g / 4.2 oz | Lifesavers | $49.70 | 2026-03-24 |
-| Califia Farms Matcha Latte Almond Milk 1.4 L / 48 oz | Califia Farms | $69.95 | 2026-03-23 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Purple Cauliflower  |  | $62.95 | G10D03 |
-| Dramas Cherry Tomato 340 g / 12 oz | Dramas | $54.95 | G10D03 |
-| Nescafé Original Instant Iced Coffee 16 Units / 15 g | Nescafé | $59.95 | G10D03 |
-| Small Red Potato 1.3 kg / 3 lb |  | $48.95 | G10D03 |
-| Fresh Red Globe Grapes 1.36 kg / 3 lb |  | $114.95 | G10D03 |
+No new products added today.
