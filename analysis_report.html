@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1148
-- **Total value**: $128,937.65
-- **Average price**: $112.32
+- **Total products scraped**: 1151
+- **Total value**: $129,309.83
+- **Average price**: $112.35
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1148
-- **Price changes detected**: 26
-- **Stock/availability changes**: 21
-- **Discontinued products**: 1
+- **New products added**: 2
+- **Existing products updated**: 1149
+- **Price changes detected**: 25
+- **Stock/availability changes**: 22
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -26,45 +26,45 @@
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
+| Member's Selection Refined Avocado Oil 1 L / 33.8 oz | Member's Selection | $169.95 | true |
 | Mrs Thinster Toasted Coconut Cookies 454 g | Mrs. Thinster's | $89.95 | true |
-| Carrington Farms Coconut Oil Spray 2 Units / 141.7 g / 5 oz | Carrington Farms | $69.95 | true |
 | Cheez-It Original, Grahams, and White Cheddar Cheez-It Gripz Variety Pack 12 Units / 25 g / 0.9 oz | CheezIt | $66.95 | true |
+| Carrington Farms Coconut Oil Spray 2 Units / 141.7 g / 5 oz | Carrington Farms | $69.95 | true |
+| Bombolo Biscotti Baked Cookies Decorated for Easter with Assorted Designs | Bombolo Biscotti | $76.95 | true |
+| Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | MorningStar Farms | $124.95 | true |
 | Jimmy Dean Croissant Sausage, Egg & Cheese Sandwiches 1.53 kg / 3.38 lb | Jimmy Dean | $163.95 | true |
 | Philadelphia Salmon Cream Cheese 2 Units / 212 g / 7.5 oz | Philadelphia | $82.95 | true |
-| Bombolo Biscotti Baked Cookies Decorated for Easter with Assorted Designs | Bombolo Biscotti | $76.95 | true |
 | Sincerely Brigitte Cheese Sticks 24 Units / 510 g / 18 oz | Sincerely  Brigitte | $99.95 | true |
-| Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | MorningStar Farms | $124.95 | true |
-| Member's Selection Refined Avocado Oil 1 L / 33.8 oz | Member's Selection | $169.95 | true |
 | Prairie Farms Half and Half 946 mL / 32 oz | Prairie Farms | $37.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1022
-- **Price increases**: 438
+- **Total price changes**: 1018
+- **Price increases**: 434
 - **Price decreases**: 547
-- **Average increase**: 9.0%
-- **Average decrease**: -5.0%
+- **Average increase**: 9.4%
+- **Average decrease**: -5.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Chicken Breast Boneless Skinless Tray | $128.57 | $128.41 | $-0.16 | -0.1% | Decrease |
-| Frozen Pork Belly Skin On Sliced Tray  | $119.23 | $118.99 | $-0.24 | -0.2% | Decrease |
-| Papaya | $31.90 | $31.74 | $-0.16 | -0.5% | Decrease |
-| Pork Belly with Skin Frozen Vacuum Packaged | $186.11 | $185.89 | $-0.22 | -0.1% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $79.63 | $79.74 | $+0.11 | +0.1% | Increase |
-| Frozen Bone In Baby Back Ribs Vacuum Packaged Case | $1352.75 | $1386.59 | $+33.84 | +2.5% | Increase |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.95 | $74.82 | $-0.13 | -0.2% | Decrease |
-| Frozen Lamb Shoulder Chops Tray | $119.44 | $119.61 | $+0.17 | +0.1% | Increase |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $233.92 | $234.46 | $+0.54 | +0.2% | Increase |
-| Fresh Ground Chicken Tray | $100.69 | $101.16 | $+0.47 | +0.5% | Increase |
-| Fresh Chicken Wings Tray | $96.79 | $96.68 | $-0.11 | -0.1% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $258.62 | $259.07 | $+0.45 | +0.2% | Increase |
-| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | $166.16 | $165.80 | $-0.36 | -0.2% | Decrease |
-| Fresh Whole Chicken 2 Units | $105.83 | $105.20 | $-0.63 | -0.6% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $86.60 | $86.71 | $+0.11 | +0.1% | Increase |
+| Fresh Chicken Wings Tray | $96.68 | $96.57 | $-0.11 | -0.1% | Decrease |
+| Jennie's Organic Coconut Bites 24 oz | $114.95 | $129.32 | $+14.37 | +12.5% | Increase |
+| Heinz Tomato Ketchup 567 g / 20 oz | $0.00 | $19.95 | $+19.95 | +100.0% | New |
+| Pizzacini Truffle and Mushroom Pizza 2 Units / 440 g / 15.5 oz | $0.00 | $169.95 | $+169.95 | +100.0% | New |
+| Pork Belly with Skin Frozen Vacuum Packaged | $185.89 | $185.24 | $-0.65 | -0.3% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $81.86 | $82.03 | $+0.17 | +0.2% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $79.74 | $79.85 | $+0.11 | +0.1% | Increase |
+| Fresh Chicken Breast Bone In Tray | $93.21 | $93.12 | $-0.09 | -0.1% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $163.74 | $164.22 | $+0.48 | +0.3% | Increase |
+| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | $165.80 | $166.16 | $+0.36 | +0.2% | Increase |
+| Fresh Chicken Mixed Parts Tray | $86.71 | $86.82 | $+0.11 | +0.1% | Increase |
+| Fresh Whole Chicken 2 Units | $105.20 | $105.83 | $+0.63 | +0.6% | Increase |
+| Romaine Lettuce Hearts 3 Units | $49.95 | $47.95 | $-2.00 | -4.0% | Decrease |
+| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $145.83 | $146.20 | $+0.37 | +0.3% | Increase |
+| Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $29.70 | $89.95 | $+60.25 | +202.9% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -112,4 +112,8 @@
 | Live Savers Assorted Gummies 15 Units / 119 g / 4.2 oz | Lifesavers | $49.70 | 2026-03-24 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Heinz Tomato Ketchup 567 g / 20 oz | Heinz | $19.95 | G10D03 |
+| Pizzacini Truffle and Mushroom Pizza 2 Units / 440 g / 15.5 oz | Pizzacini | $169.95 | G10D03 |
