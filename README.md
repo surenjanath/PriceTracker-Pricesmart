@@ -184,25 +184,25 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1151
-- **Total value**: $129,309.83
-- **Average price**: $112.35
+- **Total products scraped**: 1150
+- **Total value**: $129,415.05
+- **Average price**: $112.53
 
 ## Database Changes
-- **New products added**: 2
+- **New products added**: 1
 - **Existing products updated**: 1149
-- **Price changes detected**: 25
-- **Stock/availability changes**: 22
-- **Discontinued products**: 0
+- **Price changes detected**: 32
+- **Stock/availability changes**: 23
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 182 |
+| Member's Selection | 181 |
 |  | 140 |
 | Badia | 19 |
-| Swiss | 14 |
+| Swiss | 15 |
 | Nestle | 11 |
 
 ## Recent Products
@@ -214,40 +214,40 @@ This project has recently gained unexpected attention. It was created for person
 | Cheez-It Original, Grahams, and White Cheddar Cheez-It Gripz Variety Pack 12 Units / 25 g / 0.9 oz | CheezIt | $66.95 | true |
 | Carrington Farms Coconut Oil Spray 2 Units / 141.7 g / 5 oz | Carrington Farms | $69.95 | true |
 | Bombolo Biscotti Baked Cookies Decorated for Easter with Assorted Designs | Bombolo Biscotti | $76.95 | true |
-| Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | MorningStar Farms | $124.95 | true |
-| Jimmy Dean Croissant Sausage, Egg & Cheese Sandwiches 1.53 kg / 3.38 lb | Jimmy Dean | $163.95 | true |
 | Philadelphia Salmon Cream Cheese 2 Units / 212 g / 7.5 oz | Philadelphia | $82.95 | true |
+| Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | MorningStar Farms | $124.95 | true |
 | Sincerely Brigitte Cheese Sticks 24 Units / 510 g / 18 oz | Sincerely  Brigitte | $99.95 | true |
 | Prairie Farms Half and Half 946 mL / 32 oz | Prairie Farms | $37.95 | true |
+| Sunny Fruits Dried Organics Figs 10 Units / 50 g / 1.76 oz | Sunny Fruits | $79.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1018
-- **Price increases**: 434
-- **Price decreases**: 547
-- **Average increase**: 9.4%
-- **Average decrease**: -5.1%
+- **Total price changes**: 988
+- **Price increases**: 425
+- **Price decreases**: 527
+- **Average increase**: 10.6%
+- **Average decrease**: -5.3%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Chicken Wings Tray | $96.68 | $96.57 | $-0.11 | -0.1% | Decrease |
-| Jennie's Organic Coconut Bites 24 oz | $114.95 | $129.32 | $+14.37 | +12.5% | Increase |
-| Heinz Tomato Ketchup 567 g / 20 oz | $0.00 | $19.95 | $+19.95 | +100.0% | New |
-| Pizzacini Truffle and Mushroom Pizza 2 Units / 440 g / 15.5 oz | $0.00 | $169.95 | $+169.95 | +100.0% | New |
-| Pork Belly with Skin Frozen Vacuum Packaged | $185.89 | $185.24 | $-0.65 | -0.3% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $81.86 | $82.03 | $+0.17 | +0.2% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $79.74 | $79.85 | $+0.11 | +0.1% | Increase |
-| Fresh Chicken Breast Bone In Tray | $93.21 | $93.12 | $-0.09 | -0.1% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $163.74 | $164.22 | $+0.48 | +0.3% | Increase |
-| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | $165.80 | $166.16 | $+0.36 | +0.2% | Increase |
-| Fresh Chicken Mixed Parts Tray | $86.71 | $86.82 | $+0.11 | +0.1% | Increase |
-| Fresh Whole Chicken 2 Units | $105.20 | $105.83 | $+0.63 | +0.6% | Increase |
-| Romaine Lettuce Hearts 3 Units | $49.95 | $47.95 | $-2.00 | -4.0% | Decrease |
-| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $145.83 | $146.20 | $+0.37 | +0.3% | Increase |
-| Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $29.70 | $89.95 | $+60.25 | +202.9% | Increase |
+| Prunes 1 kg / 2.2 lb | $24.70 | $54.95 | $+30.25 | +122.5% | Increase |
+| Golden Raisins 1 kg / 2.2 lb | $24.70 | $44.95 | $+20.25 | +82.0% | Increase |
+| Black Raisins 1 kg / 2.2 lb | $24.70 | $49.95 | $+25.25 | +102.2% | Increase |
+| Fresh Chicken Thighs Boneless Tray | $64.95 | $82.36 | $+17.41 | +26.8% | Increase |
+| Fresh Chicken Wings Tray | $96.57 | $80.93 | $-15.64 | -16.2% | Decrease |
+| Fresh Chicken Breast Boneless Skinless Tray | $97.05 | $82.95 | $-14.10 | -14.5% | Decrease |
+| Swiss Honey Mustard Sauce 2 Units / 454 g | $0.00 | $42.95 | $+42.95 | +100.0% | New |
+| Whole Striploin Fresh Vacuum Packed | $1372.96 | $1217.70 | $-155.26 | -11.3% | Decrease |
+| Frozen Beef Tails Case | $1731.81 | $2124.15 | $+392.34 | +22.7% | Increase |
+| Frozen Pork Belly Skin On Sliced Tray  | $118.99 | $118.75 | $-0.24 | -0.2% | Decrease |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $348.77 | $352.45 | $+3.68 | +1.1% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $187.58 | $188.42 | $+0.84 | +0.4% | Increase |
+| Pork Belly with Skin Frozen Vacuum Packaged | $185.24 | $185.03 | $-0.21 | -0.1% | Decrease |
+| String Beans 1 kg / 2.2 lb | $61.95 | $54.95 | $-7.00 | -11.3% | Decrease |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $234.46 | $234.19 | $-0.27 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,8 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Delimex Cocina Beef Taquitos 566 g / 1.25 lb | Delimex Cocina | $62.95 | 2026-03-31 |
+| Member's Selection Frozen Skinless Boneless Salmon Fillets Vacuum Packaged | Member's Selection | $304.50 | 2026-03-31 |
 | Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $144.95 | 2026-03-29 |
 | Red Rose Pink Salmon 3 Units / 418 g | Red Rose | $125.95 | 2026-03-25 |
 | Pirouline Dark Chocolate Cream Filled Wafer Rolls 12 Units / 92 g / 3.25 oz | Pirouline | $134.95 | 2026-03-25 |
@@ -291,12 +293,9 @@ This project has recently gained unexpected attention. It was created for person
 | Brunswick Canned Pink Salmon 2 Units / 418 g / 15 oz | Brunswick | $74.95 | 2026-03-25 |
 | Member's Selection Cranberry Cashew Trail Mix 850 g / 30 oz | Member's Selection | $132.95 | 2026-03-25 |
 | Member's Selection Pecan Pralines  850 g / 30 oz | Member's Selection | $129.95 | 2026-03-25 |
-| Rockit Apple 1.36 kg / 3 lb | Rockit | $77.95 | 2026-03-24 |
-| Live Savers Assorted Gummies 15 Units / 119 g / 4.2 oz | Lifesavers | $49.70 | 2026-03-24 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Heinz Tomato Ketchup 567 g / 20 oz | Heinz | $19.95 | G10D03 |
-| Pizzacini Truffle and Mushroom Pizza 2 Units / 440 g / 15.5 oz | Pizzacini | $169.95 | G10D03 |
+| Swiss Honey Mustard Sauce 2 Units / 454 g | Swiss | $42.95 | G10D03 |
