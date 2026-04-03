@@ -184,22 +184,22 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1143
-- **Total value**: $127,083.24
-- **Average price**: $111.18
+- **Total products scraped**: 1146
+- **Total value**: $127,790.86
+- **Average price**: $111.51
 
 ## Database Changes
-- **New products added**: 0
+- **New products added**: 3
 - **Existing products updated**: 1143
-- **Price changes detected**: 91
-- **Stock/availability changes**: 19
-- **Discontinued products**: 7
+- **Price changes detected**: 37
+- **Stock/availability changes**: 23
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 181 |
+| Member's Selection | 182 |
 |  | 136 |
 | Badia | 19 |
 | Swiss | 15 |
@@ -213,8 +213,8 @@ This project has recently gained unexpected attention. It was created for person
 | Mrs Thinster Toasted Coconut Cookies 454 g | Mrs. Thinster's | $89.95 | true |
 | Cheez-It Original, Grahams, and White Cheddar Cheez-It Gripz Variety Pack 12 Units / 25 g / 0.9 oz | CheezIt | $66.95 | true |
 | Carrington Farms Coconut Oil Spray 2 Units / 141.7 g / 5 oz | Carrington Farms | $69.95 | true |
-| Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | MorningStar Farms | $124.95 | true |
 | Philadelphia Salmon Cream Cheese 2 Units / 212 g / 7.5 oz | Philadelphia | $82.95 | true |
+| Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | MorningStar Farms | $124.95 | true |
 | Sincerely Brigitte Cheese Sticks 24 Units / 510 g / 18 oz | Sincerely  Brigitte | $99.95 | true |
 | Sunny Fruits Dried Organics Figs 10 Units / 50 g / 1.76 oz | Sunny Fruits | $79.95 | true |
 | Prairie Farms Half and Half 946 mL / 32 oz | Prairie Farms | $37.95 | true |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1047
-- **Price increases**: 458
-- **Price decreases**: 553
-- **Average increase**: 9.9%
-- **Average decrease**: -5.2%
+- **Total price changes**: 1059
+- **Price increases**: 470
+- **Price decreases**: 555
+- **Average increase**: 10.5%
+- **Average decrease**: -5.3%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Chicken Thighs Boneless Tray | $82.36 | $82.49 | $+0.13 | +0.2% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $88.64 | $88.33 | $-0.31 | -0.3% | Decrease |
-| Avocado Mesh 5 Units | $47.95 | $64.95 | $+17.00 | +35.5% | Increase |
-| Fresh Chicken Thighs Boneless Bag | $318.33 | $318.57 | $+0.24 | +0.1% | Increase |
-| Sincerely Brgitte Cheese with Truffle 453 g / 1.1 lb | $77.95 | $79.95 | $+2.00 | +2.6% | Increase |
-| Green pepper | $49.48 | $55.06 | $+5.58 | +11.3% | Increase |
-| Hormel Pepperoni  680 g / 1.5 lb | $74.95 | $79.95 | $+5.00 | +6.7% | Increase |
-| Jimmy Dean Croissant Sausage, Egg & Cheese Sandwiches 1.53 kg / 3.38 lb | $163.95 | $162.95 | $-1.00 | -0.6% | Decrease |
-| Frozen Bone-In Goat Carcass Case | $1582.90 | $1290.78 | $-292.12 | -18.5% | Decrease |
-| Frozen Imported Pork Leg Slices | $82.98 | $73.80 | $-9.18 | -11.1% | Decrease |
-| Doritos Flamin' Hot 312 g | $38.95 | $39.95 | $+1.00 | +2.6% | Increase |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $435.52 | $421.02 | $-14.50 | -3.3% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $147.97 | $151.14 | $+3.17 | +2.1% | Increase |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $352.45 | $359.44 | $+6.99 | +2.0% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $188.42 | $189.53 | $+1.11 | +0.6% | Increase |
+| Red Globe Grape 907 g / 2 lb | $109.95 | $114.95 | $+5.00 | +4.5% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $87.20 | $87.43 | $+0.23 | +0.3% | Increase |
+| Fresh Seedless Red Grapes 907 g / 2 lb | $89.95 | $79.95 | $-10.00 | -11.1% | Decrease |
+| Rastelli's Frozen New York Steak Case 10 Units / 225 g / 8 oz  | $0.00 | $536.95 | $+536.95 | +100.0% | New |
+| Member's Selection Freshly Baked Vanilla Loaf Cake | $0.00 | $37.95 | $+37.95 | +100.0% | New |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $228.70 | $225.89 | $-2.81 | -1.2% | Decrease |
+| Pork Belly with Skin Frozen Vacuum Packaged | $181.57 | $180.71 | $-0.86 | -0.5% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $82.72 | $82.81 | $+0.09 | +0.1% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $57.46 | $57.64 | $+0.18 | +0.3% | Increase |
+| Nectarine 908 g / 2 lb | $64.95 | $62.95 | $-2.00 | -3.1% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.51 | $114.34 | $-0.17 | -0.1% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $78.66 | $78.77 | $+0.11 | +0.1% | Increase |
+| Fresh Chicken Breast Bone In Tray | $94.17 | $94.08 | $-0.09 | -0.1% | Decrease |
+| Frozen Lamb Shoulder Chops Tray | $119.96 | $120.14 | $+0.18 | +0.2% | Increase |
+| Nutrina Chilled Whole Chicken Bag | $315.52 | $317.02 | $+1.50 | +0.5% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -261,8 +261,8 @@ This project has recently gained unexpected attention. It was created for person
 | Tropical Frying Cheese 907 g / 32 oz | $19.70 | $89.95 | +356.6% |
 | Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $19.70 | $89.95 | +356.6% |
 | Frozen Boneless Pork Loin Vacuum Packaged | $56.90 | $253.53 | +345.6% |
+| Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $14.70 | $57.95 | +294.2% |
 | Carrot 2.27 kg / 5 lb | $9.70 | $37.95 | +291.2% |
-| Silk Unsweetened Original 2 Units 1.89 L / 64 oz | $29.70 | $99.95 | +236.5% |
 
 ## Biggest Price Decreases (All Time)
 
@@ -295,4 +295,9 @@ This project has recently gained unexpected attention. It was created for person
 | Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $144.95 | 2026-03-29 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Rastelli's Frozen New York Steak Case 10 Units / 225 g / 8 oz  | Rastelli's | $536.95 | G10D03 |
+| Member's Selection Freshly Baked Vanilla Loaf Cake | Member's Selection | $37.95 | G10D03 |
+| Ocean Spray Ruby Red Grapefruit 2 Units / 1.89 L / 64 oz | Ocean Spray | $74.95 | G10D03 |
