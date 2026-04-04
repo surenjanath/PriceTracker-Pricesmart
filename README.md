@@ -184,15 +184,15 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1146
-- **Total value**: $127,790.86
-- **Average price**: $111.51
+- **Total products scraped**: 1147
+- **Total value**: $127,836.52
+- **Average price**: $111.45
 
 ## Database Changes
-- **New products added**: 3
-- **Existing products updated**: 1143
-- **Price changes detected**: 37
-- **Stock/availability changes**: 23
+- **New products added**: 1
+- **Existing products updated**: 1146
+- **Price changes detected**: 40
+- **Stock/availability changes**: 0
 - **Discontinued products**: 0
 
 ## Top 5 Brands
@@ -217,37 +217,37 @@ This project has recently gained unexpected attention. It was created for person
 | Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | MorningStar Farms | $124.95 | true |
 | Sincerely Brigitte Cheese Sticks 24 Units / 510 g / 18 oz | Sincerely  Brigitte | $99.95 | true |
 | Sunny Fruits Dried Organics Figs 10 Units / 50 g / 1.76 oz | Sunny Fruits | $79.95 | true |
-| Prairie Farms Half and Half 946 mL / 32 oz | Prairie Farms | $37.95 | true |
 | Aqua Star Breaded Shrimp 1.36 kg / 3 lb | Aqua Star | $192.95 | true |
+| Prairie Farms Half and Half 946 mL / 32 oz | Prairie Farms | $37.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1059
-- **Price increases**: 470
-- **Price decreases**: 555
-- **Average increase**: 10.5%
-- **Average decrease**: -5.3%
+- **Total price changes**: 1027
+- **Price increases**: 452
+- **Price decreases**: 540
+- **Average increase**: 10.7%
+- **Average decrease**: -5.2%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Red Globe Grape 907 g / 2 lb | $109.95 | $114.95 | $+5.00 | +4.5% | Increase |
-| Fine Choice Fresh Marinated Chicken Tray | $87.20 | $87.43 | $+0.23 | +0.3% | Increase |
-| Fresh Seedless Red Grapes 907 g / 2 lb | $89.95 | $79.95 | $-10.00 | -11.1% | Decrease |
-| Rastelli's Frozen New York Steak Case 10 Units / 225 g / 8 oz  | $0.00 | $536.95 | $+536.95 | +100.0% | New |
-| Member's Selection Freshly Baked Vanilla Loaf Cake | $0.00 | $37.95 | $+37.95 | +100.0% | New |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $228.70 | $225.89 | $-2.81 | -1.2% | Decrease |
-| Pork Belly with Skin Frozen Vacuum Packaged | $181.57 | $180.71 | $-0.86 | -0.5% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $82.72 | $82.81 | $+0.09 | +0.1% | Increase |
-| Chilled Chicken Gizzard Tray Pack | $57.46 | $57.64 | $+0.18 | +0.3% | Increase |
-| Nectarine 908 g / 2 lb | $64.95 | $62.95 | $-2.00 | -3.1% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.51 | $114.34 | $-0.17 | -0.1% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $78.66 | $78.77 | $+0.11 | +0.1% | Increase |
-| Fresh Chicken Breast Bone In Tray | $94.17 | $94.08 | $-0.09 | -0.1% | Decrease |
-| Frozen Lamb Shoulder Chops Tray | $119.96 | $120.14 | $+0.18 | +0.2% | Increase |
-| Nutrina Chilled Whole Chicken Bag | $315.52 | $317.02 | $+1.50 | +0.5% | Increase |
+| Fresh Chicken Thighs Boneless Tray | $82.49 | $82.36 | $-0.13 | -0.2% | Decrease |
+| Half Moon Assorted Vegan Ice Cream Popsicles 8 Units / 75 mL / 2.53 oz | $0.00 | $99.95 | $+99.95 | +100.0% | New |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $225.89 | $228.70 | $+2.81 | +1.2% | Increase |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $359.44 | $358.33 | $-1.11 | -0.3% | Decrease |
+| Frozen Pork Belly Skin On Sliced Tray  | $118.75 | $118.03 | $-0.72 | -0.6% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $189.53 | $189.81 | $+0.28 | +0.1% | Increase |
+| Pork Belly with Skin Frozen Vacuum Packaged | $180.71 | $180.49 | $-0.22 | -0.1% | Decrease |
+| Maggi Vegetable Soup 12 Units / 45 g | $79.95 | $65.95 | $-14.00 | -17.5% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.34 | $114.51 | $+0.17 | +0.1% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $78.77 | $78.87 | $+0.10 | +0.1% | Increase |
+| Papaya | $32.06 | $32.03 | $-0.03 | -0.1% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $94.08 | $93.98 | $-0.10 | -0.1% | Decrease |
+| Frozen Lamb Shoulder Chops Tray | $120.14 | $120.32 | $+0.18 | +0.1% | Increase |
+| Pimento Peppers 40 Units | $20.95 | $19.95 | $-1.00 | -4.8% | Decrease |
+| Orchard Assorted Drinks Juice Mix 6 Units / 1L | $69.95 | $56.95 | $-13.00 | -18.6% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -298,6 +298,4 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Rastelli's Frozen New York Steak Case 10 Units / 225 g / 8 oz  | Rastelli's | $536.95 | G10D03 |
-| Member's Selection Freshly Baked Vanilla Loaf Cake | Member's Selection | $37.95 | G10D03 |
-| Ocean Spray Ruby Red Grapefruit 2 Units / 1.89 L / 64 oz | Ocean Spray | $74.95 | G10D03 |
+| Half Moon Assorted Vegan Ice Cream Popsicles 8 Units / 75 mL / 2.53 oz | Half Moon | $99.95 | G10D03 |
