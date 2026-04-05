@@ -189,10 +189,10 @@ This project has recently gained unexpected attention. It was created for person
 - **Average price**: $111.45
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1146
-- **Price changes detected**: 40
-- **Stock/availability changes**: 0
+- **New products added**: 0
+- **Existing products updated**: 1147
+- **Price changes detected**: 0
+- **Stock/availability changes**: 24
 - **Discontinued products**: 0
 
 ## Top 5 Brands
@@ -213,8 +213,8 @@ This project has recently gained unexpected attention. It was created for person
 | Mrs Thinster Toasted Coconut Cookies 454 g | Mrs. Thinster's | $89.95 | true |
 | Cheez-It Original, Grahams, and White Cheddar Cheez-It Gripz Variety Pack 12 Units / 25 g / 0.9 oz | CheezIt | $66.95 | true |
 | Carrington Farms Coconut Oil Spray 2 Units / 141.7 g / 5 oz | Carrington Farms | $69.95 | true |
-| Philadelphia Salmon Cream Cheese 2 Units / 212 g / 7.5 oz | Philadelphia | $82.95 | true |
 | Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | MorningStar Farms | $124.95 | true |
+| Philadelphia Salmon Cream Cheese 2 Units / 212 g / 7.5 oz | Philadelphia | $82.95 | true |
 | Sincerely Brigitte Cheese Sticks 24 Units / 510 g / 18 oz | Sincerely  Brigitte | $99.95 | true |
 | Sunny Fruits Dried Organics Figs 10 Units / 50 g / 1.76 oz | Sunny Fruits | $79.95 | true |
 | Aqua Star Breaded Shrimp 1.36 kg / 3 lb | Aqua Star | $192.95 | true |
@@ -223,11 +223,11 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1027
-- **Price increases**: 452
-- **Price decreases**: 540
+- **Total price changes**: 993
+- **Price increases**: 437
+- **Price decreases**: 522
 - **Average increase**: 10.7%
-- **Average decrease**: -5.2%
+- **Average decrease**: -5.4%
 
 ## Recent Price Changes
 
@@ -295,7 +295,4 @@ This project has recently gained unexpected attention. It was created for person
 | Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $144.95 | 2026-03-29 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Half Moon Assorted Vegan Ice Cream Popsicles 8 Units / 75 mL / 2.53 oz | Half Moon | $99.95 | G10D03 |
+No new products added today.
