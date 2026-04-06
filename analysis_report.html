@@ -2,15 +2,15 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1147
-- **Total value**: $127,836.52
-- **Average price**: $111.45
+- **Total value**: $127,696.71
+- **Average price**: $111.33
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1147
-- **Price changes detected**: 0
-- **Stock/availability changes**: 24
-- **Discontinued products**: 0
+- **New products added**: 1
+- **Existing products updated**: 1146
+- **Price changes detected**: 63
+- **Stock/availability changes**: 11
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -32,39 +32,39 @@
 | Carrington Farms Coconut Oil Spray 2 Units / 141.7 g / 5 oz | Carrington Farms | $69.95 | true |
 | Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | MorningStar Farms | $124.95 | true |
 | Philadelphia Salmon Cream Cheese 2 Units / 212 g / 7.5 oz | Philadelphia | $82.95 | true |
-| Sincerely Brigitte Cheese Sticks 24 Units / 510 g / 18 oz | Sincerely  Brigitte | $99.95 | true |
 | Sunny Fruits Dried Organics Figs 10 Units / 50 g / 1.76 oz | Sunny Fruits | $79.95 | true |
 | Aqua Star Breaded Shrimp 1.36 kg / 3 lb | Aqua Star | $192.95 | true |
 | Prairie Farms Half and Half 946 mL / 32 oz | Prairie Farms | $37.95 | true |
+| Jimmy Dean Croissant Sausage, Egg & Cheese Sandwiches 1.53 kg / 3.38 lb | Jimmy Dean | $162.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 993
-- **Price increases**: 437
-- **Price decreases**: 522
+- **Total price changes**: 1030
+- **Price increases**: 465
+- **Price decreases**: 532
 - **Average increase**: 10.7%
-- **Average decrease**: -5.4%
+- **Average decrease**: -5.8%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Chicken Thighs Boneless Tray | $82.49 | $82.36 | $-0.13 | -0.2% | Decrease |
-| Half Moon Assorted Vegan Ice Cream Popsicles 8 Units / 75 mL / 2.53 oz | $0.00 | $99.95 | $+99.95 | +100.0% | New |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $225.89 | $228.70 | $+2.81 | +1.2% | Increase |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $359.44 | $358.33 | $-1.11 | -0.3% | Decrease |
-| Frozen Pork Belly Skin On Sliced Tray  | $118.75 | $118.03 | $-0.72 | -0.6% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $189.53 | $189.81 | $+0.28 | +0.1% | Increase |
-| Pork Belly with Skin Frozen Vacuum Packaged | $180.71 | $180.49 | $-0.22 | -0.1% | Decrease |
-| Maggi Vegetable Soup 12 Units / 45 g | $79.95 | $65.95 | $-14.00 | -17.5% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.34 | $114.51 | $+0.17 | +0.1% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $78.77 | $78.87 | $+0.10 | +0.1% | Increase |
-| Papaya | $32.06 | $32.03 | $-0.03 | -0.1% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $94.08 | $93.98 | $-0.10 | -0.1% | Decrease |
-| Frozen Lamb Shoulder Chops Tray | $120.14 | $120.32 | $+0.18 | +0.1% | Increase |
-| Pimento Peppers 40 Units | $20.95 | $19.95 | $-1.00 | -4.8% | Decrease |
-| Orchard Assorted Drinks Juice Mix 6 Units / 1L | $69.95 | $56.95 | $-13.00 | -18.6% | Decrease |
+| Frozen Pork Belly Skin On Sliced Tray  | $118.03 | $117.31 | $-0.72 | -0.6% | Decrease |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $358.33 | $359.44 | $+1.11 | +0.3% | Increase |
+| Sacla Italia Pizza Sauce 1 kg / 35.2 oz | $0.00 | $54.95 | $+54.95 | +100.0% | New |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $189.81 | $188.69 | $-1.12 | -0.6% | Decrease |
+| Tostitos Scoops 411 g | $43.95 | $51.95 | $+8.00 | +18.2% | Increase |
+| Pork Belly with Skin Frozen Vacuum Packaged | $180.49 | $181.14 | $+0.65 | +0.4% | Increase |
+| Papaya | $32.03 | $31.90 | $-0.13 | -0.4% | Decrease |
+| Nesquick Liquid Milk Drink with Cocoa Flavor 12 Units / 250 mL | $69.95 | $57.95 | $-12.00 | -17.2% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $82.81 | $82.98 | $+0.17 | +0.2% | Increase |
+| Fresh Chicken Breast Bone In Tray | $93.98 | $93.89 | $-0.09 | -0.1% | Decrease |
+| Silk Unsweetened Original 2 Units 1.89 L / 64 oz | $104.95 | $85.95 | $-19.00 | -18.1% | Decrease |
+| Fresh Chicken Thighs Boneless Tray | $82.36 | $82.49 | $+0.13 | +0.2% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $162.16 | $163.43 | $+1.27 | +0.8% | Increase |
+| Kellogg's Frosted Flakes Cereal 1.75 kg / 61.7 oz | $95.95 | $119.95 | $+24.00 | +25.0% | Increase |
+| Orchard Party Mix Orange Juice 3 Units / 946 mL / 32 oz | $89.95 | $105.95 | $+16.00 | +17.8% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Kirkland Signature Clusters Chocolate Coated Cookies with Caramel and Marshmallow Filling 748 g / 26.3 oz | Kirkland Signature | $139.95 | 2026-04-05 |
 | Popsalot Gourmet Caramel Popcorn with Almonds 283 g / 10 oz | Popsalot Gourmet | $84.95 | 2026-04-01 |
 | Jayone Yizu Citrus Flavored Sweet Crispy Rice Rolls 2 Units / 80 g | Jayone | $39.95 | 2026-04-01 |
 | Seedless Red Grapes |  | $97.01 | 2026-04-01 |
@@ -109,7 +110,9 @@
 | Fresh Beef Striploin Steak Tray |  | $170.27 | 2026-04-01 |
 | Delimex Cocina Beef Taquitos 566 g / 1.25 lb | Delimex Cocina | $62.95 | 2026-03-31 |
 | Member's Selection Frozen Skinless Boneless Salmon Fillets Vacuum Packaged | Member's Selection | $304.50 | 2026-03-31 |
-| Suzy's Cream Assorted Flavors Cheesecake New York, Strawberry, Chocolate, and Caramel 12 Slices | Suzy's Cream Cheesecakes | $144.95 | 2026-03-29 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Sacla Italia Pizza Sauce 1 kg / 35.2 oz | Sacla | $54.95 | G10D03 |
