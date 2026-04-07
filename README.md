@@ -185,15 +185,15 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1147
-- **Total value**: $127,696.71
-- **Average price**: $111.33
+- **Total value**: $127,778.06
+- **Average price**: $111.40
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1146
-- **Price changes detected**: 63
-- **Stock/availability changes**: 11
-- **Discontinued products**: 1
+- **New products added**: 0
+- **Existing products updated**: 1147
+- **Price changes detected**: 27
+- **Stock/availability changes**: 14
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1030
-- **Price increases**: 465
-- **Price decreases**: 532
+- **Total price changes**: 1038
+- **Price increases**: 472
+- **Price decreases**: 533
 - **Average increase**: 10.7%
-- **Average decrease**: -5.8%
+- **Average decrease**: -5.9%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Frozen Pork Belly Skin On Sliced Tray  | $118.03 | $117.31 | $-0.72 | -0.6% | Decrease |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $358.33 | $359.44 | $+1.11 | +0.3% | Increase |
-| Sacla Italia Pizza Sauce 1 kg / 35.2 oz | $0.00 | $54.95 | $+54.95 | +100.0% | New |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $189.81 | $188.69 | $-1.12 | -0.6% | Decrease |
-| Tostitos Scoops 411 g | $43.95 | $51.95 | $+8.00 | +18.2% | Increase |
-| Pork Belly with Skin Frozen Vacuum Packaged | $180.49 | $181.14 | $+0.65 | +0.4% | Increase |
-| Papaya | $32.03 | $31.90 | $-0.13 | -0.4% | Decrease |
-| Nesquick Liquid Milk Drink with Cocoa Flavor 12 Units / 250 mL | $69.95 | $57.95 | $-12.00 | -17.2% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $82.81 | $82.98 | $+0.17 | +0.2% | Increase |
-| Fresh Chicken Breast Bone In Tray | $93.98 | $93.89 | $-0.09 | -0.1% | Decrease |
-| Silk Unsweetened Original 2 Units 1.89 L / 64 oz | $104.95 | $85.95 | $-19.00 | -18.1% | Decrease |
-| Fresh Chicken Thighs Boneless Tray | $82.36 | $82.49 | $+0.13 | +0.2% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $162.16 | $163.43 | $+1.27 | +0.8% | Increase |
-| Kellogg's Frosted Flakes Cereal 1.75 kg / 61.7 oz | $95.95 | $119.95 | $+24.00 | +25.0% | Increase |
-| Orchard Party Mix Orange Juice 3 Units / 946 mL / 32 oz | $89.95 | $105.95 | $+16.00 | +17.8% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $88.33 | $88.55 | $+0.22 | +0.2% | Increase |
+| Fresh Whole Chicken for Frying Bag | $258.92 | $258.77 | $-0.15 | -0.1% | Decrease |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $421.02 | $417.51 | $-3.51 | -0.8% | Decrease |
+| Sacla Italia Pizza Sauce 1 kg / 35.2 oz | $54.95 | $64.95 | $+10.00 | +18.2% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $188.69 | $188.42 | $-0.27 | -0.1% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.51 | $114.68 | $+0.17 | +0.1% | Increase |
+| Small Red Potato 1.3 kg / 3 lb | $48.95 | $49.95 | $+1.00 | +2.0% | Increase |
+| Papaya | $31.90 | $31.80 | $-0.10 | -0.3% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $93.89 | $93.79 | $-0.10 | -0.1% | Decrease |
+| Purple Cauliflower  | $62.95 | $39.70 | $-23.25 | -36.9% | Decrease |
+| Iceberg Lettuce Unit | $26.95 | $25.95 | $-1.00 | -3.7% | Decrease |
+| Dramas Cherry Tomato 340 g / 12 oz | $54.95 | $49.95 | $-5.00 | -9.1% | Decrease |
+| Fresh Ground Chicken Tray | $99.63 | $99.39 | $-0.24 | -0.2% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $87.37 | $87.48 | $+0.11 | +0.1% | Increase |
+| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $67.56 | $67.67 | $+0.11 | +0.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -295,7 +295,4 @@ This project has recently gained unexpected attention. It was created for person
 | Member's Selection Frozen Skinless Boneless Salmon Fillets Vacuum Packaged | Member's Selection | $304.50 | 2026-03-31 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Sacla Italia Pizza Sauce 1 kg / 35.2 oz | Sacla | $54.95 | G10D03 |
+No new products added today.
