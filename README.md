@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1147
-- **Total value**: $127,778.06
-- **Average price**: $111.40
+- **Total products scraped**: 1149
+- **Total value**: $128,059.88
+- **Average price**: $111.45
 
 ## Database Changes
-- **New products added**: 0
+- **New products added**: 2
 - **Existing products updated**: 1147
-- **Price changes detected**: 27
-- **Stock/availability changes**: 14
-- **Discontinued products**: 0
+- **Price changes detected**: 30
+- **Stock/availability changes**: 29
+- **Discontinued products**: 3
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 182 |
-|  | 136 |
+| Member's Selection | 181 |
+|  | 138 |
 | Badia | 19 |
 | Swiss | 15 |
 | Nestle | 11 |
@@ -210,44 +210,44 @@ This project has recently gained unexpected attention. It was created for person
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Member's Selection Refined Avocado Oil 1 L / 33.8 oz | Member's Selection | $169.95 | true |
+| Member's Selection Shredded Mozzarella Cheese 453 g / 1 lb | Member's Selection | $27.95 | true |
 | Mrs Thinster Toasted Coconut Cookies 454 g | Mrs. Thinster's | $89.95 | true |
 | Cheez-It Original, Grahams, and White Cheddar Cheez-It Gripz Variety Pack 12 Units / 25 g / 0.9 oz | CheezIt | $66.95 | true |
-| Carrington Farms Coconut Oil Spray 2 Units / 141.7 g / 5 oz | Carrington Farms | $69.95 | true |
-| Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | MorningStar Farms | $124.95 | true |
-| Philadelphia Salmon Cream Cheese 2 Units / 212 g / 7.5 oz | Philadelphia | $82.95 | true |
+| Califia Farms Lime and Coconut Lemonade 1.4 L / 48 oz | Califia Farms | $54.95 | true |
+| Swiss Honey Mustard Sauce 2 Units / 454 g | Swiss | $42.95 | true |
+| Member's Selection Freshly Baked Vanilla Loaf Cake | Member's Selection | $37.95 | true |
 | Sunny Fruits Dried Organics Figs 10 Units / 50 g / 1.76 oz | Sunny Fruits | $79.95 | true |
+| Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | Eggo | $106.95 | true |
 | Aqua Star Breaded Shrimp 1.36 kg / 3 lb | Aqua Star | $192.95 | true |
-| Prairie Farms Half and Half 946 mL / 32 oz | Prairie Farms | $37.95 | true |
-| Jimmy Dean Croissant Sausage, Egg & Cheese Sandwiches 1.53 kg / 3.38 lb | Jimmy Dean | $162.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1038
-- **Price increases**: 472
-- **Price decreases**: 533
-- **Average increase**: 10.7%
-- **Average decrease**: -5.9%
+- **Total price changes**: 1016
+- **Price increases**: 462
+- **Price decreases**: 520
+- **Average increase**: 10.9%
+- **Average decrease**: -5.8%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Seasoned BBQ Chicken Quarters Bag | $88.33 | $88.55 | $+0.22 | +0.2% | Increase |
-| Fresh Whole Chicken for Frying Bag | $258.92 | $258.77 | $-0.15 | -0.1% | Decrease |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $421.02 | $417.51 | $-3.51 | -0.8% | Decrease |
-| Sacla Italia Pizza Sauce 1 kg / 35.2 oz | $54.95 | $64.95 | $+10.00 | +18.2% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $188.69 | $188.42 | $-0.27 | -0.1% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.51 | $114.68 | $+0.17 | +0.1% | Increase |
-| Small Red Potato 1.3 kg / 3 lb | $48.95 | $49.95 | $+1.00 | +2.0% | Increase |
-| Papaya | $31.90 | $31.80 | $-0.10 | -0.3% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $93.89 | $93.79 | $-0.10 | -0.1% | Decrease |
-| Purple Cauliflower  | $62.95 | $39.70 | $-23.25 | -36.9% | Decrease |
-| Iceberg Lettuce Unit | $26.95 | $25.95 | $-1.00 | -3.7% | Decrease |
-| Dramas Cherry Tomato 340 g / 12 oz | $54.95 | $49.95 | $-5.00 | -9.1% | Decrease |
-| Fresh Ground Chicken Tray | $99.63 | $99.39 | $-0.24 | -0.2% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $87.37 | $87.48 | $+0.11 | +0.1% | Increase |
-| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $67.56 | $67.67 | $+0.11 | +0.2% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $88.55 | $88.78 | $+0.23 | +0.3% | Increase |
+| Fresh Whole Chicken for Frying Bag | $258.77 | $258.62 | $-0.15 | -0.1% | Decrease |
+| Caffe D'Vita Piña Colada Powdered Drink Mix 907 g / 32 oz | $35.70 | $109.95 | $+74.25 | +208.0% | Increase |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $417.51 | $428.22 | $+10.71 | +2.6% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $188.42 | $192.48 | $+4.06 | +2.2% | Increase |
+| Frozen Sliced Turkey Drumsticks | $151.14 | $211.03 | $+59.89 | +39.6% | Increase |
+| General Mills Triple Chex Cereal Mix 1.53 kg / 3 lb | $87.07 | $97.95 | $+10.88 | +12.5% | Increase |
+| Fresh Beef Ribeye Steak Vacuum Packed | $2290.87 | $2322.15 | $+31.28 | +1.4% | Increase |
+| Pier 33 Mussels in Butter and Garlic Sauce 1.36 kg / 3 lb | $0.00 | $97.95 | $+97.95 | +100.0% | New |
+| Fresh Beef Striploin Steak Tray | $170.27 | $187.56 | $+17.29 | +10.2% | Increase |
+| Papaya | $31.80 | $31.74 | $-0.06 | -0.2% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $82.98 | $82.89 | $-0.09 | -0.1% | Decrease |
+| Nutrina Chilled Whole Chicken Bag | $317.02 | $319.27 | $+2.25 | +0.7% | Increase |
+| Fresh Chicken Mixed Parts Tray | $87.48 | $87.59 | $+0.11 | +0.1% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $120.67 | $120.84 | $+0.17 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,9 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Bombolo Biscotti Decorated Cookies with Autumn Patterns 18 Units | Bombolo Biscotti | $13.77 | 2026-04-07 |
+| Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2026-04-07 |
+| Member's Selection Freshly Baked Vanilla Madeleine-Style Cake | Member's Selection | $37.95 | 2026-04-07 |
 | Kirkland Signature Clusters Chocolate Coated Cookies with Caramel and Marshmallow Filling 748 g / 26.3 oz | Kirkland Signature | $139.95 | 2026-04-05 |
 | Popsalot Gourmet Caramel Popcorn with Almonds 283 g / 10 oz | Popsalot Gourmet | $84.95 | 2026-04-01 |
 | Jayone Yizu Citrus Flavored Sweet Crispy Rice Rolls 2 Units / 80 g | Jayone | $39.95 | 2026-04-01 |
@@ -290,9 +293,10 @@ This project has recently gained unexpected attention. It was created for person
 | Bombolo Biscotti Mini Tartlets Filled with Sweet Wild Berry and Vanilla Flavor | Bombolo Biscotti | $64.95 | 2026-04-01 |
 | Fresh Red Globe Grapes |  | $81.07 | 2026-04-01 |
 | Frozen Pork Belly Skin On Case |  | $1169.42 | 2026-04-01 |
-| Fresh Beef Striploin Steak Tray |  | $170.27 | 2026-04-01 |
-| Delimex Cocina Beef Taquitos 566 g / 1.25 lb | Delimex Cocina | $62.95 | 2026-03-31 |
-| Member's Selection Frozen Skinless Boneless Salmon Fillets Vacuum Packaged | Member's Selection | $304.50 | 2026-03-31 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Pier 33 Mussels in Butter and Garlic Sauce 1.36 kg / 3 lb | Pier 33 | $97.95 | G10D03 |
+| Spirella Prosciutto with Mozzarella 454 g / 16 oz |  | $114.95 | G10D03 |
