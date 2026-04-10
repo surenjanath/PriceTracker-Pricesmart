@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1147
-- **Total value**: $126,497.29
-- **Average price**: $110.29
+- **Total products scraped**: 1145
+- **Total value**: $126,313.13
+- **Average price**: $110.32
 
 ## Database Changes
 - **New products added**: 0
-- **Existing products updated**: 1147
-- **Price changes detected**: 54
-- **Stock/availability changes**: 30
-- **Discontinued products**: 3
+- **Existing products updated**: 1145
+- **Price changes detected**: 37
+- **Stock/availability changes**: 21
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
@@ -20,14 +20,14 @@
 |  | 137 |
 | Badia | 19 |
 | Swiss | 15 |
-| Nestle | 11 |
+| Brunswick | 10 |
 
 ## Recent Products
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Member's Selection Refined Avocado Oil 1 L / 33.8 oz | Member's Selection | $169.95 | true |
 | Member's Selection Shredded Mozzarella Cheese 453 g / 1 lb | Member's Selection | $27.95 | true |
+| Member's Selection Refined Avocado Oil 1 L / 33.8 oz | Member's Selection | $169.95 | true |
 | Member's Selection Freshly Baked Vanilla Loaf Cake | Member's Selection | $37.95 | true |
 | Mrs Thinster Toasted Coconut Cookies 454 g | Mrs. Thinster's | $89.95 | true |
 | Cheez-It Original, Grahams, and White Cheddar Cheez-It Gripz Variety Pack 12 Units / 25 g / 0.9 oz | CheezIt | $66.95 | true |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1042
-- **Price increases**: 478
-- **Price decreases**: 532
-- **Average increase**: 10.5%
+- **Total price changes**: 1060
+- **Price increases**: 485
+- **Price decreases**: 543
+- **Average increase**: 10.8%
 - **Average decrease**: -5.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Member's Selection Sliced Almonds 907 g / 2 lb | $117.95 | $132.95 | $+15.00 | +12.7% | Increase |
-| Frozen Bone-In Goat Carcass Case | $1290.78 | $1129.32 | $-161.46 | -12.5% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $192.48 | $192.77 | $+0.29 | +0.2% | Increase |
-| Fresh Beef Striploin Steak Tray | $187.56 | $184.41 | $-3.15 | -1.7% | Decrease |
-| Swiss Twists 6 Units / 300 g | $28.95 | $27.95 | $-1.00 | -3.5% | Decrease |
-| Swiss Elbows 6 Units / 300 g / 10.6 oz | $28.95 | $26.95 | $-2.00 | -6.9% | Decrease |
-| Papaya | $31.74 | $31.52 | $-0.22 | -0.7% | Decrease |
-| Bluewater Farms Cranberry Juice 1.65 L / 56 oz | $59.95 | $50.29 | $-9.66 | -16.1% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $78.87 | $78.77 | $-0.10 | -0.1% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $93.79 | $93.69 | $-0.10 | -0.1% | Decrease |
-| Erin Farm Chicken Salami 1 kg / 2.2 lb | $46.95 | $45.95 | $-1.00 | -2.1% | Decrease |
-| Fratelli Beretta Italian Style Platter 340 g / 12 oz  | $84.95 | $89.95 | $+5.00 | +5.9% | Increase |
-| Philadelphia Cream Cheese 2 Units / 453 g / 16 oz | $112.95 | $89.66 | $-23.29 | -20.6% | Decrease |
-| Fresh Ground Chicken Tray | $99.39 | $99.27 | $-0.12 | -0.1% | Decrease |
-| Swiss Spaghetti 6 Units / 400 g | $33.95 | $30.95 | $-3.00 | -8.8% | Decrease |
+| Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $49.70 | $89.95 | $+40.25 | +81.0% | Increase |
+| Fresh Seedless Red Grapes 907 g / 2 lb | $69.95 | $74.95 | $+5.00 | +7.1% | Increase |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $359.44 | $358.33 | $-1.11 | -0.3% | Decrease |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $228.70 | $225.22 | $-3.48 | -1.5% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $192.77 | $193.05 | $+0.28 | +0.1% | Increase |
+| Fresh Red Globe Grapes 1.36 kg / 3 lb | $114.95 | $119.95 | $+5.00 | +4.3% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.68 | $114.51 | $-0.17 | -0.1% | Decrease |
+| Bluewater Farms Cranberry Juice 1.65 L / 56 oz | $50.29 | $44.70 | $-5.59 | -11.1% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $78.77 | $78.66 | $-0.11 | -0.1% | Decrease |
+| Pork Belly with Skin Frozen Vacuum Packaged | $181.14 | $179.20 | $-1.94 | -1.1% | Decrease |
+| Fresh Beef Striploin Steak Tray | $184.41 | $181.79 | $-2.62 | -1.4% | Decrease |
+| Iceberg Lettuce Unit | $25.95 | $22.95 | $-3.00 | -11.6% | Decrease |
+| Purple Cauliflower  | $39.70 | $62.95 | $+23.25 | +58.6% | Increase |
+| Philadelphia Cream Cheese 2 Units / 453 g / 16 oz | $89.66 | $79.70 | $-9.96 | -11.1% | Decrease |
+| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $67.67 | $67.78 | $+0.11 | +0.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,8 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Maison Bruyére Almond Crisps Cookies 360 g / 12.7 oz | Maison Bruyère | $109.95 | 2026-04-09 |
+| Nestlé French Vanilla Flavored Coffee Cream 1.89 L / 64 oz | Nestle | $72.95 | 2026-04-09 |
 | Member's Selection Pumpkin and Spice Swiss Roll Freshly Baked | Member's Selection | $35.95 | 2026-04-08 |
 | Whole Striploin Fresh Vacuum Packed |  | $1217.70 | 2026-04-08 |
 | Member's Selection Chilled New York Strip Steak Tray | Member's Selection | $168.78 | 2026-04-08 |
@@ -108,8 +110,6 @@
 | Member's Selection Freshly Baked Vanilla Madeleine-Style Cake | Member's Selection | $37.95 | 2026-04-07 |
 | Kirkland Signature Clusters Chocolate Coated Cookies with Caramel and Marshmallow Filling 748 g / 26.3 oz | Kirkland Signature | $139.95 | 2026-04-05 |
 | Popsalot Gourmet Caramel Popcorn with Almonds 283 g / 10 oz | Popsalot Gourmet | $84.95 | 2026-04-01 |
-| Jayone Yizu Citrus Flavored Sweet Crispy Rice Rolls 2 Units / 80 g | Jayone | $39.95 | 2026-04-01 |
-| Seedless Red Grapes |  | $97.01 | 2026-04-01 |
 
 ## New Products Added Today
 No new products added today.
