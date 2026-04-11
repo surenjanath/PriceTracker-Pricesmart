@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1145
-- **Total value**: $126,313.13
-- **Average price**: $110.32
+- **Total products scraped**: 1147
+- **Total value**: $126,362.96
+- **Average price**: $110.17
 
 ## Database Changes
-- **New products added**: 0
+- **New products added**: 2
 - **Existing products updated**: 1145
-- **Price changes detected**: 37
-- **Stock/availability changes**: 21
-- **Discontinued products**: 2
+- **Price changes detected**: 19
+- **Stock/availability changes**: 15
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -32,39 +32,39 @@
 | Mrs Thinster Toasted Coconut Cookies 454 g | Mrs. Thinster's | $89.95 | true |
 | Cheez-It Original, Grahams, and White Cheddar Cheez-It Gripz Variety Pack 12 Units / 25 g / 0.9 oz | CheezIt | $66.95 | true |
 | Sunny Fruits Dried Organics Figs 10 Units / 50 g / 1.76 oz | Sunny Fruits | $79.95 | true |
-| Califia Farms Lime and Coconut Lemonade 1.4 L / 48 oz | Califia Farms | $54.95 | true |
-| Swiss Honey Mustard Sauce 2 Units / 454 g | Swiss | $42.95 | true |
 | Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | Eggo | $106.95 | true |
-| Aqua Star Breaded Shrimp 1.36 kg / 3 lb | Aqua Star | $192.95 | true |
+| Swiss Honey Mustard Sauce 2 Units / 454 g | Swiss | $42.95 | true |
+| Califia Farms Lime and Coconut Lemonade 1.4 L / 48 oz | Califia Farms | $54.95 | true |
+| Heinz Tomato Ketchup 567 g / 20 oz | Heinz | $29.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1060
-- **Price increases**: 485
-- **Price decreases**: 543
-- **Average increase**: 10.8%
-- **Average decrease**: -5.6%
+- **Total price changes**: 1024
+- **Price increases**: 462
+- **Price decreases**: 530
+- **Average increase**: 10.3%
+- **Average decrease**: -5.4%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $49.70 | $89.95 | $+40.25 | +81.0% | Increase |
-| Fresh Seedless Red Grapes 907 g / 2 lb | $69.95 | $74.95 | $+5.00 | +7.1% | Increase |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $359.44 | $358.33 | $-1.11 | -0.3% | Decrease |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $228.70 | $225.22 | $-3.48 | -1.5% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $192.77 | $193.05 | $+0.28 | +0.1% | Increase |
-| Fresh Red Globe Grapes 1.36 kg / 3 lb | $114.95 | $119.95 | $+5.00 | +4.3% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.68 | $114.51 | $-0.17 | -0.1% | Decrease |
-| Bluewater Farms Cranberry Juice 1.65 L / 56 oz | $50.29 | $44.70 | $-5.59 | -11.1% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $78.77 | $78.66 | $-0.11 | -0.1% | Decrease |
-| Pork Belly with Skin Frozen Vacuum Packaged | $181.14 | $179.20 | $-1.94 | -1.1% | Decrease |
-| Fresh Beef Striploin Steak Tray | $184.41 | $181.79 | $-2.62 | -1.4% | Decrease |
-| Iceberg Lettuce Unit | $25.95 | $22.95 | $-3.00 | -11.6% | Decrease |
-| Purple Cauliflower  | $39.70 | $62.95 | $+23.25 | +58.6% | Increase |
-| Philadelphia Cream Cheese 2 Units / 453 g / 16 oz | $89.66 | $79.70 | $-9.96 | -11.1% | Decrease |
-| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $67.67 | $67.78 | $+0.11 | +0.2% | Increase |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $358.33 | $357.97 | $-0.36 | -0.1% | Decrease |
+| KFI Cooking Sauce Tikka Masala 2 Units / 650 mL | $0.00 | $89.95 | $+89.95 | +100.0% | New |
+| Calbee Snacks Lightly Salted Baked Pea Crisps 567 g / 1.25 lb | $0.00 | $116.95 | $+116.95 | +100.0% | New |
+| Papaya | $31.52 | $31.42 | $-0.10 | -0.3% | Decrease |
+| Fresh Beef Striploin Steak Tray | $181.79 | $216.35 | $+34.56 | +19.0% | Increase |
+| Fresh Chicken Thighs Boneless Tray | $82.49 | $82.36 | $-0.13 | -0.2% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $82.89 | $82.81 | $-0.08 | -0.1% | Decrease |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $72.14 | $72.26 | $+0.12 | +0.2% | Increase |
+| Fresh Chicken Mixed Parts Tray | $87.81 | $88.03 | $+0.22 | +0.3% | Increase |
+| Fresh Ground Chicken Tray | $99.27 | $99.15 | $-0.12 | -0.1% | Decrease |
+| Sprite Zero Sugar Soda in Cans 12 Units / 355 mL / 12 oz | $48.95 | $49.95 | $+1.00 | +2.0% | Increase |
+| Fresh Chicken Leg Quarters Tray | $92.11 | $92.21 | $+0.10 | +0.1% | Increase |
+| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $151.90 | $152.27 | $+0.37 | +0.2% | Increase |
+| Fresh Chicken Boneless Breast Bag | $412.67 | $412.22 | $-0.45 | -0.1% | Decrease |
+| Ribeye Choice Fillet Fresh Tray | $329.23 | $290.82 | $-38.41 | -11.7% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -112,4 +112,8 @@
 | Popsalot Gourmet Caramel Popcorn with Almonds 283 g / 10 oz | Popsalot Gourmet | $84.95 | 2026-04-01 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| KFI Cooking Sauce Tikka Masala 2 Units / 650 mL | KFI | $89.95 | G10D03 |
+| Calbee Snacks Lightly Salted Baked Pea Crisps 567 g / 1.25 lb | Calbee | $116.95 | G10D03 |
