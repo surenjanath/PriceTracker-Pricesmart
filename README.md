@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1146
-- **Total value**: $126,393.60
-- **Average price**: $110.29
+- **Total products scraped**: 1145
+- **Total value**: $126,475.42
+- **Average price**: $110.46
 
 ## Database Changes
-- **New products added**: 1
+- **New products added**: 0
 - **Existing products updated**: 1145
-- **Price changes detected**: 25
-- **Stock/availability changes**: 14
-- **Discontinued products**: 4
+- **Price changes detected**: 55
+- **Stock/availability changes**: 12
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1009
-- **Price increases**: 456
-- **Price decreases**: 520
-- **Average increase**: 10.1%
-- **Average decrease**: -5.2%
+- **Total price changes**: 1034
+- **Price increases**: 478
+- **Price decreases**: 523
+- **Average increase**: 8.0%
+- **Average decrease**: -5.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $428.22 | $427.02 | $-1.20 | -0.3% | Decrease |
-| Corn Pops Sweet Crunchy Corn Cereal 935 g / 33 oz | $0.00 | $79.95 | $+79.95 | +100.0% | New |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $357.97 | $359.44 | $+1.47 | +0.4% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.51 | $114.68 | $+0.17 | +0.1% | Increase |
-| Papaya | $31.42 | $31.36 | $-0.06 | -0.2% | Decrease |
-| Baby Carrots 450 g / 16 oz | $14.95 | $17.95 | $+3.00 | +20.1% | Increase |
-| Fresh Beef Striploin Steak Tray | $216.35 | $214.49 | $-1.86 | -0.9% | Decrease |
-| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $67.78 | $68.09 | $+0.31 | +0.5% | Increase |
-| Fresh Chicken Breast Bone In Tray | $93.69 | $93.60 | $-0.09 | -0.1% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $88.78 | $88.55 | $-0.23 | -0.3% | Decrease |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $72.26 | $72.78 | $+0.52 | +0.7% | Increase |
-| Fresh Whole Chicken 2 Units | $105.20 | $104.85 | $-0.35 | -0.3% | Decrease |
-| Fresh Ground Chicken Tray | $99.15 | $99.27 | $+0.12 | +0.1% | Increase |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $83.63 | $83.76 | $+0.13 | +0.2% | Increase |
-| Fresh Chicken Mixed Parts Tray | $88.03 | $88.25 | $+0.22 | +0.2% | Increase |
+| Fine Choice Chilled Chicken Feet, Bag 3 kg / 6.6 lb | $42.95 | $29.95 | $-13.00 | -30.3% | Decrease |
+| Fresh Chicken Thighs Boneless Tray | $82.36 | $82.49 | $+0.13 | +0.2% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $87.43 | $81.59 | $-5.84 | -6.7% | Decrease |
+| Fresh Chicken Breast Boneless Skinless Tray | $82.95 | $87.95 | $+5.00 | +6.0% | Increase |
+| Fresh Chicken Thighs Boneless Bag | $317.27 | $321.21 | $+3.94 | +1.2% | Increase |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $427.02 | $428.22 | $+1.20 | +0.3% | Increase |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $359.44 | $355.02 | $-4.42 | -1.2% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $193.05 | $193.90 | $+0.85 | +0.4% | Increase |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $225.22 | $228.70 | $+3.48 | +1.5% | Increase |
+| Frozen Sliced Turkey Drumsticks | $211.03 | $228.84 | $+17.81 | +8.4% | Increase |
+| Fresh Beef Ribeye Steak Vacuum Packed | $2322.15 | $2384.71 | $+62.56 | +2.7% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $57.64 | $38.92 | $-18.72 | -32.5% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.68 | $114.51 | $-0.17 | -0.1% | Decrease |
+| Papaya | $31.36 | $31.42 | $+0.06 | +0.2% | Increase |
+| Pork Belly with Skin Frozen Vacuum Packaged | $179.20 | $178.77 | $-0.43 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Pringles Original Flavor, Cheese and Sour Cream Chips 4 Units | Pringles | $87.95 | 2026-04-12 |
 | Activia Assorted Probiotics Low Fat Yogurt Drink 24 Units / 93 mL / 3.1 oz | Activia | $157.95 | 2026-04-11 |
 | Frozen Beef Feet Sliced Case |  | $743.58 | 2026-04-11 |
 | Member's Selection Chilled Ground Beef Tray | Member's Selection | $99.68 | 2026-04-11 |
@@ -292,10 +293,6 @@ This project has recently gained unexpected attention. It was created for person
 | Member's Selection Pumpkin and Spice Swiss Roll Freshly Baked | Member's Selection | $35.95 | 2026-04-08 |
 | Whole Striploin Fresh Vacuum Packed |  | $1217.70 | 2026-04-08 |
 | Member's Selection Chilled New York Strip Steak Tray | Member's Selection | $168.78 | 2026-04-08 |
-| Bombolo Biscotti Decorated Cookies with Autumn Patterns 18 Units | Bombolo Biscotti | $13.77 | 2026-04-07 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Corn Pops Sweet Crunchy Corn Cereal 935 g / 33 oz | Corn Pops | $79.95 | G10D03 |
+No new products added today.
