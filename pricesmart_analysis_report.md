@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1146
-- **Total value**: $126,504.16
-- **Average price**: $110.39
+- **Total products scraped**: 1143
+- **Total value**: $126,474.40
+- **Average price**: $110.65
 
 ## Database Changes
 - **New products added**: 0
-- **Existing products updated**: 1146
-- **Price changes detected**: 28
-- **Stock/availability changes**: 21
-- **Discontinued products**: 3
+- **Existing products updated**: 1143
+- **Price changes detected**: 51
+- **Stock/availability changes**: 8
+- **Discontinued products**: 10
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 176 |
-|  | 135 |
+| Member's Selection | 181 |
+|  | 134 |
 | Badia | 19 |
 | Swiss | 15 |
 | Brunswick | 10 |
@@ -26,45 +26,45 @@
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Member's Selection Refined Avocado Oil 1 L / 33.8 oz | Member's Selection | $169.95 | true |
 | Member's Selection Shredded Mozzarella Cheese 453 g / 1 lb | Member's Selection | $27.95 | true |
+| Member's Selection Refined Avocado Oil 1 L / 33.8 oz | Member's Selection | $169.95 | true |
 | Member's Selection Freshly Baked Vanilla Loaf Cake | Member's Selection | $37.95 | true |
 | Mrs Thinster Toasted Coconut Cookies 454 g | Mrs. Thinster's | $89.95 | true |
 | Cheez-It Original, Grahams, and White Cheddar Cheez-It Gripz Variety Pack 12 Units / 25 g / 0.9 oz | CheezIt | $66.95 | true |
 | Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | Eggo | $106.95 | true |
 | Sunny Fruits Dried Organics Figs 10 Units / 50 g / 1.76 oz | Sunny Fruits | $79.95 | true |
-| Heinz Tomato Ketchup 567 g / 20 oz | Heinz | $29.95 | true |
+| Califia Farms Lime and Coconut Lemonade 1.4 L / 48 oz | Califia Farms | $54.95 | true |
+| Spirella Prosciutto with Mozzarella 454 g / 16 oz |  | $114.95 | true |
 | Aqua Star Breaded Shrimp 1.36 kg / 3 lb | Aqua Star | $192.95 | true |
-| Swiss Honey Mustard Sauce 2 Units / 454 g | Swiss | $42.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1041
-- **Price increases**: 486
-- **Price decreases**: 522
-- **Average increase**: 7.3%
-- **Average decrease**: -5.7%
+- **Total price changes**: 1064
+- **Price increases**: 502
+- **Price decreases**: 531
+- **Average increase**: 7.2%
+- **Average decrease**: -5.8%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $428.22 | $441.26 | $+13.04 | +3.0% | Increase |
-| Select Harvest Sweet and Smoked Barbecue Flavor Roasted Almonds 680 g / 1.5 lb | $79.95 | $94.95 | $+15.00 | +18.8% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $193.62 | $202.10 | $+8.48 | +4.4% | Increase |
-| String Beans 1 kg / 2.2 lb | $54.95 | $49.95 | $-5.00 | -9.1% | Decrease |
-| Okra 30 Units | $16.45 | $15.95 | $-0.50 | -3.0% | Decrease |
-| Coffee Toppers Salted Caramel Whipped Cream 2 Units / 425 g / 15 oz | $79.95 | $49.70 | $-30.25 | -37.8% | Decrease |
-| Orchard Party Mix Orange Juice 3 Units / 946 mL / 32 oz | $105.95 | $106.95 | $+1.00 | +0.9% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $65.32 | $65.39 | $+0.07 | +0.1% | Increase |
-| Nescafé Classic Instant Coffee 3 in 1 3 Units / 114 g | $54.95 | $56.95 | $+2.00 | +3.6% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $121.20 | $121.37 | $+0.17 | +0.1% | Increase |
-| Fresh Whole Chicken 2 Units | $101.68 | $101.44 | $-0.24 | -0.2% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $80.32 | $80.62 | $+0.30 | +0.4% | Increase |
-| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | $166.34 | $165.98 | $-0.36 | -0.2% | Decrease |
-| Orchard Assorted Flavored Juice Boxes 24 Units / 250 mL / 8.45 oz | $102.95 | $104.95 | $+2.00 | +1.9% | Increase |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $229.37 | $228.70 | $-0.67 | -0.3% | Decrease |
+| Campoverde Spinach, Mango, Apple and Pineapple Mix 907 g / 2 lb | $104.95 | $114.95 | $+10.00 | +9.5% | Increase |
+| Butterball Whole Turkey 4.5 kg - 5.4 kg / 10 lb - 12 lb | $289.95 | $339.95 | $+50.00 | +17.2% | Increase |
+| Krusteaz Butter and Honey Pancake Mix 8 Units / 907 g / 2 lb | $210.95 | $149.70 | $-61.25 | -29.0% | Decrease |
+| Fresh Chicken Thighs Boneless Tray | $82.49 | $82.62 | $+0.13 | +0.2% | Increase |
+| Snapple Fruit Flavored Juice 24 Units / 591 mL / 20 oz | $269.95 | $329.95 | $+60.00 | +22.2% | Increase |
+| Member's Selection Frozen Bone-In Goat Stew Bag | $87.54 | $97.14 | $+9.60 | +11.0% | Increase |
+| Frozen Sliced Turkey Drumsticks | $228.84 | $211.03 | $-17.81 | -7.8% | Decrease |
+| Quantum Energy Bars Cookie Dough Flavor with Chocolate Chips and Peanut Butter with Dark Chocolate 16 Units / 48 g / 1.7 oz | $234.95 | $169.70 | $-65.25 | -27.8% | Decrease |
+| Swiss Elbows 6 Units / 300 g / 10.6 oz | $26.95 | $25.95 | $-1.00 | -3.7% | Decrease |
+| Sofi's Cookies by Tselepidis Family Whole Grain Oatmeal Cookies with Honey 760 g / 1.67 lb | $99.95 | $59.70 | $-40.25 | -40.3% | Decrease |
+| Papaya | $31.52 | $31.71 | $+0.19 | +0.6% | Increase |
+| Chive 454 g / 1 lb | $29.95 | $24.95 | $-5.00 | -16.7% | Decrease |
+| Swiss Twists 6 Units / 300 g | $27.95 | $25.95 | $-2.00 | -7.2% | Decrease |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $83.76 | $83.63 | $-0.13 | -0.2% | Decrease |
+| Chandon Beni (Culantro) 454 g / 1 lb | $29.95 | $24.95 | $-5.00 | -16.7% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,16 +100,16 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
-| Fresh Melon |  | $49.95 | 2026-04-14 |
-| Ocean Spray Cranberry Juice 12 Units / 450 mL / 15.2 oz | Ocean Spray | $99.70 | 2026-04-14 |
-| Member's Selection Freshly Made Chicken Salad Wraps 4 Units | Member's Selection | $65.95 | 2026-04-14 |
-| Frozen Bone-In Pork Shoulder Vacuum Packed |  | $241.76 | 2026-04-13 |
-| Pringles Original Flavor, Cheese and Sour Cream Chips 4 Units | Pringles | $87.95 | 2026-04-12 |
-| Activia Assorted Probiotics Low Fat Yogurt Drink 24 Units / 93 mL / 3.1 oz | Activia | $157.95 | 2026-04-11 |
-| Frozen Beef Feet Sliced Case |  | $743.58 | 2026-04-11 |
-| Member's Selection Chilled Ground Beef Tray | Member's Selection | $99.68 | 2026-04-11 |
-| Member's Selection Chilled Ground Beef | Member's Selection | $298.05 | 2026-04-11 |
-| Maison Bruyére Almond Crisps Cookies 360 g / 12.7 oz | Maison Bruyère | $109.95 | 2026-04-09 |
+| Par Excellence Long Grain White Jasmine Rice 4 kg | Par Excellence | $69.95 | 2026-04-15 |
+| Solo Ginger Refreshing Drink 8 Units / 1.5 L / 51 oz | Solo | $44.95 | 2026-04-15 |
+| Dietz & Watson Chef Carved Ham 1.36 kg / 3 lb | Dietz and Watson | $165.95 | 2026-04-15 |
+| Peardrax Sparkling Pear Drink 3 units/ 1 lt | Peardrax | $68.95 | 2026-04-15 |
+| Oleoestepa Hojiblanca Extra Virgin Olive Oil 1 L / 34 oz  | Oleoestepa | $114.95 | 2026-04-15 |
+| Nescafé Classic Instant Coffee 190 g + Mug | Nescafé | $66.95 | 2026-04-15 |
+| Eve Red Kidney Beans 6 Units / 400 g / 14 oz | Eve | $54.95 | 2026-04-15 |
+| Ankara Tricolor Pasta 4 Units / 350 g | Ankara | $33.95 | 2026-04-15 |
+| Fresh Grape Tomatoes 907 g / 2 lb |  | $67.95 | 2026-04-15 |
+| Member's Selection Frozen Bone-In Pork Leg Vacuum Packed | Member's Selection | $455.82 | 2026-04-15 |
 
 ## New Products Added Today
 No new products added today.
