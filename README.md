@@ -185,15 +185,15 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1143
-- **Total value**: $126,474.40
-- **Average price**: $110.65
+- **Total value**: $126,522.90
+- **Average price**: $110.69
 
 ## Database Changes
 - **New products added**: 0
 - **Existing products updated**: 1143
-- **Price changes detected**: 51
+- **Price changes detected**: 33
 - **Stock/availability changes**: 8
-- **Discontinued products**: 10
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -212,42 +212,42 @@ This project has recently gained unexpected attention. It was created for person
 | Member's Selection Shredded Mozzarella Cheese 453 g / 1 lb | Member's Selection | $27.95 | true |
 | Member's Selection Refined Avocado Oil 1 L / 33.8 oz | Member's Selection | $169.95 | true |
 | Member's Selection Freshly Baked Vanilla Loaf Cake | Member's Selection | $37.95 | true |
-| Mrs Thinster Toasted Coconut Cookies 454 g | Mrs. Thinster's | $89.95 | true |
 | Cheez-It Original, Grahams, and White Cheddar Cheez-It Gripz Variety Pack 12 Units / 25 g / 0.9 oz | CheezIt | $66.95 | true |
+| Mrs Thinster Toasted Coconut Cookies 454 g | Mrs. Thinster's | $89.95 | true |
 | Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | Eggo | $106.95 | true |
-| Sunny Fruits Dried Organics Figs 10 Units / 50 g / 1.76 oz | Sunny Fruits | $79.95 | true |
 | Califia Farms Lime and Coconut Lemonade 1.4 L / 48 oz | Califia Farms | $54.95 | true |
 | Spirella Prosciutto with Mozzarella 454 g / 16 oz |  | $114.95 | true |
-| Aqua Star Breaded Shrimp 1.36 kg / 3 lb | Aqua Star | $192.95 | true |
+| Sunny Fruits Dried Organics Figs 10 Units / 50 g / 1.76 oz | Sunny Fruits | $79.95 | true |
+| Swiss Honey Mustard Sauce 2 Units / 454 g | Swiss | $42.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1064
-- **Price increases**: 502
-- **Price decreases**: 531
+- **Total price changes**: 1073
+- **Price increases**: 509
+- **Price decreases**: 534
 - **Average increase**: 7.2%
-- **Average decrease**: -5.8%
+- **Average decrease**: -5.9%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Campoverde Spinach, Mango, Apple and Pineapple Mix 907 g / 2 lb | $104.95 | $114.95 | $+10.00 | +9.5% | Increase |
-| Butterball Whole Turkey 4.5 kg - 5.4 kg / 10 lb - 12 lb | $289.95 | $339.95 | $+50.00 | +17.2% | Increase |
-| Krusteaz Butter and Honey Pancake Mix 8 Units / 907 g / 2 lb | $210.95 | $149.70 | $-61.25 | -29.0% | Decrease |
-| Fresh Chicken Thighs Boneless Tray | $82.49 | $82.62 | $+0.13 | +0.2% | Increase |
-| Snapple Fruit Flavored Juice 24 Units / 591 mL / 20 oz | $269.95 | $329.95 | $+60.00 | +22.2% | Increase |
-| Member's Selection Frozen Bone-In Goat Stew Bag | $87.54 | $97.14 | $+9.60 | +11.0% | Increase |
-| Frozen Sliced Turkey Drumsticks | $228.84 | $211.03 | $-17.81 | -7.8% | Decrease |
-| Quantum Energy Bars Cookie Dough Flavor with Chocolate Chips and Peanut Butter with Dark Chocolate 16 Units / 48 g / 1.7 oz | $234.95 | $169.70 | $-65.25 | -27.8% | Decrease |
-| Swiss Elbows 6 Units / 300 g / 10.6 oz | $26.95 | $25.95 | $-1.00 | -3.7% | Decrease |
-| Sofi's Cookies by Tselepidis Family Whole Grain Oatmeal Cookies with Honey 760 g / 1.67 lb | $99.95 | $59.70 | $-40.25 | -40.3% | Decrease |
-| Papaya | $31.52 | $31.71 | $+0.19 | +0.6% | Increase |
-| Chive 454 g / 1 lb | $29.95 | $24.95 | $-5.00 | -16.7% | Decrease |
-| Swiss Twists 6 Units / 300 g | $27.95 | $25.95 | $-2.00 | -7.2% | Decrease |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $83.76 | $83.63 | $-0.13 | -0.2% | Decrease |
-| Chandon Beni (Culantro) 454 g / 1 lb | $29.95 | $24.95 | $-5.00 | -16.7% | Decrease |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $359.44 | $360.91 | $+1.47 | +0.4% | Increase |
+| Crix Steelpan Original Cookies in Collectible Tin 768 g | $59.95 | $51.95 | $-8.00 | -13.3% | Decrease |
+| Frozen Pork Belly Skin On Sliced Tray  | $116.83 | $116.59 | $-0.24 | -0.2% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $38.92 | $39.05 | $+0.13 | +0.3% | Increase |
+| Papaya | $31.71 | $31.84 | $+0.13 | +0.4% | Increase |
+| Iceberg Lettuce Unit | $21.95 | $22.95 | $+1.00 | +4.6% | Increase |
+| Mini Sweet Peppers 454 g / 1 lb | $39.95 | $44.95 | $+5.00 | +12.5% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $65.39 | $66.20 | $+0.81 | +1.2% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $163.11 | $162.16 | $-0.95 | -0.6% | Decrease |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $72.78 | $72.90 | $+0.12 | +0.2% | Increase |
+| Fresh Chicken Breast Bone In Tray | $87.74 | $88.28 | $+0.54 | +0.6% | Increase |
+| Ribeye Choice Fillet Fresh Tray | $298.86 | $296.76 | $-2.10 | -0.7% | Decrease |
+| Fine Choice Fresh Marinated Chicken Tray | $81.59 | $81.89 | $+0.30 | +0.4% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $121.37 | $121.20 | $-0.17 | -0.1% | Decrease |
+| Cauliflower 1 Unit | $44.95 | $39.95 | $-5.00 | -11.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
