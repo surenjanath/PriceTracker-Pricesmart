@@ -1,14 +1,14 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1143
-- **Total value**: $126,522.90
-- **Average price**: $110.69
+- **Total products scraped**: 1147
+- **Total value**: $128,536.47
+- **Average price**: $112.06
 
 ## Database Changes
-- **New products added**: 0
+- **New products added**: 4
 - **Existing products updated**: 1143
-- **Price changes detected**: 33
+- **Price changes detected**: 38
 - **Stock/availability changes**: 8
 - **Discontinued products**: 0
 
@@ -17,7 +17,7 @@
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 181 |
-|  | 134 |
+|  | 135 |
 | Badia | 19 |
 | Swiss | 15 |
 | Brunswick | 10 |
@@ -33,38 +33,38 @@
 | Mrs Thinster Toasted Coconut Cookies 454 g | Mrs. Thinster's | $89.95 | true |
 | Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | Eggo | $106.95 | true |
 | Califia Farms Lime and Coconut Lemonade 1.4 L / 48 oz | Califia Farms | $54.95 | true |
-| Spirella Prosciutto with Mozzarella 454 g / 16 oz |  | $114.95 | true |
-| Sunny Fruits Dried Organics Figs 10 Units / 50 g / 1.76 oz | Sunny Fruits | $79.95 | true |
+| Aqua Star Breaded Shrimp 1.36 kg / 3 lb | Aqua Star | $192.95 | true |
 | Swiss Honey Mustard Sauce 2 Units / 454 g | Swiss | $42.95 | true |
+| Spirella Prosciutto with Mozzarella 454 g / 16 oz |  | $114.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1073
-- **Price increases**: 509
-- **Price decreases**: 534
+- **Total price changes**: 1068
+- **Price increases**: 507
+- **Price decreases**: 528
 - **Average increase**: 7.2%
-- **Average decrease**: -5.9%
+- **Average decrease**: -6.2%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Frozen Lamb Leg Whole Boneless Tray Pack | $359.44 | $360.91 | $+1.47 | +0.4% | Increase |
-| Crix Steelpan Original Cookies in Collectible Tin 768 g | $59.95 | $51.95 | $-8.00 | -13.3% | Decrease |
-| Frozen Pork Belly Skin On Sliced Tray  | $116.83 | $116.59 | $-0.24 | -0.2% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $38.92 | $39.05 | $+0.13 | +0.3% | Increase |
-| Papaya | $31.71 | $31.84 | $+0.13 | +0.4% | Increase |
-| Iceberg Lettuce Unit | $21.95 | $22.95 | $+1.00 | +4.6% | Increase |
-| Mini Sweet Peppers 454 g / 1 lb | $39.95 | $44.95 | $+5.00 | +12.5% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $65.39 | $66.20 | $+0.81 | +1.2% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $163.11 | $162.16 | $-0.95 | -0.6% | Decrease |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $72.78 | $72.90 | $+0.12 | +0.2% | Increase |
-| Fresh Chicken Breast Bone In Tray | $87.74 | $88.28 | $+0.54 | +0.6% | Increase |
-| Ribeye Choice Fillet Fresh Tray | $298.86 | $296.76 | $-2.10 | -0.7% | Decrease |
-| Fine Choice Fresh Marinated Chicken Tray | $81.59 | $81.89 | $+0.30 | +0.4% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $121.37 | $121.20 | $-0.17 | -0.1% | Decrease |
-| Cauliflower 1 Unit | $44.95 | $39.95 | $-5.00 | -11.1% | Decrease |
+| Grill Mates Montreal Meat Seasoning Salt Spices and Garlic 822 g / 29 oz | $99.95 | $88.84 | $-11.11 | -11.1% | Decrease |
+| Suzy's Cream Cheesecakes Black Forest Cherry Cheesecake 12 Slices | $0.00 | $188.95 | $+188.95 | +100.0% | New |
+| Corn Pops Sweet Crunchy Corn Cereal 935 g / 33 oz | $79.95 | $71.07 | $-8.88 | -11.1% | Decrease |
+| Nature's Heart Extra Creamy Vanilla Flavor Almond Drink 3 Units / 946 mL | $0.00 | $59.95 | $+59.95 | +100.0% | New |
+| Fresh Whole Striploin Fillet Vacuum packaged | $0.00 | $1812.66 | $+1812.66 | +100.0% | New |
+| Nescafé Classic Instant Coffee 100% Pure 170 g | $0.00 | $60.95 | $+60.95 | +100.0% | New |
+| Frozen Sliced Turkey Drumsticks | $211.03 | $202.86 | $-8.17 | -3.9% | Decrease |
+| Nature's Pride Red Beans 1.8 kg / 4 lb | $64.95 | $59.95 | $-5.00 | -7.7% | Decrease |
+| Crix Steelpan Original Cookies in Collectible Tin 768 g | $51.95 | $49.70 | $-2.25 | -4.3% | Decrease |
+| Papaya | $31.84 | $31.96 | $+0.12 | +0.4% | Increase |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $360.91 | $362.75 | $+1.84 | +0.5% | Increase |
+| Nectarine 908 g / 2 lb | $62.95 | $59.95 | $-3.00 | -4.8% | Decrease |
+| Small Red Potato 1.3 kg / 3 lb | $49.95 | $47.95 | $-2.00 | -4.0% | Decrease |
+| Red Bull Energy Drink 4 Units / 250 mL / 8.4 oz | $39.95 | $44.95 | $+5.00 | +12.5% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $77.10 | $76.99 | $-0.11 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -88,13 +88,13 @@
 | Hunt's Diced Tomatoes 8 Units / 411 g / 14.25 oz | $1999.00 | $104.95 | -94.7% |
 | Member's Selection Premium Carved Cooked Ham with Natural Juices 2 Units / 340 g / 12 oz  | $69.95 | $9.70 | -86.1% |
 | Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $57.95 | $9.70 | -83.3% |
+| Garcia Chicken & Pork Smoked Sausage 680 g / 1.5 lb | $44.95 | $9.70 | -78.4% |
 | Tropical Frying Cheese 907 g / 32 oz | $89.95 | $19.70 | -78.1% |
 | Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $89.95 | $19.70 | -78.1% |
 | Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $57.95 | $14.70 | -74.6% |
 | Bombolo Biscotti Decorated Cookies with Autumn Patterns 18 Units | $52.70 | $13.77 | -73.9% |
 | Sabra Classic Hummus 850 g / 30 oz | $79.95 | $24.70 | -69.1% |
 | Avocado 2 Units | $29.95 | $9.70 | -67.6% |
-| Kozyshack Cinnamon Rice Pudding 1.36 kg / 3 lb | $87.95 | $29.70 | -66.2% |
 
 ## Recently Discontinued Products
 
@@ -112,4 +112,10 @@
 | Member's Selection Frozen Bone-In Pork Leg Vacuum Packed | Member's Selection | $455.82 | 2026-04-15 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Suzy's Cream Cheesecakes Black Forest Cherry Cheesecake 12 Slices | Suzy's Cream Cheesecakes | $188.95 | G10D03 |
+| Nature's Heart Extra Creamy Vanilla Flavor Almond Drink 3 Units / 946 mL | Nature's Heart | $59.95 | G10D03 |
+| Fresh Whole Striploin Fillet Vacuum packaged |  | $1812.66 | G10D03 |
+| Nescafé Classic Instant Coffee 100% Pure 170 g | Nescafé | $60.95 | G10D03 |
