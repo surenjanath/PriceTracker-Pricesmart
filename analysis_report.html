@@ -1,15 +1,15 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1147
-- **Total value**: $128,536.47
-- **Average price**: $112.06
+- **Total products scraped**: 1148
+- **Total value**: $128,337.89
+- **Average price**: $111.79
 
 ## Database Changes
-- **New products added**: 4
-- **Existing products updated**: 1143
-- **Price changes detected**: 38
-- **Stock/availability changes**: 8
+- **New products added**: 1
+- **Existing products updated**: 1147
+- **Price changes detected**: 17
+- **Stock/availability changes**: 12
 - **Discontinued products**: 0
 
 ## Top 5 Brands
@@ -26,45 +26,45 @@
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Member's Selection Shredded Mozzarella Cheese 453 g / 1 lb | Member's Selection | $27.95 | true |
 | Member's Selection Refined Avocado Oil 1 L / 33.8 oz | Member's Selection | $169.95 | true |
 | Member's Selection Freshly Baked Vanilla Loaf Cake | Member's Selection | $37.95 | true |
 | Cheez-It Original, Grahams, and White Cheddar Cheez-It Gripz Variety Pack 12 Units / 25 g / 0.9 oz | CheezIt | $66.95 | true |
 | Mrs Thinster Toasted Coconut Cookies 454 g | Mrs. Thinster's | $89.95 | true |
 | Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | Eggo | $106.95 | true |
 | Califia Farms Lime and Coconut Lemonade 1.4 L / 48 oz | Califia Farms | $54.95 | true |
+| Spirella Prosciutto with Mozzarella 454 g / 16 oz |  | $114.95 | true |
 | Aqua Star Breaded Shrimp 1.36 kg / 3 lb | Aqua Star | $192.95 | true |
 | Swiss Honey Mustard Sauce 2 Units / 454 g | Swiss | $42.95 | true |
-| Spirella Prosciutto with Mozzarella 454 g / 16 oz |  | $114.95 | true |
+| Pizzacini Truffle and Mushroom Pizza 2 Units / 440 g / 15.5 oz | Pizzacini | $169.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1068
+- **Total price changes**: 1053
 - **Price increases**: 507
-- **Price decreases**: 528
-- **Average increase**: 7.2%
-- **Average decrease**: -6.2%
+- **Price decreases**: 513
+- **Average increase**: 6.8%
+- **Average decrease**: -6.3%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Grill Mates Montreal Meat Seasoning Salt Spices and Garlic 822 g / 29 oz | $99.95 | $88.84 | $-11.11 | -11.1% | Decrease |
-| Suzy's Cream Cheesecakes Black Forest Cherry Cheesecake 12 Slices | $0.00 | $188.95 | $+188.95 | +100.0% | New |
-| Corn Pops Sweet Crunchy Corn Cereal 935 g / 33 oz | $79.95 | $71.07 | $-8.88 | -11.1% | Decrease |
-| Nature's Heart Extra Creamy Vanilla Flavor Almond Drink 3 Units / 946 mL | $0.00 | $59.95 | $+59.95 | +100.0% | New |
-| Fresh Whole Striploin Fillet Vacuum packaged | $0.00 | $1812.66 | $+1812.66 | +100.0% | New |
-| Nescafé Classic Instant Coffee 100% Pure 170 g | $0.00 | $60.95 | $+60.95 | +100.0% | New |
-| Frozen Sliced Turkey Drumsticks | $211.03 | $202.86 | $-8.17 | -3.9% | Decrease |
-| Nature's Pride Red Beans 1.8 kg / 4 lb | $64.95 | $59.95 | $-5.00 | -7.7% | Decrease |
-| Crix Steelpan Original Cookies in Collectible Tin 768 g | $51.95 | $49.70 | $-2.25 | -4.3% | Decrease |
-| Papaya | $31.84 | $31.96 | $+0.12 | +0.4% | Increase |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $360.91 | $362.75 | $+1.84 | +0.5% | Increase |
-| Nectarine 908 g / 2 lb | $62.95 | $59.95 | $-3.00 | -4.8% | Decrease |
-| Small Red Potato 1.3 kg / 3 lb | $49.95 | $47.95 | $-2.00 | -4.0% | Decrease |
-| Red Bull Energy Drink 4 Units / 250 mL / 8.4 oz | $39.95 | $44.95 | $+5.00 | +12.5% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $77.10 | $76.99 | $-0.11 | -0.1% | Decrease |
+| Fresh Beef Ribeye Steak Vacuum Packed | $2384.71 | $2127.03 | $-257.68 | -10.8% | Decrease |
+| Frozen Bone-In Goat Carcass Case | $1129.32 | $1144.43 | $+15.11 | +1.3% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $202.10 | $201.80 | $-0.30 | -0.1% | Decrease |
+| Papaya | $31.96 | $32.06 | $+0.10 | +0.3% | Increase |
+| Nutrina Chilled Whole Chicken Bag | $340.59 | $341.86 | $+1.27 | +0.4% | Increase |
+| Fresh Chicken Thighs Boneless Tray | $82.62 | $82.75 | $+0.13 | +0.2% | Increase |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $441.26 | $442.50 | $+1.24 | +0.3% | Increase |
+| Ribeye Choice Fillet Fresh Tray | $298.86 | $300.96 | $+2.10 | +0.7% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $229.58 | $230.15 | $+0.57 | +0.2% | Increase |
+| Fresh Whole Chicken 2 Units | $101.44 | $101.17 | $-0.27 | -0.3% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $278.12 | $277.96 | $-0.16 | -0.1% | Decrease |
+| Fresh Ground Chicken Meat Bag | $295.46 | $295.93 | $+0.47 | +0.2% | Increase |
+| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | $165.80 | $166.51 | $+0.71 | +0.4% | Increase |
+| Frozen Boneless Skinless Chicken Breast Tray | $129.88 | $130.28 | $+0.40 | +0.3% | Increase |
+| Crispy Just Baked Mini Naan Bread Bites Baked and Crunchy Snack Style | $0.00 | $39.95 | $+39.95 | +100.0% | New |
 
 ## Biggest Price Increases (All Time)
 
@@ -115,7 +115,4 @@
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Suzy's Cream Cheesecakes Black Forest Cherry Cheesecake 12 Slices | Suzy's Cream Cheesecakes | $188.95 | G10D03 |
-| Nature's Heart Extra Creamy Vanilla Flavor Almond Drink 3 Units / 946 mL | Nature's Heart | $59.95 | G10D03 |
-| Fresh Whole Striploin Fillet Vacuum packaged |  | $1812.66 | G10D03 |
-| Nescafé Classic Instant Coffee 100% Pure 170 g | Nescafé | $60.95 | G10D03 |
+| Crispy Just Baked Mini Naan Bread Bites Baked and Crunchy Snack Style | Crispy Just Baked | $39.95 | G10D03 |
