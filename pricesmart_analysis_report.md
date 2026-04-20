@@ -1,22 +1,22 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1148
-- **Total value**: $128,337.89
-- **Average price**: $111.79
+- **Total products scraped**: 1143
+- **Total value**: $127,962.25
+- **Average price**: $111.95
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1147
-- **Price changes detected**: 17
-- **Stock/availability changes**: 12
-- **Discontinued products**: 0
+- **New products added**: 0
+- **Existing products updated**: 1143
+- **Price changes detected**: 55
+- **Stock/availability changes**: 10
+- **Discontinued products**: 5
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 181 |
+| Member's Selection | 180 |
 |  | 135 |
 | Badia | 19 |
 | Swiss | 15 |
@@ -32,39 +32,39 @@
 | Mrs Thinster Toasted Coconut Cookies 454 g | Mrs. Thinster's | $89.95 | true |
 | Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | Eggo | $106.95 | true |
 | Califia Farms Lime and Coconut Lemonade 1.4 L / 48 oz | Califia Farms | $54.95 | true |
-| Spirella Prosciutto with Mozzarella 454 g / 16 oz |  | $114.95 | true |
-| Aqua Star Breaded Shrimp 1.36 kg / 3 lb | Aqua Star | $192.95 | true |
 | Swiss Honey Mustard Sauce 2 Units / 454 g | Swiss | $42.95 | true |
-| Pizzacini Truffle and Mushroom Pizza 2 Units / 440 g / 15.5 oz | Pizzacini | $169.95 | true |
+| Nescafé Original Instant Iced Coffee 16 Units / 15 g | Nescafé | $59.95 | true |
+| Spirella Prosciutto with Mozzarella 454 g / 16 oz |  | $114.95 | true |
+| Sunny Fruits Dried Organics Figs 10 Units / 50 g / 1.76 oz | Sunny Fruits | $79.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1053
-- **Price increases**: 507
-- **Price decreases**: 513
-- **Average increase**: 6.8%
+- **Total price changes**: 1087
+- **Price increases**: 527
+- **Price decreases**: 527
+- **Average increase**: 7.4%
 - **Average decrease**: -6.3%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Beef Ribeye Steak Vacuum Packed | $2384.71 | $2127.03 | $-257.68 | -10.8% | Decrease |
-| Frozen Bone-In Goat Carcass Case | $1129.32 | $1144.43 | $+15.11 | +1.3% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $202.10 | $201.80 | $-0.30 | -0.1% | Decrease |
-| Papaya | $31.96 | $32.06 | $+0.10 | +0.3% | Increase |
-| Nutrina Chilled Whole Chicken Bag | $340.59 | $341.86 | $+1.27 | +0.4% | Increase |
-| Fresh Chicken Thighs Boneless Tray | $82.62 | $82.75 | $+0.13 | +0.2% | Increase |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $441.26 | $442.50 | $+1.24 | +0.3% | Increase |
-| Ribeye Choice Fillet Fresh Tray | $298.86 | $300.96 | $+2.10 | +0.7% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $229.58 | $230.15 | $+0.57 | +0.2% | Increase |
-| Fresh Whole Chicken 2 Units | $101.44 | $101.17 | $-0.27 | -0.3% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $278.12 | $277.96 | $-0.16 | -0.1% | Decrease |
-| Fresh Ground Chicken Meat Bag | $295.46 | $295.93 | $+0.47 | +0.2% | Increase |
-| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | $165.80 | $166.51 | $+0.71 | +0.4% | Increase |
-| Frozen Boneless Skinless Chicken Breast Tray | $129.88 | $130.28 | $+0.40 | +0.3% | Increase |
-| Crispy Just Baked Mini Naan Bread Bites Baked and Crunchy Snack Style | $0.00 | $39.95 | $+39.95 | +100.0% | New |
+| Chilled Chicken Gizzard Tray Pack | $39.05 | $39.17 | $+0.12 | +0.3% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $82.01 | $82.22 | $+0.21 | +0.3% | Increase |
+| Silk Unsweetened Original 2 Units 1.89 L / 64 oz | $85.95 | $104.95 | $+19.00 | +22.1% | Increase |
+| Tyson Turkey Ham 2 Units / 340 g / 12 oz | $47.95 | $59.95 | $+12.00 | +25.0% | Increase |
+| Frozen Pork Belly Skin On Sliced Tray  | $116.59 | $116.11 | $-0.48 | -0.4% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $202.86 | $200.31 | $-2.55 | -1.3% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $66.27 | $66.34 | $+0.07 | +0.1% | Increase |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $72.78 | $72.90 | $+0.12 | +0.2% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $163.11 | $163.43 | $+0.32 | +0.2% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $121.37 | $121.20 | $-0.17 | -0.1% | Decrease |
+| Nesquik Liquid Milk Drink with Cocoa Flavor 12 Units / 250 mL | $57.95 | $69.95 | $+12.00 | +20.7% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $230.15 | $229.86 | $-0.29 | -0.1% | Decrease |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $442.50 | $441.26 | $-1.24 | -0.3% | Decrease |
+| Milo Chocolate Flavored Milk Beverage 12 Units / 250 mL / 8.45 oz | $57.95 | $69.95 | $+12.00 | +20.7% | Increase |
+| Philadelphia Cream Cheese 2 Units / 454 g / 1 lb | $103.95 | $124.95 | $+21.00 | +20.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,19 +100,16 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Butterball Whole Turkey 4.5 kg - 5.4 kg / 10 lb - 12 lb | Butterball | $339.95 | 2026-04-19 |
+| Lindt Assorted Chocolates 600 g / 21.16 oz | Lindt | $164.95 | 2026-04-19 |
+| Montchevre Goat Cheese 298 g / 10.5 oz | Montchevre | $59.95 | 2026-04-19 |
+| Edwards Signatures Pecan Pie 907g / 2 lb | Edward's | $69.95 | 2026-04-19 |
+| Member's Selection Chilled Ground Beef Tray | Member's Selection | $104.93 | 2026-04-19 |
 | Par Excellence Long Grain White Jasmine Rice 4 kg | Par Excellence | $69.95 | 2026-04-15 |
 | Solo Ginger Refreshing Drink 8 Units / 1.5 L / 51 oz | Solo | $44.95 | 2026-04-15 |
 | Dietz & Watson Chef Carved Ham 1.36 kg / 3 lb | Dietz and Watson | $165.95 | 2026-04-15 |
 | Peardrax Sparkling Pear Drink 3 units/ 1 lt | Peardrax | $68.95 | 2026-04-15 |
 | Oleoestepa Hojiblanca Extra Virgin Olive Oil 1 L / 34 oz  | Oleoestepa | $114.95 | 2026-04-15 |
-| Nescafé Classic Instant Coffee 190 g + Mug | Nescafé | $66.95 | 2026-04-15 |
-| Eve Red Kidney Beans 6 Units / 400 g / 14 oz | Eve | $54.95 | 2026-04-15 |
-| Ankara Tricolor Pasta 4 Units / 350 g | Ankara | $33.95 | 2026-04-15 |
-| Fresh Grape Tomatoes 907 g / 2 lb |  | $67.95 | 2026-04-15 |
-| Member's Selection Frozen Bone-In Pork Leg Vacuum Packed | Member's Selection | $455.82 | 2026-04-15 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Crispy Just Baked Mini Naan Bread Bites Baked and Crunchy Snack Style | Crispy Just Baked | $39.95 | G10D03 |
+No new products added today.
