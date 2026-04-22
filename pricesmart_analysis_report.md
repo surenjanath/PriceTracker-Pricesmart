@@ -1,22 +1,22 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1144
-- **Total value**: $128,008.33
-- **Average price**: $111.90
+- **Total products scraped**: 1142
+- **Total value**: $128,161.35
+- **Average price**: $112.23
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1144
-- **Price changes detected**: 36
-- **Stock/availability changes**: 16
-- **Discontinued products**: 0
+- **New products added**: 1
+- **Existing products updated**: 1141
+- **Price changes detected**: 22
+- **Stock/availability changes**: 10
+- **Discontinued products**: 4
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 180 |
+| Member's Selection | 181 |
 |  | 135 |
 | Badia | 19 |
 | Swiss | 15 |
@@ -26,45 +26,45 @@
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Member's Selection Refined Avocado Oil 1 L / 33.8 oz | Member's Selection | $169.95 | true |
 | Member's Selection Freshly Baked Vanilla Loaf Cake | Member's Selection | $37.95 | true |
-| Cheez-It Original, Grahams, and White Cheddar Cheez-It Gripz Variety Pack 12 Units / 25 g / 0.9 oz | CheezIt | $66.95 | true |
-| Mrs Thinster Toasted Coconut Cookies 454 g | Mrs. Thinster's | $89.95 | true |
+| Member's Selection Straight Cut French Fries 2.5 kg / 88 oz | Member's Selection | $44.95 | true |
+| Member's Selection Cookies and Cream Cake Decorated with Oreo Cookie 12 Slices | Member's Selection | $139.95 | true |
+| Member's Selection Freshly Baked Berries Cake 12 Slices | Member's Selection | $139.95 | true |
 | Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | Eggo | $106.95 | true |
-| Swiss Honey Mustard Sauce 2 Units / 454 g | Swiss | $42.95 | true |
-| Nescafé Original Instant Iced Coffee 16 Units / 15 g | Nescafé | $59.95 | true |
+| Pizzacini Truffle and Mushroom Pizza 2 Units / 440 g / 15.5 oz | Pizzacini | $169.95 | true |
 | Spirella Prosciutto with Mozzarella 454 g / 16 oz |  | $114.95 | true |
-| Sunny Fruits Dried Organics Figs 10 Units / 50 g / 1.76 oz | Sunny Fruits | $79.95 | true |
-| Aqua Star Breaded Shrimp 1.36 kg / 3 lb | Aqua Star | $192.95 | true |
+| Crispy Just Baked Mini Naan Bread Bites Baked and Crunchy Snack Style | Crispy Just Baked | $39.95 | true |
+| Calbee Snacks Lightly Salted Baked Pea Crisps 567 g / 1.25 lb | Calbee | $116.95 | true |
+| Heinz Tomato Ketchup 567 g / 20 oz | Heinz | $29.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1111
-- **Price increases**: 541
-- **Price decreases**: 538
-- **Average increase**: 7.9%
-- **Average decrease**: -6.4%
+- **Total price changes**: 1083
+- **Price increases**: 539
+- **Price decreases**: 512
+- **Average increase**: 7.5%
+- **Average decrease**: -6.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Garcia Chicken & Pork Smoked Sausage 680 g / 1.5 lb | $9.70 | $44.95 | $+35.25 | +363.4% | Increase |
-| Member's Selection Chilled Chicken Liver, Tray Pack | $28.27 | $28.36 | $+0.09 | +0.3% | Increase |
-| Fresh Chicken Breast Boneless Skinless Tray | $133.51 | $133.68 | $+0.17 | +0.1% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $201.80 | $201.21 | $-0.59 | -0.3% | Decrease |
-| Corn Pops Sweet Crunchy Corn Cereal 935 g / 33 oz | $71.07 | $70.95 | $-0.12 | -0.2% | Decrease |
-| Crix Steelpan Original Cookies in Collectible Tin 768 g | $49.70 | $42.70 | $-7.00 | -14.1% | Decrease |
-| Papaya | $32.06 | $32.19 | $+0.13 | +0.4% | Increase |
-| Pork Belly with Skin Frozen Vacuum Packaged | $178.77 | $178.33 | $-0.44 | -0.2% | Decrease |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $362.75 | $360.91 | $-1.84 | -0.5% | Decrease |
-| Ginger 680 g / 1.5 | $26.95 | $24.95 | $-2.00 | -7.4% | Decrease |
-| Nutrina Chilled Whole Chicken Bag | $341.86 | $342.02 | $+0.16 | +0.0% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $66.34 | $66.54 | $+0.20 | +0.3% | Increase |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $83.63 | $83.76 | $+0.13 | +0.2% | Increase |
-| Fratelli Beretta Italian Style Platter 340 g / 12 oz  | $89.95 | $79.95 | $-10.00 | -11.1% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $88.28 | $88.19 | $-0.09 | -0.1% | Decrease |
+| Karnis Assorted Flavored Dressings 3 Units / 226 g / 8 oz | $0.00 | $94.95 | $+94.95 | +100.0% | New |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $201.21 | $201.51 | $+0.30 | +0.1% | Increase |
+| Frozen Bone-In Goat Carcass Case | $1144.43 | $1173.39 | $+28.96 | +2.5% | Increase |
+| Papaya | $32.19 | $32.16 | $-0.03 | -0.1% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $229.29 | $229.86 | $+0.57 | +0.2% | Increase |
+| Pork Belly with Skin Frozen Vacuum Packaged | $178.33 | $177.69 | $-0.64 | -0.4% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $66.54 | $66.81 | $+0.27 | +0.4% | Increase |
+| Brunswick Canned Chicken Vienna Sausage 12 pieces / 141 g / 4.9 oz | $66.95 | $71.95 | $+5.00 | +7.5% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $163.43 | $164.06 | $+0.63 | +0.4% | Increase |
+| Ribeye Choice Fillet Fresh Tray | $299.56 | $300.96 | $+1.40 | +0.5% | Increase |
+| Fresh Chicken Leg Quarters Tray | $92.51 | $93.51 | $+1.00 | +1.1% | Increase |
+| Nutrina Chilled Whole Chicken Bag | $342.02 | $350.49 | $+8.47 | +2.5% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $121.20 | $121.02 | $-0.18 | -0.1% | Decrease |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $207.41 | $209.15 | $+1.74 | +0.8% | Increase |
+| Fresh Ground Chicken Meat Bag | $297.23 | $299.58 | $+2.35 | +0.8% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,16 +100,19 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Apple Jacks Cereal de Manzana y Canela 1.03 kg / 36.5 oz | Apple Jacks | $98.95 | 2026-04-21 |
+| Swiss Miss Dark Chocolate Flavor Cocoa Powder 50 Units 31 g / 1 oz  | Swiss Miss | $94.95 | 2026-04-21 |
+| Krusteaz Butter and Honey Pancake Mix 8 Units / 907 g / 2 lb | Krusteaz | $149.70 | 2026-04-21 |
+| Erin Farm Back Bacon 500 g / 1.1 lb | Erin Farm | $47.95 | 2026-04-21 |
 | Butterball Whole Turkey 4.5 kg - 5.4 kg / 10 lb - 12 lb | Butterball | $339.95 | 2026-04-19 |
 | Lindt Assorted Chocolates 600 g / 21.16 oz | Lindt | $164.95 | 2026-04-19 |
 | Montchevre Goat Cheese 298 g / 10.5 oz | Montchevre | $59.95 | 2026-04-19 |
 | Edwards Signatures Pecan Pie 907g / 2 lb | Edward's | $69.95 | 2026-04-19 |
 | Member's Selection Chilled Ground Beef Tray | Member's Selection | $104.93 | 2026-04-19 |
 | Par Excellence Long Grain White Jasmine Rice 4 kg | Par Excellence | $69.95 | 2026-04-15 |
-| Solo Ginger Refreshing Drink 8 Units / 1.5 L / 51 oz | Solo | $44.95 | 2026-04-15 |
-| Dietz & Watson Chef Carved Ham 1.36 kg / 3 lb | Dietz and Watson | $165.95 | 2026-04-15 |
-| Peardrax Sparkling Pear Drink 3 units/ 1 lt | Peardrax | $68.95 | 2026-04-15 |
-| Oleoestepa Hojiblanca Extra Virgin Olive Oil 1 L / 34 oz  | Oleoestepa | $114.95 | 2026-04-15 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Karnis Assorted Flavored Dressings 3 Units / 226 g / 8 oz | Karnis | $94.95 | G10D03 |
