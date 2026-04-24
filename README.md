@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1145
-- **Total value**: $130,334.63
-- **Average price**: $113.83
+- **Total products scraped**: 1147
+- **Total value**: $130,542.26
+- **Average price**: $113.81
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1144
-- **Price changes detected**: 50
-- **Stock/availability changes**: 18
-- **Discontinued products**: 3
+- **New products added**: 0
+- **Existing products updated**: 1147
+- **Price changes detected**: 39
+- **Stock/availability changes**: 5
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 183 |
-|  | 135 |
+|  | 136 |
 | Badia | 19 |
 | Swiss | 15 |
 | Brunswick | 10 |
@@ -210,7 +210,6 @@ This project has recently gained unexpected attention. It was created for person
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Member's Selection Freshly Baked Vanilla Loaf Cake | Member's Selection | $37.95 | true |
-| Member's Selection Straight Cut French Fries 2.5 kg / 88 oz | Member's Selection | $44.95 | true |
 | Member's Selection Cookies and Cream Cake Decorated with Oreo Cookie 12 Slices | Member's Selection | $139.95 | true |
 | Member's Selection Freshly Baked Berries Cake 12 Slices | Member's Selection | $139.95 | true |
 | Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | Eggo | $109.95 | true |
@@ -219,35 +218,36 @@ This project has recently gained unexpected attention. It was created for person
 | Spirella Prosciutto with Mozzarella 454 g / 16 oz |  | $114.95 | true |
 | Heinz Tomato Ketchup 567 g / 20 oz | Heinz | $29.95 | true |
 | Calbee Snacks Lightly Salted Baked Pea Crisps 567 g / 1.25 lb | Calbee | $116.95 | true |
+| Nescafé Classic Instant Coffee 100% Pure 170 g | Nescafé | $60.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1108
-- **Price increases**: 564
-- **Price decreases**: 514
-- **Average increase**: 7.3%
-- **Average decrease**: -5.8%
+- **Total price changes**: 1121
+- **Price increases**: 569
+- **Price decreases**: 523
+- **Average increase**: 7.5%
+- **Average decrease**: -5.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Kellogg's Assorted Flavors Crackers 13 Packages / 1.47 kg / 52 oz | $149.95 | $174.95 | $+25.00 | +16.7% | Increase |
-| Hormel Party Tray 794 g / 28 oz | $132.95 | $137.95 | $+5.00 | +3.8% | Increase |
-| Sambazon Dragon Fruit Juice 1.89 L / 64 oz | $116.95 | $114.95 | $-2.00 | -1.7% | Decrease |
-| Dietz & Watson Sliced Roast Beef 454 g / 1 lb | $134.95 | $137.95 | $+3.00 | +2.2% | Increase |
-| Member's Selection Mixed Frozen Vegetables 2.26 kg / 5 lb | $97.95 | $99.95 | $+2.00 | +2.0% | Increase |
-| Member's Selection Shredded Mozzarella Cheese 453 g / 1 lb | $27.95 | $28.95 | $+1.00 | +3.6% | Increase |
-| Setton Farms Premium Quality Pub-Style Pistachio Mix 567 g / 20 oz | $0.00 | $131.95 | $+131.95 | +100.0% | New |
-| Karnis Assorted Flavored Dressings 3 Units / 226 g / 8 oz | $94.95 | $97.95 | $+3.00 | +3.2% | Increase |
-| Frozen Pork Belly Skin On Sliced Tray  | $116.11 | $115.87 | $-0.24 | -0.2% | Decrease |
-| Papaya | $32.16 | $32.25 | $+0.09 | +0.3% | Increase |
-| Great Foods Chicken Hot Dogs 1 kg / 2.2 lb | $30.95 | $31.95 | $+1.00 | +3.2% | Increase |
-| Orchard Party Mix Orange Juice 3 Units / 946 mL / 32 oz | $106.95 | $109.95 | $+3.00 | +2.8% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $164.06 | $164.22 | $+0.16 | +0.1% | Increase |
-| Frozen Sliced Turkey Drumsticks | $200.31 | $195.36 | $-4.95 | -2.5% | Decrease |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $72.90 | $72.78 | $-0.12 | -0.2% | Decrease |
+| Iceberg Lettuce Unit | $22.95 | $24.95 | $+2.00 | +8.7% | Increase |
+| Romaine Lettuce Hearts 3 Units | $39.95 | $44.95 | $+5.00 | +12.5% | Increase |
+| San Clemente Seedless Green Grapes 907 g / 2 lb | $69.95 | $74.95 | $+5.00 | +7.1% | Increase |
+| Moo! Evaporated Milk Low Fat 12 Units / 250 mL / 8.4 oz | $84.95 | $74.95 | $-10.00 | -11.8% | Decrease |
+| Fresh Pineapple Unit | $31.95 | $29.95 | $-2.00 | -6.3% | Decrease |
+| Frozen Pork Belly Skin On Sliced Tray  | $115.87 | $115.63 | $-0.24 | -0.2% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $229.86 | $229.58 | $-0.28 | -0.1% | Decrease |
+| Papaya | $32.25 | $32.22 | $-0.03 | -0.1% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.51 | $114.34 | $-0.17 | -0.1% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $66.81 | $66.68 | $-0.13 | -0.2% | Decrease |
+| Purple Cauliflower  | $62.95 | $53.95 | $-9.00 | -14.3% | Decrease |
+| Ginger 680 g / 1.5 | $24.95 | $25.95 | $+1.00 | +4.0% | Increase |
+| Fresh Red Globe Grapes 1.36 kg / 3 lb | $119.95 | $129.95 | $+10.00 | +8.3% | Increase |
+| Frozen Sliced Turkey Drumsticks | $195.36 | $195.09 | $-0.27 | -0.1% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $164.22 | $164.06 | $-0.16 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -295,7 +295,4 @@ This project has recently gained unexpected attention. It was created for person
 | Montchevre Goat Cheese 298 g / 10.5 oz | Montchevre | $59.95 | 2026-04-19 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Setton Farms Premium Quality Pub-Style Pistachio Mix 567 g / 20 oz | Setton Farms | $131.95 | G10D03 |
+No new products added today.
