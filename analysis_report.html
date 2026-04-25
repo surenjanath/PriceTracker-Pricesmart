@@ -2,14 +2,14 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1147
-- **Total value**: $130,542.26
-- **Average price**: $113.81
+- **Total value**: $130,501.64
+- **Average price**: $113.78
 
 ## Database Changes
 - **New products added**: 0
 - **Existing products updated**: 1147
-- **Price changes detected**: 39
-- **Stock/availability changes**: 5
+- **Price changes detected**: 24
+- **Stock/availability changes**: 17
 - **Discontinued products**: 0
 
 ## Top 5 Brands
@@ -32,39 +32,39 @@
 | Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | Eggo | $109.95 | true |
 | Pizzacini Truffle and Mushroom Pizza 2 Units / 440 g / 15.5 oz | Pizzacini | $169.95 | true |
 | Crispy Just Baked Mini Naan Bread Bites Baked and Crunchy Snack Style | Crispy Just Baked | $39.95 | true |
+| Calbee Snacks Lightly Salted Baked Pea Crisps 567 g / 1.25 lb | Calbee | $116.95 | true |
 | Spirella Prosciutto with Mozzarella 454 g / 16 oz |  | $114.95 | true |
 | Heinz Tomato Ketchup 567 g / 20 oz | Heinz | $29.95 | true |
-| Calbee Snacks Lightly Salted Baked Pea Crisps 567 g / 1.25 lb | Calbee | $116.95 | true |
 | Nescafé Classic Instant Coffee 100% Pure 170 g | Nescafé | $60.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1121
-- **Price increases**: 569
-- **Price decreases**: 523
-- **Average increase**: 7.5%
+- **Total price changes**: 1145
+- **Price increases**: 582
+- **Price decreases**: 534
+- **Average increase**: 7.3%
 - **Average decrease**: -5.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Iceberg Lettuce Unit | $22.95 | $24.95 | $+2.00 | +8.7% | Increase |
-| Romaine Lettuce Hearts 3 Units | $39.95 | $44.95 | $+5.00 | +12.5% | Increase |
-| San Clemente Seedless Green Grapes 907 g / 2 lb | $69.95 | $74.95 | $+5.00 | +7.1% | Increase |
-| Moo! Evaporated Milk Low Fat 12 Units / 250 mL / 8.4 oz | $84.95 | $74.95 | $-10.00 | -11.8% | Decrease |
-| Fresh Pineapple Unit | $31.95 | $29.95 | $-2.00 | -6.3% | Decrease |
-| Frozen Pork Belly Skin On Sliced Tray  | $115.87 | $115.63 | $-0.24 | -0.2% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $229.86 | $229.58 | $-0.28 | -0.1% | Decrease |
-| Papaya | $32.25 | $32.22 | $-0.03 | -0.1% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.51 | $114.34 | $-0.17 | -0.1% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $66.81 | $66.68 | $-0.13 | -0.2% | Decrease |
-| Purple Cauliflower  | $62.95 | $53.95 | $-9.00 | -14.3% | Decrease |
-| Ginger 680 g / 1.5 | $24.95 | $25.95 | $+1.00 | +4.0% | Increase |
-| Fresh Red Globe Grapes 1.36 kg / 3 lb | $119.95 | $129.95 | $+10.00 | +8.3% | Increase |
-| Frozen Sliced Turkey Drumsticks | $195.36 | $195.09 | $-0.27 | -0.1% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $164.22 | $164.06 | $-0.16 | -0.1% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $229.58 | $230.15 | $+0.57 | +0.2% | Increase |
+| Papaya | $32.22 | $32.28 | $+0.06 | +0.2% | Increase |
+| Fresh Chicken Thighs Boneless Tray | $82.88 | $83.01 | $+0.13 | +0.2% | Increase |
+| Fresh Chicken Leg Quarters Tray | $93.41 | $93.51 | $+0.10 | +0.1% | Increase |
+| Fresh Chicken Mixed Parts Tray | $82.62 | $82.72 | $+0.10 | +0.1% | Increase |
+| Fresh Whole Chicken for Frying Bag | $277.01 | $277.17 | $+0.16 | +0.1% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $121.02 | $120.84 | $-0.18 | -0.1% | Decrease |
+| Fresh Whole Chicken 2 Units | $101.51 | $101.44 | $-0.07 | -0.1% | Decrease |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $209.15 | $208.08 | $-1.07 | -0.5% | Decrease |
+| Fresh Chicken Thighs Boneless Bag | $320.97 | $321.21 | $+0.24 | +0.1% | Increase |
+| Pork Chop with Bone Frozen Tray | $81.21 | $81.08 | $-0.13 | -0.2% | Decrease |
+| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $154.83 | $154.64 | $-0.19 | -0.1% | Decrease |
+| Frozen Boneless Skinless Chicken Breast Tray | $130.82 | $131.22 | $+0.40 | +0.3% | Increase |
+| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $66.70 | $66.60 | $-0.10 | -0.1% | Decrease |
+| Butterball Turkey Burgers 12 Units 151 g / 5.3 oz | $189.95 | $213.69 | $+23.74 | +12.5% | Increase |
 
 ## Biggest Price Increases (All Time)
 
