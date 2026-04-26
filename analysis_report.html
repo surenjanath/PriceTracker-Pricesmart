@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1147
-- **Total value**: $130,501.64
-- **Average price**: $113.78
+- **Total products scraped**: 1150
+- **Total value**: $130,899.58
+- **Average price**: $113.83
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1147
-- **Price changes detected**: 24
-- **Stock/availability changes**: 17
+- **New products added**: 2
+- **Existing products updated**: 1148
+- **Price changes detected**: 28
+- **Stock/availability changes**: 11
 - **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 183 |
-|  | 136 |
+| Member's Selection | 184 |
+|  | 137 |
 | Badia | 19 |
 | Swiss | 15 |
 | Brunswick | 10 |
@@ -30,9 +30,9 @@
 | Member's Selection Cookies and Cream Cake Decorated with Oreo Cookie 12 Slices | Member's Selection | $139.95 | true |
 | Member's Selection Freshly Baked Berries Cake 12 Slices | Member's Selection | $139.95 | true |
 | Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | Eggo | $109.95 | true |
+| Calbee Snacks Lightly Salted Baked Pea Crisps 567 g / 1.25 lb | Calbee | $116.95 | true |
 | Pizzacini Truffle and Mushroom Pizza 2 Units / 440 g / 15.5 oz | Pizzacini | $169.95 | true |
 | Crispy Just Baked Mini Naan Bread Bites Baked and Crunchy Snack Style | Crispy Just Baked | $39.95 | true |
-| Calbee Snacks Lightly Salted Baked Pea Crisps 567 g / 1.25 lb | Calbee | $116.95 | true |
 | Spirella Prosciutto with Mozzarella 454 g / 16 oz |  | $114.95 | true |
 | Heinz Tomato Ketchup 567 g / 20 oz | Heinz | $29.95 | true |
 | Nescafé Classic Instant Coffee 100% Pure 170 g | Nescafé | $60.95 | true |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1145
-- **Price increases**: 582
-- **Price decreases**: 534
-- **Average increase**: 7.3%
+- **Total price changes**: 1096
+- **Price increases**: 563
+- **Price decreases**: 504
+- **Average increase**: 7.5%
 - **Average decrease**: -5.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $229.58 | $230.15 | $+0.57 | +0.2% | Increase |
-| Papaya | $32.22 | $32.28 | $+0.06 | +0.2% | Increase |
-| Fresh Chicken Thighs Boneless Tray | $82.88 | $83.01 | $+0.13 | +0.2% | Increase |
-| Fresh Chicken Leg Quarters Tray | $93.41 | $93.51 | $+0.10 | +0.1% | Increase |
-| Fresh Chicken Mixed Parts Tray | $82.62 | $82.72 | $+0.10 | +0.1% | Increase |
-| Fresh Whole Chicken for Frying Bag | $277.01 | $277.17 | $+0.16 | +0.1% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $121.02 | $120.84 | $-0.18 | -0.1% | Decrease |
-| Fresh Whole Chicken 2 Units | $101.51 | $101.44 | $-0.07 | -0.1% | Decrease |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $209.15 | $208.08 | $-1.07 | -0.5% | Decrease |
-| Fresh Chicken Thighs Boneless Bag | $320.97 | $321.21 | $+0.24 | +0.1% | Increase |
-| Pork Chop with Bone Frozen Tray | $81.21 | $81.08 | $-0.13 | -0.2% | Decrease |
-| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $154.83 | $154.64 | $-0.19 | -0.1% | Decrease |
-| Frozen Boneless Skinless Chicken Breast Tray | $130.82 | $131.22 | $+0.40 | +0.3% | Increase |
-| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $66.70 | $66.60 | $-0.10 | -0.1% | Decrease |
-| Butterball Turkey Burgers 12 Units 151 g / 5.3 oz | $189.95 | $213.69 | $+23.74 | +12.5% | Increase |
+| Nongshim Shin Toomba Hot and Creamy Instant Ramen 4 Units / 137 g | $64.95 | $67.95 | $+3.00 | +4.6% | Increase |
+| Member’s Selection Canola Oil 2 Units / 2.84 L / 96 oz | $0.00 | $164.95 | $+164.95 | +100.0% | New |
+| Chilled Chicken Gizzard Tray Pack | $39.17 | $39.30 | $+0.13 | +0.3% | Increase |
+| Frozen Pork Belly Skin On Sliced Tray  | $115.63 | $115.87 | $+0.24 | +0.2% | Increase |
+| Papaya | $32.28 | $32.41 | $+0.13 | +0.4% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $66.68 | $67.09 | $+0.41 | +0.6% | Increase |
+| Frozen Sliced Turkey Drumsticks | $195.09 | $194.42 | $-0.67 | -0.3% | Decrease |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $72.78 | $72.90 | $+0.12 | +0.2% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $164.06 | $164.22 | $+0.16 | +0.1% | Increase |
+| Fresh Chicken Mixed Parts Tray | $82.72 | $83.12 | $+0.40 | +0.5% | Increase |
+| Watermelon 1 kg / 2.2 lb | $0.00 | $96.56 | $+96.56 | +100.0% | New |
+| Fresh Chicken Leg Quarters Tray | $93.51 | $93.61 | $+0.10 | +0.1% | Increase |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $208.08 | $208.75 | $+0.67 | +0.3% | Increase |
+| Fresh Whole Chicken 2 Units | $101.44 | $101.34 | $-0.10 | -0.1% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $277.17 | $277.33 | $+0.16 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -112,4 +112,8 @@
 | Montchevre Goat Cheese 298 g / 10.5 oz | Montchevre | $59.95 | 2026-04-19 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Member’s Selection Canola Oil 2 Units / 2.84 L / 96 oz | Member's Selection | $164.95 | G10D03 |
+| Watermelon 1 kg / 2.2 lb |  | $96.56 | G10D03 |
