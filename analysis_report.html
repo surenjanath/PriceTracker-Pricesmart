@@ -1,26 +1,26 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1150
-- **Total value**: $130,899.58
-- **Average price**: $113.83
+- **Total products scraped**: 1151
+- **Total value**: $130,958.56
+- **Average price**: $113.78
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1148
-- **Price changes detected**: 28
-- **Stock/availability changes**: 11
+- **New products added**: 1
+- **Existing products updated**: 1150
+- **Price changes detected**: 35
+- **Stock/availability changes**: 15
 - **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 184 |
+| Member's Selection | 185 |
 |  | 137 |
 | Badia | 19 |
 | Swiss | 15 |
-| Brunswick | 10 |
+| Nestle | 10 |
 
 ## Recent Products
 
@@ -32,39 +32,39 @@
 | Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | Eggo | $109.95 | true |
 | Calbee Snacks Lightly Salted Baked Pea Crisps 567 g / 1.25 lb | Calbee | $116.95 | true |
 | Pizzacini Truffle and Mushroom Pizza 2 Units / 440 g / 15.5 oz | Pizzacini | $169.95 | true |
-| Crispy Just Baked Mini Naan Bread Bites Baked and Crunchy Snack Style | Crispy Just Baked | $39.95 | true |
 | Spirella Prosciutto with Mozzarella 454 g / 16 oz |  | $114.95 | true |
+| Crispy Just Baked Mini Naan Bread Bites Baked and Crunchy Snack Style | Crispy Just Baked | $39.95 | true |
+| Swiss Honey Mustard Sauce 2 Units / 454 g | Swiss | $42.95 | true |
 | Heinz Tomato Ketchup 567 g / 20 oz | Heinz | $29.95 | true |
-| Nescafé Classic Instant Coffee 100% Pure 170 g | Nescafé | $60.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1096
+- **Total price changes**: 1099
 - **Price increases**: 563
-- **Price decreases**: 504
-- **Average increase**: 7.5%
-- **Average decrease**: -5.5%
+- **Price decreases**: 506
+- **Average increase**: 7.3%
+- **Average decrease**: -5.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Nongshim Shin Toomba Hot and Creamy Instant Ramen 4 Units / 137 g | $64.95 | $67.95 | $+3.00 | +4.6% | Increase |
-| Member’s Selection Canola Oil 2 Units / 2.84 L / 96 oz | $0.00 | $164.95 | $+164.95 | +100.0% | New |
-| Chilled Chicken Gizzard Tray Pack | $39.17 | $39.30 | $+0.13 | +0.3% | Increase |
-| Frozen Pork Belly Skin On Sliced Tray  | $115.63 | $115.87 | $+0.24 | +0.2% | Increase |
-| Papaya | $32.28 | $32.41 | $+0.13 | +0.4% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $66.68 | $67.09 | $+0.41 | +0.6% | Increase |
-| Frozen Sliced Turkey Drumsticks | $195.09 | $194.42 | $-0.67 | -0.3% | Decrease |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $72.78 | $72.90 | $+0.12 | +0.2% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $164.06 | $164.22 | $+0.16 | +0.1% | Increase |
-| Fresh Chicken Mixed Parts Tray | $82.72 | $83.12 | $+0.40 | +0.5% | Increase |
-| Watermelon 1 kg / 2.2 lb | $0.00 | $96.56 | $+96.56 | +100.0% | New |
-| Fresh Chicken Leg Quarters Tray | $93.51 | $93.61 | $+0.10 | +0.1% | Increase |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $208.08 | $208.75 | $+0.67 | +0.3% | Increase |
-| Fresh Whole Chicken 2 Units | $101.44 | $101.34 | $-0.10 | -0.1% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $277.17 | $277.33 | $+0.16 | +0.1% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $39.30 | $39.37 | $+0.07 | +0.2% | Increase |
+| Panamei Frozen Seafood Mix 1.36 kg / 3 lb | $116.95 | $117.95 | $+1.00 | +0.9% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $201.51 | $201.80 | $+0.29 | +0.1% | Increase |
+| Member's Selection Freshly Prepared Tuna Salad Wraps 4 Units | $0.00 | $65.95 | $+65.95 | +100.0% | New |
+| Pier 33 Coho Salmon Steak Frozen, Skin on 1 kg / 2.2 lb | $219.95 | $221.95 | $+2.00 | +0.9% | Increase |
+| Papaya | $32.41 | $32.57 | $+0.16 | +0.5% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.34 | $113.14 | $-1.20 | -1.0% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $67.09 | $67.15 | $+0.06 | +0.1% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $82.64 | $82.43 | $-0.21 | -0.3% | Decrease |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $83.76 | $85.11 | $+1.35 | +1.6% | Increase |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $72.90 | $72.78 | $-0.12 | -0.2% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $194.42 | $193.49 | $-0.93 | -0.5% | Decrease |
+| Fresh Ground Chicken Tray | $105.63 | $105.88 | $+0.25 | +0.2% | Increase |
+| Watermelon 1 kg / 2.2 lb | $96.56 | $88.70 | $-7.86 | -8.1% | Decrease |
+| Nutrina Chilled Whole Chicken Bag | $350.49 | $351.13 | $+0.64 | +0.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -115,5 +115,4 @@
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Member’s Selection Canola Oil 2 Units / 2.84 L / 96 oz | Member's Selection | $164.95 | G10D03 |
-| Watermelon 1 kg / 2.2 lb |  | $96.56 | G10D03 |
+| Member's Selection Freshly Prepared Tuna Salad Wraps 4 Units | Member's Selection | $65.95 | G10D03 |
