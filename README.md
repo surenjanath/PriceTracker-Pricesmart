@@ -184,15 +184,15 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1150
-- **Total value**: $130,245.62
-- **Average price**: $113.26
+- **Total products scraped**: 1149
+- **Total value**: $130,152.73
+- **Average price**: $113.27
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1150
-- **Price changes detected**: 32
-- **Stock/availability changes**: 22
+- **New products added**: 1
+- **Existing products updated**: 1148
+- **Price changes detected**: 57
+- **Stock/availability changes**: 14
 - **Discontinued products**: 3
 
 ## Top 5 Brands
@@ -200,54 +200,54 @@ This project has recently gained unexpected attention. It was created for person
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 185 |
-|  | 137 |
+|  | 136 |
 | Badia | 18 |
 | Swiss | 15 |
-| Nestle | 10 |
+| Brunswick | 11 |
 
 ## Recent Products
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Member's Selection Shredded Mozzarella Cheese 453 g / 1 lb | Member's Selection | $28.95 | true |
 | Member's Selection Freshly Baked Vanilla Loaf Cake | Member's Selection | $33.73 | true |
+| Member's Selection Shredded Mozzarella Cheese 453 g / 1 lb | Member's Selection | $28.95 | true |
 | Member's Selection Freshly Baked Berries Cake 12 Slices | Member's Selection | $139.95 | true |
 | Member's Selection Cookies and Cream Cake Decorated with Oreo Cookie 12 Slices | Member's Selection | $139.95 | true |
-| Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | Eggo | $109.95 | true |
 | Calbee Snacks Lightly Salted Baked Pea Crisps 567 g / 1.25 lb | Calbee | $116.95 | true |
+| Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | Eggo | $109.95 | true |
 | Pizzacini Truffle and Mushroom Pizza 2 Units / 440 g / 15.5 oz | Pizzacini | $169.95 | true |
 | Spirella Prosciutto with Mozzarella 454 g / 16 oz |  | $114.95 | true |
-| Crispy Just Baked Mini Naan Bread Bites Baked and Crunchy Snack Style | Crispy Just Baked | $39.95 | true |
-| Swiss Honey Mustard Sauce 2 Units / 454 g | Swiss | $42.95 | true |
+| Heinz Tomato Ketchup 567 g / 20 oz | Heinz | $29.95 | true |
+| Sacla Italia Pizza Sauce 1 kg / 35.2 oz | Sacla | $64.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1113
-- **Price increases**: 578
-- **Price decreases**: 510
-- **Average increase**: 7.3%
-- **Average decrease**: -5.4%
+- **Total price changes**: 1144
+- **Price increases**: 605
+- **Price decreases**: 515
+- **Average increase**: 6.9%
+- **Average decrease**: -5.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| McVitie's Ginger Nut Biscuits 4 Units / 250 g | $37.70 | $34.95 | $-2.75 | -7.3% | Decrease |
-| Old El Paso Crispy Stand 'N Stuff Taco Shells 6 Units / 81 g | $69.95 | $56.95 | $-13.00 | -18.6% | Decrease |
-| Frozen Pork Belly Skin On Sliced Tray  | $116.11 | $116.59 | $+0.48 | +0.4% | Increase |
-| Papaya | $32.60 | $32.83 | $+0.23 | +0.7% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $67.29 | $67.49 | $+0.20 | +0.3% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $76.88 | $77.10 | $+0.22 | +0.3% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $113.14 | $113.64 | $+0.50 | +0.4% | Increase |
-| Tropical Frying Cheese 907 g / 32 oz | $89.95 | $54.70 | $-35.25 | -39.2% | Decrease |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $208.75 | $209.15 | $+0.40 | +0.2% | Increase |
-| Ribeye Choice Fillet Fresh Tray | $298.86 | $296.76 | $-2.10 | -0.7% | Decrease |
-| Nutrina Chilled Whole Chicken Bag | $351.13 | $350.49 | $-0.64 | -0.2% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $93.41 | $93.61 | $+0.20 | +0.2% | Increase |
-| Nesquik Liquid Milk Drink with Cocoa Flavor 12 Units / 250 mL | $60.95 | $59.95 | $-1.00 | -1.6% | Decrease |
-| Orchard Orange Drink 24 Units / 250 mL | $89.95 | $87.95 | $-2.00 | -2.2% | Decrease |
-| Fresh Ground Chicken Tray | $105.63 | $105.50 | $-0.13 | -0.1% | Decrease |
+| Nongshim Shin Gold with Chicken Broth Flavor 4 Units / 130 g / 4.58 oz | $64.95 | $67.95 | $+3.00 | +4.6% | Increase |
+| Nature's Pride Small Red Beans 1.8 kg | $41.95 | $42.95 | $+1.00 | +2.4% | Increase |
+| Happy Village Organic Sun Dried Figs 1.13 kg / 40 oz | $139.95 | $129.95 | $-10.00 | -7.1% | Decrease |
+| Crispy Just Baked Mini Naan Bread Bites Baked and Crunchy Snack Style | $39.95 | $44.95 | $+5.00 | +12.5% | Increase |
+| Brunswick Canned Pink Salmon 2 Units / 418 g / 15 oz | $74.95 | $99.95 | $+25.00 | +33.4% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $201.80 | $201.21 | $-0.59 | -0.3% | Decrease |
+| Eve Sardines in Water High Protein with Omega 3 6 Units / 82 g | $0.00 | $46.95 | $+46.95 | +100.0% | New |
+| Papaya | $32.83 | $32.98 | $+0.15 | +0.5% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $113.64 | $113.81 | $+0.17 | +0.1% | Increase |
+| Tropical Frying Cheese 907 g / 32 oz | $54.70 | $92.95 | $+38.25 | +69.9% | Increase |
+| Karnis Hummus Mix 3 Units / 226 g / 7.97 oz | $82.95 | $83.95 | $+1.00 | +1.2% | Increase |
+| Kerrygold Full Cream Milk Powder 1.8 kg / 3.97 lb | $96.95 | $97.95 | $+1.00 | +1.0% | Increase |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $72.65 | $72.78 | $+0.13 | +0.2% | Increase |
+| Fresh Chicken Thighs Boneless Tray | $83.40 | $83.53 | $+0.13 | +0.2% | Increase |
+| Fresh Whole Chicken for Frying Bag | $276.37 | $276.21 | $-0.16 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,9 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Frosted Flakes Donut Holes Glazed Cereal 893 g / 31.5 oz | Zucaritas | $54.70 | 2026-04-29 |
+| Fireside Marshmallows 1 kg / 2.2 lb | Fireside | $72.95 | 2026-04-29 |
+| Golden Kiwi 1 lb / 453 g |  | $74.95 | 2026-04-29 |
 | Badia Crushed Parsley Flakes 56.7 g / 2 oz | Badia | $21.95 | 2026-04-28 |
 | Rastelli's Ribeye Steak Frozen 10 Units / 225 g / 8 oz  | Rastelli's | $557.95 | 2026-04-28 |
 | Rastelli’s Ribeye Steak 2 Units / 225 g / 8 oz | Rastelli's | $122.95 | 2026-04-28 |
@@ -290,9 +293,9 @@ This project has recently gained unexpected attention. It was created for person
 | Activia Low Fat Yogurt 12 Units / 113 g / 4 oz | Activia | $87.95 | 2026-04-22 |
 | Baby Carrots 907 g / 2 lb |  | $34.95 | 2026-04-22 |
 | Apple Jacks Cereal de Manzana y Canela 1.03 kg / 36.5 oz | Apple Jacks | $98.95 | 2026-04-21 |
-| Swiss Miss Dark Chocolate Flavor Cocoa Powder 50 Units 31 g / 1 oz  | Swiss Miss | $94.95 | 2026-04-21 |
-| Krusteaz Butter and Honey Pancake Mix 8 Units / 907 g / 2 lb | Krusteaz | $149.70 | 2026-04-21 |
-| Erin Farm Back Bacon 500 g / 1.1 lb | Erin Farm | $47.95 | 2026-04-21 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Eve Sardines in Water High Protein with Omega 3 6 Units / 82 g | Eve | $46.95 | G10D03 |
