@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1149
-- **Total value**: $130,152.73
-- **Average price**: $113.27
+- **Total products scraped**: 1151
+- **Total value**: $130,501.89
+- **Average price**: $113.38
 
 ## Database Changes
 - **New products added**: 1
-- **Existing products updated**: 1148
-- **Price changes detected**: 57
-- **Stock/availability changes**: 14
-- **Discontinued products**: 3
+- **Existing products updated**: 1150
+- **Price changes detected**: 49
+- **Stock/availability changes**: 13
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1144
-- **Price increases**: 605
-- **Price decreases**: 515
-- **Average increase**: 6.9%
+- **Total price changes**: 1161
+- **Price increases**: 625
+- **Price decreases**: 512
+- **Average increase**: 6.4%
 - **Average decrease**: -5.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Nongshim Shin Gold with Chicken Broth Flavor 4 Units / 130 g / 4.58 oz | $64.95 | $67.95 | $+3.00 | +4.6% | Increase |
-| Nature's Pride Small Red Beans 1.8 kg | $41.95 | $42.95 | $+1.00 | +2.4% | Increase |
-| Happy Village Organic Sun Dried Figs 1.13 kg / 40 oz | $139.95 | $129.95 | $-10.00 | -7.1% | Decrease |
-| Crispy Just Baked Mini Naan Bread Bites Baked and Crunchy Snack Style | $39.95 | $44.95 | $+5.00 | +12.5% | Increase |
-| Brunswick Canned Pink Salmon 2 Units / 418 g / 15 oz | $74.95 | $99.95 | $+25.00 | +33.4% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $201.80 | $201.21 | $-0.59 | -0.3% | Decrease |
-| Eve Sardines in Water High Protein with Omega 3 6 Units / 82 g | $0.00 | $46.95 | $+46.95 | +100.0% | New |
-| Papaya | $32.83 | $32.98 | $+0.15 | +0.5% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $113.64 | $113.81 | $+0.17 | +0.1% | Increase |
-| Tropical Frying Cheese 907 g / 32 oz | $54.70 | $92.95 | $+38.25 | +69.9% | Increase |
-| Karnis Hummus Mix 3 Units / 226 g / 7.97 oz | $82.95 | $83.95 | $+1.00 | +1.2% | Increase |
-| Kerrygold Full Cream Milk Powder 1.8 kg / 3.97 lb | $96.95 | $97.95 | $+1.00 | +1.0% | Increase |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $72.65 | $72.78 | $+0.13 | +0.2% | Increase |
-| Fresh Chicken Thighs Boneless Tray | $83.40 | $83.53 | $+0.13 | +0.2% | Increase |
-| Fresh Whole Chicken for Frying Bag | $276.37 | $276.21 | $-0.16 | -0.1% | Decrease |
+| Peach 908 g / 2 lb | $69.95 | $77.95 | $+8.00 | +11.4% | Increase |
+| Iceberg Lettuce Unit | $24.95 | $44.95 | $+20.00 | +80.2% | Increase |
+| Cauliflower 1 Unit | $49.95 | $69.95 | $+20.00 | +40.0% | Increase |
+| Nescafé Classic Instant Coffee 190 g / 6.7 oz | $64.95 | $66.95 | $+2.00 | +3.1% | Increase |
+|   Fresh Broccoli Crowns | $42.95 | $54.95 | $+12.00 | +27.9% | Increase |
+| Fresh Whole Striploin Fillet Vacuum packaged | $1812.66 | $1910.20 | $+97.54 | +5.4% | Increase |
+| LUSH Assorted Fruit Drink 24 Units / 200 mL | $0.00 | $59.95 | $+59.95 | +100.0% | New |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $201.21 | $201.80 | $+0.59 | +0.3% | Increase |
+| Tropical Frying Cheese 907 g / 32 oz | $92.95 | $49.70 | $-43.25 | -46.5% | Decrease |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $85.23 | $85.11 | $-0.12 | -0.1% | Decrease |
+| Orchard Orange Juice with Vitamin C 6 Units / 1 L / 33.8 oz | $54.95 | $64.95 | $+10.00 | +18.2% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $82.43 | $82.22 | $-0.21 | -0.3% | Decrease |
+| Red Onion 2.2 kg / 5 lb | $34.95 | $37.95 | $+3.00 | +8.6% | Increase |
+| Orchard Assorted Drinks Juice Mix 6 Units / 1L | $56.95 | $65.95 | $+9.00 | +15.8% | Increase |
+| Maggi Vegetable Soup 12 Units / 45 g | $65.95 | $71.95 | $+6.00 | +9.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -298,4 +298,4 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Eve Sardines in Water High Protein with Omega 3 6 Units / 82 g | Eve | $46.95 | G10D03 |
+| LUSH Assorted Fruit Drink 24 Units / 200 mL | Lush | $59.95 | G10D03 |
