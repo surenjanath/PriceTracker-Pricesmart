@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1151
-- **Total value**: $130,501.89
-- **Average price**: $113.38
+- **Total products scraped**: 1153
+- **Total value**: $131,031.88
+- **Average price**: $113.64
 
 ## Database Changes
 - **New products added**: 1
-- **Existing products updated**: 1150
-- **Price changes detected**: 49
-- **Stock/availability changes**: 13
-- **Discontinued products**: 0
+- **Existing products updated**: 1152
+- **Price changes detected**: 59
+- **Stock/availability changes**: 18
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 185 |
-|  | 136 |
+| Member's Selection | 186 |
+|  | 137 |
 | Badia | 18 |
 | Swiss | 15 |
 | Brunswick | 11 |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1161
-- **Price increases**: 625
-- **Price decreases**: 512
+- **Total price changes**: 1130
+- **Price increases**: 610
+- **Price decreases**: 495
 - **Average increase**: 6.4%
-- **Average decrease**: -5.6%
+- **Average decrease**: -5.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Peach 908 g / 2 lb | $69.95 | $77.95 | $+8.00 | +11.4% | Increase |
-| Iceberg Lettuce Unit | $24.95 | $44.95 | $+20.00 | +80.2% | Increase |
-| Cauliflower 1 Unit | $49.95 | $69.95 | $+20.00 | +40.0% | Increase |
-| Nescafé Classic Instant Coffee 190 g / 6.7 oz | $64.95 | $66.95 | $+2.00 | +3.1% | Increase |
-|   Fresh Broccoli Crowns | $42.95 | $54.95 | $+12.00 | +27.9% | Increase |
-| Fresh Whole Striploin Fillet Vacuum packaged | $1812.66 | $1910.20 | $+97.54 | +5.4% | Increase |
-| LUSH Assorted Fruit Drink 24 Units / 200 mL | $0.00 | $59.95 | $+59.95 | +100.0% | New |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $201.21 | $201.80 | $+0.59 | +0.3% | Increase |
-| Tropical Frying Cheese 907 g / 32 oz | $92.95 | $49.70 | $-43.25 | -46.5% | Decrease |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $85.23 | $85.11 | $-0.12 | -0.1% | Decrease |
-| Orchard Orange Juice with Vitamin C 6 Units / 1 L / 33.8 oz | $54.95 | $64.95 | $+10.00 | +18.2% | Increase |
-| Fine Choice Fresh Marinated Chicken Tray | $82.43 | $82.22 | $-0.21 | -0.3% | Decrease |
-| Red Onion 2.2 kg / 5 lb | $34.95 | $37.95 | $+3.00 | +8.6% | Increase |
-| Orchard Assorted Drinks Juice Mix 6 Units / 1L | $56.95 | $65.95 | $+9.00 | +15.8% | Increase |
-| Maggi Vegetable Soup 12 Units / 45 g | $65.95 | $71.95 | $+6.00 | +9.1% | Increase |
+| Green pepper | $55.06 | $59.19 | $+4.13 | +7.5% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $39.42 | $39.80 | $+0.38 | +1.0% | Increase |
+| Member's Selection Chilled Chicken Liver, Tray Pack | $28.45 | $28.63 | $+0.18 | +0.6% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $201.80 | $202.99 | $+1.19 | +0.6% | Increase |
+| Carnation Creamy Evaporated Milk 6 Units / 330 mL | $0.00 | $54.95 | $+54.95 | +100.0% | New |
+| Frozen Imported Pork Leg Slices | $73.80 | $70.14 | $-3.66 | -5.0% | Decrease |
+| Frozen Pork Belly Skin On Sliced Tray  | $116.59 | $116.11 | $-0.48 | -0.4% | Decrease |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $360.91 | $356.50 | $-4.41 | -1.2% | Decrease |
+| Papaya | $32.98 | $32.28 | $-0.70 | -2.1% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $113.81 | $112.98 | $-0.83 | -0.7% | Decrease |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $85.11 | $85.36 | $+0.25 | +0.3% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $67.49 | $68.10 | $+0.61 | +0.9% | Increase |
+| Ribeye Choice Fillet Fresh Tray | $296.76 | $291.86 | $-4.90 | -1.7% | Decrease |
+| Fine Choice Fresh Marinated Chicken Tray | $82.22 | $83.27 | $+1.05 | +1.3% | Increase |
+| Frozen Sliced Turkey Drumsticks | $193.49 | $192.68 | $-0.81 | -0.4% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Rastelli's Frozen New York Steak Case 10 Units / 225 g / 8 oz  | Rastelli's | $536.95 | 2026-05-01 |
 | Frosted Flakes Donut Holes Glazed Cereal 893 g / 31.5 oz | Zucaritas | $54.70 | 2026-04-29 |
 | Fireside Marshmallows 1 kg / 2.2 lb | Fireside | $72.95 | 2026-04-29 |
 | Golden Kiwi 1 lb / 453 g |  | $74.95 | 2026-04-29 |
@@ -109,10 +110,9 @@
 | Califia Farms Pumpkin Spice Latte 1.4 L / 48 oz | Califia Farms | $69.95 | 2026-04-22 |
 | Activia Low Fat Yogurt 12 Units / 113 g / 4 oz | Activia | $87.95 | 2026-04-22 |
 | Baby Carrots 907 g / 2 lb |  | $34.95 | 2026-04-22 |
-| Apple Jacks Cereal de Manzana y Canela 1.03 kg / 36.5 oz | Apple Jacks | $98.95 | 2026-04-21 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| LUSH Assorted Fruit Drink 24 Units / 200 mL | Lush | $59.95 | G10D03 |
+| Carnation Creamy Evaporated Milk 6 Units / 330 mL | Carnation | $54.95 | G10D03 |
