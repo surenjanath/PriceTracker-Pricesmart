@@ -1,15 +1,15 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1154
-- **Total value**: $131,085.64
-- **Average price**: $113.59
+- **Total products scraped**: 1155
+- **Total value**: $131,264.38
+- **Average price**: $113.65
 
 ## Database Changes
 - **New products added**: 1
-- **Existing products updated**: 1153
-- **Price changes detected**: 22
-- **Stock/availability changes**: 25
+- **Existing products updated**: 1154
+- **Price changes detected**: 49
+- **Stock/availability changes**: 17
 - **Discontinued products**: 0
 
 ## Top 5 Brands
@@ -26,45 +26,45 @@
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Member's Selection Freshly Baked Vanilla Loaf Cake | Member's Selection | $33.73 | true |
+| Member's Selection Freshly Baked Vanilla Loaf Cake | Member's Selection | $30.95 | true |
 | Member's Selection Freshly Baked Berries Cake 12 Slices | Member's Selection | $139.95 | true |
 | Member's Selection Cookies and Cream Cake Decorated with Oreo Cookie 12 Slices | Member's Selection | $139.95 | true |
 | Calbee Snacks Lightly Salted Baked Pea Crisps 567 g / 1.25 lb | Calbee | $116.95 | true |
 | Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | Eggo | $109.95 | true |
 | Pizzacini Truffle and Mushroom Pizza 2 Units / 440 g / 15.5 oz | Pizzacini | $169.95 | true |
-| Swiss Honey Mustard Sauce 2 Units / 454 g | Swiss | $42.95 | true |
 | Nescafé Classic Instant Coffee 100% Pure 170 g | Nescafé | $61.95 | true |
+| Swiss Honey Mustard Sauce 2 Units / 454 g | Swiss | $42.95 | true |
 | Sacla Italia Pizza Sauce 1 kg / 35.2 oz | Sacla | $64.95 | true |
 | Heinz Tomato Ketchup 567 g / 20 oz | Heinz | $29.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1113
-- **Price increases**: 600
-- **Price decreases**: 490
-- **Average increase**: 5.8%
-- **Average decrease**: -5.4%
+- **Total price changes**: 1122
+- **Price increases**: 605
+- **Price decreases**: 494
+- **Average increase**: 6.2%
+- **Average decrease**: -5.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Chilled Chicken Gizzard Tray Pack | $39.80 | $39.87 | $+0.07 | +0.2% | Increase |
-| Mucci Farms Grape Tomatoes 681 g / 1.5 lb | $0.00 | $49.95 | $+49.95 | +100.0% | New |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $356.50 | $355.39 | $-1.11 | -0.3% | Decrease |
-| Frozen Pork Belly Skin On Sliced Tray  | $116.11 | $116.83 | $+0.72 | +0.6% | Increase |
-| Papaya | $32.28 | $32.57 | $+0.29 | +0.9% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $68.10 | $68.24 | $+0.14 | +0.2% | Increase |
-| Fine Choice Fresh Marinated Chicken Tray | $83.27 | $83.06 | $-0.21 | -0.3% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $280.04 | $279.72 | $-0.32 | -0.1% | Decrease |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $85.36 | $85.23 | $-0.13 | -0.2% | Decrease |
-| Fresh Ground Chicken Tray | $105.63 | $105.38 | $-0.25 | -0.2% | Decrease |
-| Frozen Lamb Shoulder Chops Tray | $121.20 | $121.02 | $-0.18 | -0.1% | Decrease |
-| Frozen Boneless Skinless Chicken Breast Tray | $132.69 | $132.56 | $-0.13 | -0.1% | Decrease |
-| Fresh Chicken Thighs Boneless Bag | $313.90 | $314.74 | $+0.84 | +0.3% | Increase |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $214.24 | $211.70 | $-2.54 | -1.2% | Decrease |
-| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $159.33 | $159.14 | $-0.19 | -0.1% | Decrease |
+| Fine Choice Fresh Marinated Chicken Tray | $83.06 | $83.27 | $+0.21 | +0.3% | Increase |
+| Fresh Chicken Thighs Boneless Bag | $314.74 | $317.62 | $+2.88 | +0.9% | Increase |
+| Quaker Instant Oatmeal 52 Units / 43 g / 1.51 oz | $127.07 | $157.44 | $+30.37 | +23.9% | Increase |
+| Chobani Greek Yogurt 907 g / 32 oz | $55.95 | $67.95 | $+12.00 | +21.4% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $202.99 | $201.03 | $-1.96 | -1.0% | Decrease |
+| Member's Selection Freshly Prepared Tuna Salad Wraps 4 Units | $65.95 | $62.95 | $-3.00 | -4.5% | Decrease |
+| Frozen Pork Belly Skin On Sliced Tray  | $116.83 | $117.79 | $+0.96 | +0.8% | Increase |
+| Papaya | $32.57 | $32.76 | $+0.19 | +0.6% | Increase |
+| Curly's Baby Back Pork Ribs 680 g / 24 oz | $0.00 | $137.95 | $+137.95 | +100.0% | New |
+| Fresh Bone-in Chicken Thighs Tray | $68.24 | $68.38 | $+0.14 | +0.2% | Increase |
+| Froot Loops, Corn Pops, Apple Jacks, Cocoa Krispies and Frosted Flakes Assorted Cereal Pack 25 Units | $114.95 | $91.45 | $-23.50 | -20.4% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $192.68 | $189.07 | $-3.61 | -1.9% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $222.72 | $223.86 | $+1.14 | +0.5% | Increase |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $85.23 | $85.11 | $-0.12 | -0.1% | Decrease |
+| Member's Selection Breaded Chicken Bites Ready to Heat | $86.95 | $84.95 | $-2.00 | -2.3% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -115,4 +115,4 @@
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Mucci Farms Grape Tomatoes 681 g / 1.5 lb | Mucci Farms | $49.95 | G10D03 |
+| Curly's Baby Back Pork Ribs 680 g / 24 oz | Curly's | $137.95 | G10D03 |
