@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1155
-- **Total value**: $131,264.38
-- **Average price**: $113.65
+- **Total products scraped**: 1154
+- **Total value**: $128,402.35
+- **Average price**: $111.27
 
 ## Database Changes
-- **New products added**: 1
+- **New products added**: 0
 - **Existing products updated**: 1154
-- **Price changes detected**: 49
-- **Stock/availability changes**: 17
-- **Discontinued products**: 0
+- **Price changes detected**: 23
+- **Stock/availability changes**: 20
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1122
-- **Price increases**: 605
-- **Price decreases**: 494
-- **Average increase**: 6.2%
+- **Total price changes**: 1145
+- **Price increases**: 615
+- **Price decreases**: 507
+- **Average increase**: 6.1%
 - **Average decrease**: -5.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fine Choice Fresh Marinated Chicken Tray | $83.06 | $83.27 | $+0.21 | +0.3% | Increase |
-| Fresh Chicken Thighs Boneless Bag | $314.74 | $317.62 | $+2.88 | +0.9% | Increase |
-| Quaker Instant Oatmeal 52 Units / 43 g / 1.51 oz | $127.07 | $157.44 | $+30.37 | +23.9% | Increase |
-| Chobani Greek Yogurt 907 g / 32 oz | $55.95 | $67.95 | $+12.00 | +21.4% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $202.99 | $201.03 | $-1.96 | -1.0% | Decrease |
-| Member's Selection Freshly Prepared Tuna Salad Wraps 4 Units | $65.95 | $62.95 | $-3.00 | -4.5% | Decrease |
-| Frozen Pork Belly Skin On Sliced Tray  | $116.83 | $117.79 | $+0.96 | +0.8% | Increase |
-| Papaya | $32.57 | $32.76 | $+0.19 | +0.6% | Increase |
-| Curly's Baby Back Pork Ribs 680 g / 24 oz | $0.00 | $137.95 | $+137.95 | +100.0% | New |
-| Fresh Bone-in Chicken Thighs Tray | $68.24 | $68.38 | $+0.14 | +0.2% | Increase |
-| Froot Loops, Corn Pops, Apple Jacks, Cocoa Krispies and Frosted Flakes Assorted Cereal Pack 25 Units | $114.95 | $91.45 | $-23.50 | -20.4% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $192.68 | $189.07 | $-3.61 | -1.9% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $222.72 | $223.86 | $+1.14 | +0.5% | Increase |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $85.23 | $85.11 | $-0.12 | -0.1% | Decrease |
-| Member's Selection Breaded Chicken Bites Ready to Heat | $86.95 | $84.95 | $-2.00 | -2.3% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $83.06 | $82.85 | $-0.21 | -0.3% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $279.56 | $279.08 | $-0.48 | -0.2% | Decrease |
+| Fresh Chicken Thighs Boneless Bag | $317.62 | $316.90 | $-0.72 | -0.2% | Decrease |
+| Gouda Cheese Block | $85.48 | $70.53 | $-14.95 | -17.5% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $201.03 | $200.73 | $-0.30 | -0.1% | Decrease |
+| Papaya | $32.76 | $33.02 | $+0.26 | +0.8% | Increase |
+| Royal Asia Honey Walnut Shrimp 907 g / 2 lb | $154.70 | $79.70 | $-75.00 | -48.5% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $68.38 | $68.44 | $+0.06 | +0.1% | Increase |
+| Biskrem Cookies with Cocoa Filling 24 Units / 40 g / 1.41 oz | $40.95 | $41.95 | $+1.00 | +2.4% | Increase |
+| Fresh Chicken Mixed Parts Tray | $84.62 | $84.72 | $+0.10 | +0.1% | Increase |
+| Fresh Ground Chicken Tray | $105.38 | $104.75 | $-0.63 | -0.6% | Decrease |
+| Frozen Lamb Shoulder Chops Tray | $120.84 | $120.67 | $-0.17 | -0.1% | Decrease |
+| Pink Lady Apples 1.36 kg / 3 lb | $64.95 | $67.95 | $+3.00 | +4.6% | Increase |
+| Frozen Boneless Skinless Chicken Breast Tray | $132.56 | $132.69 | $+0.13 | +0.1% | Increase |
+| Caffe D'Vita Mocha Cappuccino Mix 1.36 kg / 3 lb | $128.84 | $128.95 | $+0.11 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,8 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Marianne's Harvest Avocado Oil 2 L / 67.6 oz | Marianne's Harvest | $299.95 | 2026-05-04 |
+| Chilled Skinless Boneless Beef Ribeye Steak Vacuum Package Whole Piece |  | $2559.02 | 2026-05-04 |
 | Rastelli's Frozen New York Steak Case 10 Units / 225 g / 8 oz  | Rastelli's | $536.95 | 2026-05-01 |
 | Frosted Flakes Donut Holes Glazed Cereal 893 g / 31.5 oz | Zucaritas | $54.70 | 2026-04-29 |
 | Fireside Marshmallows 1 kg / 2.2 lb | Fireside | $72.95 | 2026-04-29 |
@@ -108,11 +110,6 @@
 | Rastelli's Ribeye Steak Frozen 10 Units / 225 g / 8 oz  | Rastelli's | $557.95 | 2026-04-28 |
 | Rastelli’s Ribeye Steak 2 Units / 225 g / 8 oz | Rastelli's | $122.95 | 2026-04-28 |
 | Califia Farms Pumpkin Spice Latte 1.4 L / 48 oz | Califia Farms | $69.95 | 2026-04-22 |
-| Activia Low Fat Yogurt 12 Units / 113 g / 4 oz | Activia | $87.95 | 2026-04-22 |
-| Baby Carrots 907 g / 2 lb |  | $34.95 | 2026-04-22 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Curly's Baby Back Pork Ribs 680 g / 24 oz | Curly's | $137.95 | G10D03 |
+No new products added today.
