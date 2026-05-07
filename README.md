@@ -184,32 +184,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1152
-- **Total value**: $128,033.08
-- **Average price**: $111.14
+- **Total products scraped**: 1140
+- **Total value**: $126,439.19
+- **Average price**: $110.91
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1151
-- **Price changes detected**: 32
-- **Stock/availability changes**: 26
-- **Discontinued products**: 3
+- **New products added**: 0
+- **Existing products updated**: 1140
+- **Price changes detected**: 59
+- **Stock/availability changes**: 13
+- **Discontinued products**: 12
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 184 |
-|  | 138 |
-| Badia | 18 |
-| Swiss | 15 |
+| Member's Selection | 182 |
+|  | 137 |
+| Badia | 17 |
+| Swiss | 14 |
 | Brunswick | 11 |
 
 ## Recent Products
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Member's Selection Freshly Baked Vanilla Loaf Cake | Member's Selection | $30.95 | true |
 | Member's Selection Shredded Mozzarella Cheese 453 g / 1 lb | Member's Selection | $28.95 | true |
 | Member's Selection Freshly Baked Berries Cake 12 Slices | Member's Selection | $139.95 | true |
 | Member's Selection Cookies and Cream Cake Decorated with Oreo Cookie 12 Slices | Member's Selection | $139.95 | true |
@@ -219,35 +218,36 @@ This project has recently gained unexpected attention. It was created for person
 | Nescafé Classic Instant Coffee 100% Pure 170 g | Nescafé | $61.95 | true |
 | Sacla Italia Pizza Sauce 1 kg / 35.2 oz | Sacla | $64.95 | true |
 | Swiss Honey Mustard Sauce 2 Units / 454 g | Swiss | $42.95 | true |
+| Heinz Tomato Ketchup 567 g / 20 oz | Heinz | $29.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1114
-- **Price increases**: 591
-- **Price decreases**: 500
+- **Total price changes**: 1146
+- **Price increases**: 607
+- **Price decreases**: 516
 - **Average increase**: 5.8%
-- **Average decrease**: -5.0%
+- **Average decrease**: -5.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Tropical Frying Cheese 907 g / 32 oz | $49.70 | $92.95 | $+43.25 | +87.0% | Increase |
-| Callaloo Pack 1.5 kg / 3.3 lb | $0.00 | $24.95 | $+24.95 | +100.0% | New |
-| Gouda Cheese Block | $70.53 | $70.94 | $+0.41 | +0.6% | Increase |
-| Fresh Beef Ribeye Steak Vacuum Packed | $2127.03 | $2266.53 | $+139.50 | +6.6% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $200.73 | $200.44 | $-0.29 | -0.1% | Decrease |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $355.39 | $352.08 | $-3.31 | -0.9% | Decrease |
-| Tetley Super Tea Boost Raspberry & Blueberry Tea 3 Units / 40 g  | $84.95 | $76.70 | $-8.25 | -9.7% | Decrease |
-| Frozen Pork Belly Skin On Sliced Tray  | $117.79 | $118.51 | $+0.72 | +0.6% | Increase |
-| Papaya | $33.02 | $33.08 | $+0.06 | +0.2% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $68.44 | $68.65 | $+0.21 | +0.3% | Increase |
-| Ribeye Choice Fillet Fresh Tray | $291.86 | $306.04 | $+14.18 | +4.9% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $223.86 | $222.72 | $-1.14 | -0.5% | Decrease |
-| Carnation Evaporated Milk 6 Units / 371 mL / 12.5 oz | $71.95 | $65.95 | $-6.00 | -8.3% | Decrease |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $85.11 | $84.98 | $-0.13 | -0.2% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $94.81 | $94.71 | $-0.10 | -0.1% | Decrease |
+| String Beans 1 kg / 2.2 lb | $49.95 | $58.95 | $+9.00 | +18.0% | Increase |
+| Butterball Turkey Sausage Patties 2 Units / 226 g / 8 oz | $84.95 | $89.95 | $+5.00 | +5.9% | Increase |
+| La Yogurt Strawberry & Peach Yogurt 12 Units / 170 g / 6 oz | $88.95 | $87.95 | $-1.00 | -1.1% | Decrease |
+| Karnis Hummus Mix 3 Units / 226 g / 7.97 oz | $83.95 | $82.95 | $-1.00 | -1.2% | Decrease |
+| Frito Lay Bold Mix Chips with Assorted Presentations 24 Units | $109.95 | $116.95 | $+7.00 | +6.4% | Increase |
+| Nabisco Chips Ahoy 24 Units / 44 g / 1.55 oz | $125.95 | $129.95 | $+4.00 | +3.2% | Increase |
+| Chobani Greek Yogurt Vanilla 1.13 kg / 40 oz | $88.95 | $87.95 | $-1.00 | -1.1% | Decrease |
+| Cherries 454 g / 1 lb | $59.95 | $84.95 | $+25.00 | +41.7% | Increase |
+| Gouda Cheese Block | $70.94 | $70.80 | $-0.14 | -0.2% | Decrease |
+| Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | $124.95 | $62.47 | $-62.48 | -50.0% | Decrease |
+| Pier 33 Coho Salmon Steak Frozen, Skin on 1 kg / 2.2 lb | $221.95 | $219.95 | $-2.00 | -0.9% | Decrease |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $352.08 | $348.40 | $-3.68 | -1.0% | Decrease |
+| Papaya | $33.08 | $33.40 | $+0.32 | +1.0% | Increase |
+| Sara Lee Classic Pound Butter Cake 2 Pack / 453 g / 15.9 oz | $114.95 | $56.70 | $-58.25 | -50.7% | Decrease |
+| Lunchables Cookie Sandwich 6 Units | $164.95 | $169.95 | $+5.00 | +3.0% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,19 +283,16 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
-| Heinz Tomato Ketchup 12 Units / 591.5 mL / 20 oz | Heinz | $249.95 | 2026-05-05 |
-| Member's Selection Coffee Creamer 6 Units / 454 g / 16 oz | Member's Selection | $166.95 | 2026-05-05 |
-| Member's Selection Red Velvet Cake with Vanilla Icing Freshly Baked 6 to 8 Slices | Member's Selection | $123.95 | 2026-05-05 |
-| Marianne's Harvest Avocado Oil 2 L / 67.6 oz | Marianne's Harvest | $299.95 | 2026-05-04 |
-| Chilled Skinless Boneless Beef Ribeye Steak Vacuum Package Whole Piece |  | $2559.02 | 2026-05-04 |
-| Rastelli's Frozen New York Steak Case 10 Units / 225 g / 8 oz  | Rastelli's | $536.95 | 2026-05-01 |
-| Frosted Flakes Donut Holes Glazed Cereal 893 g / 31.5 oz | Zucaritas | $54.70 | 2026-04-29 |
-| Fireside Marshmallows 1 kg / 2.2 lb | Fireside | $72.95 | 2026-04-29 |
-| Golden Kiwi 1 lb / 453 g |  | $74.95 | 2026-04-29 |
-| Badia Crushed Parsley Flakes 56.7 g / 2 oz | Badia | $21.95 | 2026-04-28 |
+| Carmencita Mediterranean Spice Mix with Grinder 190 g / 6.7 oz | Carmencita | $49.95 | 2026-05-06 |
+| Swiss Swiss Lasagna Sheets 3 Units / 400 g / 14 oz | Swiss | $39.95 | 2026-05-06 |
+| After Eight Chocolate Coated Mints 300 g / 10.58 oz | After Eight | $52.95 | 2026-05-06 |
+| Dare Viva Puffs Candy Cane 2 Units / 300 g | Dare | $49.95 | 2026-05-06 |
+| Mott's 100% Natural Apple Juice 1.89 L | Mott's | $45.95 | 2026-05-06 |
+| Nestlé Chocolate-Flavored Powder Drink with Mini Marshmallows 16 Units / 24.2 g / 0.85 oz | Nestle | $49.95 | 2026-05-06 |
+| Badia All Purpose Seasoning 14 Spices 567 g / 20 oz | Badia | $64.95 | 2026-05-06 |
+| Dare Chocolate Cookies with Mint Flavor Cream Filling 2 Units / 290 g / 10 oz | Dare | $56.95 | 2026-05-06 |
+| Sundays Peanut Ice Cream 3.78 L / 128 oz | Sundays | $69.95 | 2026-05-06 |
+| Member's Selection Premium Mayonnaise 591 mL / 20 oz | Member's Selection | $27.95 | 2026-05-06 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Callaloo Pack 1.5 kg / 3.3 lb |  | $24.95 | G10D03 |
+No new products added today.
