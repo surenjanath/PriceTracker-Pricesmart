@@ -184,22 +184,22 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1140
-- **Total value**: $126,439.19
-- **Average price**: $110.91
+- **Total products scraped**: 1139
+- **Total value**: $126,105.79
+- **Average price**: $110.72
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1140
-- **Price changes detected**: 59
-- **Stock/availability changes**: 13
-- **Discontinued products**: 12
+- **New products added**: 1
+- **Existing products updated**: 1138
+- **Price changes detected**: 46
+- **Stock/availability changes**: 16
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 182 |
+| Member's Selection | 181 |
 |  | 137 |
 | Badia | 17 |
 | Swiss | 14 |
@@ -209,45 +209,45 @@ This project has recently gained unexpected attention. It was created for person
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Member's Selection Shredded Mozzarella Cheese 453 g / 1 lb | Member's Selection | $28.95 | true |
 | Member's Selection Freshly Baked Berries Cake 12 Slices | Member's Selection | $139.95 | true |
 | Member's Selection Cookies and Cream Cake Decorated with Oreo Cookie 12 Slices | Member's Selection | $139.95 | true |
 | Calbee Snacks Lightly Salted Baked Pea Crisps 567 g / 1.25 lb | Calbee | $116.95 | true |
 | Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | Eggo | $109.95 | true |
 | Pizzacini Truffle and Mushroom Pizza 2 Units / 440 g / 15.5 oz | Pizzacini | $169.95 | true |
 | Nescafé Classic Instant Coffee 100% Pure 170 g | Nescafé | $61.95 | true |
-| Sacla Italia Pizza Sauce 1 kg / 35.2 oz | Sacla | $64.95 | true |
 | Swiss Honey Mustard Sauce 2 Units / 454 g | Swiss | $42.95 | true |
+| Sacla Italia Pizza Sauce 1 kg / 35.2 oz | Sacla | $64.95 | true |
 | Heinz Tomato Ketchup 567 g / 20 oz | Heinz | $29.95 | true |
+| Prairie Farms Half and Half 946 mL / 32 oz | Prairie Farms | $37.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1146
-- **Price increases**: 607
-- **Price decreases**: 516
-- **Average increase**: 5.8%
+- **Total price changes**: 1161
+- **Price increases**: 600
+- **Price decreases**: 539
+- **Average increase**: 5.4%
 - **Average decrease**: -5.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| String Beans 1 kg / 2.2 lb | $49.95 | $58.95 | $+9.00 | +18.0% | Increase |
-| Butterball Turkey Sausage Patties 2 Units / 226 g / 8 oz | $84.95 | $89.95 | $+5.00 | +5.9% | Increase |
-| La Yogurt Strawberry & Peach Yogurt 12 Units / 170 g / 6 oz | $88.95 | $87.95 | $-1.00 | -1.1% | Decrease |
-| Karnis Hummus Mix 3 Units / 226 g / 7.97 oz | $83.95 | $82.95 | $-1.00 | -1.2% | Decrease |
-| Frito Lay Bold Mix Chips with Assorted Presentations 24 Units | $109.95 | $116.95 | $+7.00 | +6.4% | Increase |
-| Nabisco Chips Ahoy 24 Units / 44 g / 1.55 oz | $125.95 | $129.95 | $+4.00 | +3.2% | Increase |
-| Chobani Greek Yogurt Vanilla 1.13 kg / 40 oz | $88.95 | $87.95 | $-1.00 | -1.1% | Decrease |
-| Cherries 454 g / 1 lb | $59.95 | $84.95 | $+25.00 | +41.7% | Increase |
-| Gouda Cheese Block | $70.94 | $70.80 | $-0.14 | -0.2% | Decrease |
-| Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | $124.95 | $62.47 | $-62.48 | -50.0% | Decrease |
-| Pier 33 Coho Salmon Steak Frozen, Skin on 1 kg / 2.2 lb | $221.95 | $219.95 | $-2.00 | -0.9% | Decrease |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $352.08 | $348.40 | $-3.68 | -1.0% | Decrease |
-| Papaya | $33.08 | $33.40 | $+0.32 | +1.0% | Increase |
-| Sara Lee Classic Pound Butter Cake 2 Pack / 453 g / 15.9 oz | $114.95 | $56.70 | $-58.25 | -50.7% | Decrease |
-| Lunchables Cookie Sandwich 6 Units | $164.95 | $169.95 | $+5.00 | +3.0% | Increase |
+| Bombolo Biscotti Baked Cookies Decorated for Easter with Assorted Designs | $76.95 | $74.95 | $-2.00 | -2.6% | Decrease |
+| Suzy's Cream Cheesecake Assorted Flavors Cheesecake Squares 16 Units | $134.95 | $129.95 | $-5.00 | -3.7% | Decrease |
+| Member's Selection Chilled Chicken Liver, Tray Pack | $28.63 | $28.72 | $+0.09 | +0.3% | Increase |
+| Fresh Whole Striploin Fillet Vacuum packaged | $1910.20 | $2114.65 | $+204.45 | +10.7% | Increase |
+| Daisy Sour Cream 454 g / 1 lb | $0.00 | $44.95 | $+44.95 | +100.0% | New |
+| Tanty Yvonne Banana Bread with Chocolate Chips | $27.95 | $25.95 | $-2.00 | -7.2% | Decrease |
+| Caphe Fia Gourmet Garlic and Parmesan Cheese Bread 12 Units | $37.95 | $35.95 | $-2.00 | -5.3% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $200.44 | $201.03 | $+0.59 | +0.3% | Increase |
+| The Baking Café Dinner Rolls 30 Units | $37.95 | $35.95 | $-2.00 | -5.3% | Decrease |
+| Papaya | $33.40 | $33.53 | $+0.13 | +0.4% | Increase |
+| Peche Patisserie Square Artisan Sourdough Bread with Garlic and Rosemary 6 Units | $31.95 | $29.95 | $-2.00 | -6.3% | Decrease |
+| Fresh Beef Striploin Steak Tray | $221.92 | $243.40 | $+21.48 | +9.7% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $39.87 | $40.04 | $+0.17 | +0.4% | Increase |
+| Peche Patisserie Harvest Grain Loaf 650 g / 1.43 lb | $41.95 | $39.95 | $-2.00 | -4.8% | Decrease |
+| Peche Patisserie Sourdough and Butter Bread  | $37.95 | $34.95 | $-3.00 | -7.9% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,8 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Chobani Low Fat Greek Yogurt 16 Units 128 g / 4.5 oz | Chobani | $174.95 | 2026-05-07 |
+| Member's Selection Freshly Baked Chocolate Chocolate Chip Muffins 35 Units | Member's Selection | $231.95 | 2026-05-07 |
 | Carmencita Mediterranean Spice Mix with Grinder 190 g / 6.7 oz | Carmencita | $49.95 | 2026-05-06 |
 | Swiss Swiss Lasagna Sheets 3 Units / 400 g / 14 oz | Swiss | $39.95 | 2026-05-06 |
 | After Eight Chocolate Coated Mints 300 g / 10.58 oz | After Eight | $52.95 | 2026-05-06 |
@@ -291,8 +293,9 @@ This project has recently gained unexpected attention. It was created for person
 | Nestlé Chocolate-Flavored Powder Drink with Mini Marshmallows 16 Units / 24.2 g / 0.85 oz | Nestle | $49.95 | 2026-05-06 |
 | Badia All Purpose Seasoning 14 Spices 567 g / 20 oz | Badia | $64.95 | 2026-05-06 |
 | Dare Chocolate Cookies with Mint Flavor Cream Filling 2 Units / 290 g / 10 oz | Dare | $56.95 | 2026-05-06 |
-| Sundays Peanut Ice Cream 3.78 L / 128 oz | Sundays | $69.95 | 2026-05-06 |
-| Member's Selection Premium Mayonnaise 591 mL / 20 oz | Member's Selection | $27.95 | 2026-05-06 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Daisy Sour Cream 454 g / 1 lb | Daisy | $44.95 | G10D03 |
