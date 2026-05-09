@@ -2,21 +2,21 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1139
-- **Total value**: $126,105.79
-- **Average price**: $110.72
+- **Total value**: $126,358.66
+- **Average price**: $110.94
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1138
-- **Price changes detected**: 46
+- **New products added**: 0
+- **Existing products updated**: 1139
+- **Price changes detected**: 59
 - **Stock/availability changes**: 16
-- **Discontinued products**: 2
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 181 |
+| Member's Selection | 180 |
 |  | 137 |
 | Badia | 17 |
 | Swiss | 14 |
@@ -28,11 +28,11 @@
 |-------|-------|-------------|--------------|
 | Member's Selection Freshly Baked Berries Cake 12 Slices | Member's Selection | $139.95 | true |
 | Member's Selection Cookies and Cream Cake Decorated with Oreo Cookie 12 Slices | Member's Selection | $139.95 | true |
+| Nescafé Classic Instant Coffee 100% Pure 170 g | Nescafé | $61.95 | true |
 | Calbee Snacks Lightly Salted Baked Pea Crisps 567 g / 1.25 lb | Calbee | $116.95 | true |
 | Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | Eggo | $109.95 | true |
-| Pizzacini Truffle and Mushroom Pizza 2 Units / 440 g / 15.5 oz | Pizzacini | $169.95 | true |
-| Nescafé Classic Instant Coffee 100% Pure 170 g | Nescafé | $61.95 | true |
 | Swiss Honey Mustard Sauce 2 Units / 454 g | Swiss | $42.95 | true |
+| Pizzacini Truffle and Mushroom Pizza 2 Units / 440 g / 15.5 oz | Pizzacini | $169.95 | true |
 | Sacla Italia Pizza Sauce 1 kg / 35.2 oz | Sacla | $64.95 | true |
 | Heinz Tomato Ketchup 567 g / 20 oz | Heinz | $29.95 | true |
 | Prairie Farms Half and Half 946 mL / 32 oz | Prairie Farms | $37.95 | true |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1161
-- **Price increases**: 600
-- **Price decreases**: 539
+- **Total price changes**: 1166
+- **Price increases**: 609
+- **Price decreases**: 535
 - **Average increase**: 5.4%
-- **Average decrease**: -5.1%
+- **Average decrease**: -4.9%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Bombolo Biscotti Baked Cookies Decorated for Easter with Assorted Designs | $76.95 | $74.95 | $-2.00 | -2.6% | Decrease |
-| Suzy's Cream Cheesecake Assorted Flavors Cheesecake Squares 16 Units | $134.95 | $129.95 | $-5.00 | -3.7% | Decrease |
-| Member's Selection Chilled Chicken Liver, Tray Pack | $28.63 | $28.72 | $+0.09 | +0.3% | Increase |
-| Fresh Whole Striploin Fillet Vacuum packaged | $1910.20 | $2114.65 | $+204.45 | +10.7% | Increase |
-| Daisy Sour Cream 454 g / 1 lb | $0.00 | $44.95 | $+44.95 | +100.0% | New |
-| Tanty Yvonne Banana Bread with Chocolate Chips | $27.95 | $25.95 | $-2.00 | -7.2% | Decrease |
-| Caphe Fia Gourmet Garlic and Parmesan Cheese Bread 12 Units | $37.95 | $35.95 | $-2.00 | -5.3% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $200.44 | $201.03 | $+0.59 | +0.3% | Increase |
-| The Baking Café Dinner Rolls 30 Units | $37.95 | $35.95 | $-2.00 | -5.3% | Decrease |
-| Papaya | $33.40 | $33.53 | $+0.13 | +0.4% | Increase |
-| Peche Patisserie Square Artisan Sourdough Bread with Garlic and Rosemary 6 Units | $31.95 | $29.95 | $-2.00 | -6.3% | Decrease |
-| Fresh Beef Striploin Steak Tray | $221.92 | $243.40 | $+21.48 | +9.7% | Increase |
-| Chilled Chicken Gizzard Tray Pack | $39.87 | $40.04 | $+0.17 | +0.4% | Increase |
-| Peche Patisserie Harvest Grain Loaf 650 g / 1.43 lb | $41.95 | $39.95 | $-2.00 | -4.8% | Decrease |
-| Peche Patisserie Sourdough and Butter Bread  | $37.95 | $34.95 | $-3.00 | -7.9% | Decrease |
+| Jel Corn Tortillas 2 Units / 325 g / 0.7 lb | $41.95 | $42.95 | $+1.00 | +2.4% | Increase |
+| Nongshim Shin Ramyun Korean Spicy Flavor Instant Noodle Soup 4 Units / 120 g | $41.95 | $42.95 | $+1.00 | +2.4% | Increase |
+| Gouda Cheese Block | $70.80 | $70.94 | $+0.14 | +0.2% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $201.03 | $200.73 | $-0.30 | -0.1% | Decrease |
+| Tostitos Scoops 411 g | $51.95 | $52.95 | $+1.00 | +1.9% | Increase |
+| Swiss Twists 6 Units / 300 g | $25.95 | $24.95 | $-1.00 | -3.9% | Decrease |
+| Papaya | $33.53 | $33.69 | $+0.16 | +0.5% | Increase |
+| Par Excellence White Rice 5 kg | $47.95 | $46.95 | $-1.00 | -2.1% | Decrease |
+| Lee Kum Kee Oyster Sauce 2 Units / 510 g | $71.95 | $69.95 | $-2.00 | -2.8% | Decrease |
+| Nature's Pride Black Beans 1.8 kg / 4 lb | $41.95 | $42.95 | $+1.00 | +2.4% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $40.04 | $40.29 | $+0.25 | +0.6% | Increase |
+| Swiss Elbows 6 Units / 300 g / 10.6 oz | $25.95 | $24.95 | $-1.00 | -3.9% | Decrease |
+| Target Halal Corned Beef  4 Units / 380 g / 12 oz | $73.95 | $74.95 | $+1.00 | +1.4% | Increase |
+| Red Cabbage Unit | $27.95 | $29.95 | $+2.00 | +7.2% | Increase |
+| Ribeye Choice Fillet Fresh Tray | $310.44 | $311.17 | $+0.73 | +0.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Member's Selection Chilled Rib Eye Portioned Tray | Member's Selection | $326.76 | 2026-05-08 |
 | Chobani Low Fat Greek Yogurt 16 Units 128 g / 4.5 oz | Chobani | $174.95 | 2026-05-07 |
 | Member's Selection Freshly Baked Chocolate Chocolate Chip Muffins 35 Units | Member's Selection | $231.95 | 2026-05-07 |
 | Carmencita Mediterranean Spice Mix with Grinder 190 g / 6.7 oz | Carmencita | $49.95 | 2026-05-06 |
@@ -109,10 +110,6 @@
 | Mott's 100% Natural Apple Juice 1.89 L | Mott's | $45.95 | 2026-05-06 |
 | Nestlé Chocolate-Flavored Powder Drink with Mini Marshmallows 16 Units / 24.2 g / 0.85 oz | Nestle | $49.95 | 2026-05-06 |
 | Badia All Purpose Seasoning 14 Spices 567 g / 20 oz | Badia | $64.95 | 2026-05-06 |
-| Dare Chocolate Cookies with Mint Flavor Cream Filling 2 Units / 290 g / 10 oz | Dare | $56.95 | 2026-05-06 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Daisy Sour Cream 454 g / 1 lb | Daisy | $44.95 | G10D03 |
+No new products added today.
