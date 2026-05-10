@@ -185,22 +185,22 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1139
-- **Total value**: $126,358.66
-- **Average price**: $110.94
+- **Total value**: $126,158.86
+- **Average price**: $110.76
 
 ## Database Changes
 - **New products added**: 0
 - **Existing products updated**: 1139
-- **Price changes detected**: 59
-- **Stock/availability changes**: 16
+- **Price changes detected**: 1
+- **Stock/availability changes**: 15
 - **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 180 |
-|  | 137 |
+| Member's Selection | 181 |
+|  | 136 |
 | Badia | 17 |
 | Swiss | 14 |
 | Brunswick | 11 |
@@ -223,16 +223,17 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1166
-- **Price increases**: 609
-- **Price decreases**: 535
-- **Average increase**: 5.4%
+- **Total price changes**: 1130
+- **Price increases**: 593
+- **Price decreases**: 515
+- **Average increase**: 5.2%
 - **Average decrease**: -4.9%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
+| Frozen Lamb Shoulder Chops Tray | $120.49 | $120.67 | $+0.18 | +0.1% | Increase |
 | Jel Corn Tortillas 2 Units / 325 g / 0.7 lb | $41.95 | $42.95 | $+1.00 | +2.4% | Increase |
 | Nongshim Shin Ramyun Korean Spicy Flavor Instant Noodle Soup 4 Units / 120 g | $41.95 | $42.95 | $+1.00 | +2.4% | Increase |
 | Gouda Cheese Block | $70.80 | $70.94 | $+0.14 | +0.2% | Increase |
@@ -247,7 +248,6 @@ This project has recently gained unexpected attention. It was created for person
 | Swiss Elbows 6 Units / 300 g / 10.6 oz | $25.95 | $24.95 | $-1.00 | -3.9% | Decrease |
 | Target Halal Corned Beef  4 Units / 380 g / 12 oz | $73.95 | $74.95 | $+1.00 | +1.4% | Increase |
 | Red Cabbage Unit | $27.95 | $29.95 | $+2.00 | +7.2% | Increase |
-| Ribeye Choice Fillet Fresh Tray | $310.44 | $311.17 | $+0.73 | +0.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Frozen Boneless Pork Loin Vacuum Packaged |  | $258.93 | 2026-05-09 |
 | Member's Selection Chilled Rib Eye Portioned Tray | Member's Selection | $326.76 | 2026-05-08 |
 | Chobani Low Fat Greek Yogurt 16 Units 128 g / 4.5 oz | Chobani | $174.95 | 2026-05-07 |
 | Member's Selection Freshly Baked Chocolate Chocolate Chip Muffins 35 Units | Member's Selection | $231.95 | 2026-05-07 |
@@ -292,7 +293,6 @@ This project has recently gained unexpected attention. It was created for person
 | Dare Viva Puffs Candy Cane 2 Units / 300 g | Dare | $49.95 | 2026-05-06 |
 | Mott's 100% Natural Apple Juice 1.89 L | Mott's | $45.95 | 2026-05-06 |
 | Nestlé Chocolate-Flavored Powder Drink with Mini Marshmallows 16 Units / 24.2 g / 0.85 oz | Nestle | $49.95 | 2026-05-06 |
-| Badia All Purpose Seasoning 14 Spices 567 g / 20 oz | Badia | $64.95 | 2026-05-06 |
 
 ## New Products Added Today
 No new products added today.
