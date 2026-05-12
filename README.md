@@ -184,22 +184,22 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1139
-- **Total value**: $126,293.39
-- **Average price**: $110.88
+- **Total products scraped**: 1138
+- **Total value**: $126,147.87
+- **Average price**: $110.85
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1137
-- **Price changes detected**: 29
-- **Stock/availability changes**: 10
-- **Discontinued products**: 3
+- **New products added**: 0
+- **Existing products updated**: 1138
+- **Price changes detected**: 14
+- **Stock/availability changes**: 17
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 180 |
+| Member's Selection | 179 |
 |  | 137 |
 | Badia | 17 |
 | Swiss | 14 |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1140
-- **Price increases**: 598
-- **Price decreases**: 520
-- **Average increase**: 5.2%
-- **Average decrease**: -4.9%
+- **Total price changes**: 1128
+- **Price increases**: 588
+- **Price decreases**: 519
+- **Average increase**: 5.3%
+- **Average decrease**: -5.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
+| Gouda Cheese Block | $86.16 | $85.62 | $-0.54 | -0.6% | Decrease |
+| Papaya | $33.97 | $34.20 | $+0.23 | +0.7% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $152.96 | $151.29 | $-1.67 | -1.1% | Decrease |
+| Watermelon 1 kg / 2.2 lb | $93.23 | $92.54 | $-0.69 | -0.7% | Decrease |
+| Fresh Ground Chicken Tray | $103.99 | $103.87 | $-0.12 | -0.1% | Decrease |
+| Frozen Lamb Shoulder Chops Tray | $120.49 | $120.32 | $-0.17 | -0.1% | Decrease |
+| Swiss Mayonnaise 2 units/ 946 ml / 32 oz | $75.95 | $74.95 | $-1.00 | -1.3% | Decrease |
+| Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $57.95 | $29.70 | $-28.25 | -48.7% | Decrease |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.05 | $74.31 | $+0.26 | +0.4% | Increase |
+| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $158.00 | $157.62 | $-0.38 | -0.2% | Decrease |
+| Pork Belly with Skin Frozen Vacuum Packaged | $169.48 | $169.27 | $-0.21 | -0.1% | Decrease |
+| Fresh Strawberry 454 g / 1 lb | $61.95 | $59.95 | $-2.00 | -3.2% | Decrease |
+| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $65.66 | $65.77 | $+0.11 | +0.2% | Increase |
+| Member's Selection Frozen Skin On Boneless Salmon Fillet Vacuum Packed | $179.69 | $178.55 | $-1.14 | -0.6% | Decrease |
 | Fresh Chicken Thighs Boneless Tray | $86.12 | $86.38 | $+0.26 | +0.3% | Increase |
-| Ocean Delight Mahi Mahi  680 g / 1.5 lb | $97.95 | $124.95 | $+27.00 | +27.6% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $200.73 | $200.44 | $-0.29 | -0.1% | Decrease |
-| Ocean Spray Cranberry Lime Juice 2 Units / 1.89 L / 64 oz | $0.00 | $74.95 | $+74.95 | +100.0% | New |
-| Gouda Cheese Block | $70.94 | $86.16 | $+15.22 | +21.5% | Increase |
-| Papaya | $33.69 | $33.97 | $+0.28 | +0.8% | Increase |
-| Coffee Toppers Cold Foam 2 Units / 425 g / 15 oz | $0.00 | $77.95 | $+77.95 | +100.0% | New |
-| Frozen Chicken Legs 1 kg / 2.2 lb | $36.95 | $38.95 | $+2.00 | +5.4% | Increase |
-| Chilled Chicken Gizzard Tray Pack | $40.29 | $40.42 | $+0.13 | +0.3% | Increase |
-| Great Foods Chicken Hot Dogs 1 kg / 2.2 lb | $31.95 | $30.95 | $-1.00 | -3.1% | Decrease |
-| Frozen Chicken Wings Bag 1 kg / 2.2 lb | $45.95 | $46.95 | $+1.00 | +2.2% | Increase |
-| Fresh Chicken Leg Quarters Tray | $94.61 | $94.41 | $-0.20 | -0.2% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $278.60 | $278.12 | $-0.48 | -0.2% | Decrease |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $211.70 | $205.37 | $-6.33 | -3.0% | Decrease |
-| Fresh Ground Chicken Tray | $104.25 | $103.99 | $-0.26 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Member's Selection 100% Apple Juice 2 Units / 2.83 L / 96 oz | Member's Selection | $109.95 | 2026-05-11 |
 | Barefruit Sorrel Juice 2 L / 67 oz | Barefruit | $27.95 | 2026-05-10 |
 | Del Alba Mixed Nuts Christmas Edition 660 g / 23.3 oz | Del Alba | $96.95 | 2026-05-10 |
 | Member's Selection Fresh Baked Vanilla Cake 10 to 15 Slices | Member's Selection | $58.95 | 2026-05-10 |
@@ -292,11 +293,6 @@ This project has recently gained unexpected attention. It was created for person
 | Carmencita Mediterranean Spice Mix with Grinder 190 g / 6.7 oz | Carmencita | $49.95 | 2026-05-06 |
 | Swiss Swiss Lasagna Sheets 3 Units / 400 g / 14 oz | Swiss | $39.95 | 2026-05-06 |
 | After Eight Chocolate Coated Mints 300 g / 10.58 oz | After Eight | $52.95 | 2026-05-06 |
-| Dare Viva Puffs Candy Cane 2 Units / 300 g | Dare | $49.95 | 2026-05-06 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Ocean Spray Cranberry Lime Juice 2 Units / 1.89 L / 64 oz | Ocean Spray | $74.95 | G10D03 |
-| Coffee Toppers Cold Foam 2 Units / 425 g / 15 oz | Coffee Toppers | $77.95 | G10D03 |
+No new products added today.
