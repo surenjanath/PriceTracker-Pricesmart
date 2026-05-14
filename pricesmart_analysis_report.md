@@ -2,24 +2,24 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1140
-- **Total value**: $123,396.34
-- **Average price**: $108.24
+- **Total value**: $126,268.22
+- **Average price**: $110.76
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1140
-- **Price changes detected**: 57
-- **Stock/availability changes**: 17
-- **Discontinued products**: 27
+- **New products added**: 1
+- **Existing products updated**: 1139
+- **Price changes detected**: 54
+- **Stock/availability changes**: 12
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 180 |
-|  | 132 |
-| Swiss | 15 |
-| Badia | 15 |
+| Member's Selection | 179 |
+|  | 137 |
+| Badia | 17 |
+| Swiss | 16 |
 | Brunswick | 11 |
 
 ## Recent Products
@@ -29,42 +29,42 @@
 | Member's Selection Freshly Baked Berries Cake 12 Slices | Member's Selection | $139.95 | true |
 | Member's Selection Cookies and Cream Cake Decorated with Oreo Cookie 12 Slices | Member's Selection | $139.95 | true |
 | Calbee Snacks Lightly Salted Baked Pea Crisps 567 g / 1.25 lb | Calbee | $116.95 | true |
-| Nescafé Classic 100% Pure Instant Coffee 170 g | Nescafé | $61.95 | true |
 | Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | Eggo | $109.95 | true |
+| Pizzacini Truffle and Mushroom Pizza 2 Units / 440 g / 15.5 oz | Pizzacini | $169.95 | true |
+| Nescafé Classic 100% Pure Instant Coffee 170 g | Nescafé | $61.95 | true |
+| Heinz Tomato Ketchup 567 g / 20 oz | Heinz | $29.95 | true |
 | Swiss Honey Mustard Sauce 2 Units / 454 g | Swiss | $42.95 | true |
 | Sacla Italia Pizza Sauce 1 kg / 35.2 oz | Sacla | $64.95 | true |
-| Pizzacini Truffle and Mushroom Pizza 2 Units / 440 g / 15.5 oz | Pizzacini | $169.95 | true |
-| Suzy's Cream Cheesecakes Black Forest Cherry Cheesecake 12 Slices | Suzy's Cream Cheesecakes | $184.95 | true |
-| Heinz Tomato Ketchup 567 g / 20 oz | Heinz | $29.95 | true |
+| KFI Cooking Sauce Tikka Masala 2 Units / 650 mL | KFI | $89.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1130
-- **Price increases**: 580
-- **Price decreases**: 529
-- **Average increase**: 5.4%
-- **Average decrease**: -4.7%
+- **Total price changes**: 1156
+- **Price increases**: 602
+- **Price decreases**: 534
+- **Average increase**: 5.3%
+- **Average decrease**: -4.9%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fine Choice Fresh Marinated Chicken Tray | $83.06 | $83.27 | $+0.21 | +0.3% | Increase |
-| Fresh Chicken Thighs Boneless Tray | $86.38 | $86.51 | $+0.13 | +0.2% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $200.44 | $201.03 | $+0.59 | +0.3% | Increase |
-| Frozen Bone-In Goat Carcass Case | $1173.39 | $1298.03 | $+124.64 | +10.6% | Increase |
-| Fresh Beef Ribeye Steak Vacuum Packed | $2266.53 | $2322.33 | $+55.80 | +2.5% | Increase |
-| Gouda Cheese Block | $85.62 | $85.89 | $+0.27 | +0.3% | Increase |
-| Brunswick Canned Mackerel in Tomato Sauce 3 Units / 425 g | $34.95 | $37.95 | $+3.00 | +8.6% | Increase |
-| Moo! Evaporated Milk Low Fat 12 Units / 250 mL / 8.4 oz | $74.95 | $72.95 | $-2.00 | -2.7% | Decrease |
-| Papaya | $34.20 | $34.39 | $+0.19 | +0.6% | Increase |
-| Cow Brand Ghee 2 kg / 70.5 oz | $262.95 | $259.95 | $-3.00 | -1.1% | Decrease |
-| Welch's Concord Grape Fruit Juice 1.75 L / 59 oz | $28.95 | $33.95 | $+5.00 | +17.3% | Increase |
-| Nescafé Original Instant Iced Coffee 16 Units / 15 g | $59.95 | $44.95 | $-15.00 | -25.0% | Decrease |
-| Frozen Smoked Pork Bones 2 kg / 4.4 lb | $46.95 | $44.95 | $-2.00 | -4.3% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $222.43 | $220.71 | $-1.72 | -0.8% | Decrease |
-| Ribeye Choice Fillet Fresh Tray | $311.17 | $327.52 | $+16.35 | +5.3% | Increase |
+| Carmencita Paella Seasoning with Saffron 15 Units / 4 g / 0.14 oz | $37.70 | $24.70 | $-13.00 | -34.5% | Decrease |
+| Karnis Hummus Mix 3 Units / 226 g / 7.97 oz | $82.95 | $84.95 | $+2.00 | +2.4% | Increase |
+| Member's Selection Organic Maple Syrup 500 mL / 16.9 oz | $94.95 | $97.95 | $+3.00 | +3.2% | Increase |
+| Member's Selection Shredded Mozzarella Cheese 453 g / 1 lb | $28.95 | $29.95 | $+1.00 | +3.5% | Increase |
+| Swiss Fettuccini Pasta 4 Units / 400 g / 14.1 oz | $0.00 | $34.95 | $+34.95 | +100.0% | New |
+| Badia All Purpose Marinade Seasoning 591 mL / 20 oz  | $22.45 | $12.70 | $-9.75 | -43.4% | Decrease |
+| Gouda Cheese Block | $85.89 | $86.30 | $+0.41 | +0.5% | Increase |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $348.40 | $350.61 | $+2.21 | +0.6% | Increase |
+| Papaya | $34.39 | $34.55 | $+0.16 | +0.5% | Increase |
+| Frozen Pork Belly Skin On Sliced Tray  | $118.51 | $120.67 | $+2.16 | +1.8% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $220.71 | $220.43 | $-0.28 | -0.1% | Decrease |
+| Sofi's Cookies by Tselepidis Family Whole Grain Oatmeal Cookies with Honey 760 g / 1.67 lb | $59.70 | $49.70 | $-10.00 | -16.8% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $40.54 | $40.67 | $+0.13 | +0.3% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $68.92 | $68.99 | $+0.07 | +0.1% | Increase |
+| Quantum Energy Bars Cookie Dough Flavor with Chocolate Chips and Peanut Butter with Dark Chocolate 16 Units / 48 g / 1.7 oz | $169.70 | $139.70 | $-30.00 | -17.7% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,16 +100,19 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Donafe's Artisan Sorrel Cheesecake with Crunchy Cookie Base 12 Slices | Donafe's | $184.95 | 2026-05-13 |
 | International Delight Pumpkin Pie Spice Coffee Creamer 1.4 L / 48 oz | International Delight | $39.70 | 2026-05-12 |
-| Tyson Turkey Ham 2 Units / 340 g / 12 oz | Tyson | $59.95 | 2026-05-12 |
-| Tropicland Green Peas 2.26 kg / 5 lb | Tropicland | $94.95 | 2026-05-12 |
-| Orchard Orange Juice with Vitamin C 6 Units / 1 L / 33.8 oz | Orchard | $64.95 | 2026-05-12 |
-| Garlic 1 kg / 2.2 lb |  | $19.95 | 2026-05-12 |
-| Island Pride Coconut Cream Powder 10 Units / 50 g | Island Pride | $46.95 | 2026-05-12 |
-| Avocado Mesh 5 Units |  | $64.95 | 2026-05-12 |
-| Badia Adobo with Pepper 907 g / 32 oz | Badia | $57.95 | 2026-05-12 |
-| Pink Lady Apples 1.36 kg / 3 lb |  | $67.95 | 2026-05-12 |
-| Kraft Easy Mac and Cheese Cups 12 Units 58 g / 2.05 oz | Kraft | $172.95 | 2026-05-12 |
+| Member's Selection 100% Apple Juice 2 Units / 2.83 L / 96 oz | Member's Selection | $109.95 | 2026-05-11 |
+| Barefruit Sorrel Juice 2 L / 67 oz | Barefruit | $27.95 | 2026-05-10 |
+| Del Alba Mixed Nuts Christmas Edition 660 g / 23.3 oz | Del Alba | $96.95 | 2026-05-10 |
+| Member's Selection Fresh Baked Vanilla Cake 10 to 15 Slices | Member's Selection | $58.95 | 2026-05-10 |
+| Member's Selection Chilled Rib Eye Portioned Tray | Member's Selection | $326.76 | 2026-05-08 |
+| Chobani Low Fat Greek Yogurt 16 Units 128 g / 4.5 oz | Chobani | $174.95 | 2026-05-07 |
+| Member's Selection Freshly Baked Chocolate Chocolate Chip Muffins 35 Units | Member's Selection | $231.95 | 2026-05-07 |
+| Carmencita Mediterranean Spice Mix with Grinder 190 g / 6.7 oz | Carmencita | $49.95 | 2026-05-06 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Swiss Fettuccini Pasta 4 Units / 400 g / 14.1 oz | Swiss | $34.95 | G10D03 |
