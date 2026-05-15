@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1140
-- **Total value**: $126,268.22
-- **Average price**: $110.76
+- **Total products scraped**: 1145
+- **Total value**: $126,603.66
+- **Average price**: $110.57
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1139
-- **Price changes detected**: 54
-- **Stock/availability changes**: 12
-- **Discontinued products**: 1
+- **New products added**: 3
+- **Existing products updated**: 1142
+- **Price changes detected**: 32
+- **Stock/availability changes**: 6
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 179 |
-|  | 137 |
+|  | 138 |
 | Badia | 17 |
 | Swiss | 16 |
 | Brunswick | 11 |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1156
-- **Price increases**: 602
-- **Price decreases**: 534
+- **Total price changes**: 1163
+- **Price increases**: 594
+- **Price decreases**: 546
 - **Average increase**: 5.3%
-- **Average decrease**: -4.9%
+- **Average decrease**: -5.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Carmencita Paella Seasoning with Saffron 15 Units / 4 g / 0.14 oz | $37.70 | $24.70 | $-13.00 | -34.5% | Decrease |
-| Karnis Hummus Mix 3 Units / 226 g / 7.97 oz | $82.95 | $84.95 | $+2.00 | +2.4% | Increase |
-| Member's Selection Organic Maple Syrup 500 mL / 16.9 oz | $94.95 | $97.95 | $+3.00 | +3.2% | Increase |
-| Member's Selection Shredded Mozzarella Cheese 453 g / 1 lb | $28.95 | $29.95 | $+1.00 | +3.5% | Increase |
-| Swiss Fettuccini Pasta 4 Units / 400 g / 14.1 oz | $0.00 | $34.95 | $+34.95 | +100.0% | New |
-| Badia All Purpose Marinade Seasoning 591 mL / 20 oz  | $22.45 | $12.70 | $-9.75 | -43.4% | Decrease |
-| Gouda Cheese Block | $85.89 | $86.30 | $+0.41 | +0.5% | Increase |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $348.40 | $350.61 | $+2.21 | +0.6% | Increase |
-| Papaya | $34.39 | $34.55 | $+0.16 | +0.5% | Increase |
-| Frozen Pork Belly Skin On Sliced Tray  | $118.51 | $120.67 | $+2.16 | +1.8% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $220.71 | $220.43 | $-0.28 | -0.1% | Decrease |
-| Sofi's Cookies by Tselepidis Family Whole Grain Oatmeal Cookies with Honey 760 g / 1.67 lb | $59.70 | $49.70 | $-10.00 | -16.8% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $40.54 | $40.67 | $+0.13 | +0.3% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $68.92 | $68.99 | $+0.07 | +0.1% | Increase |
-| Quantum Energy Bars Cookie Dough Flavor with Chocolate Chips and Peanut Butter with Dark Chocolate 16 Units / 48 g / 1.7 oz | $169.70 | $139.70 | $-30.00 | -17.7% | Decrease |
+| Ocean Spray Cranberry Lime Juice 2 Units / 1.89 L / 64 oz | $74.95 | $75.95 | $+1.00 | +1.3% | Increase |
+| Fresh Whole Striploin Fillet Vacuum packaged | $2114.65 | $2128.15 | $+13.50 | +0.6% | Increase |
+| Pascual Yogi Kids Strawberry and Banana Yogurt with Fruit Pouch 24 Units / 80 g | $0.00 | $229.95 | $+229.95 | +100.0% | New |
+| Chung Chun Canned Mushroom Pieces and Stems 8 Units / 184 g | $0.00 | $56.95 | $+56.95 | +100.0% | New |
+| Chung Chun Canned Whole Poku Mushrooms 8 Units / 284 g | $0.00 | $54.95 | $+54.95 | +100.0% | New |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $201.03 | $200.44 | $-0.59 | -0.3% | Decrease |
+| Gouda Cheese Block | $86.30 | $86.57 | $+0.27 | +0.3% | Increase |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $350.61 | $348.40 | $-2.21 | -0.6% | Decrease |
+| Lush Natural Refreshing Apple Flavored Drink 36 Units / 200 ml | $92.95 | $89.95 | $-3.00 | -3.2% | Decrease |
+| Papaya | $34.55 | $34.52 | $-0.03 | -0.1% | Decrease |
+| Frozen Pork Belly Skin On Sliced Tray  | $120.67 | $120.91 | $+0.24 | +0.2% | Increase |
+| Pork Belly with Skin Frozen Vacuum Packaged | $170.13 | $169.48 | $-0.65 | -0.4% | Decrease |
+| Ribeye Choice Fillet Fresh Tray | $327.52 | $322.20 | $-5.32 | -1.6% | Decrease |
+| Fine Choice Fresh Marinated Chicken Tray | $83.27 | $83.06 | $-0.21 | -0.3% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $151.29 | $150.99 | $-0.30 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -298,4 +298,6 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Swiss Fettuccini Pasta 4 Units / 400 g / 14.1 oz | Swiss | $34.95 | G10D03 |
+| Pascual Yogi Kids Strawberry and Banana Yogurt with Fruit Pouch 24 Units / 80 g | Pascual | $229.95 | G10D03 |
+| Chung Chun Canned Mushroom Pieces and Stems 8 Units / 184 g | Chung Chun | $56.95 | G10D03 |
+| Chung Chun Canned Whole Poku Mushrooms 8 Units / 284 g | Chung Chun | $54.95 | G10D03 |
