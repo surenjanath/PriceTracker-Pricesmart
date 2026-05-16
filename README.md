@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1145
-- **Total value**: $126,603.66
-- **Average price**: $110.57
+- **Total products scraped**: 1143
+- **Total value**: $126,074.92
+- **Average price**: $110.30
 
 ## Database Changes
-- **New products added**: 3
+- **New products added**: 1
 - **Existing products updated**: 1142
-- **Price changes detected**: 32
-- **Stock/availability changes**: 6
-- **Discontinued products**: 0
+- **Price changes detected**: 28
+- **Stock/availability changes**: 11
+- **Discontinued products**: 3
 
 ## Top 5 Brands
 
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1163
-- **Price increases**: 594
-- **Price decreases**: 546
-- **Average increase**: 5.3%
-- **Average decrease**: -5.0%
+- **Total price changes**: 1141
+- **Price increases**: 586
+- **Price decreases**: 531
+- **Average increase**: 5.4%
+- **Average decrease**: -4.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Ocean Spray Cranberry Lime Juice 2 Units / 1.89 L / 64 oz | $74.95 | $75.95 | $+1.00 | +1.3% | Increase |
-| Fresh Whole Striploin Fillet Vacuum packaged | $2114.65 | $2128.15 | $+13.50 | +0.6% | Increase |
-| Pascual Yogi Kids Strawberry and Banana Yogurt with Fruit Pouch 24 Units / 80 g | $0.00 | $229.95 | $+229.95 | +100.0% | New |
-| Chung Chun Canned Mushroom Pieces and Stems 8 Units / 184 g | $0.00 | $56.95 | $+56.95 | +100.0% | New |
-| Chung Chun Canned Whole Poku Mushrooms 8 Units / 284 g | $0.00 | $54.95 | $+54.95 | +100.0% | New |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $201.03 | $200.44 | $-0.59 | -0.3% | Decrease |
-| Gouda Cheese Block | $86.30 | $86.57 | $+0.27 | +0.3% | Increase |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $350.61 | $348.40 | $-2.21 | -0.6% | Decrease |
-| Lush Natural Refreshing Apple Flavored Drink 36 Units / 200 ml | $92.95 | $89.95 | $-3.00 | -3.2% | Decrease |
-| Papaya | $34.55 | $34.52 | $-0.03 | -0.1% | Decrease |
-| Frozen Pork Belly Skin On Sliced Tray  | $120.67 | $120.91 | $+0.24 | +0.2% | Increase |
-| Pork Belly with Skin Frozen Vacuum Packaged | $170.13 | $169.48 | $-0.65 | -0.4% | Decrease |
-| Ribeye Choice Fillet Fresh Tray | $327.52 | $322.20 | $-5.32 | -1.6% | Decrease |
-| Fine Choice Fresh Marinated Chicken Tray | $83.27 | $83.06 | $-0.21 | -0.3% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $151.29 | $150.99 | $-0.30 | -0.2% | Decrease |
+| Sundays Cherry Coconut Ice cream 3.78 L / 1 gal | $0.00 | $79.95 | $+79.95 | +100.0% | New |
+| Frozen Bone-In Goat Carcass Case | $1298.03 | $1401.90 | $+103.87 | +8.0% | Increase |
+| Nectarine 908 g / 2 lb | $59.95 | $84.95 | $+25.00 | +41.7% | Increase |
+| Papaya | $34.52 | $34.55 | $+0.03 | +0.1% | Increase |
+| Fresh Beef Striploin Steak Tray | $243.40 | $248.16 | $+4.76 | +2.0% | Increase |
+| Nescafé Original Instant Iced Coffee 16 Units / 15 g | $44.95 | $42.70 | $-2.25 | -5.0% | Decrease |
+| Ginger 680 g / 1.5 | $25.95 | $24.95 | $-1.00 | -3.9% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $220.43 | $220.71 | $+0.28 | +0.1% | Increase |
+| Baby Carrots 450 g / 16 oz | $17.95 | $18.95 | $+1.00 | +5.6% | Increase |
+|  Kale 454 g / 1 lb | $23.95 | $22.95 | $-1.00 | -4.2% | Decrease |
+| Green Bell Peppers 1.36 kg / 3 lb | $47.95 | $44.95 | $-3.00 | -6.3% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $277.01 | $276.69 | $-0.32 | -0.1% | Decrease |
+| Fresh Chicken Thighs Boneless Tray | $86.64 | $86.77 | $+0.13 | +0.2% | Increase |
+| Fresh Ground Chicken Tray | $103.36 | $103.24 | $-0.12 | -0.1% | Decrease |
+| Fresh Whole Chicken 2 Units | $100.15 | $100.32 | $+0.17 | +0.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,9 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Bombolo Biscotti Italian Biscuit Collection | Bombolo Biscotti | $83.95 | 2026-05-15 |
+| Rastelli's Frozen New York Steak Case 10 Units / 225 g / 8 oz  | Rastelli's | $536.95 | 2026-05-15 |
+| Rastelli’s Ribeye Steak 2 Units / 225 g / 8 oz | Rastelli's | $122.95 | 2026-05-15 |
 | Donafe's Artisan Sorrel Cheesecake with Crunchy Cookie Base 12 Slices | Donafe's | $184.95 | 2026-05-13 |
 | International Delight Pumpkin Pie Spice Coffee Creamer 1.4 L / 48 oz | International Delight | $39.70 | 2026-05-12 |
 | Member's Selection 100% Apple Juice 2 Units / 2.83 L / 96 oz | Member's Selection | $109.95 | 2026-05-11 |
@@ -290,14 +293,9 @@ This project has recently gained unexpected attention. It was created for person
 | Del Alba Mixed Nuts Christmas Edition 660 g / 23.3 oz | Del Alba | $96.95 | 2026-05-10 |
 | Member's Selection Fresh Baked Vanilla Cake 10 to 15 Slices | Member's Selection | $58.95 | 2026-05-10 |
 | Member's Selection Chilled Rib Eye Portioned Tray | Member's Selection | $326.76 | 2026-05-08 |
-| Chobani Low Fat Greek Yogurt 16 Units 128 g / 4.5 oz | Chobani | $174.95 | 2026-05-07 |
-| Member's Selection Freshly Baked Chocolate Chocolate Chip Muffins 35 Units | Member's Selection | $231.95 | 2026-05-07 |
-| Carmencita Mediterranean Spice Mix with Grinder 190 g / 6.7 oz | Carmencita | $49.95 | 2026-05-06 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Pascual Yogi Kids Strawberry and Banana Yogurt with Fruit Pouch 24 Units / 80 g | Pascual | $229.95 | G10D03 |
-| Chung Chun Canned Mushroom Pieces and Stems 8 Units / 184 g | Chung Chun | $56.95 | G10D03 |
-| Chung Chun Canned Whole Poku Mushrooms 8 Units / 284 g | Chung Chun | $54.95 | G10D03 |
+| Sundays Cherry Coconut Ice cream 3.78 L / 1 gal | Sundays | $79.95 | G10D03 |
