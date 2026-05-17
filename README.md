@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1143
-- **Total value**: $126,074.92
-- **Average price**: $110.30
+- **Total products scraped**: 1142
+- **Total value**: $125,973.63
+- **Average price**: $110.31
 
 ## Database Changes
-- **New products added**: 1
+- **New products added**: 0
 - **Existing products updated**: 1142
-- **Price changes detected**: 28
-- **Stock/availability changes**: 11
-- **Discontinued products**: 3
+- **Price changes detected**: 38
+- **Stock/availability changes**: 9
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -211,43 +211,43 @@ This project has recently gained unexpected attention. It was created for person
 |-------|-------|-------------|--------------|
 | Member's Selection Freshly Baked Berries Cake 12 Slices | Member's Selection | $139.95 | true |
 | Member's Selection Cookies and Cream Cake Decorated with Oreo Cookie 12 Slices | Member's Selection | $139.95 | true |
-| Calbee Snacks Lightly Salted Baked Pea Crisps 567 g / 1.25 lb | Calbee | $116.95 | true |
 | Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | Eggo | $109.95 | true |
+| Calbee Snacks Lightly Salted Baked Pea Crisps 567 g / 1.25 lb | Calbee | $116.95 | true |
 | Pizzacini Truffle and Mushroom Pizza 2 Units / 440 g / 15.5 oz | Pizzacini | $169.95 | true |
-| Nescafé Classic 100% Pure Instant Coffee 170 g | Nescafé | $61.95 | true |
 | Heinz Tomato Ketchup 567 g / 20 oz | Heinz | $29.95 | true |
-| Swiss Honey Mustard Sauce 2 Units / 454 g | Swiss | $42.95 | true |
+| Nescafé Classic 100% Pure Instant Coffee 170 g | Nescafé | $61.95 | true |
 | Sacla Italia Pizza Sauce 1 kg / 35.2 oz | Sacla | $64.95 | true |
+| Swiss Honey Mustard Sauce 2 Units / 454 g | Swiss | $42.95 | true |
 | KFI Cooking Sauce Tikka Masala 2 Units / 650 mL | KFI | $89.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1141
-- **Price increases**: 586
-- **Price decreases**: 531
-- **Average increase**: 5.4%
+- **Total price changes**: 1146
+- **Price increases**: 585
+- **Price decreases**: 537
+- **Average increase**: 5.3%
 - **Average decrease**: -4.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Sundays Cherry Coconut Ice cream 3.78 L / 1 gal | $0.00 | $79.95 | $+79.95 | +100.0% | New |
-| Frozen Bone-In Goat Carcass Case | $1298.03 | $1401.90 | $+103.87 | +8.0% | Increase |
-| Nectarine 908 g / 2 lb | $59.95 | $84.95 | $+25.00 | +41.7% | Increase |
-| Papaya | $34.52 | $34.55 | $+0.03 | +0.1% | Increase |
-| Fresh Beef Striploin Steak Tray | $243.40 | $248.16 | $+4.76 | +2.0% | Increase |
-| Nescafé Original Instant Iced Coffee 16 Units / 15 g | $44.95 | $42.70 | $-2.25 | -5.0% | Decrease |
-| Ginger 680 g / 1.5 | $25.95 | $24.95 | $-1.00 | -3.9% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $220.43 | $220.71 | $+0.28 | +0.1% | Increase |
-| Baby Carrots 450 g / 16 oz | $17.95 | $18.95 | $+1.00 | +5.6% | Increase |
-|  Kale 454 g / 1 lb | $23.95 | $22.95 | $-1.00 | -4.2% | Decrease |
-| Green Bell Peppers 1.36 kg / 3 lb | $47.95 | $44.95 | $-3.00 | -6.3% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $277.01 | $276.69 | $-0.32 | -0.1% | Decrease |
-| Fresh Chicken Thighs Boneless Tray | $86.64 | $86.77 | $+0.13 | +0.2% | Increase |
-| Fresh Ground Chicken Tray | $103.36 | $103.24 | $-0.12 | -0.1% | Decrease |
-| Fresh Whole Chicken 2 Units | $100.15 | $100.32 | $+0.17 | +0.2% | Increase |
+| Purple Cauliflower  | $53.95 | $49.95 | $-4.00 | -7.4% | Decrease |
+| Frozen Bone-In Goat Carcass Case | $1401.90 | $1428.96 | $+27.06 | +1.9% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $200.44 | $200.15 | $-0.29 | -0.1% | Decrease |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $348.40 | $352.08 | $+3.68 | +1.1% | Increase |
+| Nectarine 908 g / 2 lb | $84.95 | $89.95 | $+5.00 | +5.9% | Increase |
+| Ribeye Choice Fillet Fresh Tray | $322.20 | $324.48 | $+2.28 | +0.7% | Increase |
+| Papaya | $34.55 | $34.68 | $+0.13 | +0.4% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $220.71 | $221.29 | $+0.58 | +0.3% | Increase |
+| Frozen Sliced Turkey Drumsticks | $189.07 | $188.67 | $-0.40 | -0.2% | Decrease |
+| Ginger 680 g / 1.5 | $24.95 | $23.95 | $-1.00 | -4.0% | Decrease |
+| Plum 907 g / 2 lb | $72.95 | $69.95 | $-3.00 | -4.1% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $68.99 | $68.92 | $-0.07 | -0.1% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $40.67 | $40.79 | $+0.12 | +0.3% | Increase |
+|  Kale 454 g / 1 lb | $22.95 | $23.95 | $+1.00 | +4.4% | Increase |
+| Green Bell Peppers 1.36 kg / 3 lb | $44.95 | $42.95 | $-2.00 | -4.4% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Frito Lay Bold Mix Chips with Assorted Presentations 24 Units | Frito Lay | $116.95 | 2026-05-16 |
 | Bombolo Biscotti Italian Biscuit Collection | Bombolo Biscotti | $83.95 | 2026-05-15 |
 | Rastelli's Frozen New York Steak Case 10 Units / 225 g / 8 oz  | Rastelli's | $536.95 | 2026-05-15 |
 | Rastelli’s Ribeye Steak 2 Units / 225 g / 8 oz | Rastelli's | $122.95 | 2026-05-15 |
@@ -292,10 +293,6 @@ This project has recently gained unexpected attention. It was created for person
 | Barefruit Sorrel Juice 2 L / 67 oz | Barefruit | $27.95 | 2026-05-10 |
 | Del Alba Mixed Nuts Christmas Edition 660 g / 23.3 oz | Del Alba | $96.95 | 2026-05-10 |
 | Member's Selection Fresh Baked Vanilla Cake 10 to 15 Slices | Member's Selection | $58.95 | 2026-05-10 |
-| Member's Selection Chilled Rib Eye Portioned Tray | Member's Selection | $326.76 | 2026-05-08 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Sundays Cherry Coconut Ice cream 3.78 L / 1 gal | Sundays | $79.95 | G10D03 |
+No new products added today.
