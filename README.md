@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1142
-- **Total value**: $125,973.63
-- **Average price**: $110.31
+- **Total products scraped**: 1145
+- **Total value**: $126,789.19
+- **Average price**: $110.73
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1142
-- **Price changes detected**: 38
-- **Stock/availability changes**: 9
-- **Discontinued products**: 1
+- **New products added**: 4
+- **Existing products updated**: 1141
+- **Price changes detected**: 44
+- **Stock/availability changes**: 23
+- **Discontinued products**: 3
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 179 |
-|  | 138 |
+| Member's Selection | 178 |
+|  | 137 |
 | Badia | 17 |
 | Swiss | 16 |
 | Brunswick | 11 |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1146
-- **Price increases**: 585
-- **Price decreases**: 537
-- **Average increase**: 5.3%
-- **Average decrease**: -4.6%
+- **Total price changes**: 1152
+- **Price increases**: 586
+- **Price decreases**: 542
+- **Average increase**: 5.5%
+- **Average decrease**: -4.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Purple Cauliflower  | $53.95 | $49.95 | $-4.00 | -7.4% | Decrease |
-| Frozen Bone-In Goat Carcass Case | $1401.90 | $1428.96 | $+27.06 | +1.9% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $200.44 | $200.15 | $-0.29 | -0.1% | Decrease |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $348.40 | $352.08 | $+3.68 | +1.1% | Increase |
-| Nectarine 908 g / 2 lb | $84.95 | $89.95 | $+5.00 | +5.9% | Increase |
-| Ribeye Choice Fillet Fresh Tray | $322.20 | $324.48 | $+2.28 | +0.7% | Increase |
-| Papaya | $34.55 | $34.68 | $+0.13 | +0.4% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $220.71 | $221.29 | $+0.58 | +0.3% | Increase |
-| Frozen Sliced Turkey Drumsticks | $189.07 | $188.67 | $-0.40 | -0.2% | Decrease |
-| Ginger 680 g / 1.5 | $24.95 | $23.95 | $-1.00 | -4.0% | Decrease |
-| Plum 907 g / 2 lb | $72.95 | $69.95 | $-3.00 | -4.1% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $68.99 | $68.92 | $-0.07 | -0.1% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $40.67 | $40.79 | $+0.12 | +0.3% | Increase |
-|  Kale 454 g / 1 lb | $22.95 | $23.95 | $+1.00 | +4.4% | Increase |
-| Green Bell Peppers 1.36 kg / 3 lb | $44.95 | $42.95 | $-2.00 | -4.4% | Decrease |
+| Chobani Zero Sugar Yogurt 16 Units / 150 g / 5.3 oz | $169.95 | $135.95 | $-34.00 | -20.0% | Decrease |
+| Joyburst Sparkling Energy Drink - No Added Sugar 12 Units / 355 mL / 12 oz | $0.00 | $139.95 | $+139.95 | +100.0% | New |
+| Fresh Beef Ribeye Steak Vacuum Packed | $2322.33 | $2768.48 | $+446.15 | +19.2% | Increase |
+| La Croix Sparkling Water Variety Pack 24 Units / 355 mL / 12 oz  | $109.95 | $123.95 | $+14.00 | +12.7% | Increase |
+| García Meat Sausage 794 g / 1.75 lb | $0.00 | $64.95 | $+64.95 | +100.0% | New |
+| Butterball Frozen Turkey Breast Tenderloins All Natural  680 g / 1.5 lb | $0.00 | $109.95 | $+109.95 | +100.0% | New |
+| Butterball Turkey Sausage 3 Units / 369 g / 13 oz | $0.00 | $129.95 | $+129.95 | +100.0% | New |
+| Frozen Lamb Leg Whole Vacuum Packed | $417.45 | $406.23 | $-11.22 | -2.7% | Decrease |
+| Gouda Cheese Block | $86.57 | $87.38 | $+0.81 | +0.9% | Increase |
+| Frozen Pork Belly Skin On Sliced Tray  | $120.91 | $120.67 | $-0.24 | -0.2% | Decrease |
+| Ribeye Choice Fillet Fresh Tray | $324.48 | $325.24 | $+0.76 | +0.2% | Increase |
+| Papaya | $34.68 | $34.71 | $+0.03 | +0.1% | Increase |
+| The Happy Planet Oyster Mushroom 310 g / 11.2 oz | $49.95 | $36.95 | $-13.00 | -26.0% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $188.67 | $186.52 | $-2.15 | -1.1% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $68.92 | $68.85 | $-0.07 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,9 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Ginger 454 g / 1 lb |  | $34.95 | 2026-05-17 |
+| Member's Selection Red Velvet Swiss Roll 230 g / 0.50 lb | Member's Selection | $36.95 | 2026-05-17 |
+| Happy Village Organic Sun Dried Figs 1.13 kg / 40 oz | Happy Village | $129.95 | 2026-05-17 |
 | Frito Lay Bold Mix Chips with Assorted Presentations 24 Units | Frito Lay | $116.95 | 2026-05-16 |
 | Bombolo Biscotti Italian Biscuit Collection | Bombolo Biscotti | $83.95 | 2026-05-15 |
 | Rastelli's Frozen New York Steak Case 10 Units / 225 g / 8 oz  | Rastelli's | $536.95 | 2026-05-15 |
@@ -290,9 +293,12 @@ This project has recently gained unexpected attention. It was created for person
 | Donafe's Artisan Sorrel Cheesecake with Crunchy Cookie Base 12 Slices | Donafe's | $184.95 | 2026-05-13 |
 | International Delight Pumpkin Pie Spice Coffee Creamer 1.4 L / 48 oz | International Delight | $39.70 | 2026-05-12 |
 | Member's Selection 100% Apple Juice 2 Units / 2.83 L / 96 oz | Member's Selection | $109.95 | 2026-05-11 |
-| Barefruit Sorrel Juice 2 L / 67 oz | Barefruit | $27.95 | 2026-05-10 |
-| Del Alba Mixed Nuts Christmas Edition 660 g / 23.3 oz | Del Alba | $96.95 | 2026-05-10 |
-| Member's Selection Fresh Baked Vanilla Cake 10 to 15 Slices | Member's Selection | $58.95 | 2026-05-10 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Joyburst Sparkling Energy Drink - No Added Sugar 12 Units / 355 mL / 12 oz | Joyburst | $139.95 | G10D03 |
+| García Meat Sausage 794 g / 1.75 lb | Garcia | $64.95 | G10D03 |
+| Butterball Frozen Turkey Breast Tenderloins All Natural  680 g / 1.5 lb | Butterball | $109.95 | G10D03 |
+| Butterball Turkey Sausage 3 Units / 369 g / 13 oz | Butterball | $129.95 | G10D03 |
