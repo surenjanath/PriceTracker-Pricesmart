@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1145
-- **Total value**: $126,789.19
-- **Average price**: $110.73
+- **Total products scraped**: 1146
+- **Total value**: $125,972.73
+- **Average price**: $109.92
 
 ## Database Changes
-- **New products added**: 4
-- **Existing products updated**: 1141
-- **Price changes detected**: 44
-- **Stock/availability changes**: 23
-- **Discontinued products**: 3
+- **New products added**: 2
+- **Existing products updated**: 1144
+- **Price changes detected**: 36
+- **Stock/availability changes**: 19
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -30,41 +30,41 @@
 | Member's Selection Cookies and Cream Cake Decorated with Oreo Cookie 12 Slices | Member's Selection | $139.95 | true |
 | Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | Eggo | $109.95 | true |
 | Calbee Snacks Lightly Salted Baked Pea Crisps 567 g / 1.25 lb | Calbee | $116.95 | true |
-| Pizzacini Truffle and Mushroom Pizza 2 Units / 440 g / 15.5 oz | Pizzacini | $169.95 | true |
 | Heinz Tomato Ketchup 567 g / 20 oz | Heinz | $29.95 | true |
 | Nescafé Classic 100% Pure Instant Coffee 170 g | Nescafé | $61.95 | true |
+| Pizzacini Truffle and Mushroom Pizza 2 Units / 440 g / 15.5 oz | Pizzacini | $169.95 | true |
 | Sacla Italia Pizza Sauce 1 kg / 35.2 oz | Sacla | $64.95 | true |
 | Swiss Honey Mustard Sauce 2 Units / 454 g | Swiss | $42.95 | true |
-| KFI Cooking Sauce Tikka Masala 2 Units / 650 mL | KFI | $89.95 | true |
+| Suzy's Cream Cheesecakes Black Forest Cherry Cheesecake 12 Slices | Suzy's Cream Cheesecakes | $184.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1152
-- **Price increases**: 586
-- **Price decreases**: 542
-- **Average increase**: 5.5%
+- **Total price changes**: 1172
+- **Price increases**: 595
+- **Price decreases**: 552
+- **Average increase**: 6.1%
 - **Average decrease**: -4.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Chobani Zero Sugar Yogurt 16 Units / 150 g / 5.3 oz | $169.95 | $135.95 | $-34.00 | -20.0% | Decrease |
-| Joyburst Sparkling Energy Drink - No Added Sugar 12 Units / 355 mL / 12 oz | $0.00 | $139.95 | $+139.95 | +100.0% | New |
-| Fresh Beef Ribeye Steak Vacuum Packed | $2322.33 | $2768.48 | $+446.15 | +19.2% | Increase |
-| La Croix Sparkling Water Variety Pack 24 Units / 355 mL / 12 oz  | $109.95 | $123.95 | $+14.00 | +12.7% | Increase |
-| García Meat Sausage 794 g / 1.75 lb | $0.00 | $64.95 | $+64.95 | +100.0% | New |
-| Butterball Frozen Turkey Breast Tenderloins All Natural  680 g / 1.5 lb | $0.00 | $109.95 | $+109.95 | +100.0% | New |
-| Butterball Turkey Sausage 3 Units / 369 g / 13 oz | $0.00 | $129.95 | $+129.95 | +100.0% | New |
-| Frozen Lamb Leg Whole Vacuum Packed | $417.45 | $406.23 | $-11.22 | -2.7% | Decrease |
-| Gouda Cheese Block | $86.57 | $87.38 | $+0.81 | +0.9% | Increase |
-| Frozen Pork Belly Skin On Sliced Tray  | $120.91 | $120.67 | $-0.24 | -0.2% | Decrease |
-| Ribeye Choice Fillet Fresh Tray | $324.48 | $325.24 | $+0.76 | +0.2% | Increase |
-| Papaya | $34.68 | $34.71 | $+0.03 | +0.1% | Increase |
-| The Happy Planet Oyster Mushroom 310 g / 11.2 oz | $49.95 | $36.95 | $-13.00 | -26.0% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $188.67 | $186.52 | $-2.15 | -1.1% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $68.92 | $68.85 | $-0.07 | -0.1% | Decrease |
+| Fine Choice Chilled Chicken Feet, Bag 3 kg / 6.6 lb | $29.95 | $32.95 | $+3.00 | +10.0% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $83.06 | $90.98 | $+7.92 | +9.5% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $83.27 | $91.21 | $+7.94 | +9.5% | Increase |
+| Fresh Chicken Breast Boneless Skinless Tray | $134.56 | $136.09 | $+1.53 | +1.1% | Increase |
+| Member's Selection Chilled Chicken Liver, Tray Pack | $28.99 | $32.22 | $+3.23 | +11.1% | Increase |
+| Three Little Pigs Pate Combo Pack 307 g / 14 oz | $0.00 | $129.95 | $+129.95 | +100.0% | New |
+| Häagen-Dazs Assorted Mini Cups Ice Cream 4 Units / 95 mL / 0.32 oz | $0.00 | $54.95 | $+54.95 | +100.0% | New |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $352.08 | $350.61 | $-1.47 | -0.4% | Decrease |
+| Tetley Super Tea Boost Raspberry & Blueberry Tea 3 Units / 40 g  | $76.70 | $70.70 | $-6.00 | -7.8% | Decrease |
+| Butterball Frozen Turkey Breast Tenderloins All Natural  680 g / 1.5 lb | $109.95 | $106.95 | $-3.00 | -2.7% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $221.29 | $221.86 | $+0.57 | +0.3% | Increase |
+| Gouda Cheese Block | $87.38 | $87.79 | $+0.41 | +0.5% | Increase |
+| Ribeye Choice Fillet Fresh Tray | $325.24 | $322.20 | $-3.04 | -0.9% | Decrease |
+| Papaya | $34.71 | $34.74 | $+0.03 | +0.1% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $40.92 | $45.84 | $+4.92 | +12.0% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Swift Frozen Pork Ribs Kansas City Style BBQ Vacuum Packing | Swift | $1074.51 | 2026-05-18 |
 | Ginger 454 g / 1 lb |  | $34.95 | 2026-05-17 |
 | Member's Selection Red Velvet Swiss Roll 230 g / 0.50 lb | Member's Selection | $36.95 | 2026-05-17 |
 | Happy Village Organic Sun Dried Figs 1.13 kg / 40 oz | Happy Village | $129.95 | 2026-05-17 |
@@ -109,13 +110,10 @@
 | Rastelli’s Ribeye Steak 2 Units / 225 g / 8 oz | Rastelli's | $122.95 | 2026-05-15 |
 | Donafe's Artisan Sorrel Cheesecake with Crunchy Cookie Base 12 Slices | Donafe's | $184.95 | 2026-05-13 |
 | International Delight Pumpkin Pie Spice Coffee Creamer 1.4 L / 48 oz | International Delight | $39.70 | 2026-05-12 |
-| Member's Selection 100% Apple Juice 2 Units / 2.83 L / 96 oz | Member's Selection | $109.95 | 2026-05-11 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Joyburst Sparkling Energy Drink - No Added Sugar 12 Units / 355 mL / 12 oz | Joyburst | $139.95 | G10D03 |
-| García Meat Sausage 794 g / 1.75 lb | Garcia | $64.95 | G10D03 |
-| Butterball Frozen Turkey Breast Tenderloins All Natural  680 g / 1.5 lb | Butterball | $109.95 | G10D03 |
-| Butterball Turkey Sausage 3 Units / 369 g / 13 oz | Butterball | $129.95 | G10D03 |
+| Three Little Pigs Pate Combo Pack 307 g / 14 oz | Three Little Pigs | $129.95 | G10D03 |
+| Häagen-Dazs Assorted Mini Cups Ice Cream 4 Units / 95 mL / 0.32 oz | Haagen Dazs | $54.95 | G10D03 |
