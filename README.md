@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1146
-- **Total value**: $125,972.73
-- **Average price**: $109.92
+- **Total products scraped**: 1142
+- **Total value**: $125,351.86
+- **Average price**: $109.77
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1144
-- **Price changes detected**: 36
-- **Stock/availability changes**: 19
-- **Discontinued products**: 1
+- **New products added**: 0
+- **Existing products updated**: 1142
+- **Price changes detected**: 45
+- **Stock/availability changes**: 17
+- **Discontinued products**: 4
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 178 |
-|  | 137 |
+| Member's Selection | 176 |
+|  | 136 |
 | Badia | 17 |
 | Swiss | 16 |
 | Brunswick | 11 |
@@ -210,6 +210,7 @@ This project has recently gained unexpected attention. It was created for person
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Member's Selection Freshly Baked Berries Cake 12 Slices | Member's Selection | $139.95 | true |
+| Member's Selection Shredded Mozzarella Cheese 453 g / 1 lb | Member's Selection | $29.95 | true |
 | Member's Selection Cookies and Cream Cake Decorated with Oreo Cookie 12 Slices | Member's Selection | $139.95 | true |
 | Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | Eggo | $109.95 | true |
 | Calbee Snacks Lightly Salted Baked Pea Crisps 567 g / 1.25 lb | Calbee | $116.95 | true |
@@ -218,36 +219,35 @@ This project has recently gained unexpected attention. It was created for person
 | Pizzacini Truffle and Mushroom Pizza 2 Units / 440 g / 15.5 oz | Pizzacini | $169.95 | true |
 | Sacla Italia Pizza Sauce 1 kg / 35.2 oz | Sacla | $64.95 | true |
 | Swiss Honey Mustard Sauce 2 Units / 454 g | Swiss | $42.95 | true |
-| Suzy's Cream Cheesecakes Black Forest Cherry Cheesecake 12 Slices | Suzy's Cream Cheesecakes | $184.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1172
-- **Price increases**: 595
-- **Price decreases**: 552
-- **Average increase**: 6.1%
-- **Average decrease**: -4.5%
+- **Total price changes**: 1162
+- **Price increases**: 591
+- **Price decreases**: 546
+- **Average increase**: 5.5%
+- **Average decrease**: -4.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fine Choice Chilled Chicken Feet, Bag 3 kg / 6.6 lb | $29.95 | $32.95 | $+3.00 | +10.0% | Increase |
-| Fine Choice Fresh Marinated Chicken Tray | $83.06 | $90.98 | $+7.92 | +9.5% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $83.27 | $91.21 | $+7.94 | +9.5% | Increase |
-| Fresh Chicken Breast Boneless Skinless Tray | $134.56 | $136.09 | $+1.53 | +1.1% | Increase |
-| Member's Selection Chilled Chicken Liver, Tray Pack | $28.99 | $32.22 | $+3.23 | +11.1% | Increase |
-| Three Little Pigs Pate Combo Pack 307 g / 14 oz | $0.00 | $129.95 | $+129.95 | +100.0% | New |
-| Häagen-Dazs Assorted Mini Cups Ice Cream 4 Units / 95 mL / 0.32 oz | $0.00 | $54.95 | $+54.95 | +100.0% | New |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $352.08 | $350.61 | $-1.47 | -0.4% | Decrease |
-| Tetley Super Tea Boost Raspberry & Blueberry Tea 3 Units / 40 g  | $76.70 | $70.70 | $-6.00 | -7.8% | Decrease |
-| Butterball Frozen Turkey Breast Tenderloins All Natural  680 g / 1.5 lb | $109.95 | $106.95 | $-3.00 | -2.7% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $221.29 | $221.86 | $+0.57 | +0.3% | Increase |
-| Gouda Cheese Block | $87.38 | $87.79 | $+0.41 | +0.5% | Increase |
-| Ribeye Choice Fillet Fresh Tray | $325.24 | $322.20 | $-3.04 | -0.9% | Decrease |
-| Papaya | $34.71 | $34.74 | $+0.03 | +0.1% | Increase |
-| Chilled Chicken Gizzard Tray Pack | $40.92 | $45.84 | $+4.92 | +12.0% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $200.15 | $199.85 | $-0.30 | -0.1% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $221.86 | $222.72 | $+0.86 | +0.4% | Increase |
+| Fresh Beef Striploin Steak Tray | $248.16 | $245.44 | $-2.72 | -1.1% | Decrease |
+| Gouda Cheese Block | $87.79 | $88.20 | $+0.41 | +0.5% | Increase |
+| Moo! Evaporated Milk Low Fat 12 Units / 250 mL / 8.4 oz | $72.95 | $74.95 | $+2.00 | +2.7% | Increase |
+| Papaya | $34.74 | $34.80 | $+0.06 | +0.2% | Increase |
+| Par Excellence White Rice 5 kg | $46.95 | $47.95 | $+1.00 | +2.1% | Increase |
+| Eve Sweetened Condensed Milk 6 Units / 385 g / 13.5 oz | $48.95 | $49.95 | $+1.00 | +2.0% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $148.86 | $148.41 | $-0.45 | -0.3% | Decrease |
+| Maribel Parboiled Rice 9 kg | $82.95 | $85.95 | $+3.00 | +3.6% | Increase |
+| Nature's Pride Yellow Split Peas 1.8 kg / 4 lb | $20.95 | $21.95 | $+1.00 | +4.8% | Increase |
+| Carnation Creamy Evaporated Milk 6 Units / 330 mL | $52.95 | $54.95 | $+2.00 | +3.8% | Increase |
+| Nature's Pride Lentils 1.8 kg / 4 lb | $33.95 | $34.95 | $+1.00 | +2.9% | Increase |
+| Fresh Chicken Leg Quarters Tray | $94.31 | $94.21 | $-0.10 | -0.1% | Decrease |
+| Nature's Pride Red Beans 1.8 kg / 4 lb | $57.95 | $59.95 | $+2.00 | +3.5% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,20 +283,16 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Currants 1 kg / 2.2 lb |  | $59.95 | 2026-05-19 |
+| Rastelli’s New York Strip Steak 2 Units / 225 g / 8 oz | Rastelli's | $118.95 | 2026-05-19 |
+| Member's Selection Chilled Ground Beef Tray | Member's Selection | $97.43 | 2026-05-19 |
+| Member's Selection Chilled Ground Beef | Member's Selection | $313.78 | 2026-05-19 |
 | Swift Frozen Pork Ribs Kansas City Style BBQ Vacuum Packing | Swift | $1074.51 | 2026-05-18 |
 | Ginger 454 g / 1 lb |  | $34.95 | 2026-05-17 |
 | Member's Selection Red Velvet Swiss Roll 230 g / 0.50 lb | Member's Selection | $36.95 | 2026-05-17 |
 | Happy Village Organic Sun Dried Figs 1.13 kg / 40 oz | Happy Village | $129.95 | 2026-05-17 |
 | Frito Lay Bold Mix Chips with Assorted Presentations 24 Units | Frito Lay | $116.95 | 2026-05-16 |
 | Bombolo Biscotti Italian Biscuit Collection | Bombolo Biscotti | $83.95 | 2026-05-15 |
-| Rastelli's Frozen New York Steak Case 10 Units / 225 g / 8 oz  | Rastelli's | $536.95 | 2026-05-15 |
-| Rastelli’s Ribeye Steak 2 Units / 225 g / 8 oz | Rastelli's | $122.95 | 2026-05-15 |
-| Donafe's Artisan Sorrel Cheesecake with Crunchy Cookie Base 12 Slices | Donafe's | $184.95 | 2026-05-13 |
-| International Delight Pumpkin Pie Spice Coffee Creamer 1.4 L / 48 oz | International Delight | $39.70 | 2026-05-12 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Three Little Pigs Pate Combo Pack 307 g / 14 oz | Three Little Pigs | $129.95 | G10D03 |
-| Häagen-Dazs Assorted Mini Cups Ice Cream 4 Units / 95 mL / 0.32 oz | Haagen Dazs | $54.95 | G10D03 |
+No new products added today.
