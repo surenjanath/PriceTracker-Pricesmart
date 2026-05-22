@@ -184,15 +184,15 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1141
-- **Total value**: $125,553.32
-- **Average price**: $110.04
+- **Total products scraped**: 1140
+- **Total value**: $125,209.95
+- **Average price**: $109.83
 
 ## Database Changes
-- **New products added**: 1
+- **New products added**: 0
 - **Existing products updated**: 1140
-- **Price changes detected**: 51
-- **Stock/availability changes**: 14
+- **Price changes detected**: 29
+- **Stock/availability changes**: 7
 - **Discontinued products**: 2
 
 ## Top 5 Brands
@@ -202,13 +202,14 @@ This project has recently gained unexpected attention. It was created for person
 | Member's Selection | 176 |
 |  | 136 |
 | Badia | 17 |
-| Swiss | 16 |
+| Swiss | 15 |
 | Brunswick | 11 |
 
 ## Recent Products
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
+| Member's Selection Freshly Baked Vanilla Loaf Cake | Member's Selection | $30.95 | true |
 | Member's Selection Shredded Mozzarella Cheese 453 g / 1 lb | Member's Selection | $29.95 | true |
 | Member's Selection Freshly Baked Berries Cake 12 Slices | Member's Selection | $139.95 | true |
 | Member's Selection Cookies and Cream Cake Decorated with Oreo Cookie 12 Slices | Member's Selection | $139.95 | true |
@@ -218,36 +219,35 @@ This project has recently gained unexpected attention. It was created for person
 | Nescafé Classic 100% Pure Instant Coffee 170 g | Nescafé | $61.95 | true |
 | Pizzacini Truffle and Mushroom Pizza 2 Units / 440 g / 15.5 oz | Pizzacini | $169.95 | true |
 | Sacla Italia Pizza Sauce 1 kg / 35.2 oz | Sacla | $64.95 | true |
-| Suzy's Cream Cheesecakes Black Forest Cherry Cheesecake 12 Slices | Suzy's Cream Cheesecakes | $184.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1178
-- **Price increases**: 609
-- **Price decreases**: 543
-- **Average increase**: 4.8%
+- **Total price changes**: 1184
+- **Price increases**: 606
+- **Price decreases**: 553
+- **Average increase**: 5.6%
 - **Average decrease**: -4.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Enjoy Lactose Free Milk UHT Full Cream 3 Units / 1 L | $55.95 | $59.95 | $+4.00 | +7.1% | Increase |
-| 6ix Naturals 100% Soybean Oil 5 L | $79.95 | $82.95 | $+3.00 | +3.8% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $199.85 | $199.26 | $-0.59 | -0.3% | Decrease |
-| Frozen Bone-In Goat Carcass Case | $1428.96 | $1519.76 | $+90.80 | +6.4% | Increase |
-| Fresh Whole Striploin Fillet Vacuum packaged | $2128.15 | $2114.65 | $-13.50 | -0.6% | Decrease |
-| Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | $62.47 | $59.70 | $-2.77 | -4.4% | Decrease |
-| Nature Valley Strawberry Wafer Bars with Oat Butter 20 Units 36 g / 1.3 oz | $0.00 | $129.95 | $+129.95 | +100.0% | New |
-| Gouda Cheese Block | $88.20 | $88.34 | $+0.14 | +0.2% | Increase |
-| Papaya | $34.80 | $34.87 | $+0.07 | +0.2% | Increase |
-| Jel Corn Tortillas 2 Units / 325 g / 0.7 lb | $42.95 | $43.95 | $+1.00 | +2.3% | Increase |
-| Miami Beef Beef Patties 40 / 113.5 g / 4 oz | $314.95 | $319.95 | $+5.00 | +1.6% | Increase |
-| Fratelli Beretta Italian Style Platter 340 g / 12 oz  | $79.95 | $82.95 | $+3.00 | +3.8% | Increase |
-| Sara Lee Classic Pound Butter Cake 2 Pack / 453 g / 15.9 oz | $56.70 | $54.70 | $-2.00 | -3.5% | Decrease |
-| Eve Dried Pigeon Peas 6 Units / 400 g / 14 oz | $54.95 | $49.95 | $-5.00 | -9.1% | Decrease |
-| Eve Peas and Carrots 6 Units / 425 g / 15 g  | $62.95 | $54.95 | $-8.00 | -12.7% | Decrease |
+| Fresh Chicken Breast Boneless Skinless Tray | $135.74 | $136.09 | $+0.35 | +0.3% | Increase |
+| Gouda Cheese Block | $88.34 | $88.20 | $-0.14 | -0.2% | Decrease |
+| Frozen Pork Belly Skin On Sliced Tray  | $120.67 | $120.19 | $-0.48 | -0.4% | Decrease |
+| Fine Choice Fresh Marinated Chicken Tray | $90.98 | $90.89 | $-0.09 | -0.1% | Decrease |
+| Fresh Beef Striploin Steak Tray | $245.44 | $243.40 | $-2.04 | -0.8% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $186.52 | $187.59 | $+1.07 | +0.6% | Increase |
+| Kirkland Signature Clusters Chocolate Coated Cookies with Caramel and Marshmallow Filling 748 g / 26.3 oz | $139.95 | $151.95 | $+12.00 | +8.6% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $148.41 | $148.25 | $-0.16 | -0.1% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $90.26 | $90.17 | $-0.09 | -0.1% | Decrease |
+| Brunswick Canned Chicken Vienna Sausage 12 pieces / 141 g / 4.9 oz | $72.95 | $73.95 | $+1.00 | +1.4% | Increase |
+| Frozen Boneless Skinless Chicken Breast Tray | $135.63 | $135.90 | $+0.27 | +0.2% | Increase |
+| Fresh Whole Chicken 2 Units | $103.28 | $103.10 | $-0.18 | -0.2% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $84.82 | $84.72 | $-0.10 | -0.1% | Decrease |
+| Cauliflower 1 Unit | $84.95 | $49.70 | $-35.25 | -41.5% | Decrease |
+| Red Grape Seedless 907 g / 2 lb | $89.95 | $72.95 | $-17.00 | -18.9% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -261,8 +261,8 @@ This project has recently gained unexpected attention. It was created for person
 | Garcia Chicken & Pork Smoked Sausage 680 g / 1.5 lb | $9.70 | $44.95 | +363.4% |
 | Tropical Frying Cheese 907 g / 32 oz | $19.70 | $89.95 | +356.6% |
 | Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $19.70 | $89.95 | +356.6% |
+| Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $19.70 | $89.95 | +356.6% |
 | Frozen Boneless Pork Loin Vacuum Packaged | $56.90 | $253.53 | +345.6% |
-| Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $14.70 | $57.95 | +294.2% |
 
 ## Biggest Price Decreases (All Time)
 
@@ -283,6 +283,8 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Swiss Mustard Assortment 2 Units / 454 g / 16 oz | Swiss | $37.95 | 2026-05-21 |
+| Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2026-05-21 |
 | Finest Call Margarita Mix 1 L | Finest Call | $52.95 | 2026-05-20 |
 | Red Rose Keta Salmon 3 Units / 418 g / 15 oz | Red Rose | $117.95 | 2026-05-20 |
 | Currants 1 kg / 2.2 lb |  | $59.95 | 2026-05-19 |
@@ -291,11 +293,6 @@ This project has recently gained unexpected attention. It was created for person
 | Member's Selection Chilled Ground Beef | Member's Selection | $313.78 | 2026-05-19 |
 | Swift Frozen Pork Ribs Kansas City Style BBQ Vacuum Packing | Swift | $1074.51 | 2026-05-18 |
 | Ginger 454 g / 1 lb |  | $34.95 | 2026-05-17 |
-| Member's Selection Red Velvet Swiss Roll 230 g / 0.50 lb | Member's Selection | $36.95 | 2026-05-17 |
-| Happy Village Organic Sun Dried Figs 1.13 kg / 40 oz | Happy Village | $129.95 | 2026-05-17 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Nature Valley Strawberry Wafer Bars with Oat Butter 20 Units 36 g / 1.3 oz | Nature Valley | $129.95 | G10D03 |
+No new products added today.
