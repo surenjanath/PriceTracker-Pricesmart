@@ -1,22 +1,22 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1140
-- **Total value**: $125,209.95
-- **Average price**: $109.83
+- **Total products scraped**: 1142
+- **Total value**: $125,658.14
+- **Average price**: $110.03
 
 ## Database Changes
 - **New products added**: 0
-- **Existing products updated**: 1140
-- **Price changes detected**: 29
-- **Stock/availability changes**: 7
-- **Discontinued products**: 2
+- **Existing products updated**: 1142
+- **Price changes detected**: 40
+- **Stock/availability changes**: 9
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 176 |
+| Member's Selection | 178 |
 |  | 136 |
 | Badia | 17 |
 | Swiss | 15 |
@@ -26,45 +26,45 @@
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Member's Selection Freshly Baked Vanilla Loaf Cake | Member's Selection | $30.95 | true |
-| Member's Selection Shredded Mozzarella Cheese 453 g / 1 lb | Member's Selection | $29.95 | true |
-| Member's Selection Freshly Baked Berries Cake 12 Slices | Member's Selection | $139.95 | true |
-| Member's Selection Cookies and Cream Cake Decorated with Oreo Cookie 12 Slices | Member's Selection | $139.95 | true |
-| Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | Eggo | $109.95 | true |
-| Calbee Snacks Lightly Salted Baked Pea Crisps 567 g / 1.25 lb | Calbee | $116.95 | true |
-| Heinz Tomato Ketchup 567 g / 20 oz | Heinz | $29.95 | true |
-| Nescafé Classic 100% Pure Instant Coffee 170 g | Nescafé | $61.95 | true |
-| Pizzacini Truffle and Mushroom Pizza 2 Units / 440 g / 15.5 oz | Pizzacini | $169.95 | true |
-| Sacla Italia Pizza Sauce 1 kg / 35.2 oz | Sacla | $64.95 | true |
+| Member’s Selection Canola Oil 2 Units / 2.84 L / 96 oz | Member's Selection | $159.95 | true |
+| Jimmy Dean Croissant Sausage, Egg & Cheese Sandwiches 1.53 kg / 3.38 lb | Jimmy Dean | $162.95 | true |
+| Setton Farms Premium Quality Pub-Style Pistachio Mix 567 g / 20 oz | Setton Farms | $131.95 | true |
+| Coffee Toppers Cold Foam 2 Units / 425 g / 15 oz | Coffee Toppers | $77.95 | true |
+| Sunny Fruits Dried Organic Figs 10 Units / 50 g / 1.76 oz | Sunny Fruits | $79.95 | true |
+| Curly's Baby Back Pork Ribs 680 g / 24 oz | Curly's | $137.95 | true |
+| Pascual Yogi Kids Strawberry and Banana Yogurt with Fruit Pouch 24 Units / 80 g | Pascual | $229.95 | true |
+| Carnation Creamy Evaporated Milk 6 Units / 330 mL | Carnation | $54.95 | true |
+| Welch's Concord Grape Fruit Juice 1.75 L / 59 oz | Welch's | $33.95 | true |
+| Daisy Sour Cream 454 g / 1 lb | Daisy | $44.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1184
-- **Price increases**: 606
-- **Price decreases**: 553
-- **Average increase**: 5.6%
-- **Average decrease**: -4.6%
+- **Total price changes**: 1173
+- **Price increases**: 597
+- **Price decreases**: 552
+- **Average increase**: 5.8%
+- **Average decrease**: -4.7%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Chicken Breast Boneless Skinless Tray | $135.74 | $136.09 | $+0.35 | +0.3% | Increase |
-| Gouda Cheese Block | $88.34 | $88.20 | $-0.14 | -0.2% | Decrease |
-| Frozen Pork Belly Skin On Sliced Tray  | $120.67 | $120.19 | $-0.48 | -0.4% | Decrease |
-| Fine Choice Fresh Marinated Chicken Tray | $90.98 | $90.89 | $-0.09 | -0.1% | Decrease |
-| Fresh Beef Striploin Steak Tray | $245.44 | $243.40 | $-2.04 | -0.8% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $186.52 | $187.59 | $+1.07 | +0.6% | Increase |
-| Kirkland Signature Clusters Chocolate Coated Cookies with Caramel and Marshmallow Filling 748 g / 26.3 oz | $139.95 | $151.95 | $+12.00 | +8.6% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $148.41 | $148.25 | $-0.16 | -0.1% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $90.26 | $90.17 | $-0.09 | -0.1% | Decrease |
-| Brunswick Canned Chicken Vienna Sausage 12 pieces / 141 g / 4.9 oz | $72.95 | $73.95 | $+1.00 | +1.4% | Increase |
-| Frozen Boneless Skinless Chicken Breast Tray | $135.63 | $135.90 | $+0.27 | +0.2% | Increase |
-| Fresh Whole Chicken 2 Units | $103.28 | $103.10 | $-0.18 | -0.2% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $84.82 | $84.72 | $-0.10 | -0.1% | Decrease |
-| Cauliflower 1 Unit | $84.95 | $49.70 | $-35.25 | -41.5% | Decrease |
-| Red Grape Seedless 907 g / 2 lb | $89.95 | $72.95 | $-17.00 | -18.9% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $199.26 | $198.97 | $-0.29 | -0.1% | Decrease |
+| Papaya | $34.87 | $34.96 | $+0.09 | +0.3% | Increase |
+| Fresh Beef Striploin Steak Tray | $243.40 | $245.44 | $+2.04 | +0.8% | Increase |
+| Plum 907 g / 2 lb | $69.95 | $79.95 | $+10.00 | +14.3% | Increase |
+| Fresh Chicken Leg Quarters Tray | $94.21 | $94.11 | $-0.10 | -0.1% | Decrease |
+| Red Cabbage Unit | $29.95 | $31.95 | $+2.00 | +6.7% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $148.25 | $147.95 | $-0.30 | -0.2% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $285.18 | $285.51 | $+0.33 | +0.1% | Increase |
+| Peach 908 g / 2 lb | $77.95 | $74.95 | $-3.00 | -3.8% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $91.21 | $91.44 | $+0.23 | +0.3% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $68.65 | $68.99 | $+0.34 | +0.5% | Increase |
+| Fresh Chicken Breast Bone In Tray | $90.17 | $90.35 | $+0.18 | +0.2% | Increase |
+| Green Cabbage 1.3 kg / 2.9 lb | $29.95 | $32.95 | $+3.00 | +10.0% | Increase |
+| Red Onion 2.2 kg / 5 lb | $37.95 | $39.95 | $+2.00 | +5.3% | Increase |
+| Pork Belly with Skin Frozen Vacuum Packaged | $169.48 | $169.27 | $-0.21 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,16 +100,16 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Kellogg's Original Squishmallows Cereal 671 g / 1.4 lb | Kellogg's | $42.70 | 2026-05-22 |
 | Swiss Mustard Assortment 2 Units / 454 g / 16 oz | Swiss | $37.95 | 2026-05-21 |
 | Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2026-05-21 |
 | Finest Call Margarita Mix 1 L | Finest Call | $52.95 | 2026-05-20 |
 | Red Rose Keta Salmon 3 Units / 418 g / 15 oz | Red Rose | $117.95 | 2026-05-20 |
 | Currants 1 kg / 2.2 lb |  | $59.95 | 2026-05-19 |
 | Rastelli’s New York Strip Steak 2 Units / 225 g / 8 oz | Rastelli's | $118.95 | 2026-05-19 |
-| Member's Selection Chilled Ground Beef Tray | Member's Selection | $97.43 | 2026-05-19 |
-| Member's Selection Chilled Ground Beef | Member's Selection | $313.78 | 2026-05-19 |
 | Swift Frozen Pork Ribs Kansas City Style BBQ Vacuum Packing | Swift | $1074.51 | 2026-05-18 |
 | Ginger 454 g / 1 lb |  | $34.95 | 2026-05-17 |
+| Member's Selection Red Velvet Swiss Roll 230 g / 0.50 lb | Member's Selection | $36.95 | 2026-05-17 |
 
 ## New Products Added Today
 No new products added today.
