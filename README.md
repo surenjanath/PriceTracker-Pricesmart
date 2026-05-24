@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1142
-- **Total value**: $125,658.14
-- **Average price**: $110.03
+- **Total products scraped**: 1145
+- **Total value**: $125,906.89
+- **Average price**: $109.96
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1142
-- **Price changes detected**: 40
-- **Stock/availability changes**: 9
+- **New products added**: 2
+- **Existing products updated**: 1143
+- **Price changes detected**: 23
+- **Stock/availability changes**: 12
 - **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 178 |
-|  | 136 |
+| Member's Selection | 177 |
+|  | 137 |
 | Badia | 17 |
 | Swiss | 15 |
 | Brunswick | 11 |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1173
-- **Price increases**: 597
-- **Price decreases**: 552
-- **Average increase**: 5.8%
+- **Total price changes**: 1159
+- **Price increases**: 595
+- **Price decreases**: 538
+- **Average increase**: 5.7%
 - **Average decrease**: -4.7%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $199.26 | $198.97 | $-0.29 | -0.1% | Decrease |
-| Papaya | $34.87 | $34.96 | $+0.09 | +0.3% | Increase |
-| Fresh Beef Striploin Steak Tray | $243.40 | $245.44 | $+2.04 | +0.8% | Increase |
-| Plum 907 g / 2 lb | $69.95 | $79.95 | $+10.00 | +14.3% | Increase |
-| Fresh Chicken Leg Quarters Tray | $94.21 | $94.11 | $-0.10 | -0.1% | Decrease |
-| Red Cabbage Unit | $29.95 | $31.95 | $+2.00 | +6.7% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $148.25 | $147.95 | $-0.30 | -0.2% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $285.18 | $285.51 | $+0.33 | +0.1% | Increase |
-| Peach 908 g / 2 lb | $77.95 | $74.95 | $-3.00 | -3.8% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $91.21 | $91.44 | $+0.23 | +0.3% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $68.65 | $68.99 | $+0.34 | +0.5% | Increase |
-| Fresh Chicken Breast Bone In Tray | $90.17 | $90.35 | $+0.18 | +0.2% | Increase |
-| Green Cabbage 1.3 kg / 2.9 lb | $29.95 | $32.95 | $+3.00 | +10.0% | Increase |
-| Red Onion 2.2 kg / 5 lb | $37.95 | $39.95 | $+2.00 | +5.3% | Increase |
-| Pork Belly with Skin Frozen Vacuum Packaged | $169.48 | $169.27 | $-0.21 | -0.1% | Decrease |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $350.61 | $348.40 | $-2.21 | -0.6% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $198.97 | $199.26 | $+0.29 | +0.1% | Increase |
+| Virginia Brand Lemon and Garlic Salad Dressing 1 L / 33.8 oz | $0.00 | $52.95 | $+52.95 | +100.0% | New |
+| Gouda Cheese Block | $88.20 | $88.47 | $+0.27 | +0.3% | Increase |
+| RW Garcia Sweet Potato Gluten-Free Crackers 2 Units / 425 g / 15 oz | $106.95 | $112.95 | $+6.00 | +5.6% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $108.25 | $108.09 | $-0.16 | -0.1% | Decrease |
+| Papaya | $34.96 | $35.06 | $+0.10 | +0.3% | Increase |
+| Frozen Sliced Turkey Drumsticks | $187.59 | $188.80 | $+1.21 | +0.6% | Increase |
+| Frozen Pork Belly Skin On Sliced Tray  | $120.19 | $120.67 | $+0.48 | +0.4% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $45.84 | $45.98 | $+0.14 | +0.3% | Increase |
+| Ribeye Choice Fillet Fresh Tray | $322.20 | $324.48 | $+2.28 | +0.7% | Increase |
+| Fresh Whole Chicken for Frying Bag | $285.51 | $285.84 | $+0.33 | +0.1% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $68.99 | $69.05 | $+0.06 | +0.1% | Increase |
+| Egregio Organic Extra Virgin Olive Oil 500 mL / 16.9 oz | $0.00 | $99.95 | $+99.95 | +100.0% | New |
+| Golden Kiwi 1 lb / 453 g | $74.95 | $77.95 | $+3.00 | +4.0% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Member's Selection Whole Almonds - Healthy Snack 907 g / 32 oz | Member's Selection | $129.95 | 2026-05-23 |
 | Kellogg's Original Squishmallows Cereal 671 g / 1.4 lb | Kellogg's | $42.70 | 2026-05-22 |
 | Swiss Mustard Assortment 2 Units / 454 g / 16 oz | Swiss | $37.95 | 2026-05-21 |
 | Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2026-05-21 |
@@ -292,7 +293,10 @@ This project has recently gained unexpected attention. It was created for person
 | Rastelli’s New York Strip Steak 2 Units / 225 g / 8 oz | Rastelli's | $118.95 | 2026-05-19 |
 | Swift Frozen Pork Ribs Kansas City Style BBQ Vacuum Packing | Swift | $1074.51 | 2026-05-18 |
 | Ginger 454 g / 1 lb |  | $34.95 | 2026-05-17 |
-| Member's Selection Red Velvet Swiss Roll 230 g / 0.50 lb | Member's Selection | $36.95 | 2026-05-17 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Virginia Brand Lemon and Garlic Salad Dressing 1 L / 33.8 oz | Virginia Brand | $52.95 | G10D03 |
+| Egregio Organic Extra Virgin Olive Oil 500 mL / 16.9 oz | Egregio | $99.95 | G10D03 |
