@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1145
-- **Total value**: $125,906.89
-- **Average price**: $109.96
+- **Total products scraped**: 1144
+- **Total value**: $126,317.39
+- **Average price**: $110.42
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1143
-- **Price changes detected**: 23
-- **Stock/availability changes**: 12
-- **Discontinued products**: 1
+- **New products added**: 3
+- **Existing products updated**: 1141
+- **Price changes detected**: 30
+- **Stock/availability changes**: 10
+- **Discontinued products**: 6
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 177 |
-|  | 137 |
+|  | 138 |
 | Badia | 17 |
 | Swiss | 15 |
 | Brunswick | 11 |
@@ -212,42 +212,42 @@ This project has recently gained unexpected attention. It was created for person
 | Member’s Selection Canola Oil 2 Units / 2.84 L / 96 oz | Member's Selection | $159.95 | true |
 | Jimmy Dean Croissant Sausage, Egg & Cheese Sandwiches 1.53 kg / 3.38 lb | Jimmy Dean | $162.95 | true |
 | Setton Farms Premium Quality Pub-Style Pistachio Mix 567 g / 20 oz | Setton Farms | $131.95 | true |
-| Coffee Toppers Cold Foam 2 Units / 425 g / 15 oz | Coffee Toppers | $77.95 | true |
 | Sunny Fruits Dried Organic Figs 10 Units / 50 g / 1.76 oz | Sunny Fruits | $79.95 | true |
+| Coffee Toppers Cold Foam 2 Units / 425 g / 15 oz | Coffee Toppers | $77.95 | true |
 | Curly's Baby Back Pork Ribs 680 g / 24 oz | Curly's | $137.95 | true |
 | Pascual Yogi Kids Strawberry and Banana Yogurt with Fruit Pouch 24 Units / 80 g | Pascual | $229.95 | true |
 | Carnation Creamy Evaporated Milk 6 Units / 330 mL | Carnation | $54.95 | true |
+| Butterball Turkey Sausage 3 Units / 369 g / 13 oz | Butterball | $129.95 | true |
 | Welch's Concord Grape Fruit Juice 1.75 L / 59 oz | Welch's | $33.95 | true |
-| Daisy Sour Cream 454 g / 1 lb | Daisy | $44.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1159
-- **Price increases**: 595
-- **Price decreases**: 538
+- **Total price changes**: 1168
+- **Price increases**: 599
+- **Price decreases**: 540
 - **Average increase**: 5.7%
-- **Average decrease**: -4.7%
+- **Average decrease**: -4.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Frozen Lamb Leg Whole Boneless Tray Pack | $350.61 | $348.40 | $-2.21 | -0.6% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $198.97 | $199.26 | $+0.29 | +0.1% | Increase |
-| Virginia Brand Lemon and Garlic Salad Dressing 1 L / 33.8 oz | $0.00 | $52.95 | $+52.95 | +100.0% | New |
-| Gouda Cheese Block | $88.20 | $88.47 | $+0.27 | +0.3% | Increase |
-| RW Garcia Sweet Potato Gluten-Free Crackers 2 Units / 425 g / 15 oz | $106.95 | $112.95 | $+6.00 | +5.6% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $108.25 | $108.09 | $-0.16 | -0.1% | Decrease |
-| Papaya | $34.96 | $35.06 | $+0.10 | +0.3% | Increase |
-| Frozen Sliced Turkey Drumsticks | $187.59 | $188.80 | $+1.21 | +0.6% | Increase |
-| Frozen Pork Belly Skin On Sliced Tray  | $120.19 | $120.67 | $+0.48 | +0.4% | Increase |
-| Chilled Chicken Gizzard Tray Pack | $45.84 | $45.98 | $+0.14 | +0.3% | Increase |
-| Ribeye Choice Fillet Fresh Tray | $322.20 | $324.48 | $+2.28 | +0.7% | Increase |
-| Fresh Whole Chicken for Frying Bag | $285.51 | $285.84 | $+0.33 | +0.1% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $68.99 | $69.05 | $+0.06 | +0.1% | Increase |
-| Egregio Organic Extra Virgin Olive Oil 500 mL / 16.9 oz | $0.00 | $99.95 | $+99.95 | +100.0% | New |
-| Golden Kiwi 1 lb / 453 g | $74.95 | $77.95 | $+3.00 | +4.0% | Increase |
+| Frozen Lamb Leg Whole Vacuum Packed | $406.23 | $404.50 | $-1.73 | -0.4% | Decrease |
+| Sincerely Brigitte Hot Pepper Prairie Jack Cheese 454 g / 16 oz | $0.00 | $67.95 | $+67.95 | +100.0% | New |
+| Bombolo Biscotti Assorted Decorated Cookies with Colorful Icing Summer Edition | $0.00 | $75.95 | $+75.95 | +100.0% | New |
+| Polly-O String Cheese Mozzarella & Cheddar 24 Units | $0.00 | $98.95 | $+98.95 | +100.0% | New |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $348.40 | $350.61 | $+2.21 | +0.6% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $222.72 | $223.00 | $+0.28 | +0.1% | Increase |
+| Papaya | $35.06 | $35.19 | $+0.13 | +0.4% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $90.89 | $90.98 | $+0.09 | +0.1% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $45.98 | $45.84 | $-0.14 | -0.3% | Decrease |
+| Frozen Pork Belly Skin On Sliced Tray  | $120.67 | $120.43 | $-0.24 | -0.2% | Decrease |
+| Ribeye Choice Fillet Fresh Tray | $324.48 | $325.24 | $+0.76 | +0.2% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $147.95 | $148.41 | $+0.46 | +0.3% | Increase |
+| Fresh Whole Chicken for Frying Bag | $285.84 | $286.01 | $+0.17 | +0.1% | Increase |
+| Frozen Boneless Skinless Chicken Breast Tray | $135.90 | $136.44 | $+0.54 | +0.4% | Increase |
+| Fresh Ground Chicken Tray | $102.86 | $103.11 | $+0.25 | +0.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,20 +283,21 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Tropicland Collagen Smoothie 1.2 kg / 2.6 lb | Tropicland | $137.95 | 2026-05-24 |
+| Tetley Caffeine-Free Mint Tea 60 Units / 1.6 g | Tetley | $35.95 | 2026-05-24 |
+| Stamina Energy Carbonated Energy Drink 12 Units / 330 mL / 11.16 oz | Stamina Energy | $55.95 | 2026-05-24 |
+| Kiss Fruit Rum Sponge Cake 6 Units / 65 g | Kiss | $28.95 | 2026-05-24 |
+| Orchard Sorrel Drink 6 Units / 1 L | Orchard | $39.70 | 2026-05-24 |
+| Member's Selection Walnuts Halves and Pieces 1.13 kg / 40 oz | Member's Selection | $149.95 | 2026-05-24 |
 | Member's Selection Whole Almonds - Healthy Snack 907 g / 32 oz | Member's Selection | $129.95 | 2026-05-23 |
 | Kellogg's Original Squishmallows Cereal 671 g / 1.4 lb | Kellogg's | $42.70 | 2026-05-22 |
 | Swiss Mustard Assortment 2 Units / 454 g / 16 oz | Swiss | $37.95 | 2026-05-21 |
-| Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2026-05-21 |
 | Finest Call Margarita Mix 1 L | Finest Call | $52.95 | 2026-05-20 |
-| Red Rose Keta Salmon 3 Units / 418 g / 15 oz | Red Rose | $117.95 | 2026-05-20 |
-| Currants 1 kg / 2.2 lb |  | $59.95 | 2026-05-19 |
-| Rastelli’s New York Strip Steak 2 Units / 225 g / 8 oz | Rastelli's | $118.95 | 2026-05-19 |
-| Swift Frozen Pork Ribs Kansas City Style BBQ Vacuum Packing | Swift | $1074.51 | 2026-05-18 |
-| Ginger 454 g / 1 lb |  | $34.95 | 2026-05-17 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Virginia Brand Lemon and Garlic Salad Dressing 1 L / 33.8 oz | Virginia Brand | $52.95 | G10D03 |
-| Egregio Organic Extra Virgin Olive Oil 500 mL / 16.9 oz | Egregio | $99.95 | G10D03 |
+| Sincerely Brigitte Hot Pepper Prairie Jack Cheese 454 g / 16 oz | Sincerely  Brigitte | $67.95 | G10D03 |
+| Bombolo Biscotti Assorted Decorated Cookies with Colorful Icing Summer Edition | Bombolo Biscotti | $75.95 | G10D03 |
+| Polly-O String Cheese Mozzarella & Cheddar 24 Units | Polly-O | $98.95 | G10D03 |
