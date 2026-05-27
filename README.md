@@ -184,22 +184,22 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1144
-- **Total value**: $126,317.39
-- **Average price**: $110.42
+- **Total products scraped**: 1146
+- **Total value**: $127,299.06
+- **Average price**: $111.08
 
 ## Database Changes
-- **New products added**: 3
-- **Existing products updated**: 1141
-- **Price changes detected**: 30
-- **Stock/availability changes**: 10
-- **Discontinued products**: 6
+- **New products added**: 2
+- **Existing products updated**: 1144
+- **Price changes detected**: 42
+- **Stock/availability changes**: 24
+- **Discontinued products**: 4
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 177 |
+| Member's Selection | 176 |
 |  | 138 |
 | Badia | 17 |
 | Swiss | 15 |
@@ -213,41 +213,41 @@ This project has recently gained unexpected attention. It was created for person
 | Jimmy Dean Croissant Sausage, Egg & Cheese Sandwiches 1.53 kg / 3.38 lb | Jimmy Dean | $162.95 | true |
 | Setton Farms Premium Quality Pub-Style Pistachio Mix 567 g / 20 oz | Setton Farms | $131.95 | true |
 | Sunny Fruits Dried Organic Figs 10 Units / 50 g / 1.76 oz | Sunny Fruits | $79.95 | true |
-| Coffee Toppers Cold Foam 2 Units / 425 g / 15 oz | Coffee Toppers | $77.95 | true |
-| Curly's Baby Back Pork Ribs 680 g / 24 oz | Curly's | $137.95 | true |
+| Karnis Assorted Flavored Dressings 3 Units / 226 g / 8 oz | Karnis | $97.95 | true |
 | Pascual Yogi Kids Strawberry and Banana Yogurt with Fruit Pouch 24 Units / 80 g | Pascual | $229.95 | true |
+| Coffee Toppers Cold Foam 2 Units / 425 g / 15 oz | Coffee Toppers | $77.95 | true |
 | Carnation Creamy Evaporated Milk 6 Units / 330 mL | Carnation | $54.95 | true |
-| Butterball Turkey Sausage 3 Units / 369 g / 13 oz | Butterball | $129.95 | true |
-| Welch's Concord Grape Fruit Juice 1.75 L / 59 oz | Welch's | $33.95 | true |
+| Curly's Baby Back Pork Ribs 680 g / 24 oz | Curly's | $137.95 | true |
+| Häagen-Dazs Assorted Mini Cups Ice Cream 4 Units / 95 mL / 0.32 oz | Haagen Dazs | $54.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1168
-- **Price increases**: 599
-- **Price decreases**: 540
-- **Average increase**: 5.7%
-- **Average decrease**: -4.6%
+- **Total price changes**: 1146
+- **Price increases**: 590
+- **Price decreases**: 528
+- **Average increase**: 5.8%
+- **Average decrease**: -4.9%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Frozen Lamb Leg Whole Vacuum Packed | $406.23 | $404.50 | $-1.73 | -0.4% | Decrease |
-| Sincerely Brigitte Hot Pepper Prairie Jack Cheese 454 g / 16 oz | $0.00 | $67.95 | $+67.95 | +100.0% | New |
-| Bombolo Biscotti Assorted Decorated Cookies with Colorful Icing Summer Edition | $0.00 | $75.95 | $+75.95 | +100.0% | New |
-| Polly-O String Cheese Mozzarella & Cheddar 24 Units | $0.00 | $98.95 | $+98.95 | +100.0% | New |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $348.40 | $350.61 | $+2.21 | +0.6% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $222.72 | $223.00 | $+0.28 | +0.1% | Increase |
-| Papaya | $35.06 | $35.19 | $+0.13 | +0.4% | Increase |
-| Fine Choice Fresh Marinated Chicken Tray | $90.89 | $90.98 | $+0.09 | +0.1% | Increase |
-| Chilled Chicken Gizzard Tray Pack | $45.98 | $45.84 | $-0.14 | -0.3% | Decrease |
-| Frozen Pork Belly Skin On Sliced Tray  | $120.67 | $120.43 | $-0.24 | -0.2% | Decrease |
-| Ribeye Choice Fillet Fresh Tray | $324.48 | $325.24 | $+0.76 | +0.2% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $147.95 | $148.41 | $+0.46 | +0.3% | Increase |
-| Fresh Whole Chicken for Frying Bag | $285.84 | $286.01 | $+0.17 | +0.1% | Increase |
-| Frozen Boneless Skinless Chicken Breast Tray | $135.90 | $136.44 | $+0.54 | +0.4% | Increase |
-| Fresh Ground Chicken Tray | $102.86 | $103.11 | $+0.25 | +0.2% | Increase |
+| Brunswick Sardines in Water 5 Units / 84 g | $53.95 | $59.95 | $+6.00 | +11.1% | Increase |
+| Brunswick Sardines in Soybean Oil 5 Units / 106 g / 3.75 oz | $53.95 | $59.95 | $+6.00 | +11.1% | Increase |
+| Nature Valley Cinnamon Biscuits with Almond Butter Filling 30 Units 38 g / 1.35 oz | $0.00 | $138.95 | $+138.95 | +100.0% | New |
+| Lush Natural Refreshing Apple Flavored Drink 36 Units / 200 ml | $89.95 | $79.70 | $-10.25 | -11.4% | Decrease |
+| Frozen Lamb Leg Whole Vacuum Packed | $404.50 | $401.33 | $-3.17 | -0.8% | Decrease |
+| Fresh Whole Striploin Fillet Vacuum packaged | $2114.65 | $2006.67 | $-107.98 | -5.1% | Decrease |
+| Tetley Super Tea Boost Raspberry & Blueberry Tea 3 Units / 40 g  | $70.70 | $69.70 | $-1.00 | -1.4% | Decrease |
+| Gouda Cheese Block | $88.47 | $88.88 | $+0.41 | +0.5% | Increase |
+| Papaya | $35.19 | $35.28 | $+0.09 | +0.3% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $45.84 | $45.98 | $+0.14 | +0.3% | Increase |
+| Frozen Pork Belly Skin On Sliced Tray  | $120.43 | $120.67 | $+0.24 | +0.2% | Increase |
+| Fresh Chicken Leg Quarters Tray | $94.11 | $94.01 | $-0.10 | -0.1% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $148.41 | $148.86 | $+0.45 | +0.3% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $69.05 | $68.99 | $-0.06 | -0.1% | Decrease |
+| Nature Valley Strawberry Wafer Bars with Oat Butter 20 Units 36 g / 1.3 oz | $129.95 | $132.95 | $+3.00 | +2.3% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,21 +283,20 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Pillsbury Cookie Dough Mix 1.3 kg / 3 lb | Pillsbury | $71.70 | 2026-05-25 |
+| Sunberry Farms Organic Mango Nectar Juice - Gluten Free 3.78 L / 128 oz | Sunberry Farms | $79.95 | 2026-05-25 |
+| Prairie Farms Half and Half 946 mL / 32 oz | Prairie Farms | $37.95 | 2026-05-25 |
+| Member's Selection Chilled Skinless Boneless Beef Stew, Tray | Member's Selection | $134.47 | 2026-05-25 |
 | Tropicland Collagen Smoothie 1.2 kg / 2.6 lb | Tropicland | $137.95 | 2026-05-24 |
-| Tetley Caffeine-Free Mint Tea 60 Units / 1.6 g | Tetley | $35.95 | 2026-05-24 |
 | Stamina Energy Carbonated Energy Drink 12 Units / 330 mL / 11.16 oz | Stamina Energy | $55.95 | 2026-05-24 |
 | Kiss Fruit Rum Sponge Cake 6 Units / 65 g | Kiss | $28.95 | 2026-05-24 |
 | Orchard Sorrel Drink 6 Units / 1 L | Orchard | $39.70 | 2026-05-24 |
 | Member's Selection Walnuts Halves and Pieces 1.13 kg / 40 oz | Member's Selection | $149.95 | 2026-05-24 |
 | Member's Selection Whole Almonds - Healthy Snack 907 g / 32 oz | Member's Selection | $129.95 | 2026-05-23 |
-| Kellogg's Original Squishmallows Cereal 671 g / 1.4 lb | Kellogg's | $42.70 | 2026-05-22 |
-| Swiss Mustard Assortment 2 Units / 454 g / 16 oz | Swiss | $37.95 | 2026-05-21 |
-| Finest Call Margarita Mix 1 L | Finest Call | $52.95 | 2026-05-20 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Sincerely Brigitte Hot Pepper Prairie Jack Cheese 454 g / 16 oz | Sincerely  Brigitte | $67.95 | G10D03 |
-| Bombolo Biscotti Assorted Decorated Cookies with Colorful Icing Summer Edition | Bombolo Biscotti | $75.95 | G10D03 |
-| Polly-O String Cheese Mozzarella & Cheddar 24 Units | Polly-O | $98.95 | G10D03 |
+| Nature Valley Cinnamon Biscuits with Almond Butter Filling 30 Units 38 g / 1.35 oz | Nature Valley | $138.95 | G10D03 |
+| Snack Pack Chocolate and Vanilla Pudding 36 Units / 92 g / 3 oz | Snack Pack | $156.95 | G10D03 |
