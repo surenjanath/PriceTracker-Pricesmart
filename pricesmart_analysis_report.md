@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1143
-- **Total value**: $125,701.10
-- **Average price**: $109.97
+- **Total products scraped**: 1144
+- **Total value**: $125,781.67
+- **Average price**: $109.95
 
 ## Database Changes
-- **New products added**: 5
-- **Existing products updated**: 1138
-- **Price changes detected**: 58
-- **Stock/availability changes**: 11
-- **Discontinued products**: 4
+- **New products added**: 1
+- **Existing products updated**: 1143
+- **Price changes detected**: 24
+- **Stock/availability changes**: 15
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -35,36 +35,36 @@
 | Setton Farms Premium Quality Pub-Style Pistachio Mix 567 g / 20 oz | Setton Farms | $131.95 | true |
 | Pascual Yogi Kids Strawberry and Banana Yogurt with Fruit Pouch 24 Units / 80 g | Pascual | $229.95 | true |
 | Butterball Turkey Sausage 3 Units / 369 g / 13 oz | Butterball | $129.95 | true |
-| Curly's Baby Back Pork Ribs 680 g / 24 oz | Curly's | $79.70 | true |
+| Curly's Baby Back Pork Ribs 680 g / 24 oz | Curly's | $137.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1180
-- **Price increases**: 609
-- **Price decreases**: 537
+- **Total price changes**: 1205
+- **Price increases**: 625
+- **Price decreases**: 545
 - **Average increase**: 5.9%
-- **Average decrease**: -4.9%
+- **Average decrease**: -5.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Marbella Shrimp Tempura Sushi Roll 10 Units | $0.00 | $58.95 | $+58.95 | +100.0% | New |
-| Marbella Cuban-Style Sushi Roll 10 Units | $0.00 | $58.95 | $+58.95 | +100.0% | New |
-| Quaker Instant Oatmeal 52 Units / 43 g / 1.51 oz | $157.44 | $159.95 | $+2.51 | +1.6% | Increase |
-| Perrier Natural Sparkling Mineral Water 6 Units / 1 L | $0.00 | $119.95 | $+119.95 | +100.0% | New |
-| Marbella Trini Sushi Roll 10 Units | $0.00 | $58.95 | $+58.95 | +100.0% | New |
-| Marbella Asian Sushi Roll 10 Units | $0.00 | $58.95 | $+58.95 | +100.0% | New |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $348.40 | $347.67 | $-0.73 | -0.2% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $223.00 | $218.32 | $-4.68 | -2.1% | Decrease |
-| Gouda Cheese Block | $89.01 | $89.15 | $+0.14 | +0.2% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $199.26 | $194.91 | $-4.35 | -2.2% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $77.20 | $77.31 | $+0.11 | +0.1% | Increase |
-| Ginger 680 g / 1.5 lb | $23.95 | $26.95 | $+3.00 | +12.5% | Increase |
-| Green Bell Peppers 1.36 kg / 3 lb | $42.95 | $49.95 | $+7.00 | +16.3% | Increase |
-| Frozen Pork Belly Skin On Sliced Tray  | $120.43 | $121.15 | $+0.72 | +0.6% | Increase |
-| Papaya | $35.28 | $35.54 | $+0.26 | +0.7% | Increase |
+| Frozen Bone In Baby Back Ribs Vacuum Packaged Case | $1699.00 | $1739.00 | $+40.00 | +2.4% | Increase |
+| KFI Korma Cooking Sauce 2 Units / 650 mL | $0.00 | $89.95 | $+89.95 | +100.0% | New |
+| Gouda Cheese Block | $89.15 | $89.56 | $+0.41 | +0.5% | Increase |
+| Ribeye Choice Fillet Fresh Tray | $325.24 | $324.48 | $-0.76 | -0.2% | Decrease |
+| Papaya | $35.54 | $35.57 | $+0.03 | +0.1% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $147.20 | $147.35 | $+0.15 | +0.1% | Increase |
+| Sofi's Cookies by Tselepidis Family Whole Grain Oatmeal Cookies with Honey 760 g / 1.67 lb | $49.70 | $19.70 | $-30.00 | -60.4% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $286.50 | $286.67 | $+0.17 | +0.1% | Increase |
+| Fresh Chicken Breast Bone In Tray | $90.26 | $90.35 | $+0.09 | +0.1% | Increase |
+| Fresh Ground Chicken Tray | $103.36 | $103.49 | $+0.13 | +0.1% | Increase |
+| President Brie Cheese 555 g / 1.2 lb | $82.95 | $29.70 | $-53.25 | -64.2% | Decrease |
+| Frozen Boneless Skinless Chicken Breast Tray | $138.48 | $139.03 | $+0.55 | +0.4% | Increase |
+| Fresh Chicken Mixed Parts Tray | $84.22 | $84.12 | $-0.10 | -0.1% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $91.92 | $92.06 | $+0.14 | +0.2% | Increase |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $209.19 | $209.59 | $+0.40 | +0.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -115,8 +115,4 @@
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Marbella Shrimp Tempura Sushi Roll 10 Units | Marbella | $58.95 | G10D03 |
-| Marbella Cuban-Style Sushi Roll 10 Units | Marbella | $58.95 | G10D03 |
-| Perrier Natural Sparkling Mineral Water 6 Units / 1 L | Perrier | $119.95 | G10D03 |
-| Marbella Trini Sushi Roll 10 Units | Marbella | $58.95 | G10D03 |
-| Marbella Asian Sushi Roll 10 Units | Marbella | $58.95 | G10D03 |
+| KFI Korma Cooking Sauce 2 Units / 650 mL | KFI | $89.95 | G10D03 |
