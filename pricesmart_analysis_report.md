@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1144
-- **Total value**: $125,781.67
-- **Average price**: $109.95
+- **Total products scraped**: 1143
+- **Total value**: $125,752.85
+- **Average price**: $110.02
 
 ## Database Changes
-- **New products added**: 1
+- **New products added**: 0
 - **Existing products updated**: 1143
-- **Price changes detected**: 24
-- **Stock/availability changes**: 15
-- **Discontinued products**: 0
+- **Price changes detected**: 23
+- **Stock/availability changes**: 11
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
@@ -29,42 +29,42 @@
 | Member’s Selection Canola Oil 2 Units / 2.84 L / 96 oz | Member's Selection | $159.95 | true |
 | Jimmy Dean Croissant Sausage, Egg & Cheese Sandwiches 1.53 kg / 3.38 lb | Jimmy Dean | $162.95 | true |
 | Carnation Creamy Evaporated Milk 6 Units / 330 mL | Carnation | $54.95 | true |
-| Coffee Toppers Cold Foam 2 Units / 425 g / 15 oz | Coffee Toppers | $77.95 | true |
-| Sunny Fruits Dried Organic Figs 10 Units / 50 g / 1.76 oz | Sunny Fruits | $79.95 | true |
-| Karnis Assorted Flavored Dressings 3 Units / 226 g / 8 oz | Karnis | $97.95 | true |
-| Setton Farms Premium Quality Pub-Style Pistachio Mix 567 g / 20 oz | Setton Farms | $131.95 | true |
 | Pascual Yogi Kids Strawberry and Banana Yogurt with Fruit Pouch 24 Units / 80 g | Pascual | $229.95 | true |
+| Karnis Assorted Flavored Dressings 3 Units / 226 g / 8 oz | Karnis | $97.95 | true |
+| Sunny Fruits Dried Organic Figs 10 Units / 50 g / 1.76 oz | Sunny Fruits | $79.95 | true |
+| Setton Farms Premium Quality Pub-Style Pistachio Mix 567 g / 20 oz | Setton Farms | $131.95 | true |
+| Coffee Toppers Cold Foam 2 Units / 425 g / 15 oz | Coffee Toppers | $77.95 | true |
 | Butterball Turkey Sausage 3 Units / 369 g / 13 oz | Butterball | $129.95 | true |
 | Curly's Baby Back Pork Ribs 680 g / 24 oz | Curly's | $137.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1205
-- **Price increases**: 625
-- **Price decreases**: 545
-- **Average increase**: 5.9%
-- **Average decrease**: -5.1%
+- **Total price changes**: 1120
+- **Price increases**: 561
+- **Price decreases**: 526
+- **Average increase**: 5.7%
+- **Average decrease**: -4.9%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Frozen Bone In Baby Back Ribs Vacuum Packaged Case | $1699.00 | $1739.00 | $+40.00 | +2.4% | Increase |
-| KFI Korma Cooking Sauce 2 Units / 650 mL | $0.00 | $89.95 | $+89.95 | +100.0% | New |
-| Gouda Cheese Block | $89.15 | $89.56 | $+0.41 | +0.5% | Increase |
-| Ribeye Choice Fillet Fresh Tray | $325.24 | $324.48 | $-0.76 | -0.2% | Decrease |
-| Papaya | $35.54 | $35.57 | $+0.03 | +0.1% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $147.20 | $147.35 | $+0.15 | +0.1% | Increase |
-| Sofi's Cookies by Tselepidis Family Whole Grain Oatmeal Cookies with Honey 760 g / 1.67 lb | $49.70 | $19.70 | $-30.00 | -60.4% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $286.50 | $286.67 | $+0.17 | +0.1% | Increase |
-| Fresh Chicken Breast Bone In Tray | $90.26 | $90.35 | $+0.09 | +0.1% | Increase |
-| Fresh Ground Chicken Tray | $103.36 | $103.49 | $+0.13 | +0.1% | Increase |
-| President Brie Cheese 555 g / 1.2 lb | $82.95 | $29.70 | $-53.25 | -64.2% | Decrease |
-| Frozen Boneless Skinless Chicken Breast Tray | $138.48 | $139.03 | $+0.55 | +0.4% | Increase |
-| Fresh Chicken Mixed Parts Tray | $84.22 | $84.12 | $-0.10 | -0.1% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $91.92 | $92.06 | $+0.14 | +0.2% | Increase |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $209.19 | $209.59 | $+0.40 | +0.2% | Increase |
+| Seedless Watermelon  | $109.95 | $84.95 | $-25.00 | -22.7% | Decrease |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $347.67 | $344.72 | $-2.95 | -0.8% | Decrease |
+| Gouda Cheese Block | $89.56 | $89.69 | $+0.13 | +0.1% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $194.91 | $195.20 | $+0.29 | +0.1% | Increase |
+| Frozen Pork Belly Skin On Sliced Tray  | $121.15 | $120.91 | $-0.24 | -0.2% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $147.35 | $148.10 | $+0.75 | +0.5% | Increase |
+| Fresh Whole Chicken for Frying Bag | $286.67 | $286.50 | $-0.17 | -0.1% | Decrease |
+| Ribeye Choice Fillet Fresh Tray | $324.48 | $322.96 | $-1.52 | -0.5% | Decrease |
+| Fresh Beef Striploin Steak Tray | $245.44 | $243.40 | $-2.04 | -0.8% | Decrease |
+| Frozen Lamb Shoulder Chops Tray | $125.05 | $125.24 | $+0.19 | +0.2% | Increase |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $209.59 | $209.85 | $+0.26 | +0.1% | Increase |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $92.06 | $92.21 | $+0.15 | +0.2% | Increase |
+| Fresh Chicken Mixed Parts Tray | $84.12 | $83.92 | $-0.20 | -0.2% | Decrease |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $83.72 | $83.60 | $-0.12 | -0.1% | Decrease |
+| Fresh Whole Chicken 2 Units | $102.93 | $103.10 | $+0.17 | +0.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,8 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Edwards Signatures Frozen Pecan Pie 907 g / 2 lb | Edward's | $69.95 | 2026-05-30 |
+| Carrot 2.27 kg / 5 lb |  | $37.95 | 2026-05-30 |
 | Marismas Manzanilla Pitted Olives 1.82 kg / 64 oz  | Marismas | $59.70 | 2026-05-28 |
 | Mini Sweet Peppers 454 g / 1 lb |  | $44.95 | 2026-05-28 |
 | Member's Selection Freshly Made Chicken Salad Wraps 4 Units | Member's Selection | $62.95 | 2026-05-28 |
@@ -108,11 +110,6 @@
 | Wellsley Farms Assorted Mini Quiches 1.02 kg / 2.25 lb | Wellsley Farms | $99.95 | 2026-05-27 |
 | Creamery Novelties Coconut Ice Cream 3.78 L / 1 gal | Creamery Novelties | $49.95 | 2026-05-27 |
 | Chicken Drumsticks Case 15 kg / 33 lb |  | $499.95 | 2026-05-27 |
-| Dare Viva Puffs Cookies with Marshmallows and Strawberry Covered in Chocolate 2 Units / 300 g | Dare | $44.70 | 2026-05-27 |
-| Seedless Watermelon  |  | $109.95 | 2026-05-27 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| KFI Korma Cooking Sauce 2 Units / 650 mL | KFI | $89.95 | G10D03 |
+No new products added today.
