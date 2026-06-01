@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1143
-- **Total value**: $125,752.85
-- **Average price**: $110.02
+- **Total products scraped**: 1138
+- **Total value**: $125,429.65
+- **Average price**: $110.22
 
 ## Database Changes
 - **New products added**: 0
-- **Existing products updated**: 1143
-- **Price changes detected**: 23
-- **Stock/availability changes**: 11
-- **Discontinued products**: 2
+- **Existing products updated**: 1138
+- **Price changes detected**: 59
+- **Stock/availability changes**: 16
+- **Discontinued products**: 5
 
 ## Top 5 Brands
 
@@ -35,36 +35,36 @@
 | Setton Farms Premium Quality Pub-Style Pistachio Mix 567 g / 20 oz | Setton Farms | $131.95 | true |
 | Coffee Toppers Cold Foam 2 Units / 425 g / 15 oz | Coffee Toppers | $77.95 | true |
 | Butterball Turkey Sausage 3 Units / 369 g / 13 oz | Butterball | $129.95 | true |
-| Curly's Baby Back Pork Ribs 680 g / 24 oz | Curly's | $137.95 | true |
+| Häagen-Dazs Assorted Mini Cups Ice Cream 4 Units / 95 mL / 0.32 oz | Haagen Dazs | $54.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1120
-- **Price increases**: 561
-- **Price decreases**: 526
-- **Average increase**: 5.7%
-- **Average decrease**: -4.9%
+- **Total price changes**: 1119
+- **Price increases**: 558
+- **Price decreases**: 529
+- **Average increase**: 6.2%
+- **Average decrease**: -5.2%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Seedless Watermelon  | $109.95 | $84.95 | $-25.00 | -22.7% | Decrease |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $347.67 | $344.72 | $-2.95 | -0.8% | Decrease |
-| Gouda Cheese Block | $89.56 | $89.69 | $+0.13 | +0.1% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $194.91 | $195.20 | $+0.29 | +0.1% | Increase |
-| Frozen Pork Belly Skin On Sliced Tray  | $121.15 | $120.91 | $-0.24 | -0.2% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $147.35 | $148.10 | $+0.75 | +0.5% | Increase |
-| Fresh Whole Chicken for Frying Bag | $286.67 | $286.50 | $-0.17 | -0.1% | Decrease |
-| Ribeye Choice Fillet Fresh Tray | $324.48 | $322.96 | $-1.52 | -0.5% | Decrease |
-| Fresh Beef Striploin Steak Tray | $245.44 | $243.40 | $-2.04 | -0.8% | Decrease |
-| Frozen Lamb Shoulder Chops Tray | $125.05 | $125.24 | $+0.19 | +0.2% | Increase |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $209.59 | $209.85 | $+0.26 | +0.1% | Increase |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $92.06 | $92.21 | $+0.15 | +0.2% | Increase |
-| Fresh Chicken Mixed Parts Tray | $84.12 | $83.92 | $-0.20 | -0.2% | Decrease |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $83.72 | $83.60 | $-0.12 | -0.1% | Decrease |
-| Fresh Whole Chicken 2 Units | $102.93 | $103.10 | $+0.17 | +0.2% | Increase |
+| Kraft Cheez Whiz 2 Units / 425 g / 15 oz | $86.95 | $69.95 | $-17.00 | -19.6% | Decrease |
+| Fresh Chicken Thighs Boneless Tray | $87.42 | $87.55 | $+0.13 | +0.1% | Increase |
+| Fresh Gourmet Organic Seasoned Croutons 907 g / 32 oz | $83.95 | $103.95 | $+20.00 | +23.8% | Increase |
+| Gouda Cheese Block | $89.69 | $89.97 | $+0.28 | +0.3% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $77.31 | $77.52 | $+0.21 | +0.3% | Increase |
+| The Happy Planet Oyster Mushroom 310 g / 11.2 oz | $36.95 | $49.95 | $+13.00 | +35.2% | Increase |
+| Carnation Evaporated Milk 6 Units / 371 mL / 12.5 oz | $65.95 | $71.95 | $+6.00 | +9.1% | Increase |
+| Papaya | $35.57 | $35.60 | $+0.03 | +0.1% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $148.10 | $149.75 | $+1.65 | +1.1% | Increase |
+| Fresh Whole Chicken for Frying Bag | $286.50 | $286.67 | $+0.17 | +0.1% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $68.99 | $68.92 | $-0.07 | -0.1% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $90.35 | $90.26 | $-0.09 | -0.1% | Decrease |
+| Fresh Ripe Banana 1.5 kg / 3.3 lb | $18.95 | $19.95 | $+1.00 | +5.3% | Increase |
+| Fresh Ground Chicken Tray | $103.49 | $103.36 | $-0.13 | -0.1% | Decrease |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $209.85 | $210.38 | $+0.53 | +0.3% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,16 +100,16 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Nongshim Shin Gold with Chicken Broth Flavor 4 Units / 130 g / 4.58 oz | Nongshim | $67.95 | 2026-05-31 |
+| Russco’s Browning Caramel-Flavored Syrup 750 mL / 25.36 oz | Russco's | $21.95 | 2026-05-31 |
+| Hillshire Farm Ham Mix 3 Units / 454 g / 16 oz | Hillshire Farm | $194.95 | 2026-05-31 |
+| Fresh Start Pink Grapefruit and Dragon Fruit Drink 1.8 L / 60.8 oz | Fresh Start | $39.95 | 2026-05-31 |
+| Classic Cream Chocolate Whipped Cream 2 Units / 368 g / 13 oz | Classic Cream | $29.70 | 2026-05-31 |
 | Edwards Signatures Frozen Pecan Pie 907 g / 2 lb | Edward's | $69.95 | 2026-05-30 |
 | Carrot 2.27 kg / 5 lb |  | $37.95 | 2026-05-30 |
 | Marismas Manzanilla Pitted Olives 1.82 kg / 64 oz  | Marismas | $59.70 | 2026-05-28 |
 | Mini Sweet Peppers 454 g / 1 lb |  | $44.95 | 2026-05-28 |
 | Member's Selection Freshly Made Chicken Salad Wraps 4 Units | Member's Selection | $62.95 | 2026-05-28 |
-| New Zealand Cheddar Cheese Box 20 Kg / 44 lb | New Zealand | $1499.95 | 2026-05-28 |
-| Nestos Small Gherkins 520 g / 18.34 oz | Nestos | $62.95 | 2026-05-27 |
-| Wellsley Farms Assorted Mini Quiches 1.02 kg / 2.25 lb | Wellsley Farms | $99.95 | 2026-05-27 |
-| Creamery Novelties Coconut Ice Cream 3.78 L / 1 gal | Creamery Novelties | $49.95 | 2026-05-27 |
-| Chicken Drumsticks Case 15 kg / 33 lb |  | $499.95 | 2026-05-27 |
 
 ## New Products Added Today
 No new products added today.
