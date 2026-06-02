@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1138
-- **Total value**: $125,429.65
-- **Average price**: $110.22
+- **Total products scraped**: 1132
+- **Total value**: $122,795.41
+- **Average price**: $108.48
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1138
-- **Price changes detected**: 59
-- **Stock/availability changes**: 16
-- **Discontinued products**: 5
+- **New products added**: 1
+- **Existing products updated**: 1131
+- **Price changes detected**: 61
+- **Stock/availability changes**: 17
+- **Discontinued products**: 8
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 176 |
-|  | 135 |
+| Member's Selection | 174 |
+|  | 132 |
 | Badia | 17 |
 | Swiss | 15 |
 | Brunswick | 11 |
@@ -212,42 +212,42 @@ This project has recently gained unexpected attention. It was created for person
 | Member’s Selection Canola Oil 2 Units / 2.84 L / 96 oz | Member's Selection | $159.95 | true |
 | Jimmy Dean Croissant Sausage, Egg & Cheese Sandwiches 1.53 kg / 3.38 lb | Jimmy Dean | $162.95 | true |
 | Carnation Creamy Evaporated Milk 6 Units / 330 mL | Carnation | $54.95 | true |
+| Joyburst Sparkling Energy Drink - No Added Sugar 12 Units / 355 mL / 12 oz | Joyburst | $129.95 | true |
 | Pascual Yogi Kids Strawberry and Banana Yogurt with Fruit Pouch 24 Units / 80 g | Pascual | $229.95 | true |
-| Karnis Assorted Flavored Dressings 3 Units / 226 g / 8 oz | Karnis | $97.95 | true |
-| Sunny Fruits Dried Organic Figs 10 Units / 50 g / 1.76 oz | Sunny Fruits | $79.95 | true |
 | Setton Farms Premium Quality Pub-Style Pistachio Mix 567 g / 20 oz | Setton Farms | $131.95 | true |
-| Coffee Toppers Cold Foam 2 Units / 425 g / 15 oz | Coffee Toppers | $77.95 | true |
+| Sunny Fruits Dried Organic Figs 10 Units / 50 g / 1.76 oz | Sunny Fruits | $79.95 | true |
+| Karnis Assorted Flavored Dressings 3 Units / 226 g / 8 oz | Karnis | $97.95 | true |
+| Coffee Toppers Cold Foam 2 Units / 425 g / 15 oz | Coffee Toppers | $41.70 | true |
 | Butterball Turkey Sausage 3 Units / 369 g / 13 oz | Butterball | $129.95 | true |
-| Häagen-Dazs Assorted Mini Cups Ice Cream 4 Units / 95 mL / 0.32 oz | Haagen Dazs | $54.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1119
-- **Price increases**: 558
-- **Price decreases**: 529
-- **Average increase**: 6.2%
-- **Average decrease**: -5.2%
+- **Total price changes**: 1158
+- **Price increases**: 577
+- **Price decreases**: 549
+- **Average increase**: 6.4%
+- **Average decrease**: -5.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Kraft Cheez Whiz 2 Units / 425 g / 15 oz | $86.95 | $69.95 | $-17.00 | -19.6% | Decrease |
-| Fresh Chicken Thighs Boneless Tray | $87.42 | $87.55 | $+0.13 | +0.1% | Increase |
-| Fresh Gourmet Organic Seasoned Croutons 907 g / 32 oz | $83.95 | $103.95 | $+20.00 | +23.8% | Increase |
-| Gouda Cheese Block | $89.69 | $89.97 | $+0.28 | +0.3% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $77.31 | $77.52 | $+0.21 | +0.3% | Increase |
-| The Happy Planet Oyster Mushroom 310 g / 11.2 oz | $36.95 | $49.95 | $+13.00 | +35.2% | Increase |
-| Carnation Evaporated Milk 6 Units / 371 mL / 12.5 oz | $65.95 | $71.95 | $+6.00 | +9.1% | Increase |
-| Papaya | $35.57 | $35.60 | $+0.03 | +0.1% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $148.10 | $149.75 | $+1.65 | +1.1% | Increase |
-| Fresh Whole Chicken for Frying Bag | $286.50 | $286.67 | $+0.17 | +0.1% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $68.99 | $68.92 | $-0.07 | -0.1% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $90.35 | $90.26 | $-0.09 | -0.1% | Decrease |
-| Fresh Ripe Banana 1.5 kg / 3.3 lb | $18.95 | $19.95 | $+1.00 | +5.3% | Increase |
-| Fresh Ground Chicken Tray | $103.49 | $103.36 | $-0.13 | -0.1% | Decrease |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $209.85 | $210.38 | $+0.53 | +0.3% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $45.98 | $46.26 | $+0.28 | +0.6% | Increase |
+| Fresh Whole Chicken for Frying Bag | $286.67 | $283.37 | $-3.30 | -1.2% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $91.21 | $91.44 | $+0.23 | +0.3% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $90.98 | $92.13 | $+1.15 | +1.3% | Increase |
+| Fresh Whole Chicken 2 Units | $103.63 | $103.45 | $-0.18 | -0.2% | Decrease |
+| Fresh Chicken Thighs Boneless Bag | $323.01 | $324.69 | $+1.68 | +0.5% | Increase |
+| Fresh Chicken Breast Boneless Skinless Tray | $135.74 | $135.65 | $-0.09 | -0.1% | Decrease |
+| Frozen Lamb Leg Whole Vacuum Packed | $401.33 | $394.14 | $-7.19 | -1.8% | Decrease |
+| Florida's Natural Mango Lemonade 2 Units / 1.75 L / 59 oz | $0.00 | $107.95 | $+107.95 | +100.0% | New |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $195.20 | $191.74 | $-3.46 | -1.8% | Decrease |
+| Green Bell Peppers 1.36 kg / 3 lb | $49.95 | $44.95 | $-5.00 | -10.0% | Decrease |
+| Frozen Pork Belly Skin On Sliced Tray  | $120.91 | $120.67 | $-0.24 | -0.2% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $188.80 | $189.74 | $+0.94 | +0.5% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $77.52 | $77.31 | $-0.21 | -0.3% | Decrease |
+| Papaya | $35.60 | $37.64 | $+2.04 | +5.7% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,16 +283,19 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Wellsley Farms Spinach & Cheese Spanakopita 822 g / 1.8 lb | Wellsley Farms | $139.95 | 2026-06-01 |
+| Mrs. Field's Chocolate Chip Cookie 20 Units / 59 g  / 2.1 oz  | Mrs. Fields | $114.95 | 2026-06-01 |
+| Green pepper |  | $59.19 | 2026-06-01 |
+| Frozen Skinless Boneless Beef Shoulder Clod Case |  | $1443.44 | 2026-06-01 |
+| Frozen Bone-In Pork Shoulder Vacuum Packed |  | $194.41 | 2026-06-01 |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray |  | $106.27 | 2026-06-01 |
+| Member's Selection Chilled Ground Beef Tray | Member's Selection | $100.43 | 2026-06-01 |
+| Member's Selection Chilled Ground Beef | Member's Selection | $313.78 | 2026-06-01 |
 | Nongshim Shin Gold with Chicken Broth Flavor 4 Units / 130 g / 4.58 oz | Nongshim | $67.95 | 2026-05-31 |
 | Russco’s Browning Caramel-Flavored Syrup 750 mL / 25.36 oz | Russco's | $21.95 | 2026-05-31 |
-| Hillshire Farm Ham Mix 3 Units / 454 g / 16 oz | Hillshire Farm | $194.95 | 2026-05-31 |
-| Fresh Start Pink Grapefruit and Dragon Fruit Drink 1.8 L / 60.8 oz | Fresh Start | $39.95 | 2026-05-31 |
-| Classic Cream Chocolate Whipped Cream 2 Units / 368 g / 13 oz | Classic Cream | $29.70 | 2026-05-31 |
-| Edwards Signatures Frozen Pecan Pie 907 g / 2 lb | Edward's | $69.95 | 2026-05-30 |
-| Carrot 2.27 kg / 5 lb |  | $37.95 | 2026-05-30 |
-| Marismas Manzanilla Pitted Olives 1.82 kg / 64 oz  | Marismas | $59.70 | 2026-05-28 |
-| Mini Sweet Peppers 454 g / 1 lb |  | $44.95 | 2026-05-28 |
-| Member's Selection Freshly Made Chicken Salad Wraps 4 Units | Member's Selection | $62.95 | 2026-05-28 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Florida's Natural Mango Lemonade 2 Units / 1.75 L / 59 oz | Florida's Natural | $107.95 | G10D03 |
