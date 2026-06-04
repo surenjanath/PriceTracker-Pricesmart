@@ -184,22 +184,22 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1130
-- **Total value**: $123,952.94
-- **Average price**: $109.69
+- **Total products scraped**: 1134
+- **Total value**: $124,722.48
+- **Average price**: $109.98
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1130
-- **Price changes detected**: 20
-- **Stock/availability changes**: 24
-- **Discontinued products**: 2
+- **New products added**: 2
+- **Existing products updated**: 1132
+- **Price changes detected**: 62
+- **Stock/availability changes**: 13
+- **Discontinued products**: 3
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 173 |
+| Member's Selection | 176 |
 |  | 132 |
 | Badia | 17 |
 | Swiss | 15 |
@@ -210,7 +210,7 @@ This project has recently gained unexpected attention. It was created for person
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Jimmy Dean Croissant Sausage, Egg & Cheese Sandwiches 1.53 kg / 3.38 lb | Jimmy Dean | $162.95 | true |
-| Joyburst Sparkling Energy Drink - No Added Sugar 12 Units / 355 mL / 12 oz | Joyburst | $129.95 | true |
+| Joyburst Sparkling Energy Drink - No Added Sugar 12 Units / 355 mL / 12 oz | Joyburst | $136.95 | true |
 | Nature Valley Strawberry Wafer Bars with Oat Butter 20 Units 36 g / 1.3 oz | Nature Valley | $132.95 | true |
 | Egregio Organic Extra Virgin Olive Oil 500 mL / 16.9 oz | Egregio | $114.95 | true |
 | Butterball Turkey Sausage 3 Units / 369 g / 13 oz | Butterball | $129.95 | true |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1128
-- **Price increases**: 573
-- **Price decreases**: 524
-- **Average increase**: 6.2%
-- **Average decrease**: -5.6%
+- **Total price changes**: 1169
+- **Price increases**: 595
+- **Price decreases**: 541
+- **Average increase**: 6.4%
+- **Average decrease**: -5.4%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Frozen Lamb Leg Whole Vacuum Packed | $394.14 | $392.41 | $-1.73 | -0.4% | Decrease |
-| Frozen Bone-In Goat Carcass Case | $1519.76 | $3012.75 | $+1492.99 | +98.2% | Increase |
-| Gouda Cheese Block | $89.97 | $90.10 | $+0.13 | +0.1% | Increase |
-| Frozen Pork Belly Skin On Sliced Tray  | $120.67 | $120.91 | $+0.24 | +0.2% | Increase |
-| Frozen Sliced Turkey Drumsticks | $189.74 | $192.68 | $+2.94 | +1.5% | Increase |
-| Fresh Whole Chicken for Frying Bag | $283.37 | $283.53 | $+0.16 | +0.1% | Increase |
-| Angel Parboiled Rice Extra Long Grain 9 kg / 19.8 lb | $94.95 | $97.95 | $+3.00 | +3.2% | Increase |
-| Fresh Chicken Leg Quarters Tray | $94.21 | $94.11 | $-0.10 | -0.1% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $220.56 | $221.12 | $+0.56 | +0.3% | Increase |
-| Fresh Ground Chicken Tray | $99.84 | $100.34 | $+0.50 | +0.5% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $125.24 | $125.60 | $+0.36 | +0.3% | Increase |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $82.21 | $82.34 | $+0.13 | +0.2% | Increase |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.18 | $74.44 | $+0.26 | +0.4% | Increase |
-| Pork Chop with Bone Frozen Tray | $81.21 | $81.46 | $+0.25 | +0.3% | Increase |
-| Watermelon 1 kg / 2.2 lb | $78.16 | $76.27 | $-1.89 | -2.4% | Decrease |
+| Cavendish Farms Hash Browns 1.2 kg / 2.6 lb | $56.95 | $55.95 | $-1.00 | -1.8% | Decrease |
+| Curly's Baby Back Pork Ribs 680 g / 24 oz | $137.95 | $134.95 | $-3.00 | -2.2% | Decrease |
+| Oscar Mayer Turkey Bacon 3 Units / 340 g / 12 oz | $139.95 | $142.95 | $+3.00 | +2.1% | Increase |
+| Watermelon 1 kg / 2.2 lb | $76.27 | $76.02 | $-0.25 | -0.3% | Decrease |
+| Catalina Ham Croquettes 1.3 kg / 47 oz | $74.95 | $82.95 | $+8.00 | +10.7% | Increase |
+| Frozen Lamb Leg Whole Vacuum Packed | $392.41 | $394.14 | $+1.73 | +0.4% | Increase |
+| Philadelphia Strawberry Cream Cheese 2 Units / 212 g / 7.5 oz | $0.00 | $79.95 | $+79.95 | +100.0% | New |
+| Fratelli Beretta Italian Style Platter 340 g / 12 oz  | $82.95 | $81.95 | $-1.00 | -1.2% | Decrease |
+| Gouda Cheese Block | $90.10 | $89.97 | $-0.13 | -0.1% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $77.31 | $77.52 | $+0.21 | +0.3% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $153.65 | $152.30 | $-1.35 | -0.9% | Decrease |
+| Silk Chocolate Almond 1.89 L / 64 oz | $56.95 | $55.95 | $-1.00 | -1.8% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $68.78 | $68.71 | $-0.07 | -0.1% | Decrease |
+| Wrigley's Extra Spearmint Sugar-Free Gum 10 Packs 37.5 g / 1.32 oz | $0.00 | $102.95 | $+102.95 | +100.0% | New |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $221.12 | $222.52 | $+1.40 | +0.6% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,16 +283,20 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+|  Best Fruit Ripe Dehydrated Mangoes 4 Units / 100 g | Best Fruit | $82.70 | 2026-06-03 |
+| Philly Gourmet Pure Beef Sliced Steaks 1 kg / 2.4 lb | Philly Gourmet | $96.95 | 2026-06-03 |
+| Frozen Imported Pork Leg Slices |  | $70.14 | 2026-06-03 |
 | Heinz Tomato Ketchup 12 Units / 591.5 mL / 20 oz | Heinz | $249.95 | 2026-06-02 |
-| Member's Selection Frozen Skinless Boneless Beef Stew Tray | Member's Selection | $95.40 | 2026-06-02 |
 | Wellsley Farms Spinach & Cheese Spanakopita 822 g / 1.8 lb | Wellsley Farms | $139.95 | 2026-06-01 |
 | Mrs. Field's Chocolate Chip Cookie 20 Units / 59 g  / 2.1 oz  | Mrs. Fields | $114.95 | 2026-06-01 |
 | Green pepper |  | $59.19 | 2026-06-01 |
 | Frozen Skinless Boneless Beef Shoulder Clod Case |  | $1443.44 | 2026-06-01 |
 | Frozen Bone-In Pork Shoulder Vacuum Packed |  | $194.41 | 2026-06-01 |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray |  | $106.27 | 2026-06-01 |
-| Member's Selection Chilled Ground Beef Tray | Member's Selection | $100.43 | 2026-06-01 |
-| Member's Selection Chilled Ground Beef | Member's Selection | $313.78 | 2026-06-01 |
+| Nongshim Shin Gold with Chicken Broth Flavor 4 Units / 130 g / 4.58 oz | Nongshim | $67.95 | 2026-05-31 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Philadelphia Strawberry Cream Cheese 2 Units / 212 g / 7.5 oz | Philadelphia | $79.95 | G10D03 |
+| Wrigley's Extra Spearmint Sugar-Free Gum 10 Packs 37.5 g / 1.32 oz | Wrigley's | $102.95 | G10D03 |
