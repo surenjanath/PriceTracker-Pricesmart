@@ -185,15 +185,15 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1134
-- **Total value**: $124,722.48
-- **Average price**: $109.98
+- **Total value**: $124,691.56
+- **Average price**: $109.96
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1132
-- **Price changes detected**: 62
-- **Stock/availability changes**: 13
-- **Discontinued products**: 3
+- **New products added**: 0
+- **Existing products updated**: 1134
+- **Price changes detected**: 32
+- **Stock/availability changes**: 16
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1169
-- **Price increases**: 595
-- **Price decreases**: 541
+- **Total price changes**: 1168
+- **Price increases**: 598
+- **Price decreases**: 538
 - **Average increase**: 6.4%
-- **Average decrease**: -5.4%
+- **Average decrease**: -5.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Cavendish Farms Hash Browns 1.2 kg / 2.6 lb | $56.95 | $55.95 | $-1.00 | -1.8% | Decrease |
-| Curly's Baby Back Pork Ribs 680 g / 24 oz | $137.95 | $134.95 | $-3.00 | -2.2% | Decrease |
-| Oscar Mayer Turkey Bacon 3 Units / 340 g / 12 oz | $139.95 | $142.95 | $+3.00 | +2.1% | Increase |
-| Watermelon 1 kg / 2.2 lb | $76.27 | $76.02 | $-0.25 | -0.3% | Decrease |
-| Catalina Ham Croquettes 1.3 kg / 47 oz | $74.95 | $82.95 | $+8.00 | +10.7% | Increase |
-| Frozen Lamb Leg Whole Vacuum Packed | $392.41 | $394.14 | $+1.73 | +0.4% | Increase |
-| Philadelphia Strawberry Cream Cheese 2 Units / 212 g / 7.5 oz | $0.00 | $79.95 | $+79.95 | +100.0% | New |
-| Fratelli Beretta Italian Style Platter 340 g / 12 oz  | $82.95 | $81.95 | $-1.00 | -1.2% | Decrease |
-| Gouda Cheese Block | $90.10 | $89.97 | $-0.13 | -0.1% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $77.31 | $77.52 | $+0.21 | +0.3% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $153.65 | $152.30 | $-1.35 | -0.9% | Decrease |
-| Silk Chocolate Almond 1.89 L / 64 oz | $56.95 | $55.95 | $-1.00 | -1.8% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $68.78 | $68.71 | $-0.07 | -0.1% | Decrease |
-| Wrigley's Extra Spearmint Sugar-Free Gum 10 Packs 37.5 g / 1.32 oz | $0.00 | $102.95 | $+102.95 | +100.0% | New |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $221.12 | $222.52 | $+1.40 | +0.6% | Increase |
+| Green Bell Peppers 1.36 kg / 3 lb | $44.95 | $49.95 | $+5.00 | +11.1% | Increase |
+| Fresh Strawberry 454 g / 1 lb | $59.95 | $69.95 | $+10.00 | +16.7% | Increase |
+| Avocado Mesh 5 Units | $67.95 | $77.95 | $+10.00 | +14.7% | Increase |
+| Cherries 454 g / 1 lb | $72.95 | $79.95 | $+7.00 | +9.6% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $46.26 | $46.12 | $-0.14 | -0.3% | Decrease |
+| Papaya | $37.64 | $37.51 | $-0.13 | -0.3% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $152.30 | $150.95 | $-1.35 | -0.9% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $283.53 | $283.86 | $+0.33 | +0.1% | Increase |
+| Fresh Chicken Leg Quarters Tray | $94.11 | $94.01 | $-0.10 | -0.1% | Decrease |
+| Fresh Beef Striploin Steak Tray | $243.40 | $245.44 | $+2.04 | +0.8% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $222.52 | $221.40 | $-1.12 | -0.5% | Decrease |
+| Ribeye Choice Fillet Fresh Tray | $325.24 | $322.96 | $-2.28 | -0.7% | Decrease |
+| Fresh Ground Chicken Tray | $100.72 | $100.85 | $+0.13 | +0.1% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $125.79 | $125.97 | $+0.18 | +0.1% | Increase |
+| Belgioioso Ricotta Cheese with whole Milk 453 g / 1 lb | $39.95 | $24.70 | $-15.25 | -38.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -295,8 +295,4 @@ This project has recently gained unexpected attention. It was created for person
 | Nongshim Shin Gold with Chicken Broth Flavor 4 Units / 130 g / 4.58 oz | Nongshim | $67.95 | 2026-05-31 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Philadelphia Strawberry Cream Cheese 2 Units / 212 g / 7.5 oz | Philadelphia | $79.95 | G10D03 |
-| Wrigley's Extra Spearmint Sugar-Free Gum 10 Packs 37.5 g / 1.32 oz | Wrigley's | $102.95 | G10D03 |
+No new products added today.
