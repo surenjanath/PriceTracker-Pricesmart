@@ -185,14 +185,14 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1134
-- **Total value**: $124,691.56
-- **Average price**: $109.96
+- **Total value**: $124,731.77
+- **Average price**: $109.99
 
 ## Database Changes
 - **New products added**: 0
 - **Existing products updated**: 1134
-- **Price changes detected**: 32
-- **Stock/availability changes**: 16
+- **Price changes detected**: 31
+- **Stock/availability changes**: 19
 - **Discontinued products**: 0
 
 ## Top 5 Brands
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1168
-- **Price increases**: 598
-- **Price decreases**: 538
-- **Average increase**: 6.4%
-- **Average decrease**: -5.6%
+- **Total price changes**: 1199
+- **Price increases**: 620
+- **Price decreases**: 547
+- **Average increase**: 6.5%
+- **Average decrease**: -5.7%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Green Bell Peppers 1.36 kg / 3 lb | $44.95 | $49.95 | $+5.00 | +11.1% | Increase |
-| Fresh Strawberry 454 g / 1 lb | $59.95 | $69.95 | $+10.00 | +16.7% | Increase |
-| Avocado Mesh 5 Units | $67.95 | $77.95 | $+10.00 | +14.7% | Increase |
-| Cherries 454 g / 1 lb | $72.95 | $79.95 | $+7.00 | +9.6% | Increase |
-| Chilled Chicken Gizzard Tray Pack | $46.26 | $46.12 | $-0.14 | -0.3% | Decrease |
-| Papaya | $37.64 | $37.51 | $-0.13 | -0.3% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $152.30 | $150.95 | $-1.35 | -0.9% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $283.53 | $283.86 | $+0.33 | +0.1% | Increase |
-| Fresh Chicken Leg Quarters Tray | $94.11 | $94.01 | $-0.10 | -0.1% | Decrease |
-| Fresh Beef Striploin Steak Tray | $243.40 | $245.44 | $+2.04 | +0.8% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $222.52 | $221.40 | $-1.12 | -0.5% | Decrease |
-| Ribeye Choice Fillet Fresh Tray | $325.24 | $322.96 | $-2.28 | -0.7% | Decrease |
-| Fresh Ground Chicken Tray | $100.72 | $100.85 | $+0.13 | +0.1% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $125.79 | $125.97 | $+0.18 | +0.1% | Increase |
-| Belgioioso Ricotta Cheese with whole Milk 453 g / 1 lb | $39.95 | $24.70 | $-15.25 | -38.2% | Decrease |
+| Green Bell Peppers 1.36 kg / 3 lb | $49.95 | $43.95 | $-6.00 | -12.0% | Decrease |
+| Barista Classic Blend Cappuccino Powder 2 Units / 320 g | $69.95 | $74.95 | $+5.00 | +7.1% | Increase |
+| Ginger 680 g / 1.5 lb | $26.95 | $24.95 | $-2.00 | -7.4% | Decrease |
+| Papaya | $37.51 | $37.58 | $+0.07 | +0.2% | Increase |
+| Sara Lee Classic Pound Butter Cake 2 Pack / 453 g / 15.9 oz | $54.70 | $29.70 | $-25.00 | -45.7% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $283.86 | $284.19 | $+0.33 | +0.1% | Increase |
+| Fresh Chicken Leg Quarters Tray | $94.01 | $94.11 | $+0.10 | +0.1% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $68.71 | $68.65 | $-0.06 | -0.1% | Decrease |
+| Barista Coffee Salty Caramel-Flavored Cappuccino Mix 2 Units / 320 g / 11.2 oz | $69.95 | $74.95 | $+5.00 | +7.1% | Increase |
+| Ribeye Choice Fillet Fresh Tray | $322.96 | $325.24 | $+2.28 | +0.7% | Increase |
+| Iceberg Lettuce Unit | $29.70 | $44.95 | $+15.25 | +51.3% | Increase |
+| Fresh Whole Chicken 2 Units | $103.45 | $103.28 | $-0.17 | -0.2% | Decrease |
+| Green Cabbage 1.3 kg / 2.9 lb | $32.95 | $33.95 | $+1.00 | +3.0% | Increase |
+| Bosc Pear 1.36 kg / 3 lb | $62.95 | $64.95 | $+2.00 | +3.2% | Increase |
+| Anjous Pears 1.36 kg / 3 lb | $62.95 | $64.95 | $+2.00 | +3.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
