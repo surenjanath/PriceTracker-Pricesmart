@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1134
-- **Total value**: $124,731.77
-- **Average price**: $109.99
+- **Total products scraped**: 1133
+- **Total value**: $124,711.36
+- **Average price**: $110.07
 
 ## Database Changes
 - **New products added**: 0
-- **Existing products updated**: 1134
-- **Price changes detected**: 31
-- **Stock/availability changes**: 19
-- **Discontinued products**: 0
+- **Existing products updated**: 1133
+- **Price changes detected**: 23
+- **Stock/availability changes**: 22
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1199
-- **Price increases**: 620
-- **Price decreases**: 547
+- **Total price changes**: 1116
+- **Price increases**: 584
+- **Price decreases**: 501
 - **Average increase**: 6.5%
-- **Average decrease**: -5.7%
+- **Average decrease**: -5.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Green Bell Peppers 1.36 kg / 3 lb | $49.95 | $43.95 | $-6.00 | -12.0% | Decrease |
-| Barista Classic Blend Cappuccino Powder 2 Units / 320 g | $69.95 | $74.95 | $+5.00 | +7.1% | Increase |
-| Ginger 680 g / 1.5 lb | $26.95 | $24.95 | $-2.00 | -7.4% | Decrease |
-| Papaya | $37.51 | $37.58 | $+0.07 | +0.2% | Increase |
-| Sara Lee Classic Pound Butter Cake 2 Pack / 453 g / 15.9 oz | $54.70 | $29.70 | $-25.00 | -45.7% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $283.86 | $284.19 | $+0.33 | +0.1% | Increase |
-| Fresh Chicken Leg Quarters Tray | $94.01 | $94.11 | $+0.10 | +0.1% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $68.71 | $68.65 | $-0.06 | -0.1% | Decrease |
-| Barista Coffee Salty Caramel-Flavored Cappuccino Mix 2 Units / 320 g / 11.2 oz | $69.95 | $74.95 | $+5.00 | +7.1% | Increase |
-| Ribeye Choice Fillet Fresh Tray | $322.96 | $325.24 | $+2.28 | +0.7% | Increase |
-| Iceberg Lettuce Unit | $29.70 | $44.95 | $+15.25 | +51.3% | Increase |
-| Fresh Whole Chicken 2 Units | $103.45 | $103.28 | $-0.17 | -0.2% | Decrease |
-| Green Cabbage 1.3 kg / 2.9 lb | $32.95 | $33.95 | $+1.00 | +3.0% | Increase |
-| Bosc Pear 1.36 kg / 3 lb | $62.95 | $64.95 | $+2.00 | +3.2% | Increase |
-| Anjous Pears 1.36 kg / 3 lb | $62.95 | $64.95 | $+2.00 | +3.2% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $92.13 | $92.36 | $+0.23 | +0.2% | Increase |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $344.72 | $342.51 | $-2.21 | -0.6% | Decrease |
+| Frozen Lamb Leg Whole Vacuum Packed | $394.14 | $395.29 | $+1.15 | +0.3% | Increase |
+| Gouda Cheese Block | $89.97 | $89.83 | $-0.14 | -0.2% | Decrease |
+| Papaya | $37.58 | $37.64 | $+0.06 | +0.2% | Increase |
+| Fresh Whole Chicken for Frying Bag | $284.19 | $284.03 | $-0.16 | -0.1% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $94.11 | $94.21 | $+0.10 | +0.1% | Increase |
+| Ribeye Choice Fillet Fresh Tray | $325.24 | $322.96 | $-2.28 | -0.7% | Decrease |
+| Frozen Lamb Shoulder Chops Tray | $125.97 | $126.16 | $+0.19 | +0.2% | Increase |
+| Fresh Chicken Mixed Parts Tray | $85.21 | $84.92 | $-0.29 | -0.3% | Decrease |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $82.21 | $82.09 | $-0.12 | -0.1% | Decrease |
+| Nutrina Chilled Whole Chicken Bag | $365.42 | $365.25 | $-0.17 | -0.0% | Decrease |
+| Fresh Chicken Thighs Boneless Bag | $326.01 | $327.21 | $+1.20 | +0.4% | Increase |
+| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $161.52 | $161.32 | $-0.20 | -0.1% | Decrease |
+| Pork Belly with Skin Frozen Vacuum Packaged | $170.56 | $170.35 | $-0.21 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Sofi's Cookies by Tselepidis Family Whole Grain Oatmeal Cookies with Honey 760 g / 1.67 lb | Sofi’s Cookies By Tselepidis Family | $19.70 | 2026-06-06 |
 |  Best Fruit Ripe Dehydrated Mangoes 4 Units / 100 g | Best Fruit | $82.70 | 2026-06-03 |
 | Philly Gourmet Pure Beef Sliced Steaks 1 kg / 2.4 lb | Philly Gourmet | $96.95 | 2026-06-03 |
 | Frozen Imported Pork Leg Slices |  | $70.14 | 2026-06-03 |
@@ -292,7 +293,6 @@ This project has recently gained unexpected attention. It was created for person
 | Green pepper |  | $59.19 | 2026-06-01 |
 | Frozen Skinless Boneless Beef Shoulder Clod Case |  | $1443.44 | 2026-06-01 |
 | Frozen Bone-In Pork Shoulder Vacuum Packed |  | $194.41 | 2026-06-01 |
-| Nongshim Shin Gold with Chicken Broth Flavor 4 Units / 130 g / 4.58 oz | Nongshim | $67.95 | 2026-05-31 |
 
 ## New Products Added Today
 No new products added today.
