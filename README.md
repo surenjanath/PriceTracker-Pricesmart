@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1133
-- **Total value**: $124,711.36
-- **Average price**: $110.07
+- **Total products scraped**: 1131
+- **Total value**: $124,545.11
+- **Average price**: $110.12
 
 ## Database Changes
 - **New products added**: 0
-- **Existing products updated**: 1133
-- **Price changes detected**: 23
-- **Stock/availability changes**: 22
-- **Discontinued products**: 1
+- **Existing products updated**: 1131
+- **Price changes detected**: 36
+- **Stock/availability changes**: 17
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1116
-- **Price increases**: 584
+- **Total price changes**: 1093
+- **Price increases**: 561
 - **Price decreases**: 501
-- **Average increase**: 6.5%
+- **Average increase**: 6.7%
 - **Average decrease**: -5.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fine Choice Fresh Marinated Chicken Tray | $92.13 | $92.36 | $+0.23 | +0.2% | Increase |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $344.72 | $342.51 | $-2.21 | -0.6% | Decrease |
-| Frozen Lamb Leg Whole Vacuum Packed | $394.14 | $395.29 | $+1.15 | +0.3% | Increase |
-| Gouda Cheese Block | $89.97 | $89.83 | $-0.14 | -0.2% | Decrease |
-| Papaya | $37.58 | $37.64 | $+0.06 | +0.2% | Increase |
-| Fresh Whole Chicken for Frying Bag | $284.19 | $284.03 | $-0.16 | -0.1% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $94.11 | $94.21 | $+0.10 | +0.1% | Increase |
-| Ribeye Choice Fillet Fresh Tray | $325.24 | $322.96 | $-2.28 | -0.7% | Decrease |
-| Frozen Lamb Shoulder Chops Tray | $125.97 | $126.16 | $+0.19 | +0.2% | Increase |
-| Fresh Chicken Mixed Parts Tray | $85.21 | $84.92 | $-0.29 | -0.3% | Decrease |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $82.21 | $82.09 | $-0.12 | -0.1% | Decrease |
-| Nutrina Chilled Whole Chicken Bag | $365.42 | $365.25 | $-0.17 | -0.0% | Decrease |
-| Fresh Chicken Thighs Boneless Bag | $326.01 | $327.21 | $+1.20 | +0.4% | Increase |
-| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $161.52 | $161.32 | $-0.20 | -0.1% | Decrease |
-| Pork Belly with Skin Frozen Vacuum Packaged | $170.56 | $170.35 | $-0.21 | -0.1% | Decrease |
+| Panamei Medium Shrimp 51-60 Cooked 907 g / 2 lb | $129.95 | $132.95 | $+3.00 | +2.3% | Increase |
+| Fresh Whole Striploin Fillet Vacuum packaged | $2006.67 | $1973.22 | $-33.45 | -1.7% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $191.74 | $186.41 | $-5.33 | -2.8% | Decrease |
+| Panamei Frozen Seafood Mix 1.36 kg / 3 lb | $117.95 | $115.95 | $-2.00 | -1.7% | Decrease |
+| Brunswick Canned Mackerel in Tomato Sauce 3 Units / 425 g | $37.95 | $39.95 | $+2.00 | +5.3% | Increase |
+| Frozen Sliced Turkey Drumsticks | $192.68 | $192.28 | $-0.40 | -0.2% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $77.52 | $76.89 | $-0.63 | -0.8% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $284.03 | $283.37 | $-0.66 | -0.2% | Decrease |
+| Pier 33 Mussels in Butter and Garlic Sauce 1.36 kg / 3 lb | $97.95 | $96.95 | $-1.00 | -1.0% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $91.52 | $91.70 | $+0.18 | +0.2% | Increase |
+| Fresh Beef Striploin Steak Tray | $245.44 | $239.82 | $-5.62 | -2.3% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $68.65 | $68.71 | $+0.06 | +0.1% | Increase |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $206.29 | $165.63 | $-40.66 | -19.7% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $221.40 | $219.06 | $-2.34 | -1.1% | Decrease |
+| Fresh Ground Chicken Tray | $100.85 | $101.60 | $+0.75 | +0.7% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,8 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Dewlands Passion Fruit and Apple Juice 3 Units / 1 L | Dewlands | $52.70 | 2026-06-07 |
+| Stauffers Apple and Cinnamon Cookies 397 g | Stauffers | $34.70 | 2026-06-07 |
 | Sofi's Cookies by Tselepidis Family Whole Grain Oatmeal Cookies with Honey 760 g / 1.67 lb | Sofi’s Cookies By Tselepidis Family | $19.70 | 2026-06-06 |
 |  Best Fruit Ripe Dehydrated Mangoes 4 Units / 100 g | Best Fruit | $82.70 | 2026-06-03 |
 | Philly Gourmet Pure Beef Sliced Steaks 1 kg / 2.4 lb | Philly Gourmet | $96.95 | 2026-06-03 |
@@ -291,8 +293,6 @@ This project has recently gained unexpected attention. It was created for person
 | Wellsley Farms Spinach & Cheese Spanakopita 822 g / 1.8 lb | Wellsley Farms | $139.95 | 2026-06-01 |
 | Mrs. Field's Chocolate Chip Cookie 20 Units / 59 g  / 2.1 oz  | Mrs. Fields | $114.95 | 2026-06-01 |
 | Green pepper |  | $59.19 | 2026-06-01 |
-| Frozen Skinless Boneless Beef Shoulder Clod Case |  | $1443.44 | 2026-06-01 |
-| Frozen Bone-In Pork Shoulder Vacuum Packed |  | $194.41 | 2026-06-01 |
 
 ## New Products Added Today
 No new products added today.
