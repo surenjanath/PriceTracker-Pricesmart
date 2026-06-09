@@ -1,22 +1,22 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1131
-- **Total value**: $124,545.11
-- **Average price**: $110.12
+- **Total products scraped**: 1130
+- **Total value**: $124,452.47
+- **Average price**: $110.13
 
 ## Database Changes
 - **New products added**: 0
-- **Existing products updated**: 1131
-- **Price changes detected**: 36
-- **Stock/availability changes**: 17
-- **Discontinued products**: 2
+- **Existing products updated**: 1130
+- **Price changes detected**: 26
+- **Stock/availability changes**: 18
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 176 |
+| Member's Selection | 175 |
 |  | 132 |
 | Badia | 17 |
 | Swiss | 15 |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1093
-- **Price increases**: 561
-- **Price decreases**: 501
-- **Average increase**: 6.7%
+- **Total price changes**: 1118
+- **Price increases**: 576
+- **Price decreases**: 511
+- **Average increase**: 6.6%
 - **Average decrease**: -5.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Panamei Medium Shrimp 51-60 Cooked 907 g / 2 lb | $129.95 | $132.95 | $+3.00 | +2.3% | Increase |
-| Fresh Whole Striploin Fillet Vacuum packaged | $2006.67 | $1973.22 | $-33.45 | -1.7% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $191.74 | $186.41 | $-5.33 | -2.8% | Decrease |
-| Panamei Frozen Seafood Mix 1.36 kg / 3 lb | $117.95 | $115.95 | $-2.00 | -1.7% | Decrease |
-| Brunswick Canned Mackerel in Tomato Sauce 3 Units / 425 g | $37.95 | $39.95 | $+2.00 | +5.3% | Increase |
-| Frozen Sliced Turkey Drumsticks | $192.68 | $192.28 | $-0.40 | -0.2% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $77.52 | $76.89 | $-0.63 | -0.8% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $284.03 | $283.37 | $-0.66 | -0.2% | Decrease |
-| Pier 33 Mussels in Butter and Garlic Sauce 1.36 kg / 3 lb | $97.95 | $96.95 | $-1.00 | -1.0% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $91.52 | $91.70 | $+0.18 | +0.2% | Increase |
-| Fresh Beef Striploin Steak Tray | $245.44 | $239.82 | $-5.62 | -2.3% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $68.65 | $68.71 | $+0.06 | +0.1% | Increase |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $206.29 | $165.63 | $-40.66 | -19.7% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $221.40 | $219.06 | $-2.34 | -1.1% | Decrease |
-| Fresh Ground Chicken Tray | $100.85 | $101.60 | $+0.75 | +0.7% | Increase |
+| Fresh Whole Chicken for Frying Bag | $283.37 | $283.21 | $-0.16 | -0.1% | Decrease |
+| Fresh Whole Chicken 2 Units | $103.28 | $103.45 | $+0.17 | +0.2% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $76.89 | $76.99 | $+0.10 | +0.1% | Increase |
+| Papaya | $37.64 | $37.80 | $+0.16 | +0.4% | Increase |
+| Regal Berry Mix Granola 2 Units / 454 g / 16 oz | $44.95 | $49.95 | $+5.00 | +11.1% | Increase |
+| Fresh Chicken Leg Quarters Tray | $94.21 | $94.41 | $+0.20 | +0.2% | Increase |
+| Fresh Chicken Breast Bone In Tray | $91.70 | $91.79 | $+0.09 | +0.1% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $219.06 | $220.17 | $+1.11 | +0.5% | Increase |
+| Fresh Ground Chicken Tray | $101.60 | $101.73 | $+0.13 | +0.1% | Increase |
+| Dutch Potatoes 4.54 kg / 10 lb | $27.95 | $25.95 | $-2.00 | -7.2% | Decrease |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $83.39 | $83.26 | $-0.13 | -0.2% | Decrease |
+| Fresh Celery  | $26.95 | $19.70 | $-7.25 | -26.9% | Decrease |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.18 | $74.44 | $+0.26 | +0.4% | Increase |
+| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | $171.33 | $172.03 | $+0.70 | +0.4% | Increase |
+| Baking Potatoes 4.5 kg / 10 lb | $54.95 | $57.95 | $+3.00 | +5.5% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Member's Selection Freshly Baked Vanilla Madeleine-Style Cake | Member's Selection | $37.95 | 2026-06-08 |
 | Dewlands Passion Fruit and Apple Juice 3 Units / 1 L | Dewlands | $52.70 | 2026-06-07 |
 | Stauffers Apple and Cinnamon Cookies 397 g | Stauffers | $34.70 | 2026-06-07 |
 | Sofi's Cookies by Tselepidis Family Whole Grain Oatmeal Cookies with Honey 760 g / 1.67 lb | Sofi’s Cookies By Tselepidis Family | $19.70 | 2026-06-06 |
@@ -109,7 +110,6 @@
 | Heinz Tomato Ketchup 12 Units / 591.5 mL / 20 oz | Heinz | $249.95 | 2026-06-02 |
 | Wellsley Farms Spinach & Cheese Spanakopita 822 g / 1.8 lb | Wellsley Farms | $139.95 | 2026-06-01 |
 | Mrs. Field's Chocolate Chip Cookie 20 Units / 59 g  / 2.1 oz  | Mrs. Fields | $114.95 | 2026-06-01 |
-| Green pepper |  | $59.19 | 2026-06-01 |
 
 ## New Products Added Today
 No new products added today.
