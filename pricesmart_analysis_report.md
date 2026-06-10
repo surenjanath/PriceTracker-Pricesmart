@@ -2,14 +2,14 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1130
-- **Total value**: $124,452.47
-- **Average price**: $110.13
+- **Total value**: $124,339.19
+- **Average price**: $110.03
 
 ## Database Changes
 - **New products added**: 0
 - **Existing products updated**: 1130
-- **Price changes detected**: 26
-- **Stock/availability changes**: 18
+- **Price changes detected**: 14
+- **Stock/availability changes**: 26
 - **Discontinued products**: 1
 
 ## Top 5 Brands
@@ -19,7 +19,7 @@
 | Member's Selection | 175 |
 |  | 132 |
 | Badia | 17 |
-| Swiss | 15 |
+| Swiss | 16 |
 | Brunswick | 11 |
 
 ## Recent Products
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1118
-- **Price increases**: 576
-- **Price decreases**: 511
+- **Total price changes**: 1101
+- **Price increases**: 567
+- **Price decreases**: 505
 - **Average increase**: 6.6%
-- **Average decrease**: -5.5%
+- **Average decrease**: -5.7%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $186.41 | $186.13 | $-0.28 | -0.2% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $76.99 | $77.09 | $+0.10 | +0.1% | Increase |
+| Frozen Boneless Skinless Chicken Breast Tray | $145.01 | $145.28 | $+0.27 | +0.2% | Increase |
+| Fresh Chicken Mixed Parts Tray | $84.92 | $84.82 | $-0.10 | -0.1% | Decrease |
+| Smalta Malt Beverage 24 Units / 250 ml / 8.9 oz | $102.95 | $92.95 | $-10.00 | -9.7% | Decrease |
+| Fresh Ground Chicken Meat Bag | $302.18 | $296.28 | $-5.90 | -2.0% | Decrease |
+| Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $29.70 | $9.70 | $-20.00 | -67.3% | Decrease |
+| Orchard Orange Juice with Vitamin C 6 Units / 1 L / 33.8 oz | $64.95 | $69.95 | $+5.00 | +7.7% | Increase |
+| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $184.00 | $183.87 | $-0.13 | -0.1% | Decrease |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $79.44 | $79.32 | $-0.12 | -0.2% | Decrease |
+| Member's Selection Frozen Boneless Pork Loin Roast Tray | $105.67 | $105.46 | $-0.21 | -0.2% | Decrease |
+| Member's Selection Frozen Skinless Boneless Salmon Fillets Vacuum Packaged | $312.19 | $311.24 | $-0.95 | -0.3% | Decrease |
+| Member's Selection Frozen Boneless Pork Loin Steak Vacuum Packed | $78.48 | $78.36 | $-0.12 | -0.2% | Decrease |
+| Member's Selection Chilled Ground Beef | $306.44 | $307.60 | $+1.16 | +0.4% | Increase |
 | Fresh Whole Chicken for Frying Bag | $283.37 | $283.21 | $-0.16 | -0.1% | Decrease |
-| Fresh Whole Chicken 2 Units | $103.28 | $103.45 | $+0.17 | +0.2% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $76.89 | $76.99 | $+0.10 | +0.1% | Increase |
-| Papaya | $37.64 | $37.80 | $+0.16 | +0.4% | Increase |
-| Regal Berry Mix Granola 2 Units / 454 g / 16 oz | $44.95 | $49.95 | $+5.00 | +11.1% | Increase |
-| Fresh Chicken Leg Quarters Tray | $94.21 | $94.41 | $+0.20 | +0.2% | Increase |
-| Fresh Chicken Breast Bone In Tray | $91.70 | $91.79 | $+0.09 | +0.1% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $219.06 | $220.17 | $+1.11 | +0.5% | Increase |
-| Fresh Ground Chicken Tray | $101.60 | $101.73 | $+0.13 | +0.1% | Increase |
-| Dutch Potatoes 4.54 kg / 10 lb | $27.95 | $25.95 | $-2.00 | -7.2% | Decrease |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $83.39 | $83.26 | $-0.13 | -0.2% | Decrease |
-| Fresh Celery  | $26.95 | $19.70 | $-7.25 | -26.9% | Decrease |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.18 | $74.44 | $+0.26 | +0.4% | Increase |
-| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | $171.33 | $172.03 | $+0.70 | +0.4% | Increase |
-| Baking Potatoes 4.5 kg / 10 lb | $54.95 | $57.95 | $+3.00 | +5.5% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | 2026-06-09 |
 | Member's Selection Freshly Baked Vanilla Madeleine-Style Cake | Member's Selection | $37.95 | 2026-06-08 |
 | Dewlands Passion Fruit and Apple Juice 3 Units / 1 L | Dewlands | $52.70 | 2026-06-07 |
 | Stauffers Apple and Cinnamon Cookies 397 g | Stauffers | $34.70 | 2026-06-07 |
@@ -109,7 +110,6 @@
 | Frozen Imported Pork Leg Slices |  | $70.14 | 2026-06-03 |
 | Heinz Tomato Ketchup 12 Units / 591.5 mL / 20 oz | Heinz | $249.95 | 2026-06-02 |
 | Wellsley Farms Spinach & Cheese Spanakopita 822 g / 1.8 lb | Wellsley Farms | $139.95 | 2026-06-01 |
-| Mrs. Field's Chocolate Chip Cookie 20 Units / 59 g  / 2.1 oz  | Mrs. Fields | $114.95 | 2026-06-01 |
 
 ## New Products Added Today
 No new products added today.
