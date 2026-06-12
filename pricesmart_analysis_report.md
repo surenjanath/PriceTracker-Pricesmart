@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1127
-- **Total value**: $125,406.42
-- **Average price**: $111.27
+- **Total products scraped**: 1125
+- **Total value**: $124,934.94
+- **Average price**: $111.05
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1126
-- **Price changes detected**: 60
-- **Stock/availability changes**: 14
-- **Discontinued products**: 5
+- **New products added**: 0
+- **Existing products updated**: 1125
+- **Price changes detected**: 30
+- **Stock/availability changes**: 12
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 175 |
-|  | 133 |
+| Member's Selection | 174 |
+|  | 132 |
 | Badia | 17 |
 | Swiss | 15 |
 | Brunswick | 11 |
@@ -26,45 +26,45 @@
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
+| Crispy Just Baked Mini Naan Bread Bites Baked and Crunchy Snack Style | Crispy Just Baked | $44.95 | true |
+| Bombolo Biscotti Assorted Decorated Cookies with Colorful Icing Summer Edition | Bombolo Biscotti | $75.95 | true |
+| Suzy's Cream Cheesecakes Black Forest Cherry Cheesecake 12 Slices | Suzy's Cream Cheesecakes | $184.95 | true |
 | Joyburst Sparkling Energy Drink - No Added Sugar 12 Units / 355 mL / 12 oz | Joyburst | $132.95 | true |
 | Nature Valley Cinnamon Biscuits with Almond Butter Filling 30 Units 38 g / 1.35 oz | Nature Valley | $138.95 | true |
 | Nature Valley Strawberry Wafer Bars with Oat Butter 20 Units 36 g / 1.3 oz | Nature Valley | $132.95 | true |
 | Jimmy Dean Croissant Sausage, Egg & Cheese Sandwiches 1.53 kg / 3.38 lb | Jimmy Dean | $162.95 | true |
-| Egregio Organic Extra Virgin Olive Oil 500 mL / 16.9 oz | Egregio | $114.95 | true |
+| Egregio Organic Extra Virgin Olive Oil 500 mL / 16.9 oz | Egregio | $109.95 | true |
 | Virginia Brand Lemon and Garlic Salad Dressing 1 L / 33.8 oz | Virginia Brand | $52.95 | true |
 | Butterball Turkey Sausage 3 Units / 369 g / 13 oz | Butterball | $129.95 | true |
-| Häagen-Dazs Assorted Mini Cups Ice Cream 4 Units / 95 mL / 0.32 oz | Haagen Dazs | $54.95 | true |
-| Snack Pack Chocolate and Vanilla Pudding 36 Units / 92 g / 3 oz | Snack Pack | $160.95 | true |
-| Crispy Just Baked Mini Naan Bread Bites Baked and Crunchy Snack Style | Crispy Just Baked | $44.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1148
-- **Price increases**: 596
-- **Price decreases**: 522
-- **Average increase**: 7.4%
-- **Average decrease**: -5.6%
+- **Total price changes**: 1121
+- **Price increases**: 588
+- **Price decreases**: 503
+- **Average increase**: 7.3%
+- **Average decrease**: -5.7%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Great Foods Chicken Sausages 2 Units / 1 kg / 2.2 lb | $0.00 | $58.95 | $+58.95 | +100.0% | New |
-| Sabra Classic Hummus 850 g / 30 oz | $84.95 | $82.95 | $-2.00 | -2.4% | Decrease |
-| Watermelon 1 kg / 2.2 lb | $76.02 | $95.12 | $+19.10 | +25.1% | Increase |
-| Nectarine 908 g / 2 lb | $89.95 | $84.95 | $-5.00 | -5.6% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $46.12 | $45.98 | $-0.14 | -0.3% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $283.21 | $282.71 | $-0.50 | -0.2% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Case | $1443.44 | $1458.30 | $+14.86 | +1.0% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $68.71 | $68.65 | $-0.06 | -0.1% | Decrease |
-| Samyang Buldak Spicy Chicken Ramen 5 Units / 140 g / 4.93 oz | $68.95 | $69.95 | $+1.00 | +1.5% | Increase |
-| State Fair Mini Corn Dogs 46 Units / 18.7 g / 0.66 oz | $79.95 | $77.95 | $-2.00 | -2.5% | Decrease |
-| Fresh Beef Striploin Steak Tray | $239.82 | $239.15 | $-0.67 | -0.3% | Decrease |
-| Fresh Whole Chicken 2 Units | $103.45 | $103.63 | $+0.18 | +0.2% | Increase |
-| Frozen Boneless Skinless Chicken Breast Tray | $145.28 | $145.82 | $+0.54 | +0.4% | Increase |
-| Ribeye Choice Fillet Fresh Tray | $322.96 | $322.20 | $-0.76 | -0.2% | Decrease |
-| Fresh Ground Chicken Tray | $101.73 | $101.60 | $-0.13 | -0.1% | Decrease |
+| Fresh Chicken Thighs Boneless Bag | $327.21 | $328.53 | $+1.32 | +0.4% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $186.13 | $186.41 | $+0.28 | +0.2% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $45.98 | $45.84 | $-0.14 | -0.3% | Decrease |
+| Ginger 680 g / 1.5 lb | $24.95 | $25.95 | $+1.00 | +4.0% | Increase |
+| Peach 908 g / 2 lb | $74.95 | $67.95 | $-7.00 | -9.3% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $94.41 | $94.61 | $+0.20 | +0.2% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $220.17 | $223.20 | $+3.03 | +1.4% | Increase |
+| Brunswick Canned Chicken Vienna Sausage 12 pieces / 141 g / 4.9 oz | $73.95 | $74.95 | $+1.00 | +1.4% | Increase |
+| Frozen Chicken Wings Bag 1 kg / 2.2 lb | $46.95 | $49.95 | $+3.00 | +6.4% | Increase |
+| Iceberg Lettuce Unit | $44.95 | $42.95 | $-2.00 | -4.4% | Decrease |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $431.82 | $426.54 | $-5.28 | -1.2% | Decrease |
+| Cauliflower 1 Unit | $69.95 | $49.95 | $-20.00 | -28.6% | Decrease |
+| Frozen Boneless Skinless Chicken Breast Tray | $145.82 | $145.96 | $+0.14 | +0.1% | Increase |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.44 | $74.57 | $+0.13 | +0.2% | Increase |
+| Fresh Chicken Thighs Boneless Tray | $89.24 | $89.37 | $+0.13 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,8 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Black Seedless Grapes 907 g / 2 lb |  | $69.95 | 2026-06-11 |
+| Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2026-06-11 |
 | Gushers Assorted Fruit Flavor Candy Pack 42 Units / 22.6 g | Gushers | $149.95 | 2026-06-10 |
 | Jell-O Assorted Desserts 24 Units 2.41 kg / 5 lb | Jell-O | $164.95 | 2026-06-10 |
 | Loc Maria Biscuits Assorted French Cookies Butter and Salted Caramel 441 g / 15.6 oz | Loc Maria Biscuits | $154.95 | 2026-06-10 |
@@ -108,11 +110,6 @@
 | Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | 2026-06-09 |
 | Member's Selection Freshly Baked Vanilla Madeleine-Style Cake | Member's Selection | $37.95 | 2026-06-08 |
 | Dewlands Passion Fruit and Apple Juice 3 Units / 1 L | Dewlands | $52.70 | 2026-06-07 |
-| Stauffers Apple and Cinnamon Cookies 397 g | Stauffers | $34.70 | 2026-06-07 |
-| Sofi's Cookies by Tselepidis Family Whole Grain Oatmeal Cookies with Honey 760 g / 1.67 lb | Sofi’s Cookies By Tselepidis Family | $19.70 | 2026-06-06 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Great Foods Chicken Sausages 2 Units / 1 kg / 2.2 lb | Great Foods | $58.95 | G10D03 |
+No new products added today.
