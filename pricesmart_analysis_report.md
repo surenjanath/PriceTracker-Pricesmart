@@ -2,22 +2,22 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1125
-- **Total value**: $124,934.94
-- **Average price**: $111.05
+- **Total value**: $124,800.86
+- **Average price**: $110.93
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1125
-- **Price changes detected**: 30
-- **Stock/availability changes**: 12
-- **Discontinued products**: 2
+- **New products added**: 1
+- **Existing products updated**: 1124
+- **Price changes detected**: 21
+- **Stock/availability changes**: 10
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 174 |
-|  | 132 |
+|  | 133 |
 | Badia | 17 |
 | Swiss | 15 |
 | Brunswick | 11 |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1121
-- **Price increases**: 588
-- **Price decreases**: 503
-- **Average increase**: 7.3%
-- **Average decrease**: -5.7%
+- **Total price changes**: 1088
+- **Price increases**: 561
+- **Price decreases**: 497
+- **Average increase**: 7.8%
+- **Average decrease**: -5.4%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Chicken Thighs Boneless Bag | $327.21 | $328.53 | $+1.32 | +0.4% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $186.13 | $186.41 | $+0.28 | +0.2% | Increase |
-| Chilled Chicken Gizzard Tray Pack | $45.98 | $45.84 | $-0.14 | -0.3% | Decrease |
-| Ginger 680 g / 1.5 lb | $24.95 | $25.95 | $+1.00 | +4.0% | Increase |
-| Peach 908 g / 2 lb | $74.95 | $67.95 | $-7.00 | -9.3% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $94.41 | $94.61 | $+0.20 | +0.2% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $220.17 | $223.20 | $+3.03 | +1.4% | Increase |
-| Brunswick Canned Chicken Vienna Sausage 12 pieces / 141 g / 4.9 oz | $73.95 | $74.95 | $+1.00 | +1.4% | Increase |
-| Frozen Chicken Wings Bag 1 kg / 2.2 lb | $46.95 | $49.95 | $+3.00 | +6.4% | Increase |
-| Iceberg Lettuce Unit | $44.95 | $42.95 | $-2.00 | -4.4% | Decrease |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $431.82 | $426.54 | $-5.28 | -1.2% | Decrease |
-| Cauliflower 1 Unit | $69.95 | $49.95 | $-20.00 | -28.6% | Decrease |
-| Frozen Boneless Skinless Chicken Breast Tray | $145.82 | $145.96 | $+0.14 | +0.1% | Increase |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.44 | $74.57 | $+0.13 | +0.2% | Increase |
-| Fresh Chicken Thighs Boneless Tray | $89.24 | $89.37 | $+0.13 | +0.1% | Increase |
+| Frozen Lamb Leg Whole Vacuum Packed | $395.29 | $392.41 | $-2.88 | -0.7% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $282.71 | $282.22 | $-0.49 | -0.2% | Decrease |
+| Papaya | $37.80 | $37.99 | $+0.19 | +0.5% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $77.09 | $77.20 | $+0.11 | +0.1% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $68.65 | $68.58 | $-0.07 | -0.1% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $223.20 | $223.75 | $+0.55 | +0.2% | Increase |
+| Grape Tomato 908 g / 2 lb | $0.00 | $29.95 | $+29.95 | +100.0% | New |
+| Fresh Chicken Breast Bone In Tray | $91.79 | $91.70 | $-0.09 | -0.1% | Decrease |
+| Frozen Boneless Skinless Chicken Breast Tray | $145.96 | $146.09 | $+0.13 | +0.1% | Increase |
+| Ribeye Choice Fillet Fresh Tray | $322.20 | $321.44 | $-0.76 | -0.2% | Decrease |
+| Fresh Ground Chicken Tray | $101.60 | $101.85 | $+0.25 | +0.2% | Increase |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.57 | $74.44 | $-0.13 | -0.2% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $85.11 | $84.92 | $-0.19 | -0.2% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $89.82 | $89.54 | $-0.28 | -0.3% | Decrease |
+| Fresh Chicken Thighs Boneless Tray | $89.37 | $89.24 | $-0.13 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Mowi Sweet Frozen Bourbon Salmon Portions 710 g / 1.56 lb | Mowi | $197.95 | 2026-06-12 |
 | Black Seedless Grapes 907 g / 2 lb |  | $69.95 | 2026-06-11 |
 | Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2026-06-11 |
 | Gushers Assorted Fruit Flavor Candy Pack 42 Units / 22.6 g | Gushers | $149.95 | 2026-06-10 |
@@ -109,7 +110,9 @@
 | Swiss Mustard Assortment 2 Units / 454 g / 16 oz | Swiss | $37.95 | 2026-06-10 |
 | Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | 2026-06-09 |
 | Member's Selection Freshly Baked Vanilla Madeleine-Style Cake | Member's Selection | $37.95 | 2026-06-08 |
-| Dewlands Passion Fruit and Apple Juice 3 Units / 1 L | Dewlands | $52.70 | 2026-06-07 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Grape Tomato 908 g / 2 lb |  | $29.95 | G10D03 |
