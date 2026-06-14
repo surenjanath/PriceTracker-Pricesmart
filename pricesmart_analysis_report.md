@@ -2,15 +2,15 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1125
-- **Total value**: $124,800.86
+- **Total value**: $124,801.76
 - **Average price**: $110.93
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1124
-- **Price changes detected**: 21
-- **Stock/availability changes**: 10
-- **Discontinued products**: 1
+- **New products added**: 0
+- **Existing products updated**: 1125
+- **Price changes detected**: 16
+- **Stock/availability changes**: 6
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1088
-- **Price increases**: 561
-- **Price decreases**: 497
+- **Total price changes**: 1069
+- **Price increases**: 558
+- **Price decreases**: 484
 - **Average increase**: 7.8%
-- **Average decrease**: -5.4%
+- **Average decrease**: -5.2%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Frozen Lamb Leg Whole Vacuum Packed | $395.29 | $392.41 | $-2.88 | -0.7% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $282.71 | $282.22 | $-0.49 | -0.2% | Decrease |
-| Papaya | $37.80 | $37.99 | $+0.19 | +0.5% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $77.09 | $77.20 | $+0.11 | +0.1% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $68.65 | $68.58 | $-0.07 | -0.1% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $223.20 | $223.75 | $+0.55 | +0.2% | Increase |
-| Grape Tomato 908 g / 2 lb | $0.00 | $29.95 | $+29.95 | +100.0% | New |
-| Fresh Chicken Breast Bone In Tray | $91.79 | $91.70 | $-0.09 | -0.1% | Decrease |
-| Frozen Boneless Skinless Chicken Breast Tray | $145.96 | $146.09 | $+0.13 | +0.1% | Increase |
-| Ribeye Choice Fillet Fresh Tray | $322.20 | $321.44 | $-0.76 | -0.2% | Decrease |
-| Fresh Ground Chicken Tray | $101.60 | $101.85 | $+0.25 | +0.2% | Increase |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.57 | $74.44 | $-0.13 | -0.2% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $85.11 | $84.92 | $-0.19 | -0.2% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $89.82 | $89.54 | $-0.28 | -0.3% | Decrease |
-| Fresh Chicken Thighs Boneless Tray | $89.37 | $89.24 | $-0.13 | -0.1% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $192.28 | $190.94 | $-1.34 | -0.7% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $68.58 | $68.65 | $+0.07 | +0.1% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $223.75 | $225.13 | $+1.38 | +0.6% | Increase |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $426.54 | $424.62 | $-1.92 | -0.5% | Decrease |
+| Fine Choice Fresh Marinated Chicken Tray | $92.36 | $92.13 | $-0.23 | -0.2% | Decrease |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.44 | $74.57 | $+0.13 | +0.2% | Increase |
+| Member's Selection Chilled Chicken Liver, Tray Pack | $33.02 | $32.92 | $-0.10 | -0.3% | Decrease |
+| Fresh Chicken Thighs Boneless Tray | $89.24 | $89.37 | $+0.13 | +0.1% | Increase |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $165.63 | $165.95 | $+0.32 | +0.2% | Increase |
+| Fresh Chicken Thighs Boneless Bag | $327.81 | $331.04 | $+3.23 | +1.0% | Increase |
+| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $65.32 | $64.91 | $-0.41 | -0.6% | Decrease |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $79.32 | $79.19 | $-0.13 | -0.2% | Decrease |
+| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | $172.03 | $172.56 | $+0.53 | +0.3% | Increase |
+| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $160.94 | $161.13 | $+0.19 | +0.1% | Increase |
+| Member's Selection Frozen Skin On Boneless Trout Fillet Vacuum Packaged Bag | $209.32 | $208.19 | $-1.13 | -0.5% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -112,7 +112,4 @@
 | Member's Selection Freshly Baked Vanilla Madeleine-Style Cake | Member's Selection | $37.95 | 2026-06-08 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Grape Tomato 908 g / 2 lb |  | $29.95 | G10D03 |
+No new products added today.
