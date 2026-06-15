@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1125
-- **Total value**: $124,801.76
-- **Average price**: $110.93
+- **Total products scraped**: 1121
+- **Total value**: $122,913.47
+- **Average price**: $109.65
 
 ## Database Changes
 - **New products added**: 0
-- **Existing products updated**: 1125
-- **Price changes detected**: 16
-- **Stock/availability changes**: 6
-- **Discontinued products**: 0
+- **Existing products updated**: 1121
+- **Price changes detected**: 59
+- **Stock/availability changes**: 11
+- **Discontinued products**: 4
 
 ## Top 5 Brands
 
@@ -19,7 +19,7 @@
 | Member's Selection | 174 |
 |  | 133 |
 | Badia | 17 |
-| Swiss | 15 |
+| Swiss | 14 |
 | Brunswick | 11 |
 
 ## Recent Products
@@ -35,36 +35,36 @@
 | Jimmy Dean Croissant Sausage, Egg & Cheese Sandwiches 1.53 kg / 3.38 lb | Jimmy Dean | $162.95 | true |
 | Egregio Organic Extra Virgin Olive Oil 500 mL / 16.9 oz | Egregio | $109.95 | true |
 | Virginia Brand Lemon and Garlic Salad Dressing 1 L / 33.8 oz | Virginia Brand | $52.95 | true |
-| Butterball Turkey Sausage 3 Units / 369 g / 13 oz | Butterball | $129.95 | true |
+| Butterball Turkey Sausage 3 Units / 369 g / 13 oz | Butterball | $105.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1069
-- **Price increases**: 558
-- **Price decreases**: 484
-- **Average increase**: 7.8%
-- **Average decrease**: -5.2%
+- **Total price changes**: 1099
+- **Price increases**: 566
+- **Price decreases**: 507
+- **Average increase**: 8.0%
+- **Average decrease**: -5.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Frozen Sliced Turkey Drumsticks | $192.28 | $190.94 | $-1.34 | -0.7% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $68.58 | $68.65 | $+0.07 | +0.1% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $223.75 | $225.13 | $+1.38 | +0.6% | Increase |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $426.54 | $424.62 | $-1.92 | -0.5% | Decrease |
-| Fine Choice Fresh Marinated Chicken Tray | $92.36 | $92.13 | $-0.23 | -0.2% | Decrease |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.44 | $74.57 | $+0.13 | +0.2% | Increase |
-| Member's Selection Chilled Chicken Liver, Tray Pack | $33.02 | $32.92 | $-0.10 | -0.3% | Decrease |
-| Fresh Chicken Thighs Boneless Tray | $89.24 | $89.37 | $+0.13 | +0.1% | Increase |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $165.63 | $165.95 | $+0.32 | +0.2% | Increase |
-| Fresh Chicken Thighs Boneless Bag | $327.81 | $331.04 | $+3.23 | +1.0% | Increase |
-| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $65.32 | $64.91 | $-0.41 | -0.6% | Decrease |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $79.32 | $79.19 | $-0.13 | -0.2% | Decrease |
-| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | $172.03 | $172.56 | $+0.53 | +0.3% | Increase |
-| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $160.94 | $161.13 | $+0.19 | +0.1% | Increase |
-| Member's Selection Frozen Skin On Boneless Trout Fillet Vacuum Packaged Bag | $209.32 | $208.19 | $-1.13 | -0.5% | Decrease |
+| Fresh Chicken Breast Boneless Skinless Tray | $135.56 | $135.20 | $-0.36 | -0.3% | Decrease |
+| Frozen Lamb Leg Whole Vacuum Packed | $392.41 | $395.29 | $+2.88 | +0.7% | Increase |
+| Frozen Bone-In Goat Carcass Case | $3012.75 | $1539.85 | $-1472.90 | -48.9% | Decrease |
+| Frozen Pork Belly Skin On Sliced Tray  | $120.91 | $115.87 | $-5.04 | -4.2% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $77.20 | $75.61 | $-1.59 | -2.1% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $91.44 | $91.21 | $-0.23 | -0.3% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $68.65 | $68.58 | $-0.07 | -0.1% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $94.61 | $94.90 | $+0.29 | +0.3% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $121.86 | $120.49 | $-1.37 | -1.1% | Decrease |
+| Frozen Bone-In Pork Spare Rib Case | $1391.81 | $1415.42 | $+23.61 | +1.7% | Increase |
+| Fresh Beef Striploin Steak Tray | $239.15 | $241.16 | $+2.01 | +0.8% | Increase |
+| Fresh Whole Chicken 2 Units | $103.63 | $103.80 | $+0.17 | +0.2% | Increase |
+| Frozen Boneless Skinless Chicken Breast Tray | $146.09 | $144.48 | $-1.61 | -1.1% | Decrease |
+| Fresh Ground Chicken Tray | $101.85 | $101.60 | $-0.25 | -0.2% | Decrease |
+| Member's Selection Chilled Chicken Liver, Tray Pack | $32.92 | $32.82 | $-0.10 | -0.3% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,16 +100,16 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Swiss Sorrel Drink 3 Units / 750 mL / 25.36 oz | Swiss | $29.70 | 2026-06-14 |
+| Fruit Nation Preservative-Free Mango Nectar 36 Units / 200 mL / 6.7 oz | Fruit Nation | $99.70 | 2026-06-14 |
+| Sincerely Brigitte Trio Cheese with Guava 567 g / 20 oz | Sincerely  Brigitte | $109.95 | 2026-06-14 |
+| Tetley Super Tea Boost Raspberry & Blueberry Tea 3 Units / 40 g  | Tetley | $69.70 | 2026-06-14 |
 | Mowi Sweet Frozen Bourbon Salmon Portions 710 g / 1.56 lb | Mowi | $197.95 | 2026-06-12 |
 | Black Seedless Grapes 907 g / 2 lb |  | $69.95 | 2026-06-11 |
 | Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2026-06-11 |
 | Gushers Assorted Fruit Flavor Candy Pack 42 Units / 22.6 g | Gushers | $149.95 | 2026-06-10 |
 | Jell-O Assorted Desserts 24 Units 2.41 kg / 5 lb | Jell-O | $164.95 | 2026-06-10 |
 | Loc Maria Biscuits Assorted French Cookies Butter and Salted Caramel 441 g / 15.6 oz | Loc Maria Biscuits | $154.95 | 2026-06-10 |
-| Great Foods Chicken Hot Dogs 1 kg / 2.2 lb | Great Foods | $31.95 | 2026-06-10 |
-| Swiss Mustard Assortment 2 Units / 454 g / 16 oz | Swiss | $37.95 | 2026-06-10 |
-| Crazy Monkey Baking Granola Snacks with Dark Chocolate 680 g / 1.5 lb | Crazy Monkey Baking | $119.95 | 2026-06-09 |
-| Member's Selection Freshly Baked Vanilla Madeleine-Style Cake | Member's Selection | $37.95 | 2026-06-08 |
 
 ## New Products Added Today
 No new products added today.
