@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1121
-- **Total value**: $122,913.47
-- **Average price**: $109.65
+- **Total products scraped**: 1122
+- **Total value**: $123,080.53
+- **Average price**: $109.70
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1121
-- **Price changes detected**: 59
-- **Stock/availability changes**: 11
-- **Discontinued products**: 4
+- **New products added**: 3
+- **Existing products updated**: 1119
+- **Price changes detected**: 21
+- **Stock/availability changes**: 9
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
@@ -211,7 +211,6 @@ This project has recently gained unexpected attention. It was created for person
 |-------|-------|-------------|--------------|
 | Crispy Just Baked Mini Naan Bread Bites Baked and Crunchy Snack Style | Crispy Just Baked | $44.95 | true |
 | Bombolo Biscotti Assorted Decorated Cookies with Colorful Icing Summer Edition | Bombolo Biscotti | $75.95 | true |
-| Suzy's Cream Cheesecakes Black Forest Cherry Cheesecake 12 Slices | Suzy's Cream Cheesecakes | $184.95 | true |
 | Joyburst Sparkling Energy Drink - No Added Sugar 12 Units / 355 mL / 12 oz | Joyburst | $132.95 | true |
 | Nature Valley Cinnamon Biscuits with Almond Butter Filling 30 Units 38 g / 1.35 oz | Nature Valley | $138.95 | true |
 | Nature Valley Strawberry Wafer Bars with Oat Butter 20 Units 36 g / 1.3 oz | Nature Valley | $132.95 | true |
@@ -219,35 +218,36 @@ This project has recently gained unexpected attention. It was created for person
 | Egregio Organic Extra Virgin Olive Oil 500 mL / 16.9 oz | Egregio | $109.95 | true |
 | Virginia Brand Lemon and Garlic Salad Dressing 1 L / 33.8 oz | Virginia Brand | $52.95 | true |
 | Butterball Turkey Sausage 3 Units / 369 g / 13 oz | Butterball | $105.95 | true |
+| Häagen-Dazs Assorted Mini Cups Ice Cream 4 Units / 95 mL / 0.32 oz | Haagen Dazs | $54.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1099
-- **Price increases**: 566
-- **Price decreases**: 507
-- **Average increase**: 8.0%
+- **Total price changes**: 1085
+- **Price increases**: 558
+- **Price decreases**: 498
+- **Average increase**: 8.1%
 - **Average decrease**: -5.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Chicken Breast Boneless Skinless Tray | $135.56 | $135.20 | $-0.36 | -0.3% | Decrease |
-| Frozen Lamb Leg Whole Vacuum Packed | $392.41 | $395.29 | $+2.88 | +0.7% | Increase |
-| Frozen Bone-In Goat Carcass Case | $3012.75 | $1539.85 | $-1472.90 | -48.9% | Decrease |
-| Frozen Pork Belly Skin On Sliced Tray  | $120.91 | $115.87 | $-5.04 | -4.2% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $77.20 | $75.61 | $-1.59 | -2.1% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $91.44 | $91.21 | $-0.23 | -0.3% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $68.65 | $68.58 | $-0.07 | -0.1% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $94.61 | $94.90 | $+0.29 | +0.3% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $121.86 | $120.49 | $-1.37 | -1.1% | Decrease |
-| Frozen Bone-In Pork Spare Rib Case | $1391.81 | $1415.42 | $+23.61 | +1.7% | Increase |
-| Fresh Beef Striploin Steak Tray | $239.15 | $241.16 | $+2.01 | +0.8% | Increase |
-| Fresh Whole Chicken 2 Units | $103.63 | $103.80 | $+0.17 | +0.2% | Increase |
-| Frozen Boneless Skinless Chicken Breast Tray | $146.09 | $144.48 | $-1.61 | -1.1% | Decrease |
-| Fresh Ground Chicken Tray | $101.85 | $101.60 | $-0.25 | -0.2% | Decrease |
-| Member's Selection Chilled Chicken Liver, Tray Pack | $32.92 | $32.82 | $-0.10 | -0.3% | Decrease |
+| Pringles Football Edition Potato Chips Assorted Flavors with Collectible Color-Changing Cup 3 Units 150 g / 5.2 oz | $0.00 | $102.95 | $+102.95 | +100.0% | New |
+| Galbani Mozzarella Cheese Block 2.26 kg / 5 lb | $0.00 | $134.95 | $+134.95 | +100.0% | New |
+| 4C Peach Tea 2.34 kg / 5 lb | $0.00 | $89.95 | $+89.95 | +100.0% | New |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $105.79 | $105.95 | $+0.16 | +0.2% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $75.61 | $75.51 | $-0.10 | -0.1% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Case | $1458.30 | $1448.39 | $-9.91 | -0.7% | Decrease |
+| Barista Gold Soft Roasted Instant Coffee 200 g | $59.95 | $64.95 | $+5.00 | +8.3% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $68.58 | $68.51 | $-0.07 | -0.1% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $94.90 | $95.10 | $+0.20 | +0.2% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $120.49 | $120.67 | $+0.18 | +0.1% | Increase |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $424.62 | $422.22 | $-2.40 | -0.6% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $91.70 | $91.52 | $-0.18 | -0.2% | Decrease |
+| Frozen Boneless Skinless Chicken Breast Tray | $144.48 | $145.01 | $+0.53 | +0.4% | Increase |
+| Fresh Ground Chicken Tray | $101.60 | $101.35 | $-0.25 | -0.2% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $87.29 | $87.01 | $-0.28 | -0.3% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,8 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Il Boero Chocolates Filled with Cherry and Liquor 1 kg / 35.2 oz | Il Boero | $99.70 | 2026-06-15 |
+| Pure Squeeze Assorted Flavors Sparkling Juice 12 Units / 330 mL / 11.2 oz | Pure Squeeze | $52.70 | 2026-06-15 |
 | Swiss Sorrel Drink 3 Units / 750 mL / 25.36 oz | Swiss | $29.70 | 2026-06-14 |
 | Fruit Nation Preservative-Free Mango Nectar 36 Units / 200 mL / 6.7 oz | Fruit Nation | $99.70 | 2026-06-14 |
 | Sincerely Brigitte Trio Cheese with Guava 567 g / 20 oz | Sincerely  Brigitte | $109.95 | 2026-06-14 |
@@ -291,8 +293,11 @@ This project has recently gained unexpected attention. It was created for person
 | Black Seedless Grapes 907 g / 2 lb |  | $69.95 | 2026-06-11 |
 | Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2026-06-11 |
 | Gushers Assorted Fruit Flavor Candy Pack 42 Units / 22.6 g | Gushers | $149.95 | 2026-06-10 |
-| Jell-O Assorted Desserts 24 Units 2.41 kg / 5 lb | Jell-O | $164.95 | 2026-06-10 |
-| Loc Maria Biscuits Assorted French Cookies Butter and Salted Caramel 441 g / 15.6 oz | Loc Maria Biscuits | $154.95 | 2026-06-10 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Pringles Football Edition Potato Chips Assorted Flavors with Collectible Color-Changing Cup 3 Units 150 g / 5.2 oz | Pringles | $102.95 | G10D03 |
+| Galbani Mozzarella Cheese Block 2.26 kg / 5 lb | Galbani | $134.95 | G10D03 |
+| 4C Peach Tea 2.34 kg / 5 lb | 4C | $89.95 | G10D03 |
