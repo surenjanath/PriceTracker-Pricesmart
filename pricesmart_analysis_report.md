@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1122
-- **Total value**: $123,080.53
-- **Average price**: $109.70
+- **Total products scraped**: 1123
+- **Total value**: $123,065.70
+- **Average price**: $109.59
 
 ## Database Changes
-- **New products added**: 3
-- **Existing products updated**: 1119
+- **New products added**: 0
+- **Existing products updated**: 1123
 - **Price changes detected**: 21
-- **Stock/availability changes**: 9
-- **Discontinued products**: 2
+- **Stock/availability changes**: 7
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -26,45 +26,45 @@
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Crispy Just Baked Mini Naan Bread Bites Baked and Crunchy Snack Style | Crispy Just Baked | $44.95 | true |
 | Bombolo Biscotti Assorted Decorated Cookies with Colorful Icing Summer Edition | Bombolo Biscotti | $75.95 | true |
-| Joyburst Sparkling Energy Drink - No Added Sugar 12 Units / 355 mL / 12 oz | Joyburst | $132.95 | true |
+| Crispy Just Baked Mini Naan Bread Bites Baked and Crunchy Snack Style | Crispy Just Baked | $44.95 | true |
 | Nature Valley Cinnamon Biscuits with Almond Butter Filling 30 Units 38 g / 1.35 oz | Nature Valley | $138.95 | true |
+| Joyburst Sparkling Energy Drink - No Added Sugar 12 Units / 355 mL / 12 oz | Joyburst | $132.95 | true |
 | Nature Valley Strawberry Wafer Bars with Oat Butter 20 Units 36 g / 1.3 oz | Nature Valley | $132.95 | true |
-| Jimmy Dean Croissant Sausage, Egg & Cheese Sandwiches 1.53 kg / 3.38 lb | Jimmy Dean | $162.95 | true |
 | Egregio Organic Extra Virgin Olive Oil 500 mL / 16.9 oz | Egregio | $109.95 | true |
+| Jimmy Dean Croissant Sausage, Egg & Cheese Sandwiches 1.53 kg / 3.38 lb | Jimmy Dean | $162.95 | true |
 | Virginia Brand Lemon and Garlic Salad Dressing 1 L / 33.8 oz | Virginia Brand | $52.95 | true |
-| Butterball Turkey Sausage 3 Units / 369 g / 13 oz | Butterball | $105.95 | true |
 | Häagen-Dazs Assorted Mini Cups Ice Cream 4 Units / 95 mL / 0.32 oz | Haagen Dazs | $54.95 | true |
+| Snack Pack Chocolate and Vanilla Pudding 36 Units / 92 g / 3 oz | Snack Pack | $160.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1085
-- **Price increases**: 558
-- **Price decreases**: 498
-- **Average increase**: 8.1%
-- **Average decrease**: -5.6%
+- **Total price changes**: 1058
+- **Price increases**: 555
+- **Price decreases**: 478
+- **Average increase**: 7.8%
+- **Average decrease**: -5.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Pringles Football Edition Potato Chips Assorted Flavors with Collectible Color-Changing Cup 3 Units 150 g / 5.2 oz | $0.00 | $102.95 | $+102.95 | +100.0% | New |
-| Galbani Mozzarella Cheese Block 2.26 kg / 5 lb | $0.00 | $134.95 | $+134.95 | +100.0% | New |
-| 4C Peach Tea 2.34 kg / 5 lb | $0.00 | $89.95 | $+89.95 | +100.0% | New |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $105.79 | $105.95 | $+0.16 | +0.2% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $75.61 | $75.51 | $-0.10 | -0.1% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Case | $1458.30 | $1448.39 | $-9.91 | -0.7% | Decrease |
-| Barista Gold Soft Roasted Instant Coffee 200 g | $59.95 | $64.95 | $+5.00 | +8.3% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $68.58 | $68.51 | $-0.07 | -0.1% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $94.90 | $95.10 | $+0.20 | +0.2% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $120.49 | $120.67 | $+0.18 | +0.1% | Increase |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $424.62 | $422.22 | $-2.40 | -0.6% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $91.70 | $91.52 | $-0.18 | -0.2% | Decrease |
-| Frozen Boneless Skinless Chicken Breast Tray | $144.48 | $145.01 | $+0.53 | +0.4% | Increase |
-| Fresh Ground Chicken Tray | $101.60 | $101.35 | $-0.25 | -0.2% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $87.29 | $87.01 | $-0.28 | -0.3% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Case | $1448.39 | $1443.44 | $-4.95 | -0.3% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $282.22 | $282.71 | $+0.49 | +0.2% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $75.51 | $75.30 | $-0.21 | -0.3% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $150.95 | $150.35 | $-0.60 | -0.4% | Decrease |
+| Pork Belly with Skin Frozen Vacuum Packaged | $161.22 | $161.43 | $+0.21 | +0.1% | Increase |
+| Fresh Chicken Breast Bone In Tray | $91.52 | $91.79 | $+0.27 | +0.3% | Increase |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $422.22 | $420.30 | $-1.92 | -0.5% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $84.92 | $85.41 | $+0.49 | +0.6% | Increase |
+| Bragg Organic Apple Cider Vinegar 946 mL / 32 oz | $71.95 | $72.95 | $+1.00 | +1.4% | Increase |
+| Fresh Whole Chicken 2 Units | $103.80 | $103.98 | $+0.18 | +0.2% | Increase |
+| Frozen Boneless Skinless Chicken Breast Tray | $145.01 | $145.55 | $+0.54 | +0.4% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $120.67 | $120.84 | $+0.17 | +0.1% | Increase |
+| Fresh Ground Chicken Meat Bag | $295.10 | $302.18 | $+7.08 | +2.4% | Increase |
+| Pork Chop with Bone Frozen Tray | $81.71 | $81.84 | $+0.13 | +0.2% | Increase |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $167.22 | $167.75 | $+0.53 | +0.3% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -112,9 +112,4 @@
 | Gushers Assorted Fruit Flavor Candy Pack 42 Units / 22.6 g | Gushers | $149.95 | 2026-06-10 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Pringles Football Edition Potato Chips Assorted Flavors with Collectible Color-Changing Cup 3 Units 150 g / 5.2 oz | Pringles | $102.95 | G10D03 |
-| Galbani Mozzarella Cheese Block 2.26 kg / 5 lb | Galbani | $134.95 | G10D03 |
-| 4C Peach Tea 2.34 kg / 5 lb | 4C | $89.95 | G10D03 |
+No new products added today.
