@@ -1,22 +1,22 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1123
-- **Total value**: $123,065.70
-- **Average price**: $109.59
+- **Total products scraped**: 1130
+- **Total value**: $125,290.28
+- **Average price**: $110.88
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1123
-- **Price changes detected**: 21
-- **Stock/availability changes**: 7
-- **Discontinued products**: 0
+- **New products added**: 5
+- **Existing products updated**: 1125
+- **Price changes detected**: 67
+- **Stock/availability changes**: 8
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 174 |
+| Member's Selection | 175 |
 |  | 133 |
 | Badia | 17 |
 | Swiss | 14 |
@@ -30,7 +30,7 @@
 | Crispy Just Baked Mini Naan Bread Bites Baked and Crunchy Snack Style | Crispy Just Baked | $44.95 | true |
 | Nature Valley Cinnamon Biscuits with Almond Butter Filling 30 Units 38 g / 1.35 oz | Nature Valley | $138.95 | true |
 | Joyburst Sparkling Energy Drink - No Added Sugar 12 Units / 355 mL / 12 oz | Joyburst | $132.95 | true |
-| Nature Valley Strawberry Wafer Bars with Oat Butter 20 Units 36 g / 1.3 oz | Nature Valley | $132.95 | true |
+| Nature Valley Strawberry Wafer Bars with Oat Butter 20 Units 36 g / 1.3 oz | Nature Valley | $129.95 | true |
 | Egregio Organic Extra Virgin Olive Oil 500 mL / 16.9 oz | Egregio | $109.95 | true |
 | Jimmy Dean Croissant Sausage, Egg & Cheese Sandwiches 1.53 kg / 3.38 lb | Jimmy Dean | $162.95 | true |
 | Virginia Brand Lemon and Garlic Salad Dressing 1 L / 33.8 oz | Virginia Brand | $52.95 | true |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1058
-- **Price increases**: 555
-- **Price decreases**: 478
-- **Average increase**: 7.8%
-- **Average decrease**: -5.5%
+- **Total price changes**: 1092
+- **Price increases**: 570
+- **Price decreases**: 494
+- **Average increase**: 7.1%
+- **Average decrease**: -5.8%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Frozen Skinless Boneless Beef Shoulder Clod Case | $1448.39 | $1443.44 | $-4.95 | -0.3% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $282.22 | $282.71 | $+0.49 | +0.2% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $75.51 | $75.30 | $-0.21 | -0.3% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $150.95 | $150.35 | $-0.60 | -0.4% | Decrease |
-| Pork Belly with Skin Frozen Vacuum Packaged | $161.22 | $161.43 | $+0.21 | +0.1% | Increase |
-| Fresh Chicken Breast Bone In Tray | $91.52 | $91.79 | $+0.27 | +0.3% | Increase |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $422.22 | $420.30 | $-1.92 | -0.5% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $84.92 | $85.41 | $+0.49 | +0.6% | Increase |
-| Bragg Organic Apple Cider Vinegar 946 mL / 32 oz | $71.95 | $72.95 | $+1.00 | +1.4% | Increase |
-| Fresh Whole Chicken 2 Units | $103.80 | $103.98 | $+0.18 | +0.2% | Increase |
-| Frozen Boneless Skinless Chicken Breast Tray | $145.01 | $145.55 | $+0.54 | +0.4% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $120.67 | $120.84 | $+0.17 | +0.1% | Increase |
-| Fresh Ground Chicken Meat Bag | $295.10 | $302.18 | $+7.08 | +2.4% | Increase |
-| Pork Chop with Bone Frozen Tray | $81.71 | $81.84 | $+0.13 | +0.2% | Increase |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $167.22 | $167.75 | $+0.53 | +0.3% | Increase |
+| Banner Farms Straight-Cut French Fries  | $0.00 | $305.95 | $+305.95 | +100.0% | New |
+| Dare Chocolate Fudge Cookies 2 Units / 290 g | $54.95 | $63.95 | $+9.00 | +16.4% | Increase |
+| Campoverde Spinach, Mango, Apple and Pineapple Mix 907 g / 2 lb | $114.95 | $112.95 | $-2.00 | -1.7% | Decrease |
+| Land O' Frost Oven Roasted Chicken 566 g / 1.25 lb | $63.95 | $64.95 | $+1.00 | +1.6% | Increase |
+| Island Pride Strawberry Jam 3 Units / 380 g | $0.00 | $44.95 | $+44.95 | +100.0% | New |
+| Nescafé Ice Instant Coffee 2 Units / 100 g / 3.5 oz + Glass | $0.00 | $86.95 | $+86.95 | +100.0% | New |
+| Kiss Assorted Flavor Glazed Cream-Filled Pastries 8 Units / 75 g | $0.00 | $31.95 | $+31.95 | +100.0% | New |
+| Oreo Cookies and Cream Flavor Sandwich Cookies 24 Units / 36 g / 1.26 oz | $0.00 | $58.95 | $+58.95 | +100.0% | New |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $342.51 | $344.72 | $+2.21 | +0.6% | Increase |
+| Fresh Whole Chicken for Frying Bag | $282.71 | $282.55 | $-0.16 | -0.1% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $105.95 | $105.64 | $-0.31 | -0.3% | Decrease |
+| Fresh Beef Ribeye Steak Vacuum Packed | $2640.29 | $2768.48 | $+128.19 | +4.9% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $68.51 | $68.44 | $-0.07 | -0.1% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $75.30 | $75.10 | $-0.20 | -0.3% | Decrease |
+| Ocean Delight Frozen Swai Fillet Skinless Bag 907 g / 2 lb | $54.95 | $53.95 | $-1.00 | -1.8% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Garden Foods Mixed Vegetables 1.36 kg / 3 lb | Garden Foods | $54.95 | 2026-06-17 |
 | Il Boero Chocolates Filled with Cherry and Liquor 1 kg / 35.2 oz | Il Boero | $99.70 | 2026-06-15 |
 | Pure Squeeze Assorted Flavors Sparkling Juice 12 Units / 330 mL / 11.2 oz | Pure Squeeze | $52.70 | 2026-06-15 |
 | Swiss Sorrel Drink 3 Units / 750 mL / 25.36 oz | Swiss | $29.70 | 2026-06-14 |
@@ -109,7 +110,13 @@
 | Mowi Sweet Frozen Bourbon Salmon Portions 710 g / 1.56 lb | Mowi | $197.95 | 2026-06-12 |
 | Black Seedless Grapes 907 g / 2 lb |  | $69.95 | 2026-06-11 |
 | Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2026-06-11 |
-| Gushers Assorted Fruit Flavor Candy Pack 42 Units / 22.6 g | Gushers | $149.95 | 2026-06-10 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Banner Farms Straight-Cut French Fries  | Banner Farms | $305.95 | G10D03 |
+| Island Pride Strawberry Jam 3 Units / 380 g | Island Pride | $44.95 | G10D03 |
+| Nescafé Ice Instant Coffee 2 Units / 100 g / 3.5 oz + Glass | Nescafé | $86.95 | G10D03 |
+| Kiss Assorted Flavor Glazed Cream-Filled Pastries 8 Units / 75 g | Kiss | $31.95 | G10D03 |
+| Oreo Cookies and Cream Flavor Sandwich Cookies 24 Units / 36 g / 1.26 oz | Oreo | $58.95 | G10D03 |
