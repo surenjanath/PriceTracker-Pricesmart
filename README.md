@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1130
-- **Total value**: $125,290.28
-- **Average price**: $110.88
+- **Total products scraped**: 1131
+- **Total value**: $125,345.17
+- **Average price**: $110.83
 
 ## Database Changes
-- **New products added**: 5
-- **Existing products updated**: 1125
-- **Price changes detected**: 67
+- **New products added**: 1
+- **Existing products updated**: 1130
+- **Price changes detected**: 26
 - **Stock/availability changes**: 8
-- **Discontinued products**: 1
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 175 |
-|  | 133 |
+|  | 134 |
 | Badia | 17 |
 | Swiss | 14 |
 | Brunswick | 11 |
@@ -209,45 +209,45 @@ This project has recently gained unexpected attention. It was created for person
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Bombolo Biscotti Assorted Decorated Cookies with Colorful Icing Summer Edition | Bombolo Biscotti | $75.95 | true |
 | Crispy Just Baked Mini Naan Bread Bites Baked and Crunchy Snack Style | Crispy Just Baked | $44.95 | true |
+| Bombolo Biscotti Assorted Decorated Cookies with Colorful Icing Summer Edition | Bombolo Biscotti | $75.95 | true |
+| Suzy's Cream Cheesecakes Black Forest Cherry Cheesecake 12 Slices | Suzy's Cream Cheesecakes | $184.95 | true |
+| Nature Valley Strawberry Wafer Bars with Oat Butter 20 Units 36 g / 1.3 oz | Nature Valley | $129.95 | true |
 | Nature Valley Cinnamon Biscuits with Almond Butter Filling 30 Units 38 g / 1.35 oz | Nature Valley | $138.95 | true |
 | Joyburst Sparkling Energy Drink - No Added Sugar 12 Units / 355 mL / 12 oz | Joyburst | $132.95 | true |
-| Nature Valley Strawberry Wafer Bars with Oat Butter 20 Units 36 g / 1.3 oz | Nature Valley | $129.95 | true |
-| Egregio Organic Extra Virgin Olive Oil 500 mL / 16.9 oz | Egregio | $109.95 | true |
 | Jimmy Dean Croissant Sausage, Egg & Cheese Sandwiches 1.53 kg / 3.38 lb | Jimmy Dean | $162.95 | true |
-| Virginia Brand Lemon and Garlic Salad Dressing 1 L / 33.8 oz | Virginia Brand | $52.95 | true |
+| Egregio Organic Extra Virgin Olive Oil 500 mL / 16.9 oz | Egregio | $109.95 | true |
 | Häagen-Dazs Assorted Mini Cups Ice Cream 4 Units / 95 mL / 0.32 oz | Haagen Dazs | $54.95 | true |
-| Snack Pack Chocolate and Vanilla Pudding 36 Units / 92 g / 3 oz | Snack Pack | $160.95 | true |
+| Virginia Brand Lemon and Garlic Salad Dressing 1 L / 33.8 oz | Virginia Brand | $52.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1092
-- **Price increases**: 570
-- **Price decreases**: 494
-- **Average increase**: 7.1%
-- **Average decrease**: -5.8%
+- **Total price changes**: 1074
+- **Price increases**: 552
+- **Price decreases**: 493
+- **Average increase**: 7.3%
+- **Average decrease**: -5.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Banner Farms Straight-Cut French Fries  | $0.00 | $305.95 | $+305.95 | +100.0% | New |
-| Dare Chocolate Fudge Cookies 2 Units / 290 g | $54.95 | $63.95 | $+9.00 | +16.4% | Increase |
-| Campoverde Spinach, Mango, Apple and Pineapple Mix 907 g / 2 lb | $114.95 | $112.95 | $-2.00 | -1.7% | Decrease |
-| Land O' Frost Oven Roasted Chicken 566 g / 1.25 lb | $63.95 | $64.95 | $+1.00 | +1.6% | Increase |
-| Island Pride Strawberry Jam 3 Units / 380 g | $0.00 | $44.95 | $+44.95 | +100.0% | New |
-| Nescafé Ice Instant Coffee 2 Units / 100 g / 3.5 oz + Glass | $0.00 | $86.95 | $+86.95 | +100.0% | New |
-| Kiss Assorted Flavor Glazed Cream-Filled Pastries 8 Units / 75 g | $0.00 | $31.95 | $+31.95 | +100.0% | New |
-| Oreo Cookies and Cream Flavor Sandwich Cookies 24 Units / 36 g / 1.26 oz | $0.00 | $58.95 | $+58.95 | +100.0% | New |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $342.51 | $344.72 | $+2.21 | +0.6% | Increase |
-| Fresh Whole Chicken for Frying Bag | $282.71 | $282.55 | $-0.16 | -0.1% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $105.95 | $105.64 | $-0.31 | -0.3% | Decrease |
-| Fresh Beef Ribeye Steak Vacuum Packed | $2640.29 | $2768.48 | $+128.19 | +4.9% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $68.51 | $68.44 | $-0.07 | -0.1% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $75.30 | $75.10 | $-0.20 | -0.3% | Decrease |
-| Ocean Delight Frozen Swai Fillet Skinless Bag 907 g / 2 lb | $54.95 | $53.95 | $-1.00 | -1.8% | Decrease |
+| Frozen Bone-In Pork Butt Blade Steak | $0.00 | $80.16 | $+80.16 | +100.0% | New |
+| Frozen Lamb Leg Whole Vacuum Packed | $395.29 | $392.41 | $-2.88 | -0.7% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $45.84 | $45.70 | $-0.14 | -0.3% | Decrease |
+| Papaya | $37.99 | $38.02 | $+0.03 | +0.1% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $105.64 | $105.48 | $-0.16 | -0.2% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $75.10 | $74.90 | $-0.20 | -0.3% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $282.55 | $282.22 | $-0.33 | -0.1% | Decrease |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.57 | $74.69 | $+0.12 | +0.2% | Increase |
+| Watermelon 1 kg / 2.2 lb | $95.99 | $96.92 | $+0.93 | +1.0% | Increase |
+| Ribeye Choice Fillet Fresh Tray | $321.44 | $322.20 | $+0.76 | +0.2% | Increase |
+| Sunberry Farms Organic Guava Nectar Juice - Gluten Free 3.78 L / 128 oz | $89.95 | $88.95 | $-1.00 | -1.1% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $85.51 | $85.41 | $-0.10 | -0.1% | Decrease |
+| Frozen Boneless Skinless Chicken Breast Tray | $145.55 | $145.68 | $+0.13 | +0.1% | Increase |
+| Fresh Celery  | $19.70 | $26.95 | $+7.25 | +36.8% | Increase |
+| Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $57.95 | $29.70 | $-28.25 | -48.7% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -298,8 +298,4 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Banner Farms Straight-Cut French Fries  | Banner Farms | $305.95 | G10D03 |
-| Island Pride Strawberry Jam 3 Units / 380 g | Island Pride | $44.95 | G10D03 |
-| Nescafé Ice Instant Coffee 2 Units / 100 g / 3.5 oz + Glass | Nescafé | $86.95 | G10D03 |
-| Kiss Assorted Flavor Glazed Cream-Filled Pastries 8 Units / 75 g | Kiss | $31.95 | G10D03 |
-| Oreo Cookies and Cream Flavor Sandwich Cookies 24 Units / 36 g / 1.26 oz | Oreo | $58.95 | G10D03 |
+| Frozen Bone-In Pork Butt Blade Steak |  | $80.16 | G10D03 |
