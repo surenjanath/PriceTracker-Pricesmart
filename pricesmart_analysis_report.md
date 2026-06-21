@@ -1,15 +1,15 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1131
-- **Total value**: $125,345.17
-- **Average price**: $110.83
+- **Total products scraped**: 1133
+- **Total value**: $125,605.09
+- **Average price**: $110.86
 
 ## Database Changes
-- **New products added**: 0
+- **New products added**: 2
 - **Existing products updated**: 1131
-- **Price changes detected**: 0
-- **Stock/availability changes**: 2
+- **Price changes detected**: 47
+- **Stock/availability changes**: 23
 - **Discontinued products**: 0
 
 ## Top 5 Brands
@@ -27,7 +27,6 @@
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Bombolo Biscotti Assorted Decorated Cookies with Colorful Icing Summer Edition | Bombolo Biscotti | $75.95 | true |
-| Crispy Just Baked Mini Naan Bread Bites Baked and Crunchy Snack Style | Crispy Just Baked | $44.95 | true |
 | Suzy's Cream Cheesecakes Black Forest Cherry Cheesecake 12 Slices | Suzy's Cream Cheesecakes | $184.95 | true |
 | Nature Valley Strawberry Wafer Bars with Oat Butter 20 Units 36 g / 1.3 oz | Nature Valley | $129.95 | true |
 | Nature Valley Cinnamon Biscuits with Almond Butter Filling 30 Units 38 g / 1.35 oz | Nature Valley | $138.95 | true |
@@ -36,35 +35,36 @@
 | Egregio Organic Extra Virgin Olive Oil 500 mL / 16.9 oz | Egregio | $109.95 | true |
 | Häagen-Dazs Assorted Mini Cups Ice Cream 4 Units / 95 mL / 0.32 oz | Haagen Dazs | $54.95 | true |
 | Virginia Brand Lemon and Garlic Salad Dressing 1 L / 33.8 oz | Virginia Brand | $52.95 | true |
+| Snack Pack Chocolate and Vanilla Pudding 36 Units / 92 g / 3 oz | Snack Pack | $160.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1074
-- **Price increases**: 552
-- **Price decreases**: 493
-- **Average increase**: 7.3%
-- **Average decrease**: -5.6%
+- **Total price changes**: 1042
+- **Price increases**: 528
+- **Price decreases**: 484
+- **Average increase**: 6.8%
+- **Average decrease**: -5.7%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Frozen Bone-In Pork Butt Blade Steak | $0.00 | $80.16 | $+80.16 | +100.0% | New |
-| Frozen Lamb Leg Whole Vacuum Packed | $395.29 | $392.41 | $-2.88 | -0.7% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $45.84 | $45.70 | $-0.14 | -0.3% | Decrease |
-| Papaya | $37.99 | $38.02 | $+0.03 | +0.1% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $105.64 | $105.48 | $-0.16 | -0.2% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $75.10 | $74.90 | $-0.20 | -0.3% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $282.55 | $282.22 | $-0.33 | -0.1% | Decrease |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.57 | $74.69 | $+0.12 | +0.2% | Increase |
-| Watermelon 1 kg / 2.2 lb | $95.99 | $96.92 | $+0.93 | +1.0% | Increase |
-| Ribeye Choice Fillet Fresh Tray | $321.44 | $322.20 | $+0.76 | +0.2% | Increase |
-| Sunberry Farms Organic Guava Nectar Juice - Gluten Free 3.78 L / 128 oz | $89.95 | $88.95 | $-1.00 | -1.1% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $85.51 | $85.41 | $-0.10 | -0.1% | Decrease |
-| Frozen Boneless Skinless Chicken Breast Tray | $145.55 | $145.68 | $+0.13 | +0.1% | Increase |
-| Fresh Celery  | $19.70 | $26.95 | $+7.25 | +36.8% | Increase |
-| Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $57.95 | $29.70 | $-28.25 | -48.7% | Decrease |
+| Salad Tomato 1.5 kg / 3.5 lb | $44.95 | $32.95 | $-12.00 | -26.7% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $91.21 | $90.98 | $-0.23 | -0.3% | Decrease |
+| Frozen Lamb Leg Whole Vacuum Packed | $392.41 | $395.29 | $+2.88 | +0.7% | Increase |
+| Frozen Pork Belly Skin On Sliced Tray  | $115.87 | $116.10 | $+0.23 | +0.2% | Increase |
+| Nectarine 908 g / 2 lb | $84.95 | $74.95 | $-10.00 | -11.8% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $105.48 | $105.16 | $-0.32 | -0.3% | Decrease |
+| Papaya | $38.02 | $38.09 | $+0.07 | +0.2% | Increase |
+| Gouda Cheese Block | $89.42 | $89.83 | $+0.41 | +0.5% | Increase |
+| Mini Sweet Peppers 454 g / 1 lb | $44.95 | $39.95 | $-5.00 | -11.1% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $74.90 | $74.59 | $-0.31 | -0.4% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $282.22 | $283.04 | $+0.82 | +0.3% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $68.44 | $68.38 | $-0.06 | -0.1% | Decrease |
+| Dramas Cherry Tomato 340 g / 12 oz | $49.95 | $39.95 | $-10.00 | -20.0% | Decrease |
+| Peach 908 g / 2 lb | $67.95 | $64.95 | $-3.00 | -4.4% | Decrease |
+| Plum 907 g / 2 lb | $79.95 | $74.95 | $-5.00 | -6.3% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -112,4 +112,8 @@
 | Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2026-06-11 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Hostess Twinkies and Cupcakes Individually Packaged Assorted 32 Units | Hostess | $104.95 | G10D03 |
+| Perdue Seasoned Chicken Wings 624 g / 1.38 lb | Perdue | $129.95 | G10D03 |
