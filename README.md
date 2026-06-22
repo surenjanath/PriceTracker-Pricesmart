@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1133
-- **Total value**: $125,605.09
-- **Average price**: $110.86
+- **Total products scraped**: 1126
+- **Total value**: $125,063.35
+- **Average price**: $111.07
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1131
-- **Price changes detected**: 47
-- **Stock/availability changes**: 23
-- **Discontinued products**: 0
+- **New products added**: 0
+- **Existing products updated**: 1126
+- **Price changes detected**: 28
+- **Stock/availability changes**: 6
+- **Discontinued products**: 7
 
 ## Top 5 Brands
 
@@ -210,44 +210,44 @@ This project has recently gained unexpected attention. It was created for person
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Bombolo Biscotti Assorted Decorated Cookies with Colorful Icing Summer Edition | Bombolo Biscotti | $75.95 | true |
-| Suzy's Cream Cheesecakes Black Forest Cherry Cheesecake 12 Slices | Suzy's Cream Cheesecakes | $184.95 | true |
-| Nature Valley Strawberry Wafer Bars with Oat Butter 20 Units 36 g / 1.3 oz | Nature Valley | $129.95 | true |
 | Nature Valley Cinnamon Biscuits with Almond Butter Filling 30 Units 38 g / 1.35 oz | Nature Valley | $138.95 | true |
-| Joyburst Sparkling Energy Drink - No Added Sugar 12 Units / 355 mL / 12 oz | Joyburst | $132.95 | true |
-| Jimmy Dean Croissant Sausage, Egg & Cheese Sandwiches 1.53 kg / 3.38 lb | Jimmy Dean | $162.95 | true |
-| Egregio Organic Extra Virgin Olive Oil 500 mL / 16.9 oz | Egregio | $109.95 | true |
-| Häagen-Dazs Assorted Mini Cups Ice Cream 4 Units / 95 mL / 0.32 oz | Haagen Dazs | $54.95 | true |
 | Virginia Brand Lemon and Garlic Salad Dressing 1 L / 33.8 oz | Virginia Brand | $52.95 | true |
 | Snack Pack Chocolate and Vanilla Pudding 36 Units / 92 g / 3 oz | Snack Pack | $160.95 | true |
+| Three Little Pigs Pate Combo Pack 307 g / 14 oz | Three Little Pigs | $129.95 | true |
+| Florida's Natural Mango Lemonade 2 Units / 1.75 L / 59 oz | Florida's Natural | $112.95 | true |
+| Sincerely Brigitte Hot Pepper Prairie Jack Cheese 454 g / 16 oz | Sincerely  Brigitte | $68.95 | true |
+| Welch's Concord Grape Fruit Juice 1.75 L / 59 oz | Welch's | $33.95 | true |
+| Wrigley's Extra Spearmint Sugar-Free Gum 10 Packs 37.5 g / 1.32 oz | Wrigley's | $102.95 | true |
+| Butterball Frozen Turkey Breast Tenderloins All Natural  680 g / 1.5 lb | Butterball | $106.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1042
-- **Price increases**: 528
-- **Price decreases**: 484
+- **Total price changes**: 1030
+- **Price increases**: 513
+- **Price decreases**: 487
 - **Average increase**: 6.8%
-- **Average decrease**: -5.7%
+- **Average decrease**: -5.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Salad Tomato 1.5 kg / 3.5 lb | $44.95 | $32.95 | $-12.00 | -26.7% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $91.21 | $90.98 | $-0.23 | -0.3% | Decrease |
-| Frozen Lamb Leg Whole Vacuum Packed | $392.41 | $395.29 | $+2.88 | +0.7% | Increase |
-| Frozen Pork Belly Skin On Sliced Tray  | $115.87 | $116.10 | $+0.23 | +0.2% | Increase |
-| Nectarine 908 g / 2 lb | $84.95 | $74.95 | $-10.00 | -11.8% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $105.48 | $105.16 | $-0.32 | -0.3% | Decrease |
-| Papaya | $38.02 | $38.09 | $+0.07 | +0.2% | Increase |
-| Gouda Cheese Block | $89.42 | $89.83 | $+0.41 | +0.5% | Increase |
-| Mini Sweet Peppers 454 g / 1 lb | $44.95 | $39.95 | $-5.00 | -11.1% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $74.90 | $74.59 | $-0.31 | -0.4% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $282.22 | $283.04 | $+0.82 | +0.3% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $68.44 | $68.38 | $-0.06 | -0.1% | Decrease |
-| Dramas Cherry Tomato 340 g / 12 oz | $49.95 | $39.95 | $-10.00 | -20.0% | Decrease |
-| Peach 908 g / 2 lb | $67.95 | $64.95 | $-3.00 | -4.4% | Decrease |
-| Plum 907 g / 2 lb | $79.95 | $74.95 | $-5.00 | -6.3% | Decrease |
+| Sea Best Snapper Fingers 907 g / 2 lb | $167.95 | $166.95 | $-1.00 | -0.6% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $45.70 | $45.61 | $-0.09 | -0.2% | Decrease |
+| Fresh Whole Striploin Fillet Vacuum packaged | $1973.22 | $1959.84 | $-13.38 | -0.7% | Decrease |
+| Papaya | $38.09 | $38.12 | $+0.03 | +0.1% | Increase |
+| Fresh Beef Ribeye Steak Vacuum Packed | $2768.48 | $2743.53 | $-24.95 | -0.9% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $74.59 | $73.13 | $-1.46 | -2.0% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $68.38 | $68.31 | $-0.07 | -0.1% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Case | $1443.44 | $1448.39 | $+4.95 | +0.3% | Increase |
+| Ribeye Choice Fillet Fresh Tray | $322.96 | $311.29 | $-11.67 | -3.6% | Decrease |
+| Fresh Beef Striploin Steak Tray | $241.83 | $240.39 | $-1.44 | -0.6% | Decrease |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.57 | $74.44 | $-0.13 | -0.2% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $85.51 | $85.41 | $-0.10 | -0.1% | Decrease |
+| Fresh Chicken Thighs Boneless Tray | $89.50 | $89.63 | $+0.13 | +0.1% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $121.20 | $119.64 | $-1.56 | -1.3% | Decrease |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $422.70 | $428.22 | $+5.52 | +1.3% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,20 +283,16 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Flipz Pretzels Coated with Milk Chocolate 425 g / 15 oz | Flipz | $77.70 | 2026-06-21 |
+| Grey Poupon Dijon Mustard 2 Units / 454 g / 16 oz  | Grey Poupon | $99.95 | 2026-06-21 |
+| Orchard Fruit Juice Variety 3 Units / 1 L | Orchard | $102.95 | 2026-06-21 |
+| Alessi Biscotti Savoiardi Cookies 400 g / 14 oz | Alessi | $36.70 | 2026-06-21 |
+| Reny Picot Brie Cheese with Almond Slices 227 g / 8 oz | Reny Picot | $77.95 | 2026-06-21 |
+| Dixee Lightly Salted Whole Wheat Crackers 4 Units / 276 g / 9.7 oz | Dixee | $54.95 | 2026-06-21 |
+| Great Foods Chicken Hot Dogs 1 kg / 2.2 lb | Great Foods | $31.95 | 2026-06-21 |
 | Garden Foods Mixed Vegetables 1.36 kg / 3 lb | Garden Foods | $54.95 | 2026-06-17 |
 | Il Boero Chocolates Filled with Cherry and Liquor 1 kg / 35.2 oz | Il Boero | $99.70 | 2026-06-15 |
 | Pure Squeeze Assorted Flavors Sparkling Juice 12 Units / 330 mL / 11.2 oz | Pure Squeeze | $52.70 | 2026-06-15 |
-| Swiss Sorrel Drink 3 Units / 750 mL / 25.36 oz | Swiss | $29.70 | 2026-06-14 |
-| Fruit Nation Preservative-Free Mango Nectar 36 Units / 200 mL / 6.7 oz | Fruit Nation | $99.70 | 2026-06-14 |
-| Sincerely Brigitte Trio Cheese with Guava 567 g / 20 oz | Sincerely  Brigitte | $109.95 | 2026-06-14 |
-| Tetley Super Tea Boost Raspberry & Blueberry Tea 3 Units / 40 g  | Tetley | $69.70 | 2026-06-14 |
-| Mowi Sweet Frozen Bourbon Salmon Portions 710 g / 1.56 lb | Mowi | $197.95 | 2026-06-12 |
-| Black Seedless Grapes 907 g / 2 lb |  | $69.95 | 2026-06-11 |
-| Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2026-06-11 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Hostess Twinkies and Cupcakes Individually Packaged Assorted 32 Units | Hostess | $104.95 | G10D03 |
-| Perdue Seasoned Chicken Wings 624 g / 1.38 lb | Perdue | $129.95 | G10D03 |
+No new products added today.
