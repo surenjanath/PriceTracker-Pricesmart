@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1126
-- **Total value**: $125,063.35
-- **Average price**: $111.07
+- **Total products scraped**: 1128
+- **Total value**: $125,679.96
+- **Average price**: $111.42
 
 ## Database Changes
-- **New products added**: 0
+- **New products added**: 2
 - **Existing products updated**: 1126
-- **Price changes detected**: 28
-- **Stock/availability changes**: 6
-- **Discontinued products**: 7
+- **Price changes detected**: 23
+- **Stock/availability changes**: 8
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 175 |
-|  | 134 |
+| Member's Selection | 176 |
+|  | 135 |
 | Badia | 17 |
 | Swiss | 14 |
 | Brunswick | 11 |
@@ -30,41 +30,41 @@
 | Nature Valley Cinnamon Biscuits with Almond Butter Filling 30 Units 38 g / 1.35 oz | Nature Valley | $138.95 | true |
 | Virginia Brand Lemon and Garlic Salad Dressing 1 L / 33.8 oz | Virginia Brand | $52.95 | true |
 | Snack Pack Chocolate and Vanilla Pudding 36 Units / 92 g / 3 oz | Snack Pack | $160.95 | true |
+| Nescafé Ice Instant Coffee 2 Units / 100 g / 3.5 oz + Glass | Nescafé | $86.95 | true |
 | Three Little Pigs Pate Combo Pack 307 g / 14 oz | Three Little Pigs | $129.95 | true |
-| Florida's Natural Mango Lemonade 2 Units / 1.75 L / 59 oz | Florida's Natural | $112.95 | true |
 | Sincerely Brigitte Hot Pepper Prairie Jack Cheese 454 g / 16 oz | Sincerely  Brigitte | $68.95 | true |
+| Florida's Natural Mango Lemonade 2 Units / 1.75 L / 59 oz | Florida's Natural | $112.95 | true |
 | Welch's Concord Grape Fruit Juice 1.75 L / 59 oz | Welch's | $33.95 | true |
 | Wrigley's Extra Spearmint Sugar-Free Gum 10 Packs 37.5 g / 1.32 oz | Wrigley's | $102.95 | true |
-| Butterball Frozen Turkey Breast Tenderloins All Natural  680 g / 1.5 lb | Butterball | $106.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
 - **Total price changes**: 1030
-- **Price increases**: 513
-- **Price decreases**: 487
-- **Average increase**: 6.8%
+- **Price increases**: 510
+- **Price decreases**: 490
+- **Average increase**: 7.0%
 - **Average decrease**: -5.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Sea Best Snapper Fingers 907 g / 2 lb | $167.95 | $166.95 | $-1.00 | -0.6% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $45.70 | $45.61 | $-0.09 | -0.2% | Decrease |
-| Fresh Whole Striploin Fillet Vacuum packaged | $1973.22 | $1959.84 | $-13.38 | -0.7% | Decrease |
-| Papaya | $38.09 | $38.12 | $+0.03 | +0.1% | Increase |
-| Fresh Beef Ribeye Steak Vacuum Packed | $2768.48 | $2743.53 | $-24.95 | -0.9% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $74.59 | $73.13 | $-1.46 | -2.0% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $68.38 | $68.31 | $-0.07 | -0.1% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Case | $1443.44 | $1448.39 | $+4.95 | +0.3% | Increase |
-| Ribeye Choice Fillet Fresh Tray | $322.96 | $311.29 | $-11.67 | -3.6% | Decrease |
-| Fresh Beef Striploin Steak Tray | $241.83 | $240.39 | $-1.44 | -0.6% | Decrease |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.57 | $74.44 | $-0.13 | -0.2% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $85.51 | $85.41 | $-0.10 | -0.1% | Decrease |
-| Fresh Chicken Thighs Boneless Tray | $89.50 | $89.63 | $+0.13 | +0.1% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $121.20 | $119.64 | $-1.56 | -1.3% | Decrease |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $422.70 | $428.22 | $+5.52 | +1.3% | Increase |
+| Fresh Ginger 1.36 kg / 3 lb | $0.00 | $61.95 | $+61.95 | +100.0% | New |
+| Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $29.70 | $57.95 | $+28.25 | +95.1% | Increase |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $344.72 | $342.51 | $-2.21 | -0.6% | Decrease |
+| Papaya | $38.12 | $38.09 | $-0.03 | -0.1% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $225.13 | $226.24 | $+1.11 | +0.5% | Increase |
+| Nature's Pride Black Beans 1.8 kg / 4 lb | $39.95 | $42.95 | $+3.00 | +7.5% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $186.41 | $186.69 | $+0.28 | +0.2% | Increase |
+| Fresh Whole Chicken for Frying Bag | $283.04 | $282.71 | $-0.33 | -0.1% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $95.00 | $95.10 | $+0.10 | +0.1% | Increase |
+| Nescafé Classic Instant Coffee 3 in 1 3 Units / 114 g | $34.70 | $54.95 | $+20.25 | +58.4% | Increase |
+| Ribeye Choice Fillet Fresh Tray | $311.29 | $312.02 | $+0.73 | +0.2% | Increase |
+| Fresh Chicken Mixed Parts Tray | $85.41 | $85.21 | $-0.20 | -0.2% | Decrease |
+| Fresh Celery  | $24.95 | $19.70 | $-5.25 | -21.0% | Decrease |
+| Frozen Lamb Shoulder Chops Tray | $119.64 | $119.47 | $-0.17 | -0.1% | Decrease |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $428.22 | $428.94 | $+0.72 | +0.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| DeLallo Organic Mushrooms with Red Peppers 907 g / 32 oz | DeLallo | $64.70 | 2026-06-22 |
 | Flipz Pretzels Coated with Milk Chocolate 425 g / 15 oz | Flipz | $77.70 | 2026-06-21 |
 | Grey Poupon Dijon Mustard 2 Units / 454 g / 16 oz  | Grey Poupon | $99.95 | 2026-06-21 |
 | Orchard Fruit Juice Variety 3 Units / 1 L | Orchard | $102.95 | 2026-06-21 |
@@ -109,7 +110,10 @@
 | Great Foods Chicken Hot Dogs 1 kg / 2.2 lb | Great Foods | $31.95 | 2026-06-21 |
 | Garden Foods Mixed Vegetables 1.36 kg / 3 lb | Garden Foods | $54.95 | 2026-06-17 |
 | Il Boero Chocolates Filled with Cherry and Liquor 1 kg / 35.2 oz | Il Boero | $99.70 | 2026-06-15 |
-| Pure Squeeze Assorted Flavors Sparkling Juice 12 Units / 330 mL / 11.2 oz | Pure Squeeze | $52.70 | 2026-06-15 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Fresh Ginger 1.36 kg / 3 lb |  | $61.95 | G10D03 |
+| Daily's Apple Flavored Bacon 3 Units / 454 g / 1 lb | Daily's | $174.95 | G10D03 |
