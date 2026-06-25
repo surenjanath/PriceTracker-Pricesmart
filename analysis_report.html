@@ -1,15 +1,15 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1129
-- **Total value**: $125,729.46
-- **Average price**: $111.36
+- **Total products scraped**: 1126
+- **Total value**: $126,986.02
+- **Average price**: $112.78
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1127
-- **Price changes detected**: 15
-- **Stock/availability changes**: 12
+- **New products added**: 0
+- **Existing products updated**: 1126
+- **Price changes detected**: 61
+- **Stock/availability changes**: 7
 - **Discontinued products**: 3
 
 ## Top 5 Brands
@@ -28,43 +28,43 @@
 |-------|-------|-------------|--------------|
 | Bombolo Biscotti Assorted Decorated Cookies with Colorful Icing Summer Edition | Bombolo Biscotti | $75.95 | true |
 | Nature Valley Cinnamon Biscuits with Almond Butter Filling 30 Units 38 g / 1.35 oz | Nature Valley | $138.95 | true |
+| Florida's Natural Mango Lemonade 2 Units / 1.75 L / 59 oz | Florida's Natural | $112.95 | true |
 | Virginia Brand Lemon and Garlic Salad Dressing 1 L / 33.8 oz | Virginia Brand | $52.95 | true |
 | Nescafé Ice Instant Coffee 2 Units / 100 g / 3.5 oz + Glass | Nescafé | $86.95 | true |
 | Three Little Pigs Pate Combo Pack 307 g / 14 oz | Three Little Pigs | $129.95 | true |
 | Snack Pack Chocolate and Vanilla Pudding 36 Units / 92 g / 3 oz | Snack Pack | $160.95 | true |
-| Florida's Natural Mango Lemonade 2 Units / 1.75 L / 59 oz | Florida's Natural | $112.95 | true |
-| Sincerely Brigitte Hot Pepper Prairie Jack Cheese 454 g / 16 oz | Sincerely  Brigitte | $68.95 | true |
 | Welch's Concord Grape Fruit Juice 1.75 L / 59 oz | Welch's | $33.95 | true |
+| Sincerely Brigitte Hot Pepper Prairie Jack Cheese 454 g / 16 oz | Sincerely  Brigitte | $68.95 | true |
 | Wrigley's Extra Spearmint Sugar-Free Gum 10 Packs 37.5 g / 1.32 oz | Wrigley's | $102.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1047
-- **Price increases**: 518
-- **Price decreases**: 497
+- **Total price changes**: 1075
+- **Price increases**: 541
+- **Price decreases**: 505
 - **Average increase**: 6.9%
-- **Average decrease**: -5.6%
+- **Average decrease**: -5.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Lush Apple Flavored Fruit Drink 24 Units / 200 mL / 6.76 oz | $0.00 | $59.95 | $+59.95 | +100.0% | New |
-| Juver 100% Multifruit Juice 30 Units / 200 mL / 6.76 oz | $0.00 | $124.95 | $+124.95 | +100.0% | New |
-| Papaya | $38.09 | $38.12 | $+0.03 | +0.1% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $226.24 | $227.88 | $+1.64 | +0.7% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $186.69 | $189.93 | $+3.24 | +1.7% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $73.13 | $72.93 | $-0.20 | -0.3% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $95.10 | $95.20 | $+0.10 | +0.1% | Increase |
-| Demerara Gold Brown Sugar 5 kg / 11 lb | $56.95 | $54.95 | $-2.00 | -3.5% | Decrease |
-| Watermelon 1 kg / 2.2 lb | $96.92 | $52.33 | $-44.59 | -46.0% | Decrease |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $428.94 | $436.09 | $+7.15 | +1.7% | Increase |
-| Frozen Boneless Skinless Chicken Breast Tray | $145.82 | $145.95 | $+0.13 | +0.1% | Increase |
-| Fresh Ground Chicken Tray | $100.85 | $100.97 | $+0.12 | +0.1% | Increase |
-| Heinz Tomato Ketchup 567 g / 20 oz | $29.95 | $21.95 | $-8.00 | -26.7% | Decrease |
-| Member's Selection Frozen Skin On Boneless Trout Fillet Vacuum Packaged Bag | $208.19 | $208.94 | $+0.75 | +0.4% | Increase |
-| Member's Selection Chicken Caesar Wrap 4 Units | $65.95 | $62.95 | $-3.00 | -4.5% | Decrease |
+| Sabra Classic Hummus 850 g / 30 oz | $82.95 | $84.95 | $+2.00 | +2.4% | Increase |
+| Frozen Bone-In Goat Carcass Case | $1539.85 | $3012.75 | $+1472.90 | +95.7% | Increase |
+| Panamei Frozen Seafood Mix 1.36 kg / 3 lb | $115.95 | $116.95 | $+1.00 | +0.9% | Increase |
+| Papaya | $38.12 | $38.22 | $+0.10 | +0.3% | Increase |
+| Silk Chocolate Almond 1.89 L / 64 oz | $55.95 | $56.95 | $+1.00 | +1.8% | Increase |
+| Erin Farm Chicken Salami 1 kg / 2.2 lb | $45.95 | $49.95 | $+4.00 | +8.7% | Increase |
+| Frozen Sliced Turkey Drumsticks | $190.94 | $190.54 | $-0.40 | -0.2% | Decrease |
+| Prairie Farms 100% Dairy Free Milk 1.89 L / 64 oz | $56.95 | $57.95 | $+1.00 | +1.8% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $72.93 | $73.13 | $+0.20 | +0.3% | Increase |
+| Fresh Whole Chicken for Frying Bag | $282.71 | $283.21 | $+0.50 | +0.2% | Increase |
+| Erin Farm Beef Salami 1 kg / 2.2 lb | $62.95 | $69.95 | $+7.00 | +11.1% | Increase |
+| Erin Farm Smoked Boneless Ham 750 g / 1.6 lb | $49.95 | $57.95 | $+8.00 | +16.0% | Increase |
+| Erin Farm Back Bacon 500 g / 1.1 lb | $47.95 | $49.95 | $+2.00 | +4.2% | Increase |
+| Good Grains Flax Chia Blend 1.36 kg / 3 lb | $82.95 | $82.45 | $-0.50 | -0.6% | Decrease |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.44 | $74.18 | $-0.26 | -0.3% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,9 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Tetley Caffeine-Free Mint Tea 60 Units / 1.6 g | Tetley | $35.95 | 2026-06-24 |
+|  Pepe's Nature's Pride Black Beans 1.8 kg | Pepe's Nature's Pride | $39.95 | 2026-06-24 |
+| Donafe's Chocolate Cheesecake with Crunchy Chocolate Chunk Topping 12 Slices | Donafe's | $184.95 | 2026-06-24 |
 | Califia Farms Lime and Coconut Lemonade 1.4 L / 48 oz | Califia Farms | $54.95 | 2026-06-23 |
 | Mariani Dried Red Fruit Mix with Cherries, Blueberries, and Strawberries 567 g / 20 oz | Mariani | $90.95 | 2026-06-23 |
 | Coffee Toppers Cold Foam 2 Units / 425 g / 15 oz | Coffee Toppers | $41.70 | 2026-06-23 |
@@ -107,13 +110,6 @@
 | Flipz Pretzels Coated with Milk Chocolate 425 g / 15 oz | Flipz | $77.70 | 2026-06-21 |
 | Grey Poupon Dijon Mustard 2 Units / 454 g / 16 oz  | Grey Poupon | $99.95 | 2026-06-21 |
 | Orchard Fruit Juice Variety 3 Units / 1 L | Orchard | $102.95 | 2026-06-21 |
-| Alessi Biscotti Savoiardi Cookies 400 g / 14 oz | Alessi | $36.70 | 2026-06-21 |
-| Reny Picot Brie Cheese with Almond Slices 227 g / 8 oz | Reny Picot | $77.95 | 2026-06-21 |
-| Dixee Lightly Salted Whole Wheat Crackers 4 Units / 276 g / 9.7 oz | Dixee | $54.95 | 2026-06-21 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Lush Apple Flavored Fruit Drink 24 Units / 200 mL / 6.76 oz | Lush | $59.95 | G10D03 |
-| Juver 100% Multifruit Juice 30 Units / 200 mL / 6.76 oz | Juver | $124.95 | G10D03 |
+No new products added today.
