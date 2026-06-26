@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1126
-- **Total value**: $126,986.02
+- **Total products scraped**: 1125
+- **Total value**: $126,879.14
 - **Average price**: $112.78
 
 ## Database Changes
 - **New products added**: 0
-- **Existing products updated**: 1126
-- **Price changes detected**: 61
-- **Stock/availability changes**: 7
-- **Discontinued products**: 3
+- **Existing products updated**: 1125
+- **Price changes detected**: 21
+- **Stock/availability changes**: 10
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -214,40 +214,40 @@ This project has recently gained unexpected attention. It was created for person
 | Florida's Natural Mango Lemonade 2 Units / 1.75 L / 59 oz | Florida's Natural | $112.95 | true |
 | Virginia Brand Lemon and Garlic Salad Dressing 1 L / 33.8 oz | Virginia Brand | $52.95 | true |
 | Nescafé Ice Instant Coffee 2 Units / 100 g / 3.5 oz + Glass | Nescafé | $86.95 | true |
+| Polly-O String Cheese Mozzarella & Cheddar 24 Units | Polly-O | $96.95 | true |
 | Three Little Pigs Pate Combo Pack 307 g / 14 oz | Three Little Pigs | $129.95 | true |
 | Snack Pack Chocolate and Vanilla Pudding 36 Units / 92 g / 3 oz | Snack Pack | $160.95 | true |
-| Welch's Concord Grape Fruit Juice 1.75 L / 59 oz | Welch's | $33.95 | true |
 | Sincerely Brigitte Hot Pepper Prairie Jack Cheese 454 g / 16 oz | Sincerely  Brigitte | $68.95 | true |
-| Wrigley's Extra Spearmint Sugar-Free Gum 10 Packs 37.5 g / 1.32 oz | Wrigley's | $102.95 | true |
+| Welch's Concord Grape Fruit Juice 1.75 L / 59 oz | Welch's | $33.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1075
-- **Price increases**: 541
-- **Price decreases**: 505
+- **Total price changes**: 1096
+- **Price increases**: 547
+- **Price decreases**: 520
 - **Average increase**: 6.9%
-- **Average decrease**: -5.5%
+- **Average decrease**: -5.4%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Sabra Classic Hummus 850 g / 30 oz | $82.95 | $84.95 | $+2.00 | +2.4% | Increase |
-| Frozen Bone-In Goat Carcass Case | $1539.85 | $3012.75 | $+1472.90 | +95.7% | Increase |
-| Panamei Frozen Seafood Mix 1.36 kg / 3 lb | $115.95 | $116.95 | $+1.00 | +0.9% | Increase |
-| Papaya | $38.12 | $38.22 | $+0.10 | +0.3% | Increase |
-| Silk Chocolate Almond 1.89 L / 64 oz | $55.95 | $56.95 | $+1.00 | +1.8% | Increase |
-| Erin Farm Chicken Salami 1 kg / 2.2 lb | $45.95 | $49.95 | $+4.00 | +8.7% | Increase |
-| Frozen Sliced Turkey Drumsticks | $190.94 | $190.54 | $-0.40 | -0.2% | Decrease |
-| Prairie Farms 100% Dairy Free Milk 1.89 L / 64 oz | $56.95 | $57.95 | $+1.00 | +1.8% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $72.93 | $73.13 | $+0.20 | +0.3% | Increase |
-| Fresh Whole Chicken for Frying Bag | $282.71 | $283.21 | $+0.50 | +0.2% | Increase |
-| Erin Farm Beef Salami 1 kg / 2.2 lb | $62.95 | $69.95 | $+7.00 | +11.1% | Increase |
-| Erin Farm Smoked Boneless Ham 750 g / 1.6 lb | $49.95 | $57.95 | $+8.00 | +16.0% | Increase |
-| Erin Farm Back Bacon 500 g / 1.1 lb | $47.95 | $49.95 | $+2.00 | +4.2% | Increase |
-| Good Grains Flax Chia Blend 1.36 kg / 3 lb | $82.95 | $82.45 | $-0.50 | -0.6% | Decrease |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.44 | $74.18 | $-0.26 | -0.3% | Decrease |
+| Frozen Bone-In Pork Butt Blade Steak | $80.16 | $79.17 | $-0.99 | -1.2% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $227.88 | $227.04 | $-0.84 | -0.4% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $45.61 | $45.56 | $-0.05 | -0.1% | Decrease |
+| Angel Parboiled Rice Extra Long Grain 9 kg / 19.8 lb | $97.95 | $94.95 | $-3.00 | -3.1% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $87.01 | $86.88 | $-0.13 | -0.1% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $73.13 | $73.03 | $-0.10 | -0.1% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $283.21 | $283.70 | $+0.49 | +0.2% | Increase |
+| Gouda Cheese Block | $89.83 | $89.69 | $-0.14 | -0.2% | Decrease |
+| Fine Choice Fresh Marinated Chicken Tray | $92.13 | $92.36 | $+0.23 | +0.2% | Increase |
+| Watermelon 1 kg / 2.2 lb | $52.46 | $52.33 | $-0.13 | -0.2% | Decrease |
+| Fresh Ground Chicken Tray | $100.97 | $100.59 | $-0.38 | -0.4% | Decrease |
+| Fresh Chicken Thighs Boneless Tray | $89.63 | $89.76 | $+0.13 | +0.1% | Increase |
+| Pork Chop with Bone Frozen Tray | $82.72 | $77.46 | $-5.26 | -6.4% | Decrease |
+| Frozen Boneless Skinless Chicken Breast Tray | $146.35 | $146.49 | $+0.14 | +0.1% | Increase |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $80.19 | $80.07 | $-0.12 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Chosen Foods Avocado Oil Spray 2 Units / 134 g / 4.7 oz | Chosen Foods | $94.95 | 2026-06-25 |
 | Tetley Caffeine-Free Mint Tea 60 Units / 1.6 g | Tetley | $35.95 | 2026-06-24 |
 |  Pepe's Nature's Pride Black Beans 1.8 kg | Pepe's Nature's Pride | $39.95 | 2026-06-24 |
 | Donafe's Chocolate Cheesecake with Crunchy Chocolate Chunk Topping 12 Slices | Donafe's | $184.95 | 2026-06-24 |
@@ -292,7 +293,6 @@ This project has recently gained unexpected attention. It was created for person
 | DeLallo Organic Mushrooms with Red Peppers 907 g / 32 oz | DeLallo | $64.70 | 2026-06-22 |
 | Flipz Pretzels Coated with Milk Chocolate 425 g / 15 oz | Flipz | $77.70 | 2026-06-21 |
 | Grey Poupon Dijon Mustard 2 Units / 454 g / 16 oz  | Grey Poupon | $99.95 | 2026-06-21 |
-| Orchard Fruit Juice Variety 3 Units / 1 L | Orchard | $102.95 | 2026-06-21 |
 
 ## New Products Added Today
 No new products added today.
