@@ -2,15 +2,15 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1124
-- **Total value**: $126,684.16
+- **Total value**: $126,686.77
 - **Average price**: $112.71
 
 ## Database Changes
 - **New products added**: 0
 - **Existing products updated**: 1124
-- **Price changes detected**: 34
-- **Stock/availability changes**: 17
-- **Discontinued products**: 1
+- **Price changes detected**: 19
+- **Stock/availability changes**: 9
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -30,41 +30,41 @@
 | Nature Valley Cinnamon Biscuits with Almond Butter Filling 30 Units 38 g / 1.35 oz | Nature Valley | $138.95 | true |
 | Nescafé Ice Instant Coffee 2 Units / 100 g / 3.5 oz + Glass | Nescafé | $86.95 | true |
 | Polly-O String Cheese Mozzarella & Cheddar 24 Units | Polly-O | $96.95 | true |
-| Pringles Football Edition Potato Chips Assorted Flavors with Collectible Color-Changing Cup 3 Units 150 g / 5.2 oz | Pringles | $99.95 | true |
 | Florida's Natural Mango Lemonade 2 Units / 1.75 L / 59 oz | Florida's Natural | $112.95 | true |
 | Virginia Brand Lemon and Garlic Salad Dressing 1 L / 33.8 oz | Virginia Brand | $52.95 | true |
+| Sincerely Brigitte Hot Pepper Prairie Jack Cheese 454 g / 16 oz | Sincerely  Brigitte | $68.95 | true |
+| Pringles Football Edition Potato Chips Assorted Flavors with Collectible Color-Changing Cup 3 Units 150 g / 5.2 oz | Pringles | $99.95 | true |
 | Three Little Pigs Pate Combo Pack 307 g / 14 oz | Three Little Pigs | $129.95 | true |
 | Snack Pack Chocolate and Vanilla Pudding 36 Units / 92 g / 3 oz | Snack Pack | $160.95 | true |
-| Sincerely Brigitte Hot Pepper Prairie Jack Cheese 454 g / 16 oz | Sincerely  Brigitte | $68.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1086
-- **Price increases**: 538
-- **Price decreases**: 521
+- **Total price changes**: 1064
+- **Price increases**: 526
+- **Price decreases**: 512
 - **Average increase**: 6.8%
-- **Average decrease**: -5.4%
+- **Average decrease**: -5.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Frozen Lamb Leg Whole Boneless Tray Pack | $342.51 | $344.72 | $+2.21 | +0.6% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $227.04 | $227.88 | $+0.84 | +0.4% | Increase |
-| Ginger 680 g / 1.5 lb | $25.95 | $24.95 | $-1.00 | -3.9% | Decrease |
-| Papaya | $38.22 | $38.25 | $+0.03 | +0.1% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $189.93 | $189.36 | $-0.57 | -0.3% | Decrease |
-| Seedless Watermelon  | $84.95 | $74.95 | $-10.00 | -11.8% | Decrease |
-| Mini Sweet Peppers 454 g / 1 lb | $39.95 | $34.95 | $-5.00 | -12.5% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $283.70 | $283.86 | $+0.16 | +0.1% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $73.03 | $72.83 | $-0.20 | -0.3% | Decrease |
-| Peach 908 g / 2 lb | $64.95 | $57.95 | $-7.00 | -10.8% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $95.20 | $95.10 | $-0.10 | -0.1% | Decrease |
-| Dramas Cherry Tomato 340 g / 12 oz | $39.95 | $44.95 | $+5.00 | +12.5% | Increase |
-| Nescafé Classic Instant Coffee 3 in 1 3 Units / 114 g | $54.95 | $46.70 | $-8.25 | -15.0% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $86.88 | $87.01 | $+0.13 | +0.1% | Increase |
-| Plum 907 g / 2 lb | $74.95 | $72.95 | $-2.00 | -2.7% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $45.56 | $45.42 | $-0.14 | -0.3% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $227.88 | $227.04 | $-0.84 | -0.4% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $105.16 | $105.32 | $+0.16 | +0.2% | Increase |
+| Papaya | $38.25 | $38.34 | $+0.09 | +0.2% | Increase |
+| Frozen Lamb Leg Whole Vacuum Packed | $395.29 | $396.44 | $+1.15 | +0.3% | Increase |
+| Fresh Whole Chicken for Frying Bag | $283.86 | $284.03 | $+0.17 | +0.1% | Increase |
+| Gouda Cheese Block | $89.69 | $89.83 | $+0.14 | +0.2% | Increase |
+| Fresh Chicken Mixed Parts Tray | $85.11 | $85.01 | $-0.10 | -0.1% | Decrease |
+| Fresh Chicken Thighs Boneless Bag | $331.04 | $331.76 | $+0.72 | +0.2% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $119.30 | $119.47 | $+0.17 | +0.1% | Increase |
+| Frozen Boneless Skinless Chicken Breast Tray | $146.49 | $146.62 | $+0.13 | +0.1% | Increase |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $79.94 | $79.81 | $-0.13 | -0.2% | Decrease |
+| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $177.27 | $177.80 | $+0.53 | +0.3% | Increase |
+| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $162.88 | $163.07 | $+0.19 | +0.1% | Increase |
+| Member's Selection Chilled Chicken Liver, Tray Pack | $32.52 | $32.42 | $-0.10 | -0.3% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
