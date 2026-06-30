@@ -1,22 +1,22 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1119
-- **Total value**: $126,116.03
-- **Average price**: $112.70
+- **Total products scraped**: 1120
+- **Total value**: $126,890.12
+- **Average price**: $113.29
 
 ## Database Changes
 - **New products added**: 0
-- **Existing products updated**: 1119
-- **Price changes detected**: 66
-- **Stock/availability changes**: 21
-- **Discontinued products**: 6
+- **Existing products updated**: 1120
+- **Price changes detected**: 22
+- **Stock/availability changes**: 22
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 176 |
+| Member's Selection | 177 |
 |  | 135 |
 | Badia | 17 |
 | Swiss | 14 |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1042
-- **Price increases**: 509
-- **Price decreases**: 513
-- **Average increase**: 7.3%
+- **Total price changes**: 1041
+- **Price increases**: 513
+- **Price decreases**: 508
+- **Average increase**: 7.4%
 - **Average decrease**: -5.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Chicken Thighs Boneless Bag | $331.76 | $332.00 | $+0.24 | +0.1% | Increase |
-| Kraft Cheez Whiz 2 Units / 425 g / 15 oz | $69.95 | $86.95 | $+17.00 | +24.3% | Increase |
-| Fresh Chicken Breast Boneless Skinless Tray | $135.56 | $135.65 | $+0.09 | +0.1% | Increase |
-| Chobani Greek Yogurt Vanilla 1.13 kg / 40 oz | $71.95 | $87.95 | $+16.00 | +22.2% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $227.04 | $226.77 | $-0.27 | -0.1% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $105.32 | $105.48 | $+0.16 | +0.2% | Increase |
-| Papaya | $38.34 | $38.38 | $+0.04 | +0.1% | Increase |
-| Angel Parboiled Rice Extra Long Grain 9 kg / 19.8 lb | $94.95 | $93.95 | $-1.00 | -1.1% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $284.03 | $283.70 | $-0.33 | -0.1% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $190.54 | $189.74 | $-0.80 | -0.4% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $68.31 | $68.24 | $-0.07 | -0.1% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $87.01 | $88.28 | $+1.27 | +1.5% | Increase |
-| Gouda Cheese Block | $89.83 | $89.69 | $-0.14 | -0.2% | Decrease |
-| LAY'S Classic Toasted Chips 425.2 g / 15 oz | $44.95 | $37.95 | $-7.00 | -15.6% | Decrease |
-| Butterball Turkey Sausage Patties 2 Units / 226 g / 8 oz | $89.95 | $76.45 | $-13.50 | -15.0% | Decrease |
+| Dare Chocolate Cookies with Mint Flavor Cream Filling 2 Units / 290 g / 10 oz | $56.95 | $63.95 | $+7.00 | +12.3% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $226.77 | $227.04 | $+0.27 | +0.1% | Increase |
+| Cole Cold Assorted Sodas 6 Units / 2 L | $47.95 | $49.95 | $+2.00 | +4.2% | Increase |
+| Fresh Whole Striploin Fillet Vacuum packaged | $1959.84 | $2490.07 | $+530.23 | +27.1% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $105.48 | $105.32 | $-0.16 | -0.2% | Decrease |
+| Papaya | $38.38 | $38.34 | $-0.04 | -0.1% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $189.36 | $189.93 | $+0.57 | +0.3% | Increase |
+| Frozen Sliced Turkey Drumsticks | $189.74 | $190.54 | $+0.80 | +0.4% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $91.21 | $91.44 | $+0.23 | +0.3% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $68.24 | $68.17 | $-0.07 | -0.1% | Decrease |
+| Chubby Carbonated Drink with Assorted Flavors 24 Units / 250 mL / 8.45 oz | $41.45 | $44.95 | $+3.50 | +8.4% | Increase |
+| Fresh Chicken Leg Quarters Tray | $95.10 | $95.00 | $-0.10 | -0.1% | Decrease |
+| Fresh Beef Striploin Steak Tray | $240.39 | $243.72 | $+3.33 | +1.4% | Increase |
+| Fresh Ground Chicken Tray | $100.59 | $100.47 | $-0.12 | -0.1% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $84.72 | $84.62 | $-0.10 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -105,11 +105,11 @@
 | Garofalo Organic Penne Rigate 4 Units / 500 g / 1.1 lb | Garofalo | $89.95 | 2026-06-28 |
 | DeMet's Turtles Chocolate Filled with Creamy Caramel 496 g | DeMet's | $49.70 | 2026-06-28 |
 | Great Foods Chicken Hot Dogs 1 kg / 2.2 lb | Great Foods | $31.95 | 2026-06-28 |
-| Member's Selection Freshly Baked Assorted Flavor Muffins 35 Units | Member's Selection | $226.95 | 2026-06-28 |
 | Suzy's Cream Cheesecake Assorted Flavors Cheesecake Squares 16 Units | Suzy's Cream Cheesecakes | $129.95 | 2026-06-26 |
 | Chosen Foods Avocado Oil Spray 2 Units / 134 g / 4.7 oz | Chosen Foods | $94.95 | 2026-06-25 |
 | Tetley Caffeine-Free Mint Tea 60 Units / 1.6 g | Tetley | $35.95 | 2026-06-24 |
 |  Pepe's Nature's Pride Black Beans 1.8 kg | Pepe's Nature's Pride | $39.95 | 2026-06-24 |
+| Donafe's Chocolate Cheesecake with Crunchy Chocolate Chunk Topping 12 Slices | Donafe's | $184.95 | 2026-06-24 |
 
 ## New Products Added Today
 No new products added today.
