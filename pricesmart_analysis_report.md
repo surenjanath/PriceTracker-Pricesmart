@@ -2,15 +2,15 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1120
-- **Total value**: $126,890.12
-- **Average price**: $113.29
+- **Total value**: $127,234.49
+- **Average price**: $113.60
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1120
-- **Price changes detected**: 22
-- **Stock/availability changes**: 22
-- **Discontinued products**: 0
+- **New products added**: 2
+- **Existing products updated**: 1118
+- **Price changes detected**: 36
+- **Stock/availability changes**: 23
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
@@ -20,51 +20,51 @@
 |  | 135 |
 | Badia | 17 |
 | Swiss | 14 |
-| Brunswick | 11 |
+| Kirkland Signature | 11 |
 
 ## Recent Products
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Bombolo Biscotti Assorted Decorated Cookies with Colorful Icing Summer Edition | Bombolo Biscotti | $75.95 | true |
-| Nature Valley Cinnamon Biscuits with Almond Butter Filling 30 Units 38 g / 1.35 oz | Nature Valley | $138.95 | true |
-| Sincerely Brigitte Hot Pepper Prairie Jack Cheese 454 g / 16 oz | Sincerely  Brigitte | $68.95 | true |
 | Nescafé Ice Instant Coffee 2 Units / 100 g / 3.5 oz + Glass | Nescafé | $86.95 | true |
-| Virginia Brand Lemon and Garlic Salad Dressing 1 L / 33.8 oz | Virginia Brand | $52.95 | true |
-| Polly-O String Cheese Mozzarella & Cheddar 24 Units | Polly-O | $96.95 | true |
+| Juver 100% Multifruit Juice 30 Units / 200 mL / 6.76 oz | Juver | $124.95 | true |
 | Pringles Football Edition Potato Chips Assorted Flavors with Collectible Color-Changing Cup 3 Units 150 g / 5.2 oz | Pringles | $99.95 | true |
-| Florida's Natural Mango Lemonade 2 Units / 1.75 L / 59 oz | Florida's Natural | $112.95 | true |
-| Three Little Pigs Pate Combo Pack 307 g / 14 oz | Three Little Pigs | $129.95 | true |
-| Snack Pack Chocolate and Vanilla Pudding 36 Units / 92 g / 3 oz | Snack Pack | $160.95 | true |
+| Galbani Mozzarella Cheese Block 2.26 kg / 5 lb | Galbani | $122.95 | true |
+| SIPPZZ Assorted Flavor Sparkling Juices 24 Units / 250 mL / 8.5 oz | SIPPZZ | $154.95 | true |
+| 4C Peach Tea 2.34 kg / 5 lb | 4C | $89.95 | true |
+| Lush Apple Flavored Fruit Drink 24 Units / 200 mL / 6.76 oz | Lush | $59.95 | true |
+| Member's Selection Freshly Made Assorted Doughnuts 12 Units | Member's Selection | $55.95 | true |
+| Member's Selection Freshly Baked Chocolate Chip Cookies 24 Units | Member's Selection | $60.95 | true |
+| Member's Selection Fresh Baked Cheesecake 15 to 20 Slices | Member's Selection | $206.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1041
-- **Price increases**: 513
-- **Price decreases**: 508
-- **Average increase**: 7.4%
-- **Average decrease**: -5.6%
+- **Total price changes**: 1079
+- **Price increases**: 534
+- **Price decreases**: 523
+- **Average increase**: 7.3%
+- **Average decrease**: -5.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Dare Chocolate Cookies with Mint Flavor Cream Filling 2 Units / 290 g / 10 oz | $56.95 | $63.95 | $+7.00 | +12.3% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $226.77 | $227.04 | $+0.27 | +0.1% | Increase |
-| Cole Cold Assorted Sodas 6 Units / 2 L | $47.95 | $49.95 | $+2.00 | +4.2% | Increase |
-| Fresh Whole Striploin Fillet Vacuum packaged | $1959.84 | $2490.07 | $+530.23 | +27.1% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $105.48 | $105.32 | $-0.16 | -0.2% | Decrease |
-| Papaya | $38.38 | $38.34 | $-0.04 | -0.1% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $189.36 | $189.93 | $+0.57 | +0.3% | Increase |
-| Frozen Sliced Turkey Drumsticks | $189.74 | $190.54 | $+0.80 | +0.4% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $91.21 | $91.44 | $+0.23 | +0.3% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $68.24 | $68.17 | $-0.07 | -0.1% | Decrease |
-| Chubby Carbonated Drink with Assorted Flavors 24 Units / 250 mL / 8.45 oz | $41.45 | $44.95 | $+3.50 | +8.4% | Increase |
-| Fresh Chicken Leg Quarters Tray | $95.10 | $95.00 | $-0.10 | -0.1% | Decrease |
-| Fresh Beef Striploin Steak Tray | $240.39 | $243.72 | $+3.33 | +1.4% | Increase |
-| Fresh Ground Chicken Tray | $100.59 | $100.47 | $-0.12 | -0.1% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $84.72 | $84.62 | $-0.10 | -0.1% | Decrease |
+| Kirkland Signature Organic Dried Montmorency Cherries 567 g / 20 oz | $0.00 | $139.95 | $+139.95 | +100.0% | New |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $105.32 | $118.66 | $+13.34 | +12.7% | Increase |
+| Papaya | $38.34 | $38.38 | $+0.04 | +0.1% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $189.93 | $189.36 | $-0.57 | -0.3% | Decrease |
+| Nesquik Liquid Milk Drink with Cocoa Flavor 12 Units / 250 mL | $57.95 | $68.95 | $+11.00 | +19.0% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $72.83 | $72.63 | $-0.20 | -0.3% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $68.17 | $68.10 | $-0.07 | -0.1% | Decrease |
+| Orchard Orange Drink 24 Units / 250 mL | $87.95 | $85.95 | $-2.00 | -2.3% | Decrease |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.18 | $74.44 | $+0.26 | +0.4% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $150.35 | $168.40 | $+18.05 | +12.0% | Increase |
+| Fresh Beef Striploin Steak Tray | $243.72 | $240.39 | $-3.33 | -1.4% | Decrease |
+| Ribeye Choice Fillet Fresh Tray | $311.29 | $309.81 | $-1.48 | -0.5% | Decrease |
+| Orchard Assorted Flavored Juice Boxes 24 Units / 250 mL / 8.45 oz | $89.95 | $77.95 | $-12.00 | -13.3% | Decrease |
+| Bragg Organic Apple Cider Vinegar 946 mL / 32 oz | $72.95 | $73.95 | $+1.00 | +1.4% | Increase |
+| Fresh Ground Chicken Tray | $100.47 | $100.34 | $-0.13 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,8 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Copper Kettle Dark Chocolate Truffles with Sea Salt 448 g / 16 oz | Copper Kettle | $149.95 | 2026-06-30 |
+| KFI Gluten-Free Butter Chicken Sauce 2 Units / 695 g | KFI | $69.70 | 2026-06-30 |
 | Par Excellence Jasmine White Rice 10 kg / 352.74 oz | Par Excellence | $124.70 | 2026-06-28 |
 | Amare Probiotics Sorrel Hibiscus with Infused Water Kefir 3 Units / 355 mL / 12 oz | Amare Probiotics | $76.95 | 2026-06-28 |
 | Garofalo Organic Penne Rigate 4 Units / 500 g / 1.1 lb | Garofalo | $89.95 | 2026-06-28 |
@@ -108,8 +110,10 @@
 | Suzy's Cream Cheesecake Assorted Flavors Cheesecake Squares 16 Units | Suzy's Cream Cheesecakes | $129.95 | 2026-06-26 |
 | Chosen Foods Avocado Oil Spray 2 Units / 134 g / 4.7 oz | Chosen Foods | $94.95 | 2026-06-25 |
 | Tetley Caffeine-Free Mint Tea 60 Units / 1.6 g | Tetley | $35.95 | 2026-06-24 |
-|  Pepe's Nature's Pride Black Beans 1.8 kg | Pepe's Nature's Pride | $39.95 | 2026-06-24 |
-| Donafe's Chocolate Cheesecake with Crunchy Chocolate Chunk Topping 12 Slices | Donafe's | $184.95 | 2026-06-24 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Kirkland Signature Organic Dried Montmorency Cherries 567 g / 20 oz | Kirkland Signature | $139.95 | G10D03 |
+| SIPPZZ Assorted Flavor Sparkling Juices 24 Units / 250 mL / 8.5 oz | SIPPZZ | $154.95 | G10D03 |
