@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1119
-- **Total value**: $127,464.15
-- **Average price**: $113.91
+- **Total products scraped**: 1120
+- **Total value**: $127,539.67
+- **Average price**: $113.87
 
 ## Database Changes
-- **New products added**: 3
-- **Existing products updated**: 1116
-- **Price changes detected**: 80
-- **Stock/availability changes**: 18
-- **Discontinued products**: 5
+- **New products added**: 1
+- **Existing products updated**: 1119
+- **Price changes detected**: 23
+- **Stock/availability changes**: 21
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1103
-- **Price increases**: 548
-- **Price decreases**: 530
-- **Average increase**: 6.7%
-- **Average decrease**: -5.1%
+- **Total price changes**: 1065
+- **Price increases**: 533
+- **Price decreases**: 507
+- **Average increase**: 6.5%
+- **Average decrease**: -4.7%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Mariani Mixed Fruits 907 g / 32 oz | $99.95 | $102.95 | $+3.00 | +3.0% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $91.44 | $91.90 | $+0.46 | +0.5% | Increase |
-| Fresh Chicken Thighs Boneless Tray | $89.89 | $90.93 | $+1.04 | +1.2% | Increase |
-| Daniele Genoa Salame 453 g / 1 lb | $99.95 | $104.95 | $+5.00 | +5.0% | Increase |
-| Member's Selection Soybean Oil 5 L / 1.3 gal | $74.95 | $79.95 | $+5.00 | +6.7% | Increase |
-| Kirkland Signature Mini Chocolate Chip Cookies 30 Units 28 g / 1 oz | $0.00 | $172.95 | $+172.95 | +100.0% | New |
-| Froot Loops Chocolate Flavored Cereal 878 g / 31 oz | $0.00 | $126.95 | $+126.95 | +100.0% | New |
-| Flavorite Assorted Ice Cream Bars 3 Units / 1 L / 33.8 oz | $0.00 | $149.95 | $+149.95 | +100.0% | New |
-| Frozen Bone-In Pork Butt Blade Steak | $79.17 | $76.82 | $-2.35 | -3.0% | Decrease |
-| Russet Potato 2.2 kg / 5 lb | $29.95 | $27.95 | $-2.00 | -6.7% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $45.42 | $44.58 | $-0.84 | -1.8% | Decrease |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $344.72 | $335.52 | $-9.20 | -2.7% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $227.04 | $245.39 | $+18.35 | +8.1% | Increase |
-| Papaya | $38.38 | $39.40 | $+1.02 | +2.7% | Increase |
-| Frozen Pork Belly Skin On Sliced Tray  | $116.10 | $119.09 | $+2.99 | +2.6% | Increase |
+| Fresh Whole Chicken for Frying Bag | $283.04 | $282.88 | $-0.16 | -0.1% | Decrease |
+| Fresh Whole Chicken 2 Units | $104.50 | $104.33 | $-0.17 | -0.2% | Decrease |
+| Barista Vanilla Cappuccino Powder Mix 2 Units / 320 g | $0.00 | $74.95 | $+74.95 | +100.0% | New |
+| McVitie's Ginger Nut Biscuits 4 Units / 250 g | $34.95 | $24.70 | $-10.25 | -29.3% | Decrease |
+| Papaya | $39.40 | $39.36 | $-0.04 | -0.1% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $117.41 | $117.59 | $+0.18 | +0.2% | Increase |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $88.70 | $89.12 | $+0.42 | +0.5% | Increase |
+| Fresh Chicken Leg Quarters Tray | $95.40 | $95.50 | $+0.10 | +0.1% | Increase |
+| Fresh Beef Striploin Steak Tray | $240.39 | $243.72 | $+3.33 | +1.4% | Increase |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $79.17 | $79.30 | $+0.13 | +0.2% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $162.53 | $162.19 | $-0.34 | -0.2% | Decrease |
+| Fresh Ground Chicken Tray | $100.47 | $100.22 | $-0.25 | -0.2% | Decrease |
+| Frozen Lamb Shoulder Chops Tray | $119.79 | $119.96 | $+0.17 | +0.1% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Case | $1625.64 | $1629.84 | $+4.20 | +0.3% | Increase |
+| Fresh Chicken Thighs Boneless Bag | $334.52 | $334.28 | $-0.24 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -298,6 +298,4 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Kirkland Signature Mini Chocolate Chip Cookies 30 Units 28 g / 1 oz | Kirkland Signature | $172.95 | G10D03 |
-| Froot Loops Chocolate Flavored Cereal 878 g / 31 oz | Froot Loops | $126.95 | G10D03 |
-| Flavorite Assorted Ice Cream Bars 3 Units / 1 L / 33.8 oz | Flavorite | $149.95 | G10D03 |
+| Barista Vanilla Cappuccino Powder Mix 2 Units / 320 g | Café Barista | $74.95 | G10D03 |
