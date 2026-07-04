@@ -6,10 +6,10 @@
 - **Average price**: $113.87
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1119
-- **Price changes detected**: 23
-- **Stock/availability changes**: 21
+- **New products added**: 0
+- **Existing products updated**: 1120
+- **Price changes detected**: 0
+- **Stock/availability changes**: 24
 - **Discontinued products**: 0
 
 ## Top 5 Brands
@@ -26,9 +26,9 @@
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
+| Juver 100% Multifruit Juice 30 Units / 200 mL / 6.76 oz | Juver | $124.95 | true |
 | Nescafé Ice Instant Coffee 2 Units / 100 g / 3.5 oz + Glass | Nescafé | $86.95 | true |
 | Pringles Football Edition Potato Chips Assorted Flavors with Collectible Color-Changing Cup 3 Units 150 g / 5.2 oz | Pringles | $94.95 | true |
-| Juver 100% Multifruit Juice 30 Units / 200 mL / 6.76 oz | Juver | $124.95 | true |
 | Galbani Mozzarella Cheese Block 2.26 kg / 5 lb | Galbani | $122.95 | true |
 | SIPPZZ Assorted Flavor Sparkling Juices 24 Units / 250 mL / 8.5 oz | SIPPZZ | $154.95 | true |
 | 4C Peach Tea 2.34 kg / 5 lb | 4C | $89.95 | true |
@@ -40,11 +40,11 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1065
-- **Price increases**: 533
-- **Price decreases**: 507
+- **Total price changes**: 1045
+- **Price increases**: 517
+- **Price decreases**: 503
 - **Average increase**: 6.5%
-- **Average decrease**: -4.7%
+- **Average decrease**: -4.8%
 
 ## Recent Price Changes
 
@@ -112,7 +112,4 @@
 | Garofalo Organic Penne Rigate 4 Units / 500 g / 1.1 lb | Garofalo | $89.95 | 2026-06-28 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Barista Vanilla Cappuccino Powder Mix 2 Units / 320 g | Café Barista | $74.95 | G10D03 |
+No new products added today.
