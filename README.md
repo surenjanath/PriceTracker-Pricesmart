@@ -185,22 +185,22 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1120
-- **Total value**: $125,996.75
-- **Average price**: $112.50
+- **Total value**: $125,013.89
+- **Average price**: $111.62
 
 ## Database Changes
 - **New products added**: 1
 - **Existing products updated**: 1119
-- **Price changes detected**: 19
-- **Stock/availability changes**: 27
-- **Discontinued products**: 1
+- **Price changes detected**: 22
+- **Stock/availability changes**: 20
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 177 |
-|  | 135 |
+| Member's Selection | 176 |
+|  | 134 |
 | Badia | 17 |
 | Swiss | 14 |
 | Kirkland Signature | 12 |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 990
-- **Price increases**: 491
-- **Price decreases**: 473
-- **Average increase**: 6.5%
-- **Average decrease**: -5.0%
+- **Total price changes**: 1013
+- **Price increases**: 501
+- **Price decreases**: 485
+- **Average increase**: 6.4%
+- **Average decrease**: -5.2%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Erin Farms Turkey Ham 750 g / 1.6 lb | $47.95 | $51.95 | $+4.00 | +8.3% | Increase |
-| Fresh Squash 2 Units | $0.00 | $39.95 | $+39.95 | +100.0% | New |
-| Papaya | $39.33 | $39.36 | $+0.03 | +0.1% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $192.61 | $193.47 | $+0.86 | +0.4% | Increase |
-| Frozen Sliced Turkey Drumsticks | $189.87 | $187.59 | $-2.28 | -1.2% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $71.73 | $71.53 | $-0.20 | -0.3% | Decrease |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.57 | $74.44 | $-0.13 | -0.2% | Decrease |
-| President Brie Cheese 555 g / 1.2 lb | $29.70 | $79.95 | $+50.25 | +169.2% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $160.34 | $160.85 | $+0.51 | +0.3% | Increase |
-| Fresh Beef Striploin Steak Tray | $246.03 | $247.38 | $+1.35 | +0.5% | Increase |
-| Frozen Bone-In Pork Spare Rib Case | $1375.41 | $1462.64 | $+87.23 | +6.3% | Increase |
-| Fresh Whole Chicken 2 Units | $104.33 | $104.50 | $+0.17 | +0.2% | Increase |
-| Frozen Boneless Skinless Chicken Breast Tray | $159.55 | $159.27 | $-0.28 | -0.2% | Decrease |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $82.50 | $82.62 | $+0.12 | +0.1% | Increase |
-| Fresh Cucumber 1 kg / 2.2 lb | $19.95 | $17.95 | $-2.00 | -10.0% | Decrease |
+| Promasa Yellow Corn Flour 2 Units / 1 kg | $0.00 | $32.95 | $+32.95 | +100.0% | New |
+| Frozen Bone-In Goat Carcass Case | $1539.85 | $1377.16 | $-162.69 | -10.6% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $193.47 | $193.76 | $+0.29 | +0.1% | Increase |
+| Frozen Sliced Turkey Drumsticks | $187.59 | $189.87 | $+2.28 | +1.2% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $117.77 | $117.59 | $-0.18 | -0.2% | Decrease |
+| Ribeye Choice Fillet Fresh Tray | $309.08 | $308.34 | $-0.74 | -0.2% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $95.50 | $95.40 | $-0.10 | -0.1% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $160.85 | $160.68 | $-0.17 | -0.1% | Decrease |
+| Swiss Mayonnaise 2 units/ 946 ml / 32 oz | $66.95 | $84.95 | $+18.00 | +26.9% | Increase |
+| Orchard Assorted Drinks Juice Mix 6 Units / 1L | $55.95 | $61.95 | $+6.00 | +10.7% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $120.14 | $119.96 | $-0.18 | -0.1% | Decrease |
+| Frozen Bone-In Pork Spare Rib Case | $1462.64 | $1375.41 | $-87.23 | -6.0% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $89.82 | $90.10 | $+0.28 | +0.3% | Increase |
+| Frozen Boneless Skinless Chicken Breast Tray | $159.27 | $159.55 | $+0.28 | +0.2% | Increase |
+| Swiss Jumbo Econopak Tomato Ketchup 8 Units / 2 L / 67 oz | $169.95 | $182.95 | $+13.00 | +7.6% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,19 +283,19 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Mixed Pepper Box 9 kg / 20 lb |  | $249.95 | 2026-07-07 |
+| Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2026-07-07 |
 | Ocean Spray Cran Tropical Juices in Assorted Flavors with Vitamin C 24 Units / 295 mL / 10 oz | Ocean Spray | $179.95 | 2026-07-06 |
 | Fruit Roll Ups Assorted Fruit Rolls 72 Units / 14 g | Fruit Roll-Ups | $174.70 | 2026-07-05 |
 | Califia Farms Strawberry and Coconut Beverage 1.4 L / 48 oz | Califia Farms | $54.95 | 2026-07-05 |
 | Riceworks Sea Salt Sesame Chips 454 g / 16 oz | Riceworks | $84.95 | 2026-07-04 |
-| Marbella Asian Sushi Roll 10 Units | Marbella | $58.95 | 2026-07-01 |
 | Kellogg’s Assorted Cereals Corn Pops, Froot Loops & Apple Jacks 3 Bags / 1.05 kg / 37.3 oz | Kellogg's | $49.70 | 2026-07-01 |
 | Pafritas Potatoes with Black Truffle Flavor 500 g / 1.1 lb | Pafritas | $59.70 | 2026-07-01 |
 | Ferrero Rocher Giant Chocolate Bonbon Filled with Hazelnut and Chocolate Cream 125 g / 4.4 oz | Ferrero Rocher | $69.95 | 2026-07-01 |
 | Fresh Apple Cosmic Crisp 1.36 kg / 3 lb |  | $67.95 | 2026-07-01 |
-| Copper Kettle Dark Chocolate Truffles with Sea Salt 448 g / 16 oz | Copper Kettle | $149.95 | 2026-06-30 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Fresh Squash 2 Units |  | $39.95 | G10D03 |
+| Promasa Yellow Corn Flour 2 Units / 1 kg | Promasa | $32.95 | G10D03 |
