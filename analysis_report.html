@@ -1,22 +1,22 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1120
-- **Total value**: $125,358.62
-- **Average price**: $111.93
+- **Total products scraped**: 1121
+- **Total value**: $125,146.94
+- **Average price**: $111.64
 
 ## Database Changes
 - **New products added**: 2
-- **Existing products updated**: 1118
-- **Price changes detected**: 47
-- **Stock/availability changes**: 15
+- **Existing products updated**: 1119
+- **Price changes detected**: 25
+- **Stock/availability changes**: 7
 - **Discontinued products**: 2
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 176 |
+| Member's Selection | 177 |
 |  | 134 |
 | Badia | 17 |
 | Swiss | 14 |
@@ -27,44 +27,44 @@
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Member's Selection Freshly Made Assorted Doughnuts 12 Units | Member's Selection | $55.95 | true |
-| Member's Selection Freshly Baked Chocolate Chip Cookies 24 Units | Member's Selection | $60.95 | true |
 | Member's Selection Freshly Baked Blueberry Mini Muffins 24 Units | Member's Selection | $43.95 | true |
+| Member's Selection Freshly Baked Chocolate Chip Cookies 24 Units | Member's Selection | $60.95 | true |
 | Member's Selection Small Freshly Baked Croissants 18 Units | Member's Selection | $55.95 | true |
 | Member's Selection Freshly Baked Vanilla Cake 40 to 50 Slices | Member's Selection | $198.95 | true |
-| Member's Selection Fresh Baked Cheesecake 15 to 20 Slices | Member's Selection | $206.95 | true |
 | Member's Selection Fresh Baked Vanilla Cake 20 to 24 Slices | Member's Selection | $102.95 | true |
-| Member's Selection Freshly Baked Apple Mini Strudels 20 Units | Member's Selection | $54.95 | true |
-| Member's Selection Cookies and Cream Cake Decorated with Oreo Cookie 12 Slices | Member's Selection | $139.95 | true |
+| Member's Selection Fresh Baked Cheesecake 15 to 20 Slices | Member's Selection | $206.95 | true |
+| Member's Selection Vanilla Chocolate Cake Freshly Baked 20 to 25 Slices | Member's Selection | $102.95 | true |
+| Member's Selection Freshly Baked Black Forest Cake 10 to 12 Slices | Member's Selection | $139.95 | true |
 | Member's Selection Freshly Baked Oatmeal Cookies 24 Units | Member's Selection | $60.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1026
-- **Price increases**: 526
-- **Price decreases**: 471
-- **Average increase**: 6.5%
+- **Total price changes**: 1027
+- **Price increases**: 524
+- **Price decreases**: 472
+- **Average increase**: 6.6%
 - **Average decrease**: -5.3%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Prana Granola Organic Oatmeal Cookie Flavor 1 kg / 35.27 oz | $104.95 | $105.95 | $+1.00 | +1.0% | Increase |
-| La Yogurt Yogurt 12 Units / 170 g / 6 oz | $87.95 | $89.95 | $+2.00 | +2.3% | Increase |
-| Bagelmania Artisanal Simple Bagel Bread 6 Units | $0.00 | $34.95 | $+34.95 | +100.0% | New |
-| Chobani Low-Fat Greek Yogurt 16 Units / 128 g / 4.5 oz | $0.00 | $174.95 | $+174.95 | +100.0% | New |
-| Promasa Yellow Corn Flour 2 Units / 1 kg | $32.95 | $44.95 | $+12.00 | +36.4% | Increase |
-| Papaya | $39.36 | $39.49 | $+0.13 | +0.3% | Increase |
-| Welch's Concord Grape Fruit Juice 1.75 L / 59 oz | $33.95 | $34.95 | $+1.00 | +2.9% | Increase |
-| Tropicland Pigeon Peas 1.8 kg / 4 lb | $107.95 | $109.95 | $+2.00 | +1.9% | Increase |
-| Chief Pink Himalayan Salt 1.2 kg / 2.6 lb | $72.95 | $82.95 | $+10.00 | +13.7% | Increase |
-| Ribeye Choice Fillet Fresh Tray | $308.34 | $309.08 | $+0.74 | +0.2% | Increase |
-| Gouda Cheese Block | $89.56 | $89.42 | $-0.14 | -0.2% | Decrease |
-| Tropicland Peas and Carrots 1.8 kg / 4 lb | $82.95 | $84.95 | $+2.00 | +2.4% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $67.42 | $67.63 | $+0.21 | +0.3% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $71.53 | $71.43 | $-0.10 | -0.1% | Decrease |
-| Caribbean Foods Delight Curry Chicken Patties 10 Units / 142 g / 5 oz | $149.95 | $154.95 | $+5.00 | +3.3% | Increase |
+| Stamina Energy Drink Assorted Flavors 12 Units / 330 mL | $53.95 | $48.70 | $-5.25 | -9.7% | Decrease |
+| Munchy's Krunch Oat Cookies with Dark Chocolate and Cranberries 3 Units / 208 g / 7.3 oz | $0.00 | $49.95 | $+49.95 | +100.0% | New |
+| Chilled Chicken Gizzard Tray Pack | $44.58 | $44.30 | $-0.28 | -0.6% | Decrease |
+| Papaya | $39.49 | $39.40 | $-0.09 | -0.2% | Decrease |
+| Erin Farm Salami Stick 1 kg / 2.2 lb | $47.95 | $52.95 | $+5.00 | +10.4% | Increase |
+| Ginger 1 kg / 2.2 lb | $0.00 | $24.95 | $+24.95 | +100.0% | New |
+| Ribeye Choice Fillet Fresh Tray | $309.08 | $308.34 | $-0.74 | -0.2% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $117.59 | $117.41 | $-0.18 | -0.2% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $67.63 | $67.70 | $+0.07 | +0.1% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $71.43 | $71.33 | $-0.10 | -0.1% | Decrease |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $79.30 | $90.46 | $+11.16 | +14.1% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $193.76 | $193.47 | $-0.29 | -0.1% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $160.68 | $159.67 | $-1.01 | -0.6% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $92.06 | $92.15 | $+0.09 | +0.1% | Increase |
+| Fresh Chicken Mixed Parts Tray | $83.22 | $83.32 | $+0.10 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,8 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Maeva BIO Organic Extra Virgin Olive Oil Spray 2 Units / 200 mL / 6.7 oz | Maeva | $59.95 | 2026-07-09 |
+| Tomato 11.3 kg / 25 lb |  | $259.95 | 2026-07-09 |
 | Lush Natural Refreshing Apple Flavored Drink 36 Units / 200 ml | Lush | $79.70 | 2026-07-08 |
 | Macfoods Roast Boneless Pork Belly, 1 kg / 2.2 lb | Macfoods | $79.95 | 2026-07-08 |
 | Mixed Pepper Box 9 kg / 20 lb |  | $249.95 | 2026-07-07 |
@@ -108,12 +110,10 @@
 | Fruit Roll Ups Assorted Fruit Rolls 72 Units / 14 g | Fruit Roll-Ups | $174.70 | 2026-07-05 |
 | Califia Farms Strawberry and Coconut Beverage 1.4 L / 48 oz | Califia Farms | $54.95 | 2026-07-05 |
 | Riceworks Sea Salt Sesame Chips 454 g / 16 oz | Riceworks | $84.95 | 2026-07-04 |
-| Kellogg’s Assorted Cereals Corn Pops, Froot Loops & Apple Jacks 3 Bags / 1.05 kg / 37.3 oz | Kellogg's | $49.70 | 2026-07-01 |
-| Pafritas Potatoes with Black Truffle Flavor 500 g / 1.1 lb | Pafritas | $59.70 | 2026-07-01 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Bagelmania Artisanal Simple Bagel Bread 6 Units | Bagelmania | $34.95 | G10D03 |
-| Chobani Low-Fat Greek Yogurt 16 Units / 128 g / 4.5 oz | Chobani | $174.95 | G10D03 |
+| Munchy's Krunch Oat Cookies with Dark Chocolate and Cranberries 3 Units / 208 g / 7.3 oz | Munchy's | $49.95 | G10D03 |
+| Ginger 1 kg / 2.2 lb |  | $24.95 | G10D03 |
