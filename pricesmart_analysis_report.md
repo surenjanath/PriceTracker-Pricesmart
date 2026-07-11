@@ -1,15 +1,15 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1121
-- **Total value**: $125,146.94
-- **Average price**: $111.64
+- **Total products scraped**: 1120
+- **Total value**: $125,043.56
+- **Average price**: $111.65
 
 ## Database Changes
-- **New products added**: 2
+- **New products added**: 1
 - **Existing products updated**: 1119
-- **Price changes detected**: 25
-- **Stock/availability changes**: 7
+- **Price changes detected**: 39
+- **Stock/availability changes**: 9
 - **Discontinued products**: 2
 
 ## Top 5 Brands
@@ -26,45 +26,45 @@
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
+| 4C Peach Tea 2.34 kg / 5 lb | 4C | $89.95 | true |
+| Pringles Football Edition Potato Chips Assorted Flavors with Collectible Color-Changing Cup 3 Units 150 g / 5.2 oz | Pringles | $94.95 | true |
+| SIPPZZ Assorted Flavor Sparkling Juices 24 Units / 250 mL / 8.5 oz | SIPPZZ | $154.95 | true |
+| Juver 100% Multifruit Juice 30 Units / 200 mL / 6.76 oz | Juver | $124.95 | true |
+| Nescafé Ice Instant Coffee 2 Units / 100 g / 3.5 oz + Glass | Nescafé | $86.95 | true |
+| Galbani Mozzarella Cheese Block 2.26 kg / 5 lb | Galbani | $122.95 | true |
+| Lush Apple Flavored Fruit Drink 24 Units / 200 mL / 6.76 oz | Lush | $59.95 | true |
 | Member's Selection Freshly Made Assorted Doughnuts 12 Units | Member's Selection | $55.95 | true |
-| Member's Selection Freshly Baked Blueberry Mini Muffins 24 Units | Member's Selection | $43.95 | true |
 | Member's Selection Freshly Baked Chocolate Chip Cookies 24 Units | Member's Selection | $60.95 | true |
-| Member's Selection Small Freshly Baked Croissants 18 Units | Member's Selection | $55.95 | true |
-| Member's Selection Freshly Baked Vanilla Cake 40 to 50 Slices | Member's Selection | $198.95 | true |
-| Member's Selection Fresh Baked Vanilla Cake 20 to 24 Slices | Member's Selection | $102.95 | true |
-| Member's Selection Fresh Baked Cheesecake 15 to 20 Slices | Member's Selection | $206.95 | true |
-| Member's Selection Vanilla Chocolate Cake Freshly Baked 20 to 25 Slices | Member's Selection | $102.95 | true |
-| Member's Selection Freshly Baked Black Forest Cake 10 to 12 Slices | Member's Selection | $139.95 | true |
-| Member's Selection Freshly Baked Oatmeal Cookies 24 Units | Member's Selection | $60.95 | true |
+| Member's Selection Freshly Baked Blueberry Mini Muffins 24 Units | Member's Selection | $43.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1027
-- **Price increases**: 524
-- **Price decreases**: 472
-- **Average increase**: 6.6%
+- **Total price changes**: 1053
+- **Price increases**: 541
+- **Price decreases**: 480
+- **Average increase**: 6.7%
 - **Average decrease**: -5.3%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Stamina Energy Drink Assorted Flavors 12 Units / 330 mL | $53.95 | $48.70 | $-5.25 | -9.7% | Decrease |
-| Munchy's Krunch Oat Cookies with Dark Chocolate and Cranberries 3 Units / 208 g / 7.3 oz | $0.00 | $49.95 | $+49.95 | +100.0% | New |
-| Chilled Chicken Gizzard Tray Pack | $44.58 | $44.30 | $-0.28 | -0.6% | Decrease |
-| Papaya | $39.49 | $39.40 | $-0.09 | -0.2% | Decrease |
-| Erin Farm Salami Stick 1 kg / 2.2 lb | $47.95 | $52.95 | $+5.00 | +10.4% | Increase |
-| Ginger 1 kg / 2.2 lb | $0.00 | $24.95 | $+24.95 | +100.0% | New |
-| Ribeye Choice Fillet Fresh Tray | $309.08 | $308.34 | $-0.74 | -0.2% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $117.59 | $117.41 | $-0.18 | -0.2% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $67.63 | $67.70 | $+0.07 | +0.1% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $71.43 | $71.33 | $-0.10 | -0.1% | Decrease |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $79.30 | $90.46 | $+11.16 | +14.1% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $193.76 | $193.47 | $-0.29 | -0.1% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $160.68 | $159.67 | $-1.01 | -0.6% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $92.06 | $92.15 | $+0.09 | +0.1% | Increase |
-| Fresh Chicken Mixed Parts Tray | $83.22 | $83.32 | $+0.10 | +0.1% | Increase |
+| Iceberg Lettuce Unit | $49.95 | $37.95 | $-12.00 | -24.0% | Decrease |
+| EVE Sardines in Soybean Oil 6 Units / 106 g | $0.00 | $46.95 | $+46.95 | +100.0% | New |
+| Promasa Yellow Corn Flour 2 Units / 1 kg | $44.95 | $32.95 | $-12.00 | -26.7% | Decrease |
+| Froot Loops Chocolate Flavored Cereal 878 g / 31 oz | $126.95 | $95.95 | $-31.00 | -24.4% | Decrease |
+| Ribeye Choice Fillet Fresh Tray | $308.34 | $309.08 | $+0.74 | +0.2% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $67.70 | $67.83 | $+0.13 | +0.2% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $71.33 | $71.23 | $-0.10 | -0.1% | Decrease |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.44 | $74.57 | $+0.13 | +0.2% | Increase |
+| Peach 908 g / 2 lb | $52.95 | $54.95 | $+2.00 | +3.8% | Increase |
+| Nestle Lucky Charms Cereal 2 Units 652 g / 23 oz  | $112.95 | $109.95 | $-3.00 | -2.7% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $159.67 | $159.17 | $-0.50 | -0.3% | Decrease |
+| Good Grains Flax Chia Blend 1.36 kg / 3 lb | $82.45 | $81.95 | $-0.50 | -0.6% | Decrease |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $161.63 | $161.44 | $-0.19 | -0.1% | Decrease |
+| Nestle Cinnamon Toast Crunch Cereal 1.24 kg / 43.7 oz | $109.95 | $107.95 | $-2.00 | -1.8% | Decrease |
+| Frozen Lamb Shoulder Chops Tray | $120.14 | $120.32 | $+0.18 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,8 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Arla Havarti & Gouda Snack Cheese 24 Units / 21 g / 0.75 oz  | Arla | $112.95 | 2026-07-10 |
+| Bombolo Biscotti Festive Valentine's Day Cookies | Bombolo Biscotti | $39.70 | 2026-07-10 |
 | Maeva BIO Organic Extra Virgin Olive Oil Spray 2 Units / 200 mL / 6.7 oz | Maeva | $59.95 | 2026-07-09 |
 | Tomato 11.3 kg / 25 lb |  | $259.95 | 2026-07-09 |
 | Lush Natural Refreshing Apple Flavored Drink 36 Units / 200 ml | Lush | $79.70 | 2026-07-08 |
@@ -108,12 +110,9 @@
 | Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2026-07-07 |
 | Ocean Spray Cran Tropical Juices in Assorted Flavors with Vitamin C 24 Units / 295 mL / 10 oz | Ocean Spray | $179.95 | 2026-07-06 |
 | Fruit Roll Ups Assorted Fruit Rolls 72 Units / 14 g | Fruit Roll-Ups | $174.70 | 2026-07-05 |
-| Califia Farms Strawberry and Coconut Beverage 1.4 L / 48 oz | Califia Farms | $54.95 | 2026-07-05 |
-| Riceworks Sea Salt Sesame Chips 454 g / 16 oz | Riceworks | $84.95 | 2026-07-04 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Munchy's Krunch Oat Cookies with Dark Chocolate and Cranberries 3 Units / 208 g / 7.3 oz | Munchy's | $49.95 | G10D03 |
-| Ginger 1 kg / 2.2 lb |  | $24.95 | G10D03 |
+| EVE Sardines in Soybean Oil 6 Units / 106 g | Eve | $46.95 | G10D03 |
