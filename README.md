@@ -185,23 +185,23 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1117
-- **Total value**: $124,744.53
-- **Average price**: $111.68
+- **Total value**: $125,086.61
+- **Average price**: $111.98
 
 ## Database Changes
 - **New products added**: 0
 - **Existing products updated**: 1117
-- **Price changes detected**: 21
-- **Stock/availability changes**: 13
-- **Discontinued products**: 3
+- **Price changes detected**: 55
+- **Stock/availability changes**: 9
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 177 |
-|  | 134 |
-| Badia | 17 |
+| Member's Selection | 178 |
+|  | 135 |
+| Badia | 16 |
 | Swiss | 14 |
 | Kirkland Signature | 12 |
 
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1013
-- **Price increases**: 521
-- **Price decreases**: 461
-- **Average increase**: 5.7%
-- **Average decrease**: -5.3%
+- **Total price changes**: 1016
+- **Price increases**: 536
+- **Price decreases**: 450
+- **Average increase**: 6.2%
+- **Average decrease**: -5.7%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Papaya | $39.40 | $39.46 | $+0.06 | +0.2% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $67.83 | $67.90 | $+0.07 | +0.1% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $71.23 | $70.93 | $-0.30 | -0.4% | Decrease |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.57 | $74.44 | $-0.13 | -0.2% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $193.47 | $193.18 | $-0.29 | -0.1% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $281.39 | $281.06 | $-0.33 | -0.1% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $90.10 | $90.24 | $+0.14 | +0.2% | Increase |
-| Fresh Ground Chicken Tray | $100.85 | $101.10 | $+0.25 | +0.2% | Increase |
-| Fresh Chicken Thighs Boneless Tray | $91.06 | $91.19 | $+0.13 | +0.1% | Increase |
-| Fresh Whole Chicken 2 Units | $104.50 | $104.68 | $+0.18 | +0.2% | Increase |
-| Fresh Chicken Thighs Boneless Bag | $335.12 | $335.24 | $+0.12 | +0.0% | Increase |
-| Pork Chop with Bone Frozen Tray | $80.09 | $80.21 | $+0.12 | +0.1% | Increase |
-| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $179.25 | $179.12 | $-0.13 | -0.1% | Decrease |
-| Frozen Bone-In Pork Spare Rib Case | $1375.41 | $1376.53 | $+1.12 | +0.1% | Increase |
-| Fresh Beef Striploin Steak Tray | $247.38 | $246.03 | $-1.35 | -0.5% | Decrease |
+| Black Seedless Grapes 907 g / 2 lb | $69.95 | $79.95 | $+10.00 | +14.3% | Increase |
+| Frozen Sliced Turkey Drumsticks | $189.87 | $190.54 | $+0.67 | +0.4% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $67.90 | $67.97 | $+0.07 | +0.1% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $70.93 | $70.83 | $-0.10 | -0.1% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $95.40 | $95.50 | $+0.10 | +0.1% | Increase |
+| Hellmann's Real Mayonnaise Prepared with Country Eggs 2 Units / 887 mL / 30 oz | $84.95 | $71.95 | $-13.00 | -15.3% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $193.18 | $193.47 | $+0.29 | +0.2% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $159.17 | $158.83 | $-0.34 | -0.2% | Decrease |
+| Maggi Season-Up Chicken Seasoning 2 Units / 430 g | $78.95 | $93.95 | $+15.00 | +19.0% | Increase |
+| Fresh Whole Chicken for Frying Bag | $281.06 | $280.73 | $-0.33 | -0.1% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $90.24 | $90.52 | $+0.28 | +0.3% | Increase |
+| Fresh Ground Chicken Tray | $101.10 | $101.60 | $+0.50 | +0.5% | Increase |
+| Fresh Chicken Thighs Boneless Tray | $91.19 | $91.32 | $+0.13 | +0.1% | Increase |
+| Fresh Whole Chicken 2 Units | $104.68 | $104.50 | $-0.18 | -0.2% | Decrease |
+| Pork Belly with Skin Frozen Vacuum Packaged | $169.25 | $169.87 | $+0.62 | +0.4% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,8 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Banner Farms Straight-Cut French Fries  | Banner Farms | $305.95 | 2026-07-12 |
+| Badia Mojo Rub Citrus Blend 680.4 g / 24 oz  | Badia | $32.70 | 2026-07-12 |
 | Nature Valley Sweet and Salty Almond Granola Bar 36 Units / 34 g / 1.2 oz | Nature Valley | $129.95 | 2026-07-11 |
 | Pafritas Paprika Flavor Potato Chips 500 g / 1.1 lb | Pafritas | $59.70 | 2026-07-11 |
 | Terra Creta Extra Virgin Olive Oil in Marasca 1 L / 33.81 oz | Terra Creta | $109.95 | 2026-07-11 |
@@ -291,8 +293,6 @@ This project has recently gained unexpected attention. It was created for person
 | Maeva BIO Organic Extra Virgin Olive Oil Spray 2 Units / 200 mL / 6.7 oz | Maeva | $59.95 | 2026-07-09 |
 | Tomato 11.3 kg / 25 lb |  | $259.95 | 2026-07-09 |
 | Lush Natural Refreshing Apple Flavored Drink 36 Units / 200 ml | Lush | $79.70 | 2026-07-08 |
-| Macfoods Roast Boneless Pork Belly, 1 kg / 2.2 lb | Macfoods | $79.95 | 2026-07-08 |
-| Mixed Pepper Box 9 kg / 20 lb |  | $249.95 | 2026-07-07 |
 
 ## New Products Added Today
 No new products added today.
