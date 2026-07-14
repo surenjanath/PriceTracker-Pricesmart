@@ -2,15 +2,15 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1117
-- **Total value**: $125,086.61
-- **Average price**: $111.98
+- **Total value**: $125,134.09
+- **Average price**: $112.03
 
 ## Database Changes
 - **New products added**: 0
 - **Existing products updated**: 1117
-- **Price changes detected**: 55
-- **Stock/availability changes**: 9
-- **Discontinued products**: 2
+- **Price changes detected**: 23
+- **Stock/availability changes**: 10
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1016
-- **Price increases**: 536
-- **Price decreases**: 450
+- **Total price changes**: 1039
+- **Price increases**: 547
+- **Price decreases**: 462
 - **Average increase**: 6.2%
-- **Average decrease**: -5.7%
+- **Average decrease**: -5.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Black Seedless Grapes 907 g / 2 lb | $69.95 | $79.95 | $+10.00 | +14.3% | Increase |
-| Frozen Sliced Turkey Drumsticks | $189.87 | $190.54 | $+0.67 | +0.4% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $67.90 | $67.97 | $+0.07 | +0.1% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $70.93 | $70.83 | $-0.10 | -0.1% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $95.40 | $95.50 | $+0.10 | +0.1% | Increase |
-| Hellmann's Real Mayonnaise Prepared with Country Eggs 2 Units / 887 mL / 30 oz | $84.95 | $71.95 | $-13.00 | -15.3% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $193.18 | $193.47 | $+0.29 | +0.2% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $159.17 | $158.83 | $-0.34 | -0.2% | Decrease |
-| Maggi Season-Up Chicken Seasoning 2 Units / 430 g | $78.95 | $93.95 | $+15.00 | +19.0% | Increase |
-| Fresh Whole Chicken for Frying Bag | $281.06 | $280.73 | $-0.33 | -0.1% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $90.24 | $90.52 | $+0.28 | +0.3% | Increase |
-| Fresh Ground Chicken Tray | $101.10 | $101.60 | $+0.50 | +0.5% | Increase |
-| Fresh Chicken Thighs Boneless Tray | $91.19 | $91.32 | $+0.13 | +0.1% | Increase |
-| Fresh Whole Chicken 2 Units | $104.68 | $104.50 | $-0.18 | -0.2% | Decrease |
-| Pork Belly with Skin Frozen Vacuum Packaged | $169.25 | $169.87 | $+0.62 | +0.4% | Increase |
+| Papaya | $39.46 | $39.40 | $-0.06 | -0.2% | Decrease |
+| Ankara Spaghetti 5 Units / 400 g | $42.95 | $40.95 | $-2.00 | -4.7% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $190.54 | $190.94 | $+0.40 | +0.2% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $67.97 | $68.04 | $+0.07 | +0.1% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $70.83 | $70.73 | $-0.10 | -0.1% | Decrease |
+| Angel Parboiled Rice Extra Long Grain 9 kg / 19.8 lb | $92.95 | $91.95 | $-1.00 | -1.1% | Decrease |
+| Fresh Ground Chicken Tray | $101.60 | $101.85 | $+0.25 | +0.2% | Increase |
+| Fresh Chicken Mixed Parts Tray | $83.32 | $83.22 | $-0.10 | -0.1% | Decrease |
+| Fresh Chicken Thighs Boneless Bag | $335.24 | $336.20 | $+0.96 | +0.3% | Increase |
+| Fresh Whole Chicken for Frying Bag | $280.73 | $280.24 | $-0.49 | -0.2% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $92.15 | $92.24 | $+0.09 | +0.1% | Increase |
+| Fresh Chicken Thighs Boneless Tray | $91.32 | $91.06 | $-0.26 | -0.3% | Decrease |
+| Pork Belly with Skin Frozen Vacuum Packaged | $169.87 | $170.28 | $+0.41 | +0.2% | Increase |
+| Fresh Ground Chicken Meat Bag | $293.57 | $292.98 | $-0.59 | -0.2% | Decrease |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $82.88 | $82.75 | $-0.13 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
