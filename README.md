@@ -185,15 +185,15 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1115
-- **Total value**: $124,432.79
-- **Average price**: $111.60
+- **Total value**: $124,490.56
+- **Average price**: $111.65
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1113
-- **Price changes detected**: 46
-- **Stock/availability changes**: 15
-- **Discontinued products**: 2
+- **New products added**: 0
+- **Existing products updated**: 1115
+- **Price changes detected**: 25
+- **Stock/availability changes**: 9
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -211,43 +211,43 @@ This project has recently gained unexpected attention. It was created for person
 |-------|-------|-------------|--------------|
 | El Exquisito Sabor Traditional Tiramisu with Ladyfingers and Mascarpone | El Exquisito Sabor | $91.95 | true |
 | Perrier Sparkling Mineral Water Refreshing and Bubbly Pack of 4 Units / 330 mL / 11.15 oz | Perrier | $39.95 | true |
-| Bagelmania Artisanal Simple Bagel Bread 6 Units | Bagelmania | $34.95 | true |
 | SIPPZZ Assorted Flavor Sparkling Juices 24 Units / 250 mL / 8.5 oz | SIPPZZ | $154.95 | true |
+| Bagelmania Artisanal Simple Bagel Bread 6 Units | Bagelmania | $34.95 | true |
 | Kirkland Signature Mini Chocolate Chip Cookies 30 Units 28 g / 1 oz | Kirkland Signature | $172.95 | true |
-| Maison Perrier Sparkling Water with Lime Flavor 10 Units / 250 mL / 8.5 oz | Maison Perrier | $89.95 | true |
 | Chobani Low-Fat Greek Yogurt 16 Units / 128 g / 4.5 oz | Chobani | $174.95 | true |
+| Maison Perrier Sparkling Water with Lime Flavor 10 Units / 250 mL / 8.5 oz | Maison Perrier | $89.95 | true |
 | Barista Vanilla Cappuccino Powder Mix 2 Units / 320 g | Café Barista | $74.95 | true |
+| Lush Apple Flavored Fruit Drink 24 Units / 200 mL / 6.76 oz | Lush | $59.95 | true |
 | Froot Loops Chocolate Flavored Cereal 878 g / 31 oz | Froot Loops | $95.95 | true |
-| KFI Korma Cooking Sauce 2 Units / 650 mL | KFI | $89.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1037
-- **Price increases**: 554
+- **Total price changes**: 1038
+- **Price increases**: 558
 - **Price decreases**: 451
 - **Average increase**: 5.7%
-- **Average decrease**: -5.1%
+- **Average decrease**: -5.2%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| La Croix Sparkling Water Variety Pack 24 Units / 355 mL / 12 oz  | $126.95 | $125.95 | $-1.00 | -0.8% | Decrease |
-| Dare Real Fruit Superfruit Gummies 18 Units / 55 g | $0.00 | $99.95 | $+99.95 | +100.0% | New |
-| Toppers Assorted Popcorn 20 Units / 14 g | $0.00 | $42.95 | $+42.95 | +100.0% | New |
-| Cole Cold Assorted Sodas 6 Units / 2 L | $48.95 | $47.95 | $-1.00 | -2.0% | Decrease |
-| Three Little Pigs Pate Combo Pack 307 g / 14 oz | $129.95 | $89.70 | $-40.25 | -31.0% | Decrease |
-| Brunswick Canned Mackerel in Tomato Sauce 3 Units / 425 g | $39.95 | $40.95 | $+1.00 | +2.5% | Increase |
-| Fratelli Beretta Italian Style Platter 340 g / 12 oz  | $81.95 | $84.95 | $+3.00 | +3.7% | Increase |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.44 | $74.18 | $-0.26 | -0.3% | Decrease |
-| Karnis Assorted Flavored Dressings 3 Units / 226 g / 8 oz | $97.95 | $96.95 | $-1.00 | -1.0% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $193.47 | $193.76 | $+0.29 | +0.1% | Increase |
-| Charles Munchables Assorted Candies and Chocolates 50 Units | $65.95 | $69.95 | $+4.00 | +6.1% | Increase |
-| The English Cheese Company Cheddar Cheese 1 kg / 2.2 lb | $79.95 | $87.95 | $+8.00 | +10.0% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $158.33 | $158.16 | $-0.17 | -0.1% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $90.66 | $90.52 | $-0.14 | -0.2% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $83.82 | $83.32 | $-0.50 | -0.6% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $280.24 | $280.08 | $-0.16 | -0.1% | Decrease |
+| Nongshim Shin Toomba Hot and Creamy Instant Ramen 4 Units / 137 g | $67.95 | $59.95 | $-8.00 | -11.8% | Decrease |
+| Frozen Lamb Leg Whole Vacuum Packed | $402.48 | $400.47 | $-2.01 | -0.5% | Decrease |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $90.75 | $90.90 | $+0.15 | +0.2% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $117.41 | $117.24 | $-0.17 | -0.1% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $70.73 | $70.53 | $-0.20 | -0.3% | Decrease |
+| Frozen Lamb Shoulder Chops Tray | $120.32 | $120.14 | $-0.18 | -0.1% | Decrease |
+| Carnation Evaporated Milk 6 Units / 371 mL / 12.5 oz | $65.95 | $72.95 | $+7.00 | +10.6% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $158.16 | $157.99 | $-0.17 | -0.1% | Decrease |
+| Fresh Ground Chicken Tray | $102.10 | $102.23 | $+0.13 | +0.1% | Increase |
+| Fresh Chicken Breast Bone In Tray | $92.42 | $92.33 | $-0.09 | -0.1% | Decrease |
+| Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $57.95 | $39.70 | $-18.25 | -31.5% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $90.52 | $90.66 | $+0.14 | +0.2% | Increase |
+| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $178.98 | $192.15 | $+13.17 | +7.4% | Increase |
+| Target Halal Corned Beef  4 Units / 380 g / 12 oz | $82.95 | $83.95 | $+1.00 | +1.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -295,8 +295,4 @@ This project has recently gained unexpected attention. It was created for person
 | Terra Creta Extra Virgin Olive Oil in Marasca 1 L / 33.81 oz | Terra Creta | $109.95 | 2026-07-11 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Dare Real Fruit Superfruit Gummies 18 Units / 55 g | Dare | $99.95 | G10D03 |
-| Toppers Assorted Popcorn 20 Units / 14 g | Toppers | $42.95 | G10D03 |
+No new products added today.
