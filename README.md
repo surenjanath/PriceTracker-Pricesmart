@@ -185,15 +185,15 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1115
-- **Total value**: $124,490.56
-- **Average price**: $111.65
+- **Total value**: $124,461.73
+- **Average price**: $111.62
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1115
-- **Price changes detected**: 25
-- **Stock/availability changes**: 9
-- **Discontinued products**: 0
+- **New products added**: 1
+- **Existing products updated**: 1114
+- **Price changes detected**: 37
+- **Stock/availability changes**: 17
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -218,36 +218,36 @@ This project has recently gained unexpected attention. It was created for person
 | Maison Perrier Sparkling Water with Lime Flavor 10 Units / 250 mL / 8.5 oz | Maison Perrier | $89.95 | true |
 | Barista Vanilla Cappuccino Powder Mix 2 Units / 320 g | Café Barista | $74.95 | true |
 | Lush Apple Flavored Fruit Drink 24 Units / 200 mL / 6.76 oz | Lush | $59.95 | true |
-| Froot Loops Chocolate Flavored Cereal 878 g / 31 oz | Froot Loops | $95.95 | true |
+| Crix Crispy Salted Crackers 4 Units / 300 g | Crix | $55.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1038
-- **Price increases**: 558
-- **Price decreases**: 451
-- **Average increase**: 5.7%
-- **Average decrease**: -5.2%
+- **Total price changes**: 1055
+- **Price increases**: 561
+- **Price decreases**: 464
+- **Average increase**: 5.9%
+- **Average decrease**: -5.3%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Whole Chicken for Frying Bag | $280.24 | $280.08 | $-0.16 | -0.1% | Decrease |
-| Nongshim Shin Toomba Hot and Creamy Instant Ramen 4 Units / 137 g | $67.95 | $59.95 | $-8.00 | -11.8% | Decrease |
-| Frozen Lamb Leg Whole Vacuum Packed | $402.48 | $400.47 | $-2.01 | -0.5% | Decrease |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $90.75 | $90.90 | $+0.15 | +0.2% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $117.41 | $117.24 | $-0.17 | -0.1% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $70.73 | $70.53 | $-0.20 | -0.3% | Decrease |
-| Frozen Lamb Shoulder Chops Tray | $120.32 | $120.14 | $-0.18 | -0.1% | Decrease |
-| Carnation Evaporated Milk 6 Units / 371 mL / 12.5 oz | $65.95 | $72.95 | $+7.00 | +10.6% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $158.16 | $157.99 | $-0.17 | -0.1% | Decrease |
-| Fresh Ground Chicken Tray | $102.10 | $102.23 | $+0.13 | +0.1% | Increase |
-| Fresh Chicken Breast Bone In Tray | $92.42 | $92.33 | $-0.09 | -0.1% | Decrease |
-| Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $57.95 | $39.70 | $-18.25 | -31.5% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $90.52 | $90.66 | $+0.14 | +0.2% | Increase |
-| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $178.98 | $192.15 | $+13.17 | +7.4% | Increase |
-| Target Halal Corned Beef  4 Units / 380 g / 12 oz | $82.95 | $83.95 | $+1.00 | +1.2% | Increase |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $193.68 | $193.29 | $-0.39 | -0.2% | Decrease |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $90.90 | $91.04 | $+0.14 | +0.2% | Increase |
+| Garofalo Gluten Free Spaghetti 4 Units / 340 g / 12 oz | $0.00 | $84.95 | $+84.95 | +100.0% | New |
+| Mini Sweet Peppers 454 g / 1 lb | $47.95 | $49.95 | $+2.00 | +4.2% | Increase |
+| Frozen Sliced Turkey Drumsticks | $190.94 | $191.48 | $+0.54 | +0.3% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $117.24 | $117.06 | $-0.18 | -0.2% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $68.10 | $68.17 | $+0.07 | +0.1% | Increase |
+| Gouda Cheese Block | $89.29 | $89.42 | $+0.13 | +0.1% | Increase |
+| Peach 908 g / 2 lb | $54.95 | $57.95 | $+3.00 | +5.5% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $193.76 | $193.47 | $-0.29 | -0.1% | Decrease |
+| Mini Potato 1.3 kg / 3 lb | $47.95 | $52.95 | $+5.00 | +10.4% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $92.82 | $92.59 | $-0.23 | -0.2% | Decrease |
+| Plum 907 g / 2 lb | $72.95 | $69.95 | $-3.00 | -4.1% | Decrease |
+| Cauliflower 1 Unit | $41.95 | $52.95 | $+11.00 | +26.2% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $120.14 | $119.96 | $-0.18 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -274,15 +274,16 @@ This project has recently gained unexpected attention. It was created for person
 | Garcia Chicken & Pork Smoked Sausage 680 g / 1.5 lb | $44.95 | $9.70 | -78.4% |
 | Tropical Frying Cheese 907 g / 32 oz | $89.95 | $19.70 | -78.1% |
 | Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $89.95 | $19.70 | -78.1% |
+| Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $89.95 | $19.70 | -78.1% |
 | Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $57.95 | $14.70 | -74.6% |
 | Bombolo Biscotti Decorated Cookies with Autumn Patterns 18 Units | $52.70 | $13.77 | -73.9% |
 | Sabra Classic Hummus 850 g / 30 oz | $79.95 | $24.70 | -69.1% |
-| Avocado 2 Units | $29.95 | $9.70 | -67.6% |
 
 ## Recently Discontinued Products
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Nature's Pride Small Red Beans 1.8 kg | Nature's Pride | $42.95 | 2026-07-17 |
 | Leclerc Quattro French Creme Cookies 2 Unit / 300 g | Leclerc | $47.95 | 2026-07-15 |
 | Pascual Yogi Kids Strawberry and Banana Yogurt with Fruit Pouch 24 Units / 80 g | Pascual | $229.95 | 2026-07-15 |
 | Prana Granola Organic Oatmeal Cookie Flavor 1 kg / 35.27 oz | Prana | $105.95 | 2026-07-14 |
@@ -292,7 +293,9 @@ This project has recently gained unexpected attention. It was created for person
 | Badia Mojo Rub Citrus Blend 680.4 g / 24 oz  | Badia | $32.70 | 2026-07-12 |
 | Nature Valley Sweet and Salty Almond Granola Bar 36 Units / 34 g / 1.2 oz | Nature Valley | $129.95 | 2026-07-11 |
 | Pafritas Paprika Flavor Potato Chips 500 g / 1.1 lb | Pafritas | $59.70 | 2026-07-11 |
-| Terra Creta Extra Virgin Olive Oil in Marasca 1 L / 33.81 oz | Terra Creta | $109.95 | 2026-07-11 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Garofalo Gluten Free Spaghetti 4 Units / 340 g / 12 oz | Garofalo | $84.95 | G10D03 |
