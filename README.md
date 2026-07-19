@@ -184,22 +184,22 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1115
-- **Total value**: $124,461.73
-- **Average price**: $111.62
+- **Total products scraped**: 1116
+- **Total value**: $124,860.51
+- **Average price**: $111.88
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1114
-- **Price changes detected**: 37
-- **Stock/availability changes**: 17
-- **Discontinued products**: 1
+- **New products added**: 0
+- **Existing products updated**: 1116
+- **Price changes detected**: 16
+- **Stock/availability changes**: 8
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 177 |
+| Member's Selection | 178 |
 |  | 135 |
 | Badia | 16 |
 | Swiss | 14 |
@@ -211,43 +211,43 @@ This project has recently gained unexpected attention. It was created for person
 |-------|-------|-------------|--------------|
 | El Exquisito Sabor Traditional Tiramisu with Ladyfingers and Mascarpone | El Exquisito Sabor | $91.95 | true |
 | Perrier Sparkling Mineral Water Refreshing and Bubbly Pack of 4 Units / 330 mL / 11.15 oz | Perrier | $39.95 | true |
-| SIPPZZ Assorted Flavor Sparkling Juices 24 Units / 250 mL / 8.5 oz | SIPPZZ | $154.95 | true |
 | Bagelmania Artisanal Simple Bagel Bread 6 Units | Bagelmania | $34.95 | true |
+| SIPPZZ Assorted Flavor Sparkling Juices 24 Units / 250 mL / 8.5 oz | SIPPZZ | $154.95 | true |
 | Kirkland Signature Mini Chocolate Chip Cookies 30 Units 28 g / 1 oz | Kirkland Signature | $172.95 | true |
 | Chobani Low-Fat Greek Yogurt 16 Units / 128 g / 4.5 oz | Chobani | $174.95 | true |
 | Maison Perrier Sparkling Water with Lime Flavor 10 Units / 250 mL / 8.5 oz | Maison Perrier | $89.95 | true |
 | Barista Vanilla Cappuccino Powder Mix 2 Units / 320 g | Café Barista | $74.95 | true |
-| Lush Apple Flavored Fruit Drink 24 Units / 200 mL / 6.76 oz | Lush | $59.95 | true |
+| KFI Korma Cooking Sauce 2 Units / 650 mL | KFI | $89.95 | true |
 | Crix Crispy Salted Crackers 4 Units / 300 g | Crix | $55.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1055
-- **Price increases**: 561
-- **Price decreases**: 464
-- **Average increase**: 5.9%
-- **Average decrease**: -5.3%
+- **Total price changes**: 999
+- **Price increases**: 531
+- **Price decreases**: 443
+- **Average increase**: 6.0%
+- **Average decrease**: -4.9%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $193.68 | $193.29 | $-0.39 | -0.2% | Decrease |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $90.90 | $91.04 | $+0.14 | +0.2% | Increase |
-| Garofalo Gluten Free Spaghetti 4 Units / 340 g / 12 oz | $0.00 | $84.95 | $+84.95 | +100.0% | New |
-| Mini Sweet Peppers 454 g / 1 lb | $47.95 | $49.95 | $+2.00 | +4.2% | Increase |
-| Frozen Sliced Turkey Drumsticks | $190.94 | $191.48 | $+0.54 | +0.3% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $117.24 | $117.06 | $-0.18 | -0.2% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $68.10 | $68.17 | $+0.07 | +0.1% | Increase |
-| Gouda Cheese Block | $89.29 | $89.42 | $+0.13 | +0.1% | Increase |
-| Peach 908 g / 2 lb | $54.95 | $57.95 | $+3.00 | +5.5% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $193.76 | $193.47 | $-0.29 | -0.1% | Decrease |
-| Mini Potato 1.3 kg / 3 lb | $47.95 | $52.95 | $+5.00 | +10.4% | Increase |
-| Fine Choice Fresh Marinated Chicken Tray | $92.82 | $92.59 | $-0.23 | -0.2% | Decrease |
-| Plum 907 g / 2 lb | $72.95 | $69.95 | $-3.00 | -4.1% | Decrease |
-| Cauliflower 1 Unit | $41.95 | $52.95 | $+11.00 | +26.2% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $120.14 | $119.96 | $-0.18 | -0.1% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $68.17 | $68.10 | $-0.07 | -0.1% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $117.06 | $116.88 | $-0.18 | -0.2% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $70.53 | $70.33 | $-0.20 | -0.3% | Decrease |
+| Fine Choice Fresh Marinated Chicken Tray | $92.59 | $92.82 | $+0.23 | +0.2% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $119.96 | $120.14 | $+0.18 | +0.2% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $157.49 | $156.99 | $-0.50 | -0.3% | Decrease |
+| Fresh Ground Chicken Tray | $102.23 | $101.98 | $-0.25 | -0.2% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $90.52 | $90.24 | $-0.28 | -0.3% | Decrease |
+| Fresh Chicken Thighs Boneless Tray | $90.93 | $91.06 | $+0.13 | +0.1% | Increase |
+| Fresh Whole Chicken 2 Units | $104.68 | $104.50 | $-0.18 | -0.2% | Decrease |
+| Fresh Ground Chicken Meat Bag | $294.87 | $293.69 | $-1.18 | -0.4% | Decrease |
+| Pork Chop with Bone Frozen Tray | $80.69 | $80.57 | $-0.12 | -0.1% | Decrease |
+| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $192.00 | $191.86 | $-0.14 | -0.1% | Decrease |
+| Frozen Boneless Skinless Chicken Breast Tray | $159.68 | $159.82 | $+0.14 | +0.1% | Increase |
+| Member's Selection Frozen Oxtail Bag | $182.35 | $182.64 | $+0.29 | +0.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -288,14 +288,11 @@ This project has recently gained unexpected attention. It was created for person
 | Pascual Yogi Kids Strawberry and Banana Yogurt with Fruit Pouch 24 Units / 80 g | Pascual | $229.95 | 2026-07-15 |
 | Prana Granola Organic Oatmeal Cookie Flavor 1 kg / 35.27 oz | Prana | $105.95 | 2026-07-14 |
 | Hostess Twinkies and Cupcakes Individually Packaged Assorted 32 Units | Hostess | $104.95 | 2026-07-14 |
-| Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2026-07-14 |
 | Banner Farms Straight-Cut French Fries  | Banner Farms | $305.95 | 2026-07-12 |
 | Badia Mojo Rub Citrus Blend 680.4 g / 24 oz  | Badia | $32.70 | 2026-07-12 |
 | Nature Valley Sweet and Salty Almond Granola Bar 36 Units / 34 g / 1.2 oz | Nature Valley | $129.95 | 2026-07-11 |
 | Pafritas Paprika Flavor Potato Chips 500 g / 1.1 lb | Pafritas | $59.70 | 2026-07-11 |
+| Terra Creta Extra Virgin Olive Oil in Marasca 1 L / 33.81 oz | Terra Creta | $109.95 | 2026-07-11 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Garofalo Gluten Free Spaghetti 4 Units / 340 g / 12 oz | Garofalo | $84.95 | G10D03 |
+No new products added today.
