@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1115
-- **Total value**: $124,502.40
-- **Average price**: $111.66
+- **Total products scraped**: 1114
+- **Total value**: $124,233.04
+- **Average price**: $111.52
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1113
-- **Price changes detected**: 24
-- **Stock/availability changes**: 7
-- **Discontinued products**: 4
+- **New products added**: 0
+- **Existing products updated**: 1114
+- **Price changes detected**: 17
+- **Stock/availability changes**: 5
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -215,39 +215,39 @@ This project has recently gained unexpected attention. It was created for person
 | SIPPZZ Assorted Flavor Sparkling Juices 24 Units / 250 mL / 8.5 oz | SIPPZZ | $154.95 | true |
 | Kirkland Signature Mini Chocolate Chip Cookies 30 Units 28 g / 1 oz | Kirkland Signature | $172.95 | true |
 | Chobani Low-Fat Greek Yogurt 16 Units / 128 g / 4.5 oz | Chobani | $174.95 | true |
-| Maison Perrier Sparkling Water with Lime Flavor 10 Units / 250 mL / 8.5 oz | Maison Perrier | $89.95 | true |
 | Flavorite Assorted Ice Cream 3 Units / 1 L / 33.8 oz | Flavorite | $149.95 | true |
+| Maison Perrier Sparkling Water with Lime Flavor 10 Units / 250 mL / 8.5 oz | Maison Perrier | $89.95 | true |
 | Barista Vanilla Cappuccino Powder Mix 2 Units / 320 g | Café Barista | $74.95 | true |
 | Crix Crispy Salted Crackers 4 Units / 300 g | Crix | $55.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 998
-- **Price increases**: 534
-- **Price decreases**: 438
-- **Average increase**: 6.0%
+- **Total price changes**: 1015
+- **Price increases**: 545
+- **Price decreases**: 444
+- **Average increase**: 6.5%
 - **Average decrease**: -4.9%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Nature's Pride Lentils 2.3 kg / 5 lb | $0.00 | $44.95 | $+44.95 | +100.0% | New |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $248.92 | $252.45 | $+3.53 | +1.4% | Increase |
-| Nestos Small Gherkins 520 g / 18.34 oz | $62.95 | $64.95 | $+2.00 | +3.2% | Increase |
-| Kiss Hot Dog Bread 8 Units / 42.5 g / 1.5 oz | $11.45 | $13.45 | $+2.00 | +17.5% | Increase |
-| Fine Choice Fresh Marinated Chicken Tray | $92.82 | $92.59 | $-0.23 | -0.2% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $193.47 | $196.74 | $+3.27 | +1.7% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $120.14 | $121.68 | $+1.54 | +1.3% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $156.99 | $156.48 | $-0.51 | -0.3% | Decrease |
-| Frozen Lamb Shoulder Case | $1351.42 | $1371.02 | $+19.60 | +1.5% | Increase |
-| Fresh Ground Chicken Tray | $101.98 | $101.73 | $-0.25 | -0.2% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $90.24 | $91.53 | $+1.29 | +1.4% | Increase |
-| Fresh Chicken Thighs Boneless Tray | $91.06 | $90.93 | $-0.13 | -0.1% | Decrease |
-| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $63.44 | $63.54 | $+0.10 | +0.2% | Increase |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $448.95 | $456.19 | $+7.24 | +1.6% | Increase |
-| Fresh Whole Chicken for Frying Bag | $279.75 | $279.42 | $-0.33 | -0.1% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $191.48 | $190.94 | $-0.54 | -0.3% | Decrease |
+| Target Halal Corned Beef  4 Units / 380 g / 12 oz | $83.95 | $84.95 | $+1.00 | +1.2% | Increase |
+| Gouda Cheese Block | $89.42 | $89.56 | $+0.14 | +0.2% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $116.88 | $116.70 | $-0.18 | -0.2% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $95.40 | $95.50 | $+0.10 | +0.1% | Increase |
+| Plantains 1.36 kg / 3 lb | $29.95 | $31.95 | $+2.00 | +6.7% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $92.59 | $92.82 | $+0.23 | +0.2% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $196.74 | $197.03 | $+0.29 | +0.1% | Increase |
+| New Zealand Cheddar Cheese Box 20 Kg / 44 lb | $1499.95 | $1329.95 | $-170.00 | -11.3% | Decrease |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $91.04 | $91.19 | $+0.15 | +0.2% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $91.67 | $91.90 | $+0.23 | +0.3% | Increase |
+| Brunswick Canned Chicken Vienna Sausage 12 pieces / 141 g / 4.9 oz | $74.95 | $76.95 | $+2.00 | +2.7% | Increase |
+| Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $19.70 | $89.95 | $+70.25 | +356.6% | Increase |
+| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $63.54 | $63.73 | $+0.19 | +0.3% | Increase |
+| Cherries 454 g / 1 lb | $59.95 | $54.95 | $-5.00 | -8.3% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Lunchables Cookie Sandwich 6 Units | Lunchables | $169.95 | 2026-07-20 |
 | Lipton Black Tea Yellow Label 2 Units / 100 Tea Bags / 2 g | Lipton | $106.95 | 2026-07-19 |
 | Smartfood White Cheddar Cheese Flavor Popcorn 156 g / 5.50 oz | Smart Foods | $24.95 | 2026-07-19 |
 | Ginger 680 g / 1.5 lb |  | $24.95 | 2026-07-19 |
@@ -292,11 +293,6 @@ This project has recently gained unexpected attention. It was created for person
 | Pascual Yogi Kids Strawberry and Banana Yogurt with Fruit Pouch 24 Units / 80 g | Pascual | $229.95 | 2026-07-15 |
 | Prana Granola Organic Oatmeal Cookie Flavor 1 kg / 35.27 oz | Prana | $105.95 | 2026-07-14 |
 | Hostess Twinkies and Cupcakes Individually Packaged Assorted 32 Units | Hostess | $104.95 | 2026-07-14 |
-| Banner Farms Straight-Cut French Fries  | Banner Farms | $305.95 | 2026-07-12 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Nature's Pride Lentils 2.3 kg / 5 lb | Nature's Pride | $44.95 | G10D03 |
-| McCain Cassava Sticks 997 g / 2.2 lb | McCain | $42.95 | G10D03 |
+No new products added today.
