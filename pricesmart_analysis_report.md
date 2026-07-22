@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1114
-- **Total value**: $124,233.04
-- **Average price**: $111.52
+- **Total products scraped**: 1115
+- **Total value**: $124,251.30
+- **Average price**: $111.44
 
 ## Database Changes
 - **New products added**: 0
-- **Existing products updated**: 1114
-- **Price changes detected**: 17
-- **Stock/availability changes**: 5
-- **Discontinued products**: 1
+- **Existing products updated**: 1115
+- **Price changes detected**: 24
+- **Stock/availability changes**: 10
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -31,40 +31,40 @@
 | Bagelmania Artisanal Simple Bagel Bread 6 Units | Bagelmania | $34.95 | true |
 | SIPPZZ Assorted Flavor Sparkling Juices 24 Units / 250 mL / 8.5 oz | SIPPZZ | $154.95 | true |
 | Kirkland Signature Mini Chocolate Chip Cookies 30 Units 28 g / 1 oz | Kirkland Signature | $172.95 | true |
-| Chobani Low-Fat Greek Yogurt 16 Units / 128 g / 4.5 oz | Chobani | $174.95 | true |
 | Flavorite Assorted Ice Cream 3 Units / 1 L / 33.8 oz | Flavorite | $149.95 | true |
 | Maison Perrier Sparkling Water with Lime Flavor 10 Units / 250 mL / 8.5 oz | Maison Perrier | $89.95 | true |
 | Barista Vanilla Cappuccino Powder Mix 2 Units / 320 g | Café Barista | $74.95 | true |
+| Froot Loops Chocolate Flavored Cereal 878 g / 31 oz | Froot Loops | $95.95 | true |
 | Crix Crispy Salted Crackers 4 Units / 300 g | Crix | $55.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1015
-- **Price increases**: 545
-- **Price decreases**: 444
-- **Average increase**: 6.5%
+- **Total price changes**: 990
+- **Price increases**: 534
+- **Price decreases**: 432
+- **Average increase**: 6.4%
 - **Average decrease**: -4.9%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Frozen Sliced Turkey Drumsticks | $191.48 | $190.94 | $-0.54 | -0.3% | Decrease |
-| Target Halal Corned Beef  4 Units / 380 g / 12 oz | $83.95 | $84.95 | $+1.00 | +1.2% | Increase |
-| Gouda Cheese Block | $89.42 | $89.56 | $+0.14 | +0.2% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $116.88 | $116.70 | $-0.18 | -0.2% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $95.40 | $95.50 | $+0.10 | +0.1% | Increase |
-| Plantains 1.36 kg / 3 lb | $29.95 | $31.95 | $+2.00 | +6.7% | Increase |
-| Fine Choice Fresh Marinated Chicken Tray | $92.59 | $92.82 | $+0.23 | +0.2% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $196.74 | $197.03 | $+0.29 | +0.1% | Increase |
-| New Zealand Cheddar Cheese Box 20 Kg / 44 lb | $1499.95 | $1329.95 | $-170.00 | -11.3% | Decrease |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $91.04 | $91.19 | $+0.15 | +0.2% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $91.67 | $91.90 | $+0.23 | +0.3% | Increase |
-| Brunswick Canned Chicken Vienna Sausage 12 pieces / 141 g / 4.9 oz | $74.95 | $76.95 | $+2.00 | +2.7% | Increase |
-| Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $19.70 | $89.95 | $+70.25 | +356.6% | Increase |
-| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $63.54 | $63.73 | $+0.19 | +0.3% | Increase |
-| Cherries 454 g / 1 lb | $59.95 | $54.95 | $-5.00 | -8.3% | Decrease |
+| ChefMate  Brown Sugar 5 kg      | $57.95 | $49.95 | $-8.00 | -13.8% | Decrease |
+| Cole Cold Assorted Sodas 6 Units / 2 L | $47.95 | $46.95 | $-1.00 | -2.1% | Decrease |
+| Papaya | $39.40 | $39.56 | $+0.16 | +0.4% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $68.10 | $68.17 | $+0.07 | +0.1% | Increase |
+| Frozen Sliced Turkey Drumsticks | $190.94 | $191.48 | $+0.54 | +0.3% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $116.70 | $116.52 | $-0.18 | -0.2% | Decrease |
+| Karnis Assorted Flavored Dressings 3 Units / 226 g / 8 oz | $96.95 | $69.70 | $-27.25 | -28.1% | Decrease |
+| Heinz Tomato Ketchup 567 g / 20 oz | $21.95 | $19.10 | $-2.85 | -13.0% | Decrease |
+| Fresh Chicken Thighs Boneless Tray | $90.93 | $90.80 | $-0.13 | -0.1% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $92.42 | $92.60 | $+0.18 | +0.2% | Increase |
+| Chubby Carbonated Drink with Assorted Flavors 24 Units / 250 mL / 8.45 oz | $42.95 | $41.95 | $-1.00 | -2.3% | Decrease |
+| Fresh Whole Chicken 2 Units | $104.50 | $104.33 | $-0.17 | -0.2% | Decrease |
+| Fresh Chicken Thighs Boneless Bag | $336.68 | $336.32 | $-0.36 | -0.1% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $279.42 | $279.25 | $-0.17 | -0.1% | Decrease |
+| Fresh Ground Chicken Meat Bag | $293.69 | $293.57 | $-0.12 | -0.0% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
