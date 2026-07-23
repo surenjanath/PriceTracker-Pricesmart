@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1115
-- **Total value**: $124,251.30
-- **Average price**: $111.44
+- **Total products scraped**: 1114
+- **Total value**: $124,211.88
+- **Average price**: $111.50
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1115
-- **Price changes detected**: 24
-- **Stock/availability changes**: 10
-- **Discontinued products**: 0
+- **New products added**: 1
+- **Existing products updated**: 1113
+- **Price changes detected**: 63
+- **Stock/availability changes**: 7
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 990
-- **Price increases**: 534
-- **Price decreases**: 432
-- **Average increase**: 6.4%
-- **Average decrease**: -4.9%
+- **Total price changes**: 1026
+- **Price increases**: 571
+- **Price decreases**: 430
+- **Average increase**: 6.2%
+- **Average decrease**: -5.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| ChefMate  Brown Sugar 5 kg      | $57.95 | $49.95 | $-8.00 | -13.8% | Decrease |
-| Cole Cold Assorted Sodas 6 Units / 2 L | $47.95 | $46.95 | $-1.00 | -2.1% | Decrease |
-| Papaya | $39.40 | $39.56 | $+0.16 | +0.4% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $68.10 | $68.17 | $+0.07 | +0.1% | Increase |
-| Frozen Sliced Turkey Drumsticks | $190.94 | $191.48 | $+0.54 | +0.3% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $116.70 | $116.52 | $-0.18 | -0.2% | Decrease |
-| Karnis Assorted Flavored Dressings 3 Units / 226 g / 8 oz | $96.95 | $69.70 | $-27.25 | -28.1% | Decrease |
-| Heinz Tomato Ketchup 567 g / 20 oz | $21.95 | $19.10 | $-2.85 | -13.0% | Decrease |
-| Fresh Chicken Thighs Boneless Tray | $90.93 | $90.80 | $-0.13 | -0.1% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $92.42 | $92.60 | $+0.18 | +0.2% | Increase |
-| Chubby Carbonated Drink with Assorted Flavors 24 Units / 250 mL / 8.45 oz | $42.95 | $41.95 | $-1.00 | -2.3% | Decrease |
-| Fresh Whole Chicken 2 Units | $104.50 | $104.33 | $-0.17 | -0.2% | Decrease |
-| Fresh Chicken Thighs Boneless Bag | $336.68 | $336.32 | $-0.36 | -0.1% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $279.42 | $279.25 | $-0.17 | -0.1% | Decrease |
-| Fresh Ground Chicken Meat Bag | $293.69 | $293.57 | $-0.12 | -0.0% | Decrease |
+| La Yogurt Strawberry & Peach Yogurt 12 Units / 170 g / 6 oz | $87.95 | $89.95 | $+2.00 | +2.3% | Increase |
+| Just About Foods Organic and Creamy Peanut Butter 1.13 kg / 40 oz | $97.95 | $96.95 | $-1.00 | -1.0% | Decrease |
+| Tostitos Spinach and Cheese Cream Dips 2 Units / 425.2 g | $54.95 | $59.95 | $+5.00 | +9.1% | Increase |
+| Bob's Red Mill Oatmeal with Protein 1.81 kg / 4 lb | $144.95 | $146.95 | $+2.00 | +1.4% | Increase |
+| Chobani Low-Fat Greek Yogurt 16 Units / 128 g / 4.5 oz | $174.95 | $159.95 | $-15.00 | -8.6% | Decrease |
+| Coke Sugar-Free Canned Soda 6 Units / 355 mL / 12 oz | $0.00 | $24.95 | $+24.95 | +100.0% | New |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $193.29 | $192.64 | $-0.65 | -0.3% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $68.17 | $68.24 | $+0.07 | +0.1% | Increase |
+| Silk Chocolate Almond 1.89 L / 64 oz | $56.95 | $57.95 | $+1.00 | +1.8% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $116.52 | $116.70 | $+0.18 | +0.2% | Increase |
+| Reny Picot Camembert Cheese 397 g / 14 oz | $68.95 | $69.95 | $+1.00 | +1.5% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $121.68 | $121.86 | $+0.18 | +0.1% | Increase |
+| Samyang Spicy Chicken-Flavored Ramen with Cheese Sauce 5 Units / 140 g | $70.95 | $72.95 | $+2.00 | +2.8% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $92.82 | $93.05 | $+0.23 | +0.2% | Increase |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.18 | $74.05 | $-0.13 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,8 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Chief Duck & Goat Curry Powder 600 g | Chief | $59.70 | 2026-07-22 |
+| Nature's Pride Lentils 1.8 kg / 4 lb | Nature's Pride | $34.95 | 2026-07-22 |
 | Lunchables Cookie Sandwich 6 Units | Lunchables | $169.95 | 2026-07-20 |
 | Lipton Black Tea Yellow Label 2 Units / 100 Tea Bags / 2 g | Lipton | $106.95 | 2026-07-19 |
 | Smartfood White Cheddar Cheese Flavor Popcorn 156 g / 5.50 oz | Smart Foods | $24.95 | 2026-07-19 |
@@ -291,8 +293,9 @@ This project has recently gained unexpected attention. It was created for person
 | Nature's Pride Small Red Beans 1.8 kg | Nature's Pride | $42.95 | 2026-07-17 |
 | Leclerc Quattro French Creme Cookies 2 Unit / 300 g | Leclerc | $47.95 | 2026-07-15 |
 | Pascual Yogi Kids Strawberry and Banana Yogurt with Fruit Pouch 24 Units / 80 g | Pascual | $229.95 | 2026-07-15 |
-| Prana Granola Organic Oatmeal Cookie Flavor 1 kg / 35.27 oz | Prana | $105.95 | 2026-07-14 |
-| Hostess Twinkies and Cupcakes Individually Packaged Assorted 32 Units | Hostess | $104.95 | 2026-07-14 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Coke Sugar-Free Canned Soda 6 Units / 355 mL / 12 oz | Coca-Cola | $24.95 | G10D03 |
