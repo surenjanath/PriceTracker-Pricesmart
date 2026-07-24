@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1114
-- **Total value**: $124,211.88
+- **Total products scraped**: 1115
+- **Total value**: $124,327.08
 - **Average price**: $111.50
 
 ## Database Changes
 - **New products added**: 1
-- **Existing products updated**: 1113
-- **Price changes detected**: 63
-- **Stock/availability changes**: 7
-- **Discontinued products**: 2
+- **Existing products updated**: 1114
+- **Price changes detected**: 14
+- **Stock/availability changes**: 9
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -35,36 +35,36 @@
 | Maison Perrier Sparkling Water with Lime Flavor 10 Units / 250 mL / 8.5 oz | Maison Perrier | $89.95 | true |
 | Barista Vanilla Cappuccino Powder Mix 2 Units / 320 g | Café Barista | $74.95 | true |
 | Froot Loops Chocolate Flavored Cereal 878 g / 31 oz | Froot Loops | $95.95 | true |
-| Crix Crispy Salted Crackers 4 Units / 300 g | Crix | $55.95 | true |
+| KFI Korma Cooking Sauce 2 Units / 650 mL | KFI | $89.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1026
+- **Total price changes**: 1016
 - **Price increases**: 571
-- **Price decreases**: 430
-- **Average increase**: 6.2%
+- **Price decreases**: 421
+- **Average increase**: 5.9%
 - **Average decrease**: -5.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| La Yogurt Strawberry & Peach Yogurt 12 Units / 170 g / 6 oz | $87.95 | $89.95 | $+2.00 | +2.3% | Increase |
-| Just About Foods Organic and Creamy Peanut Butter 1.13 kg / 40 oz | $97.95 | $96.95 | $-1.00 | -1.0% | Decrease |
-| Tostitos Spinach and Cheese Cream Dips 2 Units / 425.2 g | $54.95 | $59.95 | $+5.00 | +9.1% | Increase |
-| Bob's Red Mill Oatmeal with Protein 1.81 kg / 4 lb | $144.95 | $146.95 | $+2.00 | +1.4% | Increase |
-| Chobani Low-Fat Greek Yogurt 16 Units / 128 g / 4.5 oz | $174.95 | $159.95 | $-15.00 | -8.6% | Decrease |
-| Coke Sugar-Free Canned Soda 6 Units / 355 mL / 12 oz | $0.00 | $24.95 | $+24.95 | +100.0% | New |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $193.29 | $192.64 | $-0.65 | -0.3% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $68.17 | $68.24 | $+0.07 | +0.1% | Increase |
-| Silk Chocolate Almond 1.89 L / 64 oz | $56.95 | $57.95 | $+1.00 | +1.8% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $116.52 | $116.70 | $+0.18 | +0.2% | Increase |
-| Reny Picot Camembert Cheese 397 g / 14 oz | $68.95 | $69.95 | $+1.00 | +1.5% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $121.68 | $121.86 | $+0.18 | +0.1% | Increase |
-| Samyang Spicy Chicken-Flavored Ramen with Cheese Sauce 5 Units / 140 g | $70.95 | $72.95 | $+2.00 | +2.8% | Increase |
-| Fine Choice Fresh Marinated Chicken Tray | $92.82 | $93.05 | $+0.23 | +0.2% | Increase |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.18 | $74.05 | $-0.13 | -0.2% | Decrease |
+| Sprite Lemon-Lime Flavor Soda 24 Units / 355 mL | $0.00 | $99.95 | $+99.95 | +100.0% | New |
+| Fresh Bone-in Chicken Thighs Tray | $68.24 | $68.31 | $+0.07 | +0.1% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $116.70 | $118.01 | $+1.31 | +1.1% | Increase |
+| Fresh Chicken Leg Quarters Tray | $95.50 | $95.60 | $+0.10 | +0.1% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $156.48 | $158.35 | $+1.87 | +1.2% | Increase |
+| Fresh Whole Chicken 2 Units | $104.33 | $104.15 | $-0.18 | -0.2% | Decrease |
+| Watermelon 1 kg / 2.2 lb | $96.92 | $97.48 | $+0.56 | +0.6% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $91.90 | $92.13 | $+0.23 | +0.3% | Increase |
+| Mistic Orange Juice with Carrot 2 Units / 2.54 L / 85.8 oz | $79.95 | $84.95 | $+5.00 | +6.3% | Increase |
+| Pork Chop with Bone Frozen Tray | $80.45 | $80.57 | $+0.12 | +0.1% | Increase |
+| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $191.57 | $192.00 | $+0.43 | +0.2% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Stew Tray | $107.50 | $108.80 | $+1.30 | +1.2% | Increase |
+| Member's Selection Frozen Boneless Pork Loin Steak Vacuum Packed | $78.02 | $78.14 | $+0.12 | +0.2% | Increase |
+| Member's Selection Chilled Ground Beef Tray | $107.93 | $108.68 | $+0.75 | +0.7% | Increase |
+| Member's Selection Chilled Ground Beef | $343.91 | $347.48 | $+3.57 | +1.0% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -115,4 +115,4 @@
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Coke Sugar-Free Canned Soda 6 Units / 355 mL / 12 oz | Coca-Cola | $24.95 | G10D03 |
+| Sprite Lemon-Lime Flavor Soda 24 Units / 355 mL | Sprite | $99.95 | G10D03 |
