@@ -185,13 +185,13 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1115
-- **Total value**: $124,327.08
-- **Average price**: $111.50
+- **Total value**: $124,273.40
+- **Average price**: $111.46
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1114
-- **Price changes detected**: 14
+- **New products added**: 0
+- **Existing products updated**: 1115
+- **Price changes detected**: 34
 - **Stock/availability changes**: 9
 - **Discontinued products**: 0
 
@@ -223,9 +223,9 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1016
-- **Price increases**: 571
-- **Price decreases**: 421
+- **Total price changes**: 1033
+- **Price increases**: 578
+- **Price decreases**: 433
 - **Average increase**: 5.9%
 - **Average decrease**: -5.1%
 
@@ -233,21 +233,21 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Sprite Lemon-Lime Flavor Soda 24 Units / 355 mL | $0.00 | $99.95 | $+99.95 | +100.0% | New |
-| Fresh Bone-in Chicken Thighs Tray | $68.24 | $68.31 | $+0.07 | +0.1% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $116.70 | $118.01 | $+1.31 | +1.1% | Increase |
-| Fresh Chicken Leg Quarters Tray | $95.50 | $95.60 | $+0.10 | +0.1% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $156.48 | $158.35 | $+1.87 | +1.2% | Increase |
-| Fresh Whole Chicken 2 Units | $104.33 | $104.15 | $-0.18 | -0.2% | Decrease |
-| Watermelon 1 kg / 2.2 lb | $96.92 | $97.48 | $+0.56 | +0.6% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $91.90 | $92.13 | $+0.23 | +0.3% | Increase |
-| Mistic Orange Juice with Carrot 2 Units / 2.54 L / 85.8 oz | $79.95 | $84.95 | $+5.00 | +6.3% | Increase |
-| Pork Chop with Bone Frozen Tray | $80.45 | $80.57 | $+0.12 | +0.1% | Increase |
-| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $191.57 | $192.00 | $+0.43 | +0.2% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Stew Tray | $107.50 | $108.80 | $+1.30 | +1.2% | Increase |
-| Member's Selection Frozen Boneless Pork Loin Steak Vacuum Packed | $78.02 | $78.14 | $+0.12 | +0.2% | Increase |
-| Member's Selection Chilled Ground Beef Tray | $107.93 | $108.68 | $+0.75 | +0.7% | Increase |
-| Member's Selection Chilled Ground Beef | $343.91 | $347.48 | $+3.57 | +1.0% | Increase |
+| Nectarine 908 g / 2 lb | $69.95 | $67.95 | $-2.00 | -2.9% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $279.42 | $279.75 | $+0.33 | +0.1% | Increase |
+| Wonderful Toasted Shelled Pistachios with Salt 680 g / 24 oz | $194.95 | $184.95 | $-10.00 | -5.1% | Decrease |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $337.73 | $342.15 | $+4.42 | +1.3% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $252.45 | $251.88 | $-0.57 | -0.2% | Decrease |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $192.64 | $193.42 | $+0.78 | +0.4% | Increase |
+| Mini Sweet Peppers 454 g / 1 lb | $49.95 | $54.95 | $+5.00 | +10.0% | Increase |
+| Papaya | $39.56 | $39.52 | $-0.04 | -0.1% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $68.31 | $68.51 | $+0.20 | +0.3% | Increase |
+| Peach 908 g / 2 lb | $57.95 | $54.95 | $-3.00 | -5.2% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $91.53 | $91.81 | $+0.28 | +0.3% | Increase |
+| Plum 907 g / 2 lb | $69.95 | $66.95 | $-3.00 | -4.3% | Decrease |
+| Red Onion 2.2 kg / 5 lb | $44.95 | $47.95 | $+3.00 | +6.7% | Increase |
+| Cauliflower 1 Unit | $52.95 | $42.95 | $-10.00 | -18.9% | Decrease |
+| Bosc Pear 1.36 kg / 3 lb | $64.95 | $76.95 | $+12.00 | +18.5% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -295,7 +295,4 @@ This project has recently gained unexpected attention. It was created for person
 | Pascual Yogi Kids Strawberry and Banana Yogurt with Fruit Pouch 24 Units / 80 g | Pascual | $229.95 | 2026-07-15 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Sprite Lemon-Lime Flavor Soda 24 Units / 355 mL | Sprite | $99.95 | G10D03 |
+No new products added today.
