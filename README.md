@@ -184,15 +184,15 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1115
-- **Total value**: $124,273.40
-- **Average price**: $111.46
+- **Total products scraped**: 1117
+- **Total value**: $124,598.34
+- **Average price**: $111.55
 
 ## Database Changes
-- **New products added**: 0
+- **New products added**: 2
 - **Existing products updated**: 1115
-- **Price changes detected**: 34
-- **Stock/availability changes**: 9
+- **Price changes detected**: 15
+- **Stock/availability changes**: 11
 - **Discontinued products**: 0
 
 ## Top 5 Brands
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1033
-- **Price increases**: 578
-- **Price decreases**: 433
+- **Total price changes**: 989
+- **Price increases**: 545
+- **Price decreases**: 420
 - **Average increase**: 5.9%
-- **Average decrease**: -5.1%
+- **Average decrease**: -5.2%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Nectarine 908 g / 2 lb | $69.95 | $67.95 | $-2.00 | -2.9% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $279.42 | $279.75 | $+0.33 | +0.1% | Increase |
-| Wonderful Toasted Shelled Pistachios with Salt 680 g / 24 oz | $194.95 | $184.95 | $-10.00 | -5.1% | Decrease |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $337.73 | $342.15 | $+4.42 | +1.3% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $252.45 | $251.88 | $-0.57 | -0.2% | Decrease |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $192.64 | $193.42 | $+0.78 | +0.4% | Increase |
-| Mini Sweet Peppers 454 g / 1 lb | $49.95 | $54.95 | $+5.00 | +10.0% | Increase |
-| Papaya | $39.56 | $39.52 | $-0.04 | -0.1% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $68.31 | $68.51 | $+0.20 | +0.3% | Increase |
-| Peach 908 g / 2 lb | $57.95 | $54.95 | $-3.00 | -5.2% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $91.53 | $91.81 | $+0.28 | +0.3% | Increase |
-| Plum 907 g / 2 lb | $69.95 | $66.95 | $-3.00 | -4.3% | Decrease |
-| Red Onion 2.2 kg / 5 lb | $44.95 | $47.95 | $+3.00 | +6.7% | Increase |
-| Cauliflower 1 Unit | $52.95 | $42.95 | $-10.00 | -18.9% | Decrease |
-| Bosc Pear 1.36 kg / 3 lb | $64.95 | $76.95 | $+12.00 | +18.5% | Increase |
+| Cultured Cravings Coconut Yogurt 12 Units / 150 g / 5.3 oz | $0.00 | $229.95 | $+229.95 | +100.0% | New |
+| Dulcinea Cherry Plums 907 g / 2 lb | $0.00 | $96.95 | $+96.95 | +100.0% | New |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $193.42 | $193.68 | $+0.26 | +0.1% | Increase |
+| Frozen Sliced Turkey Drumsticks | $191.48 | $194.69 | $+3.21 | +1.7% | Increase |
+| Papaya | $39.52 | $39.46 | $-0.06 | -0.2% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $68.51 | $68.44 | $-0.07 | -0.1% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $197.03 | $196.74 | $-0.29 | -0.1% | Decrease |
+| Fresh Beef Striploin Steak Tray | $246.03 | $245.35 | $-0.68 | -0.3% | Decrease |
+| Fresh Chicken Thighs Boneless Tray | $90.80 | $90.93 | $+0.13 | +0.1% | Increase |
+| Fresh Ground Chicken Tray | $101.60 | $101.48 | $-0.12 | -0.1% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $279.75 | $279.42 | $-0.33 | -0.1% | Decrease |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $91.77 | $91.92 | $+0.15 | +0.2% | Increase |
+| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $192.44 | $192.73 | $+0.29 | +0.2% | Increase |
+| Frozen Boneless Skinless Chicken Breast Tray | $160.50 | $160.36 | $-0.14 | -0.1% | Decrease |
+| Blueberries 508 g / 1.12 lb | $84.95 | $79.95 | $-5.00 | -5.9% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -295,4 +295,8 @@ This project has recently gained unexpected attention. It was created for person
 | Pascual Yogi Kids Strawberry and Banana Yogurt with Fruit Pouch 24 Units / 80 g | Pascual | $229.95 | 2026-07-15 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Cultured Cravings Coconut Yogurt 12 Units / 150 g / 5.3 oz | Cultured Cravings | $229.95 | G10D03 |
+| Dulcinea Cherry Plums 907 g / 2 lb | Dulcinea | $96.95 | G10D03 |
