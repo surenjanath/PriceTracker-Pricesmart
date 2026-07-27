@@ -2,15 +2,15 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1117
-- **Total value**: $124,598.34
-- **Average price**: $111.55
+- **Total value**: $124,648.76
+- **Average price**: $111.59
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1115
-- **Price changes detected**: 15
-- **Stock/availability changes**: 11
-- **Discontinued products**: 0
+- **New products added**: 1
+- **Existing products updated**: 1116
+- **Price changes detected**: 47
+- **Stock/availability changes**: 10
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 989
-- **Price increases**: 545
-- **Price decreases**: 420
-- **Average increase**: 5.9%
-- **Average decrease**: -5.2%
+- **Total price changes**: 982
+- **Price increases**: 550
+- **Price decreases**: 407
+- **Average increase**: 6.5%
+- **Average decrease**: -5.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Cultured Cravings Coconut Yogurt 12 Units / 150 g / 5.3 oz | $0.00 | $229.95 | $+229.95 | +100.0% | New |
-| Dulcinea Cherry Plums 907 g / 2 lb | $0.00 | $96.95 | $+96.95 | +100.0% | New |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $193.42 | $193.68 | $+0.26 | +0.1% | Increase |
-| Frozen Sliced Turkey Drumsticks | $191.48 | $194.69 | $+3.21 | +1.7% | Increase |
-| Papaya | $39.52 | $39.46 | $-0.06 | -0.2% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $68.51 | $68.44 | $-0.07 | -0.1% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $197.03 | $196.74 | $-0.29 | -0.1% | Decrease |
-| Fresh Beef Striploin Steak Tray | $246.03 | $245.35 | $-0.68 | -0.3% | Decrease |
-| Fresh Chicken Thighs Boneless Tray | $90.80 | $90.93 | $+0.13 | +0.1% | Increase |
-| Fresh Ground Chicken Tray | $101.60 | $101.48 | $-0.12 | -0.1% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $279.75 | $279.42 | $-0.33 | -0.1% | Decrease |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $91.77 | $91.92 | $+0.15 | +0.2% | Increase |
-| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $192.44 | $192.73 | $+0.29 | +0.2% | Increase |
-| Frozen Boneless Skinless Chicken Breast Tray | $160.50 | $160.36 | $-0.14 | -0.1% | Decrease |
-| Blueberries 508 g / 1.12 lb | $84.95 | $79.95 | $-5.00 | -5.9% | Decrease |
+| Fresh Whole Chicken 2 Units | $104.15 | $104.08 | $-0.07 | -0.1% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $279.42 | $279.09 | $-0.33 | -0.1% | Decrease |
+| Fresh Beef Ribeye Steak Vacuum Packed | $2701.96 | $2743.53 | $+41.57 | +1.5% | Increase |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $342.15 | $342.88 | $+0.73 | +0.2% | Increase |
+| Ocean Spray Cranberry Juice 2 Units 1.89 L / 64 oz | $0.00 | $77.95 | $+77.95 | +100.0% | New |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $251.88 | $250.45 | $-1.43 | -0.6% | Decrease |
+| Papaya | $39.46 | $39.40 | $-0.06 | -0.2% | Decrease |
+| Ribeye Choice Fillet Fresh Tray | $307.06 | $311.21 | $+4.15 | +1.4% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $68.44 | $68.51 | $+0.07 | +0.1% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $118.01 | $117.83 | $-0.18 | -0.2% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $196.74 | $197.03 | $+0.29 | +0.1% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $93.05 | $93.28 | $+0.23 | +0.2% | Increase |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $74.05 | $73.93 | $-0.12 | -0.2% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $95.60 | $95.50 | $-0.10 | -0.1% | Decrease |
+| Hellmann's Real Mayonnaise Prepared with Country Eggs 2 Units / 887 mL / 30 oz | $71.95 | $84.95 | $+13.00 | +18.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Bella Contadina Italian Antipasto Mix 600 g / 21 oz | Bella Contadina | $49.77 | 2026-07-26 |
 | Chief Duck & Goat Curry Powder 600 g | Chief | $59.70 | 2026-07-22 |
 | Nature's Pride Lentils 1.8 kg / 4 lb | Nature's Pride | $34.95 | 2026-07-22 |
 | Lunchables Cookie Sandwich 6 Units | Lunchables | $169.95 | 2026-07-20 |
@@ -109,11 +110,9 @@
 | Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2026-07-19 |
 | Nature's Pride Small Red Beans 1.8 kg | Nature's Pride | $42.95 | 2026-07-17 |
 | Leclerc Quattro French Creme Cookies 2 Unit / 300 g | Leclerc | $47.95 | 2026-07-15 |
-| Pascual Yogi Kids Strawberry and Banana Yogurt with Fruit Pouch 24 Units / 80 g | Pascual | $229.95 | 2026-07-15 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Cultured Cravings Coconut Yogurt 12 Units / 150 g / 5.3 oz | Cultured Cravings | $229.95 | G10D03 |
-| Dulcinea Cherry Plums 907 g / 2 lb | Dulcinea | $96.95 | G10D03 |
+| Ocean Spray Cranberry Juice 2 Units 1.89 L / 64 oz | Ocean Spray | $77.95 | G10D03 |
