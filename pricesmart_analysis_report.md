@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1118
-- **Total value**: $124,545.89
-- **Average price**: $111.40
+- **Total products scraped**: 1113
+- **Total value**: $123,922.59
+- **Average price**: $111.34
 
 ## Database Changes
 - **New products added**: 2
-- **Existing products updated**: 1116
-- **Price changes detected**: 17
-- **Stock/availability changes**: 16
-- **Discontinued products**: 0
+- **Existing products updated**: 1111
+- **Price changes detected**: 44
+- **Stock/availability changes**: 11
+- **Discontinued products**: 7
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 178 |
-|  | 134 |
+| Member's Selection | 176 |
+|  | 132 |
 | Badia | 16 |
 | Swiss | 14 |
 | Kirkland Signature | 12 |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1002
-- **Price increases**: 554
-- **Price decreases**: 421
-- **Average increase**: 6.4%
-- **Average decrease**: -5.7%
+- **Total price changes**: 982
+- **Price increases**: 549
+- **Price decreases**: 404
+- **Average increase**: 5.8%
+- **Average decrease**: -5.3%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Munchies Flamin' Hot Flavored Snack Mix 262.2 g / 9.25 oz | $0.00 | $44.95 | $+44.95 | +100.0% | New |
-| Member's Selection Ready-to-Eat Barbecue Flavored Chicken Wings | $0.00 | $99.95 | $+99.95 | +100.0% | New |
-| The Happy Planet Oyster Mushroom 310 g / 11.2 oz | $49.95 | $34.95 | $-15.00 | -30.0% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $68.51 | $68.58 | $+0.07 | +0.1% | Increase |
-| Plantains 1.36 kg / 3 lb | $31.95 | $32.95 | $+1.00 | +3.1% | Increase |
-| Fresh Chicken Leg Quarters Tray | $95.50 | $95.80 | $+0.30 | +0.3% | Increase |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $82.75 | $82.88 | $+0.13 | +0.2% | Increase |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $91.92 | $92.21 | $+0.29 | +0.3% | Increase |
-| Peardrax Sparkling Pear Drink 24 units / 355 mL / 12 oz | $183.95 | $184.95 | $+1.00 | +0.5% | Increase |
-| Pork Chop with Bone Frozen Tray | $80.45 | $80.33 | $-0.12 | -0.1% | Decrease |
-| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $193.03 | $193.17 | $+0.14 | +0.1% | Increase |
-| Frozen Boneless Skinless Chicken Breast Tray | $160.23 | $160.09 | $-0.14 | -0.1% | Decrease |
-| Galbani Mozzarella Cheese Block 2.26 kg / 5 lb | $109.70 | $99.70 | $-10.00 | -9.1% | Decrease |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $161.50 | $161.98 | $+0.48 | +0.3% | Increase |
-| Fresh Chicken Boneless Breast Bag | $479.90 | $480.39 | $+0.49 | +0.1% | Increase |
+| Amazon Coconut Water 2 L / 67 oz | $62.95 | $59.95 | $-3.00 | -4.8% | Decrease |
+| Ribeye Choice Fillet Fresh Tray | $311.21 | $315.71 | $+4.50 | +1.4% | Increase |
+| Tropicland Frozen Mango Chunks 2.2 kg / 5 lb | $0.00 | $94.95 | $+94.95 | +100.0% | New |
+| Gwaltney Chicken Bologna 2 Units / 567 g | $57.95 | $59.95 | $+2.00 | +3.5% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $117.83 | $118.01 | $+0.18 | +0.2% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $68.58 | $68.65 | $+0.07 | +0.1% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $197.03 | $197.62 | $+0.59 | +0.3% | Increase |
+| Bumble Bee Tuna Salad Snack 6 Units / 100 g / 3.5 oz | $82.95 | $81.95 | $-1.00 | -1.2% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $70.23 | $71.64 | $+1.41 | +2.0% | Increase |
+| Florida's Natural Mango Lemonade 2 Units / 1.75 L / 59 oz | $112.95 | $79.70 | $-33.25 | -29.4% | Decrease |
+| García Meat Sausage 794 g / 1.75 lb | $64.95 | $39.70 | $-25.25 | -38.9% | Decrease |
+| Nescafé Classic Instant Coffee 3 in 1 3 Units / 114 g | $52.95 | $54.95 | $+2.00 | +3.8% | Increase |
+| Fresh Ground Chicken Tray | $101.22 | $100.97 | $-0.25 | -0.2% | Decrease |
+| State Fair Mini Corn Dogs 46 Units / 18.7 g / 0.66 oz | $77.95 | $79.95 | $+2.00 | +2.6% | Increase |
+| Sprite Lemon Flavored Soft Drink in Can 24 Units / 355 mL / 12 oz | $97.95 | $99.95 | $+2.00 | +2.0% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,20 +100,20 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Parthenon Premium Mediterranean Olive Medley 900 g / 31.74 oz | Parthenon | $49.70 | 2026-07-29 |
+| Cole Cold Assorted Soft Drinks 24 Units / 370 mL / 12.5 oz | Cole Cold | $43.95 | 2026-07-29 |
+| Black Raisins 1 kg / 2.2 lb |  | $49.95 | 2026-07-29 |
+| Aziz's Assortment Pack of Freshly Baked Traditional Sweets | Aziz's | $63.95 | 2026-07-29 |
+| Frozen Bone-In Pork Butt Blade Steak |  | $76.82 | 2026-07-29 |
+| Member's Selection Frozen Skinless Boneless Salmon Fillets Vacuum Packaged | Member's Selection | $325.37 | 2026-07-29 |
+| Member's Selection Frozen Skin On Boneless Salmon Fillet Vacuum Packed | Member's Selection | $156.14 | 2026-07-29 |
 | Kellogg's Rice Krispies Treat 25 Units / 37 g / 1.3 oz | Kellogg's | $119.95 | 2026-07-27 |
 | Bella Contadina Italian Antipasto Mix 600 g / 21 oz | Bella Contadina | $49.77 | 2026-07-26 |
 | Chief Duck & Goat Curry Powder 600 g | Chief | $59.70 | 2026-07-22 |
-| Nature's Pride Lentils 1.8 kg / 4 lb | Nature's Pride | $34.95 | 2026-07-22 |
-| Lunchables Cookie Sandwich 6 Units | Lunchables | $169.95 | 2026-07-20 |
-| Lipton Black Tea Yellow Label 2 Units / 100 Tea Bags / 2 g | Lipton | $106.95 | 2026-07-19 |
-| Smartfood White Cheddar Cheese Flavor Popcorn 156 g / 5.50 oz | Smart Foods | $24.95 | 2026-07-19 |
-| Ginger 680 g / 1.5 lb |  | $24.95 | 2026-07-19 |
-| Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2026-07-19 |
-| Nature's Pride Small Red Beans 1.8 kg | Nature's Pride | $42.95 | 2026-07-17 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Munchies Flamin' Hot Flavored Snack Mix 262.2 g / 9.25 oz | Munchies | $44.95 | G10D03 |
-| Member's Selection Ready-to-Eat Barbecue Flavored Chicken Wings | Member's Selection | $99.95 | G10D03 |
+| Tropicland Frozen Mango Chunks 2.2 kg / 5 lb | Tropicland | $94.95 | G10D03 |
+| Crystal Farms Light String Cheese 24 Units 567 g / 1.25 lb | Crystal Farms | $75.95 | G10D03 |
