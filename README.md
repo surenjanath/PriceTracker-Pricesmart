@@ -184,22 +184,22 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1113
-- **Total value**: $123,922.59
-- **Average price**: $111.34
+- **Total products scraped**: 1116
+- **Total value**: $124,463.70
+- **Average price**: $111.53
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1111
-- **Price changes detected**: 44
-- **Stock/availability changes**: 11
-- **Discontinued products**: 7
+- **New products added**: 1
+- **Existing products updated**: 1115
+- **Price changes detected**: 26
+- **Stock/availability changes**: 16
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 176 |
+| Member's Selection | 178 |
 |  | 132 |
 | Badia | 16 |
 | Swiss | 14 |
@@ -209,23 +209,23 @@ This project has recently gained unexpected attention. It was created for person
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| McCain Cassava Sticks 997 g / 2.2 lb | McCain | $43.95 | true |
-| Ocean Spray Cranberry Juice 2 Units 1.89 L / 64 oz | Ocean Spray | $77.95 | true |
-| Coke Sugar-Free Canned Soda 6 Units / 355 mL / 12 oz | Coca-Cola | $24.95 | true |
-| Nature's Pride Lentils 2.3 kg / 5 lb | Nature's Pride | $44.95 | true |
-| Cultured Cravings Coconut Yogurt 12 Units / 150 g / 5.3 oz | Cultured Cravings | $229.95 | true |
-| Sprite Lemon-Lime Flavor Soda 24 Units / 355 mL | Sprite | $99.95 | true |
-| Member's Selection Freshly Made Assorted Doughnuts 12 Units | Member's Selection | $55.95 | true |
-| Member's Selection Freshly Baked Chocolate Chip Cookies 24 Units | Member's Selection | $60.95 | true |
-| Member's Selection Fresh Baked Vanilla Cake 20 to 24 Slices | Member's Selection | $102.95 | true |
-| Member's Selection Vanilla Chocolate Cake Freshly Baked 20 to 25 Slices | Member's Selection | $102.95 | true |
+| El Exquisito Sabor Traditional Tiramisu with Ladyfingers and Mascarpone | El Exquisito Sabor | $91.95 | true |
+| Perrier Sparkling Mineral Water Refreshing and Bubbly Pack of 4 Units / 330 mL / 11.15 oz | Perrier | $39.95 | true |
+| Kirkland Signature Mini Chocolate Chip Cookies 30 Units 28 g / 1 oz | Kirkland Signature | $172.95 | true |
+| SIPPZZ Assorted Flavor Sparkling Juices 24 Units / 250 mL / 8.5 oz | SIPPZZ | $154.95 | true |
+| Bagelmania Artisanal Simple Bagel Bread 6 Units | Bagelmania | $34.95 | true |
+| KFI Korma Cooking Sauce 2 Units / 650 mL | KFI | $89.95 | true |
+| Maison Perrier Sparkling Water with Lime Flavor 10 Units / 250 mL / 8.5 oz | Maison Perrier | $89.95 | true |
+| Flavorite Assorted Ice Cream 3 Units / 1 L / 33.8 oz | Flavorite | $149.95 | true |
+| Barista Vanilla Cappuccino Powder Mix 2 Units / 320 g | Café Barista | $74.95 | true |
+| Crix Crispy Salted Crackers 4 Units / 300 g | Crix | $55.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 982
-- **Price increases**: 549
-- **Price decreases**: 404
+- **Total price changes**: 987
+- **Price increases**: 546
+- **Price decreases**: 411
 - **Average increase**: 5.8%
 - **Average decrease**: -5.3%
 
@@ -233,21 +233,21 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Amazon Coconut Water 2 L / 67 oz | $62.95 | $59.95 | $-3.00 | -4.8% | Decrease |
-| Ribeye Choice Fillet Fresh Tray | $311.21 | $315.71 | $+4.50 | +1.4% | Increase |
-| Tropicland Frozen Mango Chunks 2.2 kg / 5 lb | $0.00 | $94.95 | $+94.95 | +100.0% | New |
-| Gwaltney Chicken Bologna 2 Units / 567 g | $57.95 | $59.95 | $+2.00 | +3.5% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $117.83 | $118.01 | $+0.18 | +0.2% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $68.58 | $68.65 | $+0.07 | +0.1% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $197.03 | $197.62 | $+0.59 | +0.3% | Increase |
-| Bumble Bee Tuna Salad Snack 6 Units / 100 g / 3.5 oz | $82.95 | $81.95 | $-1.00 | -1.2% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $70.23 | $71.64 | $+1.41 | +2.0% | Increase |
-| Florida's Natural Mango Lemonade 2 Units / 1.75 L / 59 oz | $112.95 | $79.70 | $-33.25 | -29.4% | Decrease |
-| García Meat Sausage 794 g / 1.75 lb | $64.95 | $39.70 | $-25.25 | -38.9% | Decrease |
-| Nescafé Classic Instant Coffee 3 in 1 3 Units / 114 g | $52.95 | $54.95 | $+2.00 | +3.8% | Increase |
-| Fresh Ground Chicken Tray | $101.22 | $100.97 | $-0.25 | -0.2% | Decrease |
-| State Fair Mini Corn Dogs 46 Units / 18.7 g / 0.66 oz | $77.95 | $79.95 | $+2.00 | +2.6% | Increase |
-| Sprite Lemon Flavored Soft Drink in Can 24 Units / 355 mL / 12 oz | $97.95 | $99.95 | $+2.00 | +2.0% | Increase |
+| Fresh Whole Chicken for Frying Bag | $279.09 | $279.42 | $+0.33 | +0.1% | Increase |
+| Lush Assorted Fruit Flavored Drinks 24 Units / 200 mL / 6.76 oz | $0.00 | $64.95 | $+64.95 | +100.0% | New |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $193.68 | $178.77 | $-14.91 | -7.7% | Decrease |
+| Papaya | $39.36 | $39.30 | $-0.06 | -0.2% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $68.65 | $68.71 | $+0.06 | +0.1% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $121.68 | $121.51 | $-0.17 | -0.1% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $157.67 | $156.99 | $-0.68 | -0.4% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $192.68 | $192.28 | $-0.40 | -0.2% | Decrease |
+| Fresh Chicken Thighs Boneless Tray | $90.93 | $91.06 | $+0.13 | +0.1% | Increase |
+| Fresh Ground Chicken Tray | $100.97 | $100.85 | $-0.12 | -0.1% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $95.80 | $95.70 | $-0.10 | -0.1% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $92.60 | $92.51 | $-0.09 | -0.1% | Decrease |
+| Fresh Ground Chicken Meat Bag | $293.69 | $293.45 | $-0.24 | -0.1% | Decrease |
+| Mistic Orange Juice with Carrot 2 Units / 2.54 L / 85.8 oz | $84.95 | $79.95 | $-5.00 | -5.9% | Decrease |
+| Pork Chop with Bone Frozen Tray | $80.33 | $80.21 | $-0.12 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -288,15 +288,14 @@ This project has recently gained unexpected attention. It was created for person
 | Black Raisins 1 kg / 2.2 lb |  | $49.95 | 2026-07-29 |
 | Aziz's Assortment Pack of Freshly Baked Traditional Sweets | Aziz's | $63.95 | 2026-07-29 |
 | Frozen Bone-In Pork Butt Blade Steak |  | $76.82 | 2026-07-29 |
-| Member's Selection Frozen Skinless Boneless Salmon Fillets Vacuum Packaged | Member's Selection | $325.37 | 2026-07-29 |
-| Member's Selection Frozen Skin On Boneless Salmon Fillet Vacuum Packed | Member's Selection | $156.14 | 2026-07-29 |
 | Kellogg's Rice Krispies Treat 25 Units / 37 g / 1.3 oz | Kellogg's | $119.95 | 2026-07-27 |
 | Bella Contadina Italian Antipasto Mix 600 g / 21 oz | Bella Contadina | $49.77 | 2026-07-26 |
 | Chief Duck & Goat Curry Powder 600 g | Chief | $59.70 | 2026-07-22 |
+| Nature's Pride Lentils 1.8 kg / 4 lb | Nature's Pride | $34.95 | 2026-07-22 |
+| Lunchables Cookie Sandwich 6 Units | Lunchables | $169.95 | 2026-07-20 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Tropicland Frozen Mango Chunks 2.2 kg / 5 lb | Tropicland | $94.95 | G10D03 |
-| Crystal Farms Light String Cheese 24 Units 567 g / 1.25 lb | Crystal Farms | $75.95 | G10D03 |
+| Lush Assorted Fruit Flavored Drinks 24 Units / 200 mL / 6.76 oz | Lush | $64.95 | G10D03 |
