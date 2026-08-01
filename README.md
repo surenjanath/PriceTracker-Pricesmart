@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1116
-- **Total value**: $124,463.70
-- **Average price**: $111.53
+- **Total products scraped**: 1117
+- **Total value**: $124,560.37
+- **Average price**: $111.51
 
 ## Database Changes
 - **New products added**: 1
-- **Existing products updated**: 1115
-- **Price changes detected**: 26
-- **Stock/availability changes**: 16
-- **Discontinued products**: 0
+- **Existing products updated**: 1116
+- **Price changes detected**: 43
+- **Stock/availability changes**: 10
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -209,45 +209,45 @@ This project has recently gained unexpected attention. It was created for person
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| El Exquisito Sabor Traditional Tiramisu with Ladyfingers and Mascarpone | El Exquisito Sabor | $91.95 | true |
-| Perrier Sparkling Mineral Water Refreshing and Bubbly Pack of 4 Units / 330 mL / 11.15 oz | Perrier | $39.95 | true |
-| Kirkland Signature Mini Chocolate Chip Cookies 30 Units 28 g / 1 oz | Kirkland Signature | $172.95 | true |
-| SIPPZZ Assorted Flavor Sparkling Juices 24 Units / 250 mL / 8.5 oz | SIPPZZ | $154.95 | true |
-| Bagelmania Artisanal Simple Bagel Bread 6 Units | Bagelmania | $34.95 | true |
-| KFI Korma Cooking Sauce 2 Units / 650 mL | KFI | $89.95 | true |
-| Maison Perrier Sparkling Water with Lime Flavor 10 Units / 250 mL / 8.5 oz | Maison Perrier | $89.95 | true |
-| Flavorite Assorted Ice Cream 3 Units / 1 L / 33.8 oz | Flavorite | $149.95 | true |
-| Barista Vanilla Cappuccino Powder Mix 2 Units / 320 g | Café Barista | $74.95 | true |
-| Crix Crispy Salted Crackers 4 Units / 300 g | Crix | $55.95 | true |
+| McCain Cassava Sticks 997 g / 2.2 lb | McCain | $43.95 | true |
+| Sprite Lemon-Lime Flavor Soda 24 Units / 355 mL | Sprite | $99.95 | true |
+| Ocean Spray Cranberry Juice 2 Units 1.89 L / 64 oz | Ocean Spray | $77.95 | true |
+| Coke Sugar-Free Canned Soda 6 Units / 355 mL / 12 oz | Coca-Cola | $24.95 | true |
+| Nature's Pride Lentils 2.3 kg / 5 lb | Nature's Pride | $44.95 | true |
+| Cultured Cravings Coconut Yogurt 12 Units / 150 g / 5.3 oz | Cultured Cravings | $229.95 | true |
+| Member's Selection Freshly Made Assorted Doughnuts 12 Units | Member's Selection | $55.95 | true |
+| Member's Selection Freshly Baked Chocolate Chip Cookies 24 Units | Member's Selection | $60.95 | true |
+| Member's Selection Fresh Baked Vanilla Cake 20 to 24 Slices | Member's Selection | $102.95 | true |
+| Member's Selection Freshly Baked Black Forest Cake 10 to 12 Slices | Member's Selection | $139.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 987
-- **Price increases**: 546
-- **Price decreases**: 411
+- **Total price changes**: 993
+- **Price increases**: 544
+- **Price decreases**: 420
 - **Average increase**: 5.8%
-- **Average decrease**: -5.3%
+- **Average decrease**: -5.4%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Whole Chicken for Frying Bag | $279.09 | $279.42 | $+0.33 | +0.1% | Increase |
-| Lush Assorted Fruit Flavored Drinks 24 Units / 200 mL / 6.76 oz | $0.00 | $64.95 | $+64.95 | +100.0% | New |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $193.68 | $178.77 | $-14.91 | -7.7% | Decrease |
-| Papaya | $39.36 | $39.30 | $-0.06 | -0.2% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $68.65 | $68.71 | $+0.06 | +0.1% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $121.68 | $121.51 | $-0.17 | -0.1% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $157.67 | $156.99 | $-0.68 | -0.4% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $192.68 | $192.28 | $-0.40 | -0.2% | Decrease |
-| Fresh Chicken Thighs Boneless Tray | $90.93 | $91.06 | $+0.13 | +0.1% | Increase |
-| Fresh Ground Chicken Tray | $100.97 | $100.85 | $-0.12 | -0.1% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $95.80 | $95.70 | $-0.10 | -0.1% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $92.60 | $92.51 | $-0.09 | -0.1% | Decrease |
-| Fresh Ground Chicken Meat Bag | $293.69 | $293.45 | $-0.24 | -0.1% | Decrease |
-| Mistic Orange Juice with Carrot 2 Units / 2.54 L / 85.8 oz | $84.95 | $79.95 | $-5.00 | -5.9% | Decrease |
-| Pork Chop with Bone Frozen Tray | $80.33 | $80.21 | $-0.12 | -0.1% | Decrease |
+| Fresh Whole Chicken 2 Units | $104.15 | $104.08 | $-0.07 | -0.1% | Decrease |
+| Gatorade Glacier Freeze Mix Electrolyte Drink Powder 76.5 oz | $0.00 | $196.95 | $+196.95 | +100.0% | New |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $250.45 | $249.88 | $-0.57 | -0.2% | Decrease |
+| Ribeye Choice Fillet Fresh Tray | $315.71 | $314.96 | $-0.75 | -0.2% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $118.01 | $118.19 | $+0.18 | +0.2% | Increase |
+| Reny Picot Camembert Cheese 397 g / 14 oz | $69.95 | $49.70 | $-20.25 | -28.9% | Decrease |
+| Peach 908 g / 2 lb | $54.95 | $56.95 | $+2.00 | +3.6% | Increase |
+| Plum 907 g / 2 lb | $66.95 | $59.95 | $-7.00 | -10.5% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $192.28 | $191.88 | $-0.40 | -0.2% | Decrease |
+| Red Onion 2.2 kg / 5 lb | $47.95 | $49.95 | $+2.00 | +4.2% | Increase |
+| Green Bell Peppers 1.36 kg / 3 lb | $43.95 | $44.95 | $+1.00 | +2.3% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $71.64 | $71.53 | $-0.11 | -0.2% | Decrease |
+| Orchard Orange Juice with Vitamin C 6 Units / 1 L / 33.8 oz | $55.95 | $69.95 | $+14.00 | +25.0% | Increase |
+| Fresh Chicken Thighs Boneless Tray | $91.06 | $90.93 | $-0.13 | -0.1% | Decrease |
+| Orchard Assorted Flavored Juice Boxes 24 Units / 250 mL / 8.45 oz | $86.95 | $87.95 | $+1.00 | +1.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Jennie's Organic Coconut Bites 24 oz | Jennies | $129.32 | 2026-07-31 |
 | Parthenon Premium Mediterranean Olive Medley 900 g / 31.74 oz | Parthenon | $49.70 | 2026-07-29 |
 | Cole Cold Assorted Soft Drinks 24 Units / 370 mL / 12.5 oz | Cole Cold | $43.95 | 2026-07-29 |
 | Black Raisins 1 kg / 2.2 lb |  | $49.95 | 2026-07-29 |
@@ -292,10 +293,9 @@ This project has recently gained unexpected attention. It was created for person
 | Bella Contadina Italian Antipasto Mix 600 g / 21 oz | Bella Contadina | $49.77 | 2026-07-26 |
 | Chief Duck & Goat Curry Powder 600 g | Chief | $59.70 | 2026-07-22 |
 | Nature's Pride Lentils 1.8 kg / 4 lb | Nature's Pride | $34.95 | 2026-07-22 |
-| Lunchables Cookie Sandwich 6 Units | Lunchables | $169.95 | 2026-07-20 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Lush Assorted Fruit Flavored Drinks 24 Units / 200 mL / 6.76 oz | Lush | $64.95 | G10D03 |
+| Gatorade Glacier Freeze Mix Electrolyte Drink Powder 76.5 oz | Gatorade | $196.95 | G10D03 |
