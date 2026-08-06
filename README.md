@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1117
-- **Total value**: $125,227.53
-- **Average price**: $112.11
+- **Total products scraped**: 1114
+- **Total value**: $124,682.95
+- **Average price**: $111.92
 
 ## Database Changes
-- **New products added**: 3
-- **Existing products updated**: 1114
-- **Price changes detected**: 35
-- **Stock/availability changes**: 26
-- **Discontinued products**: 2
+- **New products added**: 1
+- **Existing products updated**: 1113
+- **Price changes detected**: 72
+- **Stock/availability changes**: 13
+- **Discontinued products**: 4
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 177 |
-|  | 131 |
+| Member's Selection | 176 |
+|  | 130 |
 | Badia | 16 |
 | Swiss | 14 |
 | Kirkland Signature | 12 |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1002
-- **Price increases**: 549
-- **Price decreases**: 425
+- **Total price changes**: 1044
+- **Price increases**: 568
+- **Price decreases**: 447
 - **Average increase**: 6.0%
-- **Average decrease**: -5.0%
+- **Average decrease**: -5.3%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Dragon Fruit 1.36 kg / 3 lb | $0.00 | $59.95 | $+59.95 | +100.0% | New |
-| Oikos Greek Yogurt 18 Units / 150 g / 5.3 oz | $0.00 | $194.95 | $+194.95 | +100.0% | New |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $175.77 | $173.62 | $-2.15 | -1.2% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $118.19 | $118.01 | $-0.18 | -0.2% | Decrease |
-| Papaya | $39.62 | $39.52 | $-0.10 | -0.3% | Decrease |
-| Philadelphia Strawberry Cream Cheese 2 Units / 212 g / 7.5 oz | $79.95 | $49.70 | $-30.25 | -37.8% | Decrease |
-| Gouda Cheese Block | $89.15 | $89.01 | $-0.14 | -0.2% | Decrease |
-| Polly-O String Cheese Mozzarella & Cheddar 24 Units | $96.95 | $59.70 | $-37.25 | -38.4% | Decrease |
-| Welch's Concord Grape Fruit Juice 1.75 L / 59 oz | $34.95 | $24.70 | $-10.25 | -29.3% | Decrease |
-| KFI Korma Cooking Sauce 2 Units / 650 mL | $89.95 | $81.70 | $-8.25 | -9.2% | Decrease |
-| Albanese Gummy Bears Assorted Flavors 1.02 Kg / 2.25 lb | $0.00 | $89.95 | $+89.95 | +100.0% | New |
-| Frozen Sliced Turkey Drumsticks | $192.82 | $193.22 | $+0.40 | +0.2% | Increase |
-| Orchard Orange Juice with Vitamin C 6 Units / 1 L / 33.8 oz | $69.95 | $59.95 | $-10.00 | -14.3% | Decrease |
-| TJC Orange Juice 6 Units / 540 mL / 18.2 oz | $78.95 | $81.95 | $+3.00 | +3.8% | Increase |
-| Fruta 100% Juices Assorted 24 Units / 200 mL / 6.7 oz | $74.95 | $69.95 | $-5.00 | -6.7% | Decrease |
+| Florida's Natural Strawberry Lemonade 2 Units 1.75 L / 59 oz | $99.95 | $114.95 | $+15.00 | +15.0% | Increase |
+| Ginger 1 kg / 2.2 lb | $24.95 | $29.95 | $+5.00 | +20.0% | Increase |
+| Samyang Spicy Chicken-Flavored Ramen with Cheese Sauce 5 Units / 140 g | $72.95 | $74.95 | $+2.00 | +2.7% | Increase |
+| Fresh Chicken Mixed Parts Tray | $84.12 | $83.92 | $-0.20 | -0.2% | Decrease |
+| Charles Chocolate Assorted Chocolate Snack Pack 30 Units | $0.00 | $59.95 | $+59.95 | +100.0% | New |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $247.59 | $246.73 | $-0.86 | -0.3% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $201.03 | $200.73 | $-0.30 | -0.1% | Decrease |
+| Chocolisto Chocolate Drink Powder with Vitamins A B3 and D3 1 kg | $69.95 | $71.95 | $+2.00 | +2.9% | Increase |
+| Ankara Spaghetti 5 Units / 400 g | $40.95 | $39.95 | $-1.00 | -2.4% | Decrease |
+| Pizzacini Truffle and Mushroom Pizza 2 Units / 440 g / 15.5 oz | $154.95 | $169.95 | $+15.00 | +9.7% | Increase |
+| Carrington Farms Coconut Oil Spray 2 Units / 141.7 g / 5 oz | $64.95 | $39.70 | $-25.25 | -38.9% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $70.00 | $69.94 | $-0.06 | -0.1% | Decrease |
+| Apple & Eve Organic Orange Carrot Juice 2 Units / 2.84 L / 96 oz | $109.95 | $70.70 | $-39.25 | -35.7% | Decrease |
+| Ribeye Choice Fillet Fresh Tray | $318.74 | $319.51 | $+0.77 | +0.2% | Increase |
+| Caffe D'Vita Piña Colada Powdered Drink Mix 907 g / 32 oz | $70.70 | $64.70 | $-6.00 | -8.5% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,21 +283,19 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Garden Foods Mixed Vegetables 1.36 kg / 3 lb | Garden Foods | $54.95 | 2026-08-05 |
+| Tostitos Spinach and Cheese Cream Dips 2 Units / 425.2 g | Frito Lay | $59.95 | 2026-08-05 |
+| Fresh Ginger 1.36 kg / 3 lb |  | $61.95 | 2026-08-05 |
+| Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2026-08-05 |
 | Snapple Fruit Flavored Juice 24 Units / 591 mL / 20 oz | Snapple | $269.95 | 2026-08-04 |
 | Member's Selection Shredded Mozzarella Cheese 453 g / 1 lb | Member's Selection | $29.95 | 2026-08-04 |
 | Helado Mexico Ice Cream Bars 24 Units / 81 mL / 2.74 oz | Helado México | $167.95 | 2026-08-03 |
 | Golden Raisins 1 kg / 2.2 lb |  | $44.95 | 2026-08-02 |
 | Prunes 1 kg / 2.2 lb |  | $54.95 | 2026-08-02 |
 | Ginseng Up Soda Mixed Flavors Bottle 24 Units / 275 mL / 9.3 oz | Ginseng Up | $139.70 | 2026-08-02 |
-| Member's Selection Yellowfin Tuna with Vegetables in Oil 6 Units / 170 g | Member's Selection | $57.70 | 2026-08-01 |
-| Jennie's Organic Coconut Bites 24 oz | Jennies | $129.32 | 2026-07-31 |
-| Parthenon Premium Mediterranean Olive Medley 900 g / 31.74 oz | Parthenon | $49.70 | 2026-07-29 |
-| Cole Cold Assorted Soft Drinks 24 Units / 370 mL / 12.5 oz | Cole Cold | $43.95 | 2026-07-29 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Dragon Fruit 1.36 kg / 3 lb |  | $59.95 | G10D03 |
-| Oikos Greek Yogurt 18 Units / 150 g / 5.3 oz | Oikos | $194.95 | G10D03 |
-| Albanese Gummy Bears Assorted Flavors 1.02 Kg / 2.25 lb | Albanese | $89.95 | G10D03 |
+| Charles Chocolate Assorted Chocolate Snack Pack 30 Units | Charles Chocolates | $59.95 | G10D03 |
