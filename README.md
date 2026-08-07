@@ -185,15 +185,15 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1114
-- **Total value**: $124,682.95
-- **Average price**: $111.92
+- **Total value**: $124,492.00
+- **Average price**: $111.75
 
 ## Database Changes
 - **New products added**: 1
 - **Existing products updated**: 1113
-- **Price changes detected**: 72
-- **Stock/availability changes**: 13
-- **Discontinued products**: 4
+- **Price changes detected**: 26
+- **Stock/availability changes**: 12
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1044
-- **Price increases**: 568
-- **Price decreases**: 447
-- **Average increase**: 6.0%
+- **Total price changes**: 1051
+- **Price increases**: 566
+- **Price decreases**: 456
+- **Average increase**: 5.7%
 - **Average decrease**: -5.3%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Florida's Natural Strawberry Lemonade 2 Units 1.75 L / 59 oz | $99.95 | $114.95 | $+15.00 | +15.0% | Increase |
-| Ginger 1 kg / 2.2 lb | $24.95 | $29.95 | $+5.00 | +20.0% | Increase |
-| Samyang Spicy Chicken-Flavored Ramen with Cheese Sauce 5 Units / 140 g | $72.95 | $74.95 | $+2.00 | +2.7% | Increase |
-| Fresh Chicken Mixed Parts Tray | $84.12 | $83.92 | $-0.20 | -0.2% | Decrease |
-| Charles Chocolate Assorted Chocolate Snack Pack 30 Units | $0.00 | $59.95 | $+59.95 | +100.0% | New |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $247.59 | $246.73 | $-0.86 | -0.3% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $201.03 | $200.73 | $-0.30 | -0.1% | Decrease |
-| Chocolisto Chocolate Drink Powder with Vitamins A B3 and D3 1 kg | $69.95 | $71.95 | $+2.00 | +2.9% | Increase |
-| Ankara Spaghetti 5 Units / 400 g | $40.95 | $39.95 | $-1.00 | -2.4% | Decrease |
-| Pizzacini Truffle and Mushroom Pizza 2 Units / 440 g / 15.5 oz | $154.95 | $169.95 | $+15.00 | +9.7% | Increase |
-| Carrington Farms Coconut Oil Spray 2 Units / 141.7 g / 5 oz | $64.95 | $39.70 | $-25.25 | -38.9% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $70.00 | $69.94 | $-0.06 | -0.1% | Decrease |
-| Apple & Eve Organic Orange Carrot Juice 2 Units / 2.84 L / 96 oz | $109.95 | $70.70 | $-39.25 | -35.7% | Decrease |
-| Ribeye Choice Fillet Fresh Tray | $318.74 | $319.51 | $+0.77 | +0.2% | Increase |
-| Caffe D'Vita Piña Colada Powdered Drink Mix 907 g / 32 oz | $70.70 | $64.70 | $-6.00 | -8.5% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $281.39 | $282.05 | $+0.66 | +0.2% | Increase |
+| Weetabix Wheat Cereal 2 Units / 215 g / 7.6 oz | $0.00 | $44.95 | $+44.95 | +100.0% | New |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $118.01 | $118.19 | $+0.18 | +0.2% | Increase |
+| Papaya | $39.52 | $39.49 | $-0.03 | -0.1% | Decrease |
+| Tostitos Scoops 411 g | $52.95 | $53.95 | $+1.00 | +1.9% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $200.73 | $200.44 | $-0.29 | -0.1% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $69.94 | $70.00 | $+0.06 | +0.1% | Increase |
+| KFI Korma Cooking Sauce 2 Units / 650 mL | $81.70 | $73.70 | $-8.00 | -9.8% | Decrease |
+| Fresh Beef Striploin Steak Tray | $249.67 | $248.98 | $-0.69 | -0.3% | Decrease |
+| Red Cabbage Unit | $31.95 | $29.95 | $-2.00 | -6.3% | Decrease |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $456.77 | $453.97 | $-2.80 | -0.6% | Decrease |
+| Florida's Natural Mango Lemonade 2 Units / 1.75 L / 59 oz | $79.70 | $49.70 | $-30.00 | -37.6% | Decrease |
+| Fresh Chicken Thighs Boneless Tray | $90.80 | $90.67 | $-0.13 | -0.1% | Decrease |
+| Fresh Celery  | $21.95 | $22.95 | $+1.00 | +4.6% | Increase |
+| Nutrina Chilled Whole Chicken Bag | $349.11 | $348.94 | $-0.17 | -0.0% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Mowi Tuscan Frozen Herb Salmon Portions 710 g / 1.56 lb | Mowi | $194.95 | 2026-08-06 |
 | Garden Foods Mixed Vegetables 1.36 kg / 3 lb | Garden Foods | $54.95 | 2026-08-05 |
 | Tostitos Spinach and Cheese Cream Dips 2 Units / 425.2 g | Frito Lay | $59.95 | 2026-08-05 |
 | Fresh Ginger 1.36 kg / 3 lb |  | $61.95 | 2026-08-05 |
@@ -292,10 +293,9 @@ This project has recently gained unexpected attention. It was created for person
 | Helado Mexico Ice Cream Bars 24 Units / 81 mL / 2.74 oz | Helado México | $167.95 | 2026-08-03 |
 | Golden Raisins 1 kg / 2.2 lb |  | $44.95 | 2026-08-02 |
 | Prunes 1 kg / 2.2 lb |  | $54.95 | 2026-08-02 |
-| Ginseng Up Soda Mixed Flavors Bottle 24 Units / 275 mL / 9.3 oz | Ginseng Up | $139.70 | 2026-08-02 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Charles Chocolate Assorted Chocolate Snack Pack 30 Units | Charles Chocolates | $59.95 | G10D03 |
+| Weetabix Wheat Cereal 2 Units / 215 g / 7.6 oz | Weetabix | $44.95 | G10D03 |
