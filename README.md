@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1114
-- **Total value**: $124,492.00
-- **Average price**: $111.75
+- **Total products scraped**: 1118
+- **Total value**: $124,691.79
+- **Average price**: $111.53
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1113
-- **Price changes detected**: 26
-- **Stock/availability changes**: 12
-- **Discontinued products**: 1
+- **New products added**: 2
+- **Existing products updated**: 1116
+- **Price changes detected**: 28
+- **Stock/availability changes**: 19
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 176 |
-|  | 130 |
+|  | 132 |
 | Badia | 16 |
 | Swiss | 14 |
 | Kirkland Signature | 12 |
@@ -210,44 +210,44 @@ This project has recently gained unexpected attention. It was created for person
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | McCain Cassava Sticks 997 g / 2.2 lb | McCain | $43.95 | true |
-| Cultured Cravings Coconut Yogurt 12 Units / 150 g / 5.3 oz | Cultured Cravings | $229.95 | true |
 | Ocean Spray Cranberry Juice 2 Units 1.89 L / 64 oz | Ocean Spray | $77.95 | true |
-| Sprite Lemon-Lime Flavor Soda 24 Units / 355 mL | Sprite | $99.95 | true |
+| Cultured Cravings Coconut Yogurt 12 Units / 150 g / 5.3 oz | Cultured Cravings | $229.95 | true |
 | Coke Sugar-Free Canned Soda 6 Units / 355 mL / 12 oz | Coca-Cola | $24.95 | true |
 | Nature's Pride Lentils 2.3 kg / 5 lb | Nature's Pride | $44.95 | true |
+| Sprite Lemon-Lime Flavor Soda 24 Units / 355 mL | Sprite | $99.95 | true |
 | Member's Selection Freshly Made Assorted Doughnuts 12 Units | Member's Selection | $55.95 | true |
 | Member's Selection Freshly Baked Chocolate Chip Cookies 24 Units | Member's Selection | $60.95 | true |
-| Member's Selection Freshly Baked Vanilla Cake 40 to 50 Slices | Member's Selection | $198.95 | true |
+| Member's Selection Freshly Baked Black Forest Cake 10 to 12 Slices | Member's Selection | $139.95 | true |
 | Member's Selection Fresh Baked Vanilla Cake 20 to 24 Slices | Member's Selection | $102.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1051
-- **Price increases**: 566
-- **Price decreases**: 456
-- **Average increase**: 5.7%
-- **Average decrease**: -5.3%
+- **Total price changes**: 1058
+- **Price increases**: 565
+- **Price decreases**: 463
+- **Average increase**: 5.8%
+- **Average decrease**: -4.9%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Whole Chicken for Frying Bag | $281.39 | $282.05 | $+0.66 | +0.2% | Increase |
-| Weetabix Wheat Cereal 2 Units / 215 g / 7.6 oz | $0.00 | $44.95 | $+44.95 | +100.0% | New |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $118.01 | $118.19 | $+0.18 | +0.2% | Increase |
-| Papaya | $39.52 | $39.49 | $-0.03 | -0.1% | Decrease |
-| Tostitos Scoops 411 g | $52.95 | $53.95 | $+1.00 | +1.9% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $200.73 | $200.44 | $-0.29 | -0.1% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $69.94 | $70.00 | $+0.06 | +0.1% | Increase |
-| KFI Korma Cooking Sauce 2 Units / 650 mL | $81.70 | $73.70 | $-8.00 | -9.8% | Decrease |
-| Fresh Beef Striploin Steak Tray | $249.67 | $248.98 | $-0.69 | -0.3% | Decrease |
-| Red Cabbage Unit | $31.95 | $29.95 | $-2.00 | -6.3% | Decrease |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $456.77 | $453.97 | $-2.80 | -0.6% | Decrease |
-| Florida's Natural Mango Lemonade 2 Units / 1.75 L / 59 oz | $79.70 | $49.70 | $-30.00 | -37.6% | Decrease |
-| Fresh Chicken Thighs Boneless Tray | $90.80 | $90.67 | $-0.13 | -0.1% | Decrease |
-| Fresh Celery  | $21.95 | $22.95 | $+1.00 | +4.6% | Increase |
-| Nutrina Chilled Whole Chicken Bag | $349.11 | $348.94 | $-0.17 | -0.0% | Decrease |
+| Pepsi Zero Sugar Soft Drink 12 Units / 500 mL / 17 oz | $0.00 | $39.95 | $+39.95 | +100.0% | New |
+| Cherry Tomato 500 g / 1.1 lb | $19.95 | $32.95 | $+13.00 | +65.2% | Increase |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $173.62 | $171.22 | $-2.40 | -1.4% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $246.73 | $245.87 | $-0.86 | -0.3% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $200.44 | $200.73 | $+0.29 | +0.1% | Increase |
+| Frozen Sliced Turkey Drumsticks | $193.22 | $193.49 | $+0.27 | +0.1% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $70.00 | $69.87 | $-0.13 | -0.2% | Decrease |
+| Papaya | $39.49 | $39.36 | $-0.13 | -0.3% | Decrease |
+| Brussels Sprouts 454 g / 1 lb | $34.95 | $49.95 | $+15.00 | +42.9% | Increase |
+| Fresh Chicken Thighs Boneless Tray | $90.67 | $90.54 | $-0.13 | -0.1% | Decrease |
+| Fresh Beef Striploin Steak Tray | $248.98 | $247.61 | $-1.37 | -0.6% | Decrease |
+| Fine Choice Fresh Marinated Chicken Tray | $93.28 | $93.51 | $+0.23 | +0.2% | Increase |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $93.82 | $94.11 | $+0.29 | +0.3% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $72.11 | $72.00 | $-0.11 | -0.2% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $93.05 | $93.14 | $+0.09 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -298,4 +298,5 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Weetabix Wheat Cereal 2 Units / 215 g / 7.6 oz | Weetabix | $44.95 | G10D03 |
+| Pepsi Zero Sugar Soft Drink 12 Units / 500 mL / 17 oz | Pepsi | $39.95 | G10D03 |
+| Maeva Avocado Oil Spray 2 Units / 200 mL / 6.7 oz | Maeva | $89.95 | G10D03 |
