@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1113
-- **Total value**: $123,974.06
-- **Average price**: $111.39
+- **Total products scraped**: 1116
+- **Total value**: $124,177.87
+- **Average price**: $111.27
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1113
-- **Price changes detected**: 69
-- **Stock/availability changes**: 13
-- **Discontinued products**: 5
+- **New products added**: 2
+- **Existing products updated**: 1114
+- **Price changes detected**: 30
+- **Stock/availability changes**: 21
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 176 |
-|  | 132 |
+|  | 133 |
 | Badia | 16 |
 | Swiss | 14 |
 | Kirkland Signature | 12 |
@@ -26,45 +26,45 @@
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
+| Terra Delyssa Mild Extra Virgin Olive Oil 1 L / 34 oz | Terra Delyssa | $84.95 | true |
+| Maeva Avocado Oil Spray 2 Units / 200 mL / 6.7 oz | Maeva | $89.95 | true |
 | McCain Cassava Sticks 997 g / 2.2 lb | McCain | $43.95 | true |
 | Ocean Spray Cranberry Juice 2 Units 1.89 L / 64 oz | Ocean Spray | $77.95 | true |
 | Cultured Cravings Coconut Yogurt 12 Units / 150 g / 5.3 oz | Cultured Cravings | $229.95 | true |
-| Coke Sugar-Free Canned Soda 6 Units / 355 mL / 12 oz | Coca-Cola | $24.95 | true |
-| Nature's Pride Lentils 2.3 kg / 5 lb | Nature's Pride | $44.95 | true |
-| Sprite Lemon-Lime Flavor Soda 24 Units / 355 mL | Sprite | $99.95 | true |
-| Member's Selection Freshly Made Assorted Doughnuts 12 Units | Member's Selection | $55.95 | true |
-| Member's Selection Freshly Baked Chocolate Chip Cookies 24 Units | Member's Selection | $60.95 | true |
-| Member's Selection Freshly Baked Black Forest Cake 10 to 12 Slices | Member's Selection | $139.95 | true |
-| Member's Selection Fresh Baked Cheesecake 15 to 20 Slices | Member's Selection | $206.95 | true |
+| Oikos Greek Yogurt 18 Units / 150 g / 5.3 oz | Oikos | $194.95 | true |
+| Tropicland Frozen Mango Chunks 2.2 kg / 5 lb | Tropicland | $94.95 | true |
+| Munchies Flamin' Hot Flavored Snack Mix 262.2 g / 9.25 oz | Munchies | $44.95 | true |
+| Pepsi Zero Sugar Soft Drink 12 Units / 500 mL / 17 oz | Pepsi | $39.95 | true |
+| Charles Chocolate Assorted Chocolate Snack Pack 30 Units | Charles Chocolates | $59.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1075
-- **Price increases**: 544
-- **Price decreases**: 505
+- **Total price changes**: 1067
+- **Price increases**: 537
+- **Price decreases**: 503
 - **Average increase**: 5.9%
-- **Average decrease**: -5.3%
+- **Average decrease**: -5.4%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Bone-in Chicken Thighs Tray | $69.87 | $69.94 | $+0.07 | +0.1% | Increase |
-| Fresh Chicken Mixed Parts Tray | $83.92 | $83.82 | $-0.10 | -0.1% | Decrease |
-| Fresh Whole Chicken 2 Units | $104.68 | $104.50 | $-0.18 | -0.2% | Decrease |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $166.42 | $161.15 | $-5.27 | -3.2% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $245.87 | $246.73 | $+0.86 | +0.3% | Increase |
-| Swiss Crunchy Peanut Butter 1.3 kg | $42.95 | $34.95 | $-8.00 | -18.6% | Decrease |
-| Papaya | $39.11 | $38.92 | $-0.19 | -0.5% | Decrease |
-| Fresh Chicken Thighs Boneless Bag | $339.32 | $338.96 | $-0.36 | -0.1% | Decrease |
-| Fresh Chicken Thighs Boneless Tray | $90.41 | $90.28 | $-0.13 | -0.1% | Decrease |
-| Frozen Lamb Shoulder Chops Tray | $124.13 | $124.31 | $+0.18 | +0.1% | Increase |
-| McVitie's Go Ahead Assortment of Crunchy Cookies with Fruity Filling 3 Units / 174 g / 6 oz | $47.95 | $39.85 | $-8.10 | -16.9% | Decrease |
-| Ribeye Choice Fillet Fresh Tray | $324.90 | $324.13 | $-0.77 | -0.2% | Decrease |
-| Soldanza Mix Holiday Snacks 12 Units | $52.95 | $44.95 | $-8.00 | -15.1% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $118.19 | $118.01 | $-0.18 | -0.2% | Decrease |
-| Mr Topper's Premium Popcorn Kernels 1.8 kg / 4 lb | $36.95 | $28.95 | $-8.00 | -21.7% | Decrease |
+| Papaya | $38.92 | $38.66 | $-0.26 | -0.7% | Decrease |
+| Anthon Berg Baileys Chocolate-Covered Marzipan with Baileys Liqueur 20 Count / 25 g / 0.8 oz | $0.00 | $149.95 | $+149.95 | +100.0% | New |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $161.15 | $160.55 | $-0.60 | -0.4% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $246.73 | $245.87 | $-0.86 | -0.3% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $200.73 | $200.15 | $-0.58 | -0.3% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $193.49 | $194.42 | $+0.93 | +0.5% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $69.94 | $70.00 | $+0.06 | +0.1% | Increase |
+| Reny Picot Camembert Cheese 397 g / 14 oz | $49.70 | $69.95 | $+20.25 | +40.7% | Increase |
+| Better Living Nuts, Seeds and Dehydrated Fruit Mix 1.3 kg | $79.95 | $87.95 | $+8.00 | +10.0% | Increase |
+| Eve Dried Pigeon Peas 6 Units / 400 g / 14 oz | $49.95 | $52.95 | $+3.00 | +6.0% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $149.17 | $148.49 | $-0.68 | -0.5% | Decrease |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $446.36 | $453.97 | $+7.61 | +1.7% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $124.31 | $124.13 | $-0.18 | -0.1% | Decrease |
+| Fresh Chicken Thighs Boneless Bag | $338.96 | $339.32 | $+0.36 | +0.1% | Increase |
+| Fresh Ground Chicken Tray | $100.97 | $100.85 | $-0.12 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -93,13 +93,14 @@
 | Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $89.95 | $19.70 | -78.1% |
 | Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $89.95 | $19.70 | -78.1% |
 | Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $57.95 | $14.70 | -74.6% |
+| Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $57.95 | $14.70 | -74.6% |
 | Bombolo Biscotti Decorated Cookies with Autumn Patterns 18 Units | $52.70 | $13.77 | -73.9% |
-| Sabra Classic Hummus 850 g / 30 oz | $79.95 | $24.70 | -69.1% |
 
 ## Recently Discontinued Products
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Crystal Farms Light String Cheese 24 Units 567 g / 1.25 lb | Crystal Farms | $75.95 | 2026-08-10 |
 | Red Rose Canned Pink Salmon in Water 2 Units / 418 g / 14.7 oz | Red Rose | $72.95 | 2026-08-09 |
 | Mowi Lightly Smoked Salmon 680 g / 1.5 lb | Mowi | $214.95 | 2026-08-09 |
 | Charles Chocolate Coated Jordanian Almond 1 kg / 2.2 lb | Charles Chocolates | $29.70 | 2026-08-09 |
@@ -109,7 +110,10 @@
 | Member's Selection Mayonnaise 12 Units / 591 mL / 20 oz | Member's Selection | $199.95 | 2026-08-08 |
 | Mowi Tuscan Frozen Herb Salmon Portions 710 g / 1.56 lb | Mowi | $194.95 | 2026-08-06 |
 | Garden Foods Mixed Vegetables 1.36 kg / 3 lb | Garden Foods | $54.95 | 2026-08-05 |
-| Tostitos Spinach and Cheese Cream Dips 2 Units / 425.2 g | Frito Lay | $59.95 | 2026-08-05 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Anthon Berg Baileys Chocolate-Covered Marzipan with Baileys Liqueur 20 Count / 25 g / 0.8 oz | Anthon Berg | $149.95 | G10D03 |
+|  Chobani Greek Yogurt Plain 1.13 kg / 2.5 lb | Chobani | $78.95 | G10D03 |
