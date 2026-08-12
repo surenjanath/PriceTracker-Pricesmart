@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1116
-- **Total value**: $124,177.87
-- **Average price**: $111.27
+- **Total products scraped**: 1117
+- **Total value**: $124,306.49
+- **Average price**: $111.29
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1114
-- **Price changes detected**: 30
-- **Stock/availability changes**: 21
-- **Discontinued products**: 1
+- **New products added**: 1
+- **Existing products updated**: 1116
+- **Price changes detected**: 25
+- **Stock/availability changes**: 19
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -210,9 +210,9 @@ This project has recently gained unexpected attention. It was created for person
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Terra Delyssa Mild Extra Virgin Olive Oil 1 L / 34 oz | Terra Delyssa | $84.95 | true |
+| Ocean Spray Cranberry Juice 2 Units 1.89 L / 64 oz | Ocean Spray | $77.95 | true |
 | Maeva Avocado Oil Spray 2 Units / 200 mL / 6.7 oz | Maeva | $89.95 | true |
 | McCain Cassava Sticks 997 g / 2.2 lb | McCain | $43.95 | true |
-| Ocean Spray Cranberry Juice 2 Units 1.89 L / 64 oz | Ocean Spray | $77.95 | true |
 | Cultured Cravings Coconut Yogurt 12 Units / 150 g / 5.3 oz | Cultured Cravings | $229.95 | true |
 | Oikos Greek Yogurt 18 Units / 150 g / 5.3 oz | Oikos | $194.95 | true |
 | Tropicland Frozen Mango Chunks 2.2 kg / 5 lb | Tropicland | $94.95 | true |
@@ -223,9 +223,9 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1067
-- **Price increases**: 537
-- **Price decreases**: 503
+- **Total price changes**: 1072
+- **Price increases**: 539
+- **Price decreases**: 505
 - **Average increase**: 5.9%
 - **Average decrease**: -5.4%
 
@@ -233,21 +233,21 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Papaya | $38.92 | $38.66 | $-0.26 | -0.7% | Decrease |
-| Anthon Berg Baileys Chocolate-Covered Marzipan with Baileys Liqueur 20 Count / 25 g / 0.8 oz | $0.00 | $149.95 | $+149.95 | +100.0% | New |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $161.15 | $160.55 | $-0.60 | -0.4% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $246.73 | $245.87 | $-0.86 | -0.3% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $200.73 | $200.15 | $-0.58 | -0.3% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $193.49 | $194.42 | $+0.93 | +0.5% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $69.94 | $70.00 | $+0.06 | +0.1% | Increase |
-| Reny Picot Camembert Cheese 397 g / 14 oz | $49.70 | $69.95 | $+20.25 | +40.7% | Increase |
-| Better Living Nuts, Seeds and Dehydrated Fruit Mix 1.3 kg | $79.95 | $87.95 | $+8.00 | +10.0% | Increase |
-| Eve Dried Pigeon Peas 6 Units / 400 g / 14 oz | $49.95 | $52.95 | $+3.00 | +6.0% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $149.17 | $148.49 | $-0.68 | -0.5% | Decrease |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $446.36 | $453.97 | $+7.61 | +1.7% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $124.31 | $124.13 | $-0.18 | -0.1% | Decrease |
-| Fresh Chicken Thighs Boneless Bag | $338.96 | $339.32 | $+0.36 | +0.1% | Increase |
-| Fresh Ground Chicken Tray | $100.97 | $100.85 | $-0.12 | -0.1% | Decrease |
+| Takis Fuego with Hot Chili and Lemon 46 Units / 28 g | $284.95 | $259.70 | $-25.25 | -8.9% | Decrease |
+| Café Santo Domingo 100% Dominican Arabica Ground Coffee 2 Units / 453.6 g | $0.00 | $109.95 | $+109.95 | +100.0% | New |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $160.55 | $160.43 | $-0.12 | -0.1% | Decrease |
+| Brunswick Canned Mackerel in Tomato Sauce 3 Units / 425 g | $40.95 | $41.95 | $+1.00 | +2.4% | Increase |
+| Nongshim Shin Toomba Hot and Creamy Instant Ramen 4 Units / 137 g | $59.95 | $59.70 | $-0.25 | -0.4% | Decrease |
+| Papaya | $38.66 | $38.41 | $-0.25 | -0.6% | Decrease |
+| Chocolisto Chocolate Drink Powder with Vitamins A B3 and D3 1 kg | $71.95 | $76.95 | $+5.00 | +6.9% | Increase |
+| Frozen Chicken Legs 1 kg / 2.2 lb | $38.95 | $39.95 | $+1.00 | +2.6% | Increase |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $453.97 | $456.00 | $+2.03 | +0.4% | Increase |
+| Ribeye Choice Fillet Fresh Tray | $324.13 | $324.90 | $+0.77 | +0.2% | Increase |
+| Fresh Chicken Thighs Boneless Bag | $339.32 | $340.04 | $+0.72 | +0.2% | Increase |
+| Fresh Ground Chicken Tray | $100.85 | $100.59 | $-0.26 | -0.3% | Decrease |
+| Oreo Original Cookies 12 Units / 36 g / 1.27 oz | $51.95 | $54.95 | $+3.00 | +5.8% | Increase |
+| Fresh Cello Carrots 1.3 kg / 3 lb | $19.95 | $21.95 | $+2.00 | +10.0% | Increase |
+| Fresh Ground Chicken Meat Bag | $293.57 | $293.45 | $-0.12 | -0.0% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -298,5 +298,4 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Anthon Berg Baileys Chocolate-Covered Marzipan with Baileys Liqueur 20 Count / 25 g / 0.8 oz | Anthon Berg | $149.95 | G10D03 |
-|  Chobani Greek Yogurt Plain 1.13 kg / 2.5 lb | Chobani | $78.95 | G10D03 |
+| Café Santo Domingo 100% Dominican Arabica Ground Coffee 2 Units / 453.6 g | Cafe Santo Domingo | $109.95 | G10D03 |
