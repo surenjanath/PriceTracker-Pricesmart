@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1112
-- **Total value**: $125,074.31
-- **Average price**: $112.48
+- **Total products scraped**: 1113
+- **Total value**: $125,251.40
+- **Average price**: $112.53
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1111
-- **Price changes detected**: 26
-- **Stock/availability changes**: 9
-- **Discontinued products**: 4
+- **New products added**: 3
+- **Existing products updated**: 1110
+- **Price changes detected**: 22
+- **Stock/availability changes**: 17
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
@@ -41,30 +41,30 @@
 
 ## Price Change Summary (Last 30 Days)
 - **Total price changes**: 1069
-- **Price increases**: 525
-- **Price decreases**: 514
-- **Average increase**: 5.3%
+- **Price increases**: 523
+- **Price decreases**: 513
+- **Average increase**: 6.0%
 - **Average decrease**: -5.8%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Whole Chicken 2 Units | $104.33 | $104.50 | $+0.17 | +0.2% | Increase |
-| Frozen Bone-In Pork Loin Case | $0.00 | $1520.78 | $+1520.78 | +100.0% | New |
-| Fresh Bone-in Chicken Thighs Tray | $69.87 | $69.80 | $-0.07 | -0.1% | Decrease |
-| Ribeye Choice Fillet Fresh Tray | $324.90 | $324.13 | $-0.77 | -0.2% | Decrease |
-| Bumble Bee Tuna Salad Snack 6 Units / 100 g / 3.5 oz | $81.95 | $49.70 | $-32.25 | -39.4% | Decrease |
-| Orchard Orange Drink 24 Units / 250 mL | $85.95 | $94.95 | $+9.00 | +10.5% | Increase |
-| Three Little Pigs Pate Combo Pack 307 g / 14 oz | $89.70 | $39.70 | $-50.00 | -55.7% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $94.11 | $94.25 | $+0.14 | +0.1% | Increase |
-| Pier 33 Mussels in Butter and Garlic Sauce 1.36 kg / 3 lb | $96.95 | $94.95 | $-2.00 | -2.1% | Decrease |
-| Quantum Energy Bars Cookie Dough Flavor with Chocolate Chips and Peanut Butter with Dark Chocolate 16 Units / 48 g / 1.7 oz | $139.70 | $109.70 | $-30.00 | -21.5% | Decrease |
-| Frozen Lamb Shoulder Chops Tray | $124.13 | $123.95 | $-0.18 | -0.1% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $96.10 | $96.00 | $-0.10 | -0.1% | Decrease |
-| Nutrina Chilled Whole Chicken Bag | $347.95 | $349.11 | $+1.16 | +0.3% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $92.82 | $93.00 | $+0.18 | +0.2% | Increase |
-| Bosc Pear 1.36 kg / 3 lb | $44.70 | $76.95 | $+32.25 | +72.1% | Increase |
+| Table Foods Stuffed Peppers Variety 504 g / 18 oz | $0.00 | $116.95 | $+116.95 | +100.0% | New |
+| Leclerc Tradition 1905 French Creme and Raspberry Filled Cookies 2 Units / 300 g | $0.00 | $49.95 | $+49.95 | +100.0% | New |
+| Lee Kum Kee Traditional Soy Sauce for Cooking and Marinating 2 Units / 500 mL | $0.00 | $39.95 | $+39.95 | +100.0% | New |
+| Seedless Watermelon  | $74.95 | $96.95 | $+22.00 | +29.4% | Increase |
+| Papaya | $38.41 | $38.50 | $+0.09 | +0.2% | Increase |
+| Mini Sweet Peppers 454 g / 1 lb | $59.95 | $57.95 | $-2.00 | -3.3% | Decrease |
+| Plum 907 g / 2 lb | $59.95 | $62.95 | $+3.00 | +5.0% | Increase |
+| Ribeye Choice Fillet Fresh Tray | $324.13 | $319.51 | $-4.62 | -1.4% | Decrease |
+| Frozen Lamb Shoulder Chops Tray | $123.95 | $124.13 | $+0.18 | +0.1% | Increase |
+| Fresh Chicken Thighs Boneless Tray | $90.15 | $90.02 | $-0.13 | -0.1% | Decrease |
+| Fresh Kiwi 453 g / 1 lb | $49.95 | $54.95 | $+5.00 | +10.0% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $93.00 | $93.05 | $+0.05 | +0.1% | Increase |
+| Bosc Pear 1.36 kg / 3 lb | $76.95 | $79.95 | $+3.00 | +3.9% | Increase |
+| Fresh Chicken Mixed Parts Tray | $83.22 | $83.12 | $-0.10 | -0.1% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $71.38 | $71.28 | $-0.10 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,8 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Molinaro's Organic Pizza Starter Kit 2 Units 380 g / 13.4 oz | Molinaro's | $66.95 | 2026-08-14 |
+| Bagelmania Artisanal Simple Bagel Bread 6 Units | Bagelmania | $34.95 | 2026-08-14 |
 | Pier 33 Wild Yellowfin Tuna Steak 397 g / 14 oz | Pier 33 | $109.95 | 2026-08-13 |
 | Bombolo Biscotti Baked Cookies Decorated for Easter with Assorted Designs | Bombolo Biscotti | $74.95 | 2026-08-13 |
 | Member's Selection Freshly Made Chicken Salad Wraps 4 Units | Member's Selection | $62.95 | 2026-08-13 |
@@ -108,11 +110,11 @@
 | KFI Gluten-Free Curry and Coconut Sauce 2 Units / 695 g | KFI | $69.70 | 2026-08-12 |
 | Samyang Four Cheese and Ramen Flavor Instant Noodle Soup 5 Units / 140 g | Samyang | $62.95 | 2026-08-12 |
 | Crystal Farms Light String Cheese 24 Units 567 g / 1.25 lb | Crystal Farms | $75.95 | 2026-08-10 |
-| Red Rose Canned Pink Salmon in Water 2 Units / 418 g / 14.7 oz | Red Rose | $72.95 | 2026-08-09 |
-| Mowi Lightly Smoked Salmon 680 g / 1.5 lb | Mowi | $214.95 | 2026-08-09 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Frozen Bone-In Pork Loin Case |  | $1520.78 | G10D03 |
+| Table Foods Stuffed Peppers Variety 504 g / 18 oz | Table Foods | $116.95 | G10D03 |
+| Leclerc Tradition 1905 French Creme and Raspberry Filled Cookies 2 Units / 300 g | Leclerc | $49.95 | G10D03 |
+| Lee Kum Kee Traditional Soy Sauce for Cooking and Marinating 2 Units / 500 mL | Lee Kum Kee | $39.95 | G10D03 |
