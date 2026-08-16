@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1113
-- **Total value**: $125,251.40
-- **Average price**: $112.53
+- **Total products scraped**: 1117
+- **Total value**: $125,576.94
+- **Average price**: $112.42
 
 ## Database Changes
 - **New products added**: 3
-- **Existing products updated**: 1110
-- **Price changes detected**: 22
-- **Stock/availability changes**: 17
-- **Discontinued products**: 2
+- **Existing products updated**: 1114
+- **Price changes detected**: 16
+- **Stock/availability changes**: 21
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 174 |
-|  | 134 |
+|  | 135 |
 | Badia | 16 |
 | Swiss | 14 |
 | Kirkland Signature | 12 |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1069
-- **Price increases**: 523
-- **Price decreases**: 513
-- **Average increase**: 6.0%
-- **Average decrease**: -5.8%
+- **Total price changes**: 1040
+- **Price increases**: 502
+- **Price decreases**: 504
+- **Average increase**: 6.1%
+- **Average decrease**: -5.7%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Table Foods Stuffed Peppers Variety 504 g / 18 oz | $0.00 | $116.95 | $+116.95 | +100.0% | New |
-| Leclerc Tradition 1905 French Creme and Raspberry Filled Cookies 2 Units / 300 g | $0.00 | $49.95 | $+49.95 | +100.0% | New |
-| Lee Kum Kee Traditional Soy Sauce for Cooking and Marinating 2 Units / 500 mL | $0.00 | $39.95 | $+39.95 | +100.0% | New |
-| Seedless Watermelon  | $74.95 | $96.95 | $+22.00 | +29.4% | Increase |
-| Papaya | $38.41 | $38.50 | $+0.09 | +0.2% | Increase |
-| Mini Sweet Peppers 454 g / 1 lb | $59.95 | $57.95 | $-2.00 | -3.3% | Decrease |
-| Plum 907 g / 2 lb | $59.95 | $62.95 | $+3.00 | +5.0% | Increase |
-| Ribeye Choice Fillet Fresh Tray | $324.13 | $319.51 | $-4.62 | -1.4% | Decrease |
-| Frozen Lamb Shoulder Chops Tray | $123.95 | $124.13 | $+0.18 | +0.1% | Increase |
-| Fresh Chicken Thighs Boneless Tray | $90.15 | $90.02 | $-0.13 | -0.1% | Decrease |
-| Fresh Kiwi 453 g / 1 lb | $49.95 | $54.95 | $+5.00 | +10.0% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $93.00 | $93.05 | $+0.05 | +0.1% | Increase |
-| Bosc Pear 1.36 kg / 3 lb | $76.95 | $79.95 | $+3.00 | +3.9% | Increase |
-| Fresh Chicken Mixed Parts Tray | $83.22 | $83.12 | $-0.10 | -0.1% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $71.38 | $71.28 | $-0.10 | -0.1% | Decrease |
+| Fresh Chicken Thighs Boneless Tray | $90.02 | $89.89 | $-0.13 | -0.1% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $83.12 | $82.82 | $-0.30 | -0.4% | Decrease |
+| Par Excellence 100% Refined Soybean Oil for Cooking and Frying 8.6 L | $0.00 | $129.95 | $+129.95 | +100.0% | New |
+| Karibbean Flavours Cajun Seasoning 710 g | $0.00 | $54.95 | $+54.95 | +100.0% | New |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $247.59 | $246.73 | $-0.86 | -0.3% | Decrease |
+| Papaya | $38.50 | $38.63 | $+0.13 | +0.3% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $69.80 | $69.73 | $-0.07 | -0.1% | Decrease |
+| SugarBee Fresh Apple 1.36 kg / 2.9 lb | $0.00 | $94.95 | $+94.95 | +100.0% | New |
+| Fresh Whole Chicken for Frying Bag | $282.05 | $281.89 | $-0.16 | -0.1% | Decrease |
+| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $156.33 | $153.98 | $-2.35 | -1.5% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $92.96 | $92.87 | $-0.09 | -0.1% | Decrease |
+| Fresh Chicken Boneless Breast Bag | $477.28 | $477.93 | $+0.65 | +0.1% | Increase |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $93.52 | $93.38 | $-0.14 | -0.1% | Decrease |
+| Member's Selection Frozen Boneless Pork Loin Roast Tray | $110.14 | $109.82 | $-0.32 | -0.3% | Decrease |
+| Member's Selection Frozen Oxtail Bag | $185.54 | $185.25 | $-0.29 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -115,6 +115,6 @@
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Table Foods Stuffed Peppers Variety 504 g / 18 oz | Table Foods | $116.95 | G10D03 |
-| Leclerc Tradition 1905 French Creme and Raspberry Filled Cookies 2 Units / 300 g | Leclerc | $49.95 | G10D03 |
-| Lee Kum Kee Traditional Soy Sauce for Cooking and Marinating 2 Units / 500 mL | Lee Kum Kee | $39.95 | G10D03 |
+| Par Excellence 100% Refined Soybean Oil for Cooking and Frying 8.6 L | Par Excellence | $129.95 | G10D03 |
+| Karibbean Flavours Cajun Seasoning 710 g | Karibbean Flavours | $54.95 | G10D03 |
+| SugarBee Fresh Apple 1.36 kg / 2.9 lb |  | $94.95 | G10D03 |
