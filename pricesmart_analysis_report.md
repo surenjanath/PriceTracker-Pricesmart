@@ -2,22 +2,22 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1114
-- **Total value**: $125,516.75
-- **Average price**: $112.67
+- **Total value**: $123,785.97
+- **Average price**: $111.12
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1114
-- **Price changes detected**: 13
-- **Stock/availability changes**: 9
-- **Discontinued products**: 4
+- **New products added**: 1
+- **Existing products updated**: 1113
+- **Price changes detected**: 21
+- **Stock/availability changes**: 19
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 174 |
-|  | 134 |
+|  | 133 |
 | Badia | 16 |
 | Swiss | 14 |
 | Kirkland Signature | 12 |
@@ -28,8 +28,8 @@
 |-------|-------|-------------|--------------|
 | Terra Delyssa Mild Extra Virgin Olive Oil 1 L / 34 oz | Terra Delyssa | $84.95 | true |
 | Oikos Greek Yogurt 18 Units / 150 g / 5.3 oz | Oikos | $194.95 | true |
-| Ocean Spray Cranberry Juice 2 Units 1.89 L / 64 oz | Ocean Spray | $77.95 | true |
 | Maeva Avocado Oil Spray 2 Units / 200 mL / 6.7 oz | Maeva | $89.95 | true |
+| Ocean Spray Cranberry Juice 2 Units 1.89 L / 64 oz | Ocean Spray | $77.95 | true |
 | McCain Cassava Sticks 997 g / 2.2 lb | McCain | $44.95 | true |
 | Cultured Cravings Coconut Yogurt 12 Units / 150 g / 5.3 oz | Cultured Cravings | $229.95 | true |
 | Tropicland Frozen Mango Chunks 2.2 kg / 5 lb | Tropicland | $94.95 | true |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1018
-- **Price increases**: 494
+- **Total price changes**: 1024
+- **Price increases**: 499
 - **Price decreases**: 491
-- **Average increase**: 6.4%
-- **Average decrease**: -5.5%
+- **Average increase**: 6.5%
+- **Average decrease**: -5.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Bone-in Chicken Thighs Tray | $69.73 | $69.80 | $+0.07 | +0.1% | Increase |
-| Fresh Chicken Mixed Parts Tray | $82.62 | $82.32 | $-0.30 | -0.4% | Decrease |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $159.95 | $160.79 | $+0.84 | +0.5% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $247.59 | $246.73 | $-0.86 | -0.3% | Decrease |
-| Better Living Nuts, Seeds and Dehydrated Fruit Mix 16 Units / 56 g | $124.95 | $132.95 | $+8.00 | +6.4% | Increase |
-| Cherry Tomato 500 g / 1.1 lb | $32.95 | $29.95 | $-3.00 | -9.1% | Decrease |
-| Fresh Cello Carrots 1.3 kg / 3 lb | $21.95 | $23.95 | $+2.00 | +9.1% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $71.17 | $71.07 | $-0.10 | -0.1% | Decrease |
-| Fresh Ground Chicken Tray | $100.59 | $100.72 | $+0.13 | +0.1% | Increase |
-| Florida's Natural Mango Lemonade 2 Units / 1.75 L / 59 oz | $49.70 | $79.70 | $+30.00 | +60.4% | Increase |
-| Frozen Boneless Skinless Chicken Breast Tray | $183.40 | $183.54 | $+0.14 | +0.1% | Increase |
-| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $153.00 | $151.63 | $-1.37 | -0.9% | Decrease |
-| Member's Selection Frozen Boneless Pork Loin Steak Vacuum Packed | $80.41 | $80.53 | $+0.12 | +0.1% | Increase |
-| Fresh Chicken Thighs Boneless Tray | $89.89 | $89.76 | $-0.13 | -0.1% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $96.00 | $95.90 | $-0.10 | -0.1% | Decrease |
+| Dutch Potatoes 4.54 kg / 10 lb | $25.95 | $29.95 | $+4.00 | +15.4% | Increase |
+| Hormel Party Tray 794 g / 28 oz | $135.95 | $134.95 | $-1.00 | -0.7% | Decrease |
+| Montchevre Goat Cheese with Blueberry and Vanilla 298 g / 10.51 oz | $59.95 | $64.95 | $+5.00 | +8.3% | Increase |
+| Oreo Golden Vanilla Flavor Cookies 2 Units / 432 g | $0.00 | $58.95 | $+58.95 | +100.0% | New |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $160.79 | $161.39 | $+0.60 | +0.4% | Increase |
+| Papaya | $38.28 | $38.25 | $-0.03 | -0.1% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $69.80 | $69.73 | $-0.07 | -0.1% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $94.40 | $94.54 | $+0.14 | +0.1% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $117.83 | $117.65 | $-0.18 | -0.2% | Decrease |
+| Fresh Chicken Thighs Boneless Bag | $340.04 | $339.32 | $-0.72 | -0.2% | Decrease |
+| Fresh Ground Chicken Tray | $100.72 | $100.85 | $+0.13 | +0.1% | Increase |
+| SugarBee Fresh Apple 1.36 kg / 2.9 lb | $94.95 | $82.95 | $-12.00 | -12.6% | Decrease |
+| Steep Organic Lemon Ginger Tea 60 bags / 2.2 g / 0.07 oz | $54.70 | $92.95 | $+38.25 | +69.9% | Increase |
+| Nature's Garden Organic Trail Mix 24 Units / 34 g | $164.95 | $169.95 | $+5.00 | +3.0% | Increase |
+| Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $39.70 | $24.70 | $-15.00 | -37.8% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,8 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Galvanina Lemon Flavor Sparkling Mineral Water 24 Units / 500 mL / 16.9 oz | Galvanina | $169.95 | 2026-08-18 |
+| Salmon Fillet with Skin on Boneless Skin Frozen Case |  | $1699.50 | 2026-08-18 |
 | Pringles Honey Mustard, Sour Cream & Onion, and Cheddar Cheese 3-Pack / 158 g / 5.5 oz | Pringles | $79.95 | 2026-08-17 |
 | Food With Purpose Sparkling Tea Infused with Fruit Juice - Sugar Free 12 Units / 250 mL / 8.5 oz | Food with Purpose | $59.70 | 2026-08-17 |
 | Red Globe Grape 907 g / 2 lb |  | $114.95 | 2026-08-17 |
@@ -108,8 +110,9 @@
 | Bagelmania Artisanal Simple Bagel Bread 6 Units | Bagelmania | $34.95 | 2026-08-14 |
 | Pier 33 Wild Yellowfin Tuna Steak 397 g / 14 oz | Pier 33 | $109.95 | 2026-08-13 |
 | Bombolo Biscotti Baked Cookies Decorated for Easter with Assorted Designs | Bombolo Biscotti | $74.95 | 2026-08-13 |
-| Member's Selection Freshly Made Chicken Salad Wraps 4 Units | Member's Selection | $62.95 | 2026-08-13 |
-| Member's Selection Ready-to-Eat Tuna Salad 907 g / 2 lb | Member's Selection | $79.95 | 2026-08-13 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Oreo Golden Vanilla Flavor Cookies 2 Units / 432 g | Oreo | $58.95 | G10D03 |
