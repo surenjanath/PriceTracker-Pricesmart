@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1112
-- **Total value**: $123,705.53
-- **Average price**: $111.25
+- **Total products scraped**: 1118
+- **Total value**: $124,219.69
+- **Average price**: $111.11
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1112
-- **Price changes detected**: 36
-- **Stock/availability changes**: 15
-- **Discontinued products**: 5
+- **New products added**: 5
+- **Existing products updated**: 1113
+- **Price changes detected**: 44
+- **Stock/availability changes**: 10
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 174 |
-|  | 133 |
+|  | 134 |
 | Badia | 16 |
 | Swiss | 14 |
 | Kirkland Signature | 12 |
@@ -210,11 +210,11 @@ This project has recently gained unexpected attention. It was created for person
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Oikos Greek Yogurt 18 Units / 150 g / 5.3 oz | Oikos | $194.95 | true |
-| Terra Delyssa Mild Extra Virgin Olive Oil 1 L / 34 oz | Terra Delyssa | $84.95 | true |
 | Ocean Spray Cranberry Juice 2 Units 1.89 L / 64 oz | Ocean Spray | $77.95 | true |
+| Terra Delyssa Mild Extra Virgin Olive Oil 1 L / 34 oz | Terra Delyssa | $84.95 | true |
+| Crystal Farms Light String Cheese 24 Units 567 g / 1.25 lb | Crystal Farms | $75.95 | true |
 | Maeva Avocado Oil Spray 2 Units / 200 mL / 6.7 oz | Maeva | $89.95 | true |
 | McCain Cassava Sticks 997 g / 2.2 lb | McCain | $44.95 | true |
-| Cultured Cravings Coconut Yogurt 12 Units / 150 g / 5.3 oz | Cultured Cravings | $229.95 | true |
 | Tropicland Frozen Mango Chunks 2.2 kg / 5 lb | Tropicland | $94.95 | true |
 | Gatorade Glacier Freeze Mix Electrolyte Drink Powder 76.5 oz | Gatorade | $196.95 | true |
 | Munchies Flamin' Hot Flavored Snack Mix 262.2 g / 9.25 oz | Munchies | $44.95 | true |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1034
-- **Price increases**: 502
-- **Price decreases**: 500
-- **Average increase**: 6.7%
-- **Average decrease**: -5.7%
+- **Total price changes**: 1066
+- **Price increases**: 516
+- **Price decreases**: 513
+- **Average increase**: 5.9%
+- **Average decrease**: -5.8%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Philadelphia Salmon Cream Cheese 2 Units / 212 g / 7.5 oz | $55.70 | $82.95 | $+27.25 | +48.9% | Increase |
-| Maison Bruyére Almond Crisps Cookies 360 g / 12.7 oz | $109.95 | $146.95 | $+37.00 | +33.7% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $200.15 | $199.85 | $-0.30 | -0.1% | Decrease |
-| Oreo Golden Vanilla Flavor Cookies 2 Units / 432 g | $58.95 | $44.95 | $-14.00 | -23.7% | Decrease |
-| Pepe's Nature´s Pride Pack of Peas and Dry Legumes 5 Units / 1 kg | $112.70 | $129.95 | $+17.25 | +15.3% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $246.73 | $244.43 | $-2.30 | -0.9% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $69.73 | $69.53 | $-0.20 | -0.3% | Decrease |
-| Jell-O Assorted Desserts 24 Units 2.41 kg / 5 lb | $164.95 | $172.95 | $+8.00 | +4.8% | Increase |
-| Papaya | $38.25 | $38.12 | $-0.13 | -0.3% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $148.49 | $148.15 | $-0.34 | -0.2% | Decrease |
-| Bibigo Beef Dumplings 1.36 kg / 3 lb | $164.95 | $169.95 | $+5.00 | +3.0% | Increase |
-| Gwaltney Chicken Bologna 2 Units / 567 g | $59.95 | $61.95 | $+2.00 | +3.3% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $124.13 | $123.95 | $-0.18 | -0.1% | Decrease |
-| Oreo Original Cookies 12 Units / 36 g / 1.27 oz | $54.95 | $49.95 | $-5.00 | -9.1% | Decrease |
-| Nutrina Chilled Whole Chicken Bag | $349.11 | $347.46 | $-1.65 | -0.5% | Decrease |
+| Fresh Chicken Breast Boneless Skinless Tray | $135.20 | $134.85 | $-0.35 | -0.3% | Decrease |
+| Kraft Cream Cheese 4 Units / 227 g / 8 oz | $0.00 | $81.95 | $+81.95 | +100.0% | New |
+| Member's Selection Unsweetened Original Flavor Almond Beverage 6 Units /  946 mL / 32 oz | $124.95 | $129.95 | $+5.00 | +4.0% | Increase |
+| Frozen Beef Feet  | $0.00 | $115.13 | $+115.13 | +100.0% | New |
+| Nesquik Strawberry Flavored Whole Grain Corn Cereal 1.01 kg / 35.9 oz | $0.00 | $52.95 | $+52.95 | +100.0% | New |
+| Takis Fuego with Hot Chili and Lemon 46 Units / 28 g | $259.70 | $199.70 | $-60.00 | -23.1% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $199.85 | $200.15 | $+0.30 | +0.2% | Increase |
+| Florida's Natural Peach and Mango Juice 2 Units / 1.75 L / 59 oz  | $0.00 | $117.95 | $+117.95 | +100.0% | New |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $244.43 | $246.73 | $+2.30 | +0.9% | Increase |
+| Frozen Sliced Turkey Drumsticks | $194.42 | $193.75 | $-0.67 | -0.3% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $69.53 | $69.39 | $-0.14 | -0.2% | Decrease |
+| Smithfield Smoked and Caramelized Pork Shoulder Cubes 453 g / 1 lb | $0.00 | $189.95 | $+189.95 | +100.0% | New |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $456.00 | $446.36 | $-9.64 | -2.1% | Decrease |
+| Tropical Frying Cheese 907 g / 32 oz | $92.95 | $29.70 | $-63.25 | -68.0% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $95.90 | $95.80 | $-0.10 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -295,4 +295,11 @@ This project has recently gained unexpected attention. It was created for person
 | Red Globe Grape 907 g / 2 lb |  | $114.95 | 2026-08-17 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Kraft Cream Cheese 4 Units / 227 g / 8 oz | Kraft | $81.95 | G10D03 |
+| Frozen Beef Feet  |  | $115.13 | G10D03 |
+| Nesquik Strawberry Flavored Whole Grain Corn Cereal 1.01 kg / 35.9 oz | Nesquik | $52.95 | G10D03 |
+| Florida's Natural Peach and Mango Juice 2 Units / 1.75 L / 59 oz  | Florida's Natural | $117.95 | G10D03 |
+| Smithfield Smoked and Caramelized Pork Shoulder Cubes 453 g / 1 lb | Smithfield | $189.95 | G10D03 |
