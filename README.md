@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1121
-- **Total value**: $124,383.42
+- **Total products scraped**: 1122
+- **Total value**: $124,492.37
 - **Average price**: $110.96
 
 ## Database Changes
-- **New products added**: 3
-- **Existing products updated**: 1118
-- **Price changes detected**: 19
-- **Stock/availability changes**: 18
-- **Discontinued products**: 0
+- **New products added**: 1
+- **Existing products updated**: 1121
+- **Price changes detected**: 15
+- **Stock/availability changes**: 11
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1064
-- **Price increases**: 511
-- **Price decreases**: 513
-- **Average increase**: 6.2%
-- **Average decrease**: -5.8%
+- **Total price changes**: 1016
+- **Price increases**: 473
+- **Price decreases**: 503
+- **Average increase**: 6.9%
+- **Average decrease**: -5.7%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Nectarine 908 g / 2 lb | $67.95 | $69.95 | $+2.00 | +2.9% | Increase |
-| King Cheese Feta with Flavors 2 Units / 227 g / 8 oz | $0.00 | $104.95 | $+104.95 | +100.0% | New |
-| Oasis Pink Lemon Flavored Water 24 Units / 320 mL / 10.8 oz | $0.00 | $39.95 | $+39.95 | +100.0% | New |
-| Karibbean Flavours Garlic & Herb Seasoning 395 g | $0.00 | $49.95 | $+49.95 | +100.0% | New |
-| Frozen Beef Feet  | $115.13 | $104.65 | $-10.48 | -9.1% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $193.75 | $193.49 | $-0.26 | -0.1% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $69.39 | $69.26 | $-0.13 | -0.2% | Decrease |
-| Seedless Watermelon  | $96.95 | $59.70 | $-37.25 | -38.4% | Decrease |
-| Frozen Lamb Shoulder Chops Tray | $123.95 | $123.77 | $-0.18 | -0.1% | Decrease |
-| Romaine Lettuce Hearts 3 Units | $39.95 | $36.95 | $-3.00 | -7.5% | Decrease |
-| Fresh Celery  | $22.95 | $21.95 | $-1.00 | -4.4% | Decrease |
-| Black Seedless Grapes 907 g / 2 lb | $74.95 | $69.95 | $-5.00 | -6.7% | Decrease |
-| Avocado Mesh 5 Units | $29.70 | $56.95 | $+27.25 | +91.8% | Increase |
-|   Fresh Broccoli Crowns | $37.95 | $39.95 | $+2.00 | +5.3% | Increase |
-| Peach 908 g / 2 lb | $56.95 | $57.95 | $+1.00 | +1.8% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $69.26 | $69.19 | $-0.07 | -0.1% | Decrease |
+| Member's Selection Chilled Chicken Liver, Tray Pack | $31.12 | $31.22 | $+0.10 | +0.3% | Increase |
+| Melissa's Black Mission Figs 227 g / 8. oz | $0.00 | $42.95 | $+42.95 | +100.0% | New |
+| Papaya | $38.12 | $38.15 | $+0.03 | +0.1% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $148.15 | $147.47 | $-0.68 | -0.5% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $117.65 | $117.29 | $-0.36 | -0.3% | Decrease |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $76.63 | $76.77 | $+0.14 | +0.2% | Increase |
+| Fresh Chicken Breast Boneless Skinless Tray | $134.85 | $135.20 | $+0.35 | +0.3% | Increase |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $89.68 | $89.82 | $+0.14 | +0.2% | Increase |
+| Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $24.70 | $92.95 | $+68.25 | +276.3% | Increase |
+| Pork Chop with Bone Frozen Tray | $79.73 | $79.97 | $+0.24 | +0.3% | Increase |
+| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $147.71 | $146.93 | $-0.78 | -0.5% | Decrease |
+| Member's Selection Frozen US Ground Beef Patties 80/20 Tray Pack | $136.53 | $136.33 | $-0.20 | -0.1% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $92.69 | $92.60 | $-0.09 | -0.1% | Decrease |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $88.61 | $88.74 | $+0.13 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Kraft Cream Cheese 4 Units / 227 g / 8 oz | Kraft | $81.95 | 2026-08-22 |
 | Latitude 45 Frozen Smoked Salmon Charcuterie 567 g / 1.25 lb | Latitude 45 | $99.70 | 2026-08-19 |
 | Nongshim Shin Ramyun Original in Cup 6 Units / 75 g / 2.64 oz | Nongshim | $70.70 | 2026-08-19 |
 | Ocean Delight Frozen Blue Crab Meat 680 g / 1.5 lb | Ocean Delight | $124.95 | 2026-08-19 |
@@ -292,12 +293,9 @@ This project has recently gained unexpected attention. It was created for person
 | Salmon Fillet with Skin on Boneless Skin Frozen Case |  | $1699.50 | 2026-08-18 |
 | Pringles Honey Mustard, Sour Cream & Onion, and Cheddar Cheese 3-Pack / 158 g / 5.5 oz | Pringles | $79.95 | 2026-08-17 |
 | Food With Purpose Sparkling Tea Infused with Fruit Juice - Sugar Free 12 Units / 250 mL / 8.5 oz | Food with Purpose | $59.70 | 2026-08-17 |
-| Red Globe Grape 907 g / 2 lb |  | $114.95 | 2026-08-17 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| King Cheese Feta with Flavors 2 Units / 227 g / 8 oz | King Cheese | $104.95 | G10D03 |
-| Oasis Pink Lemon Flavored Water 24 Units / 320 mL / 10.8 oz | Oasis | $39.95 | G10D03 |
-| Karibbean Flavours Garlic & Herb Seasoning 395 g | Karibbean Flavours | $49.95 | G10D03 |
+| Melissa's Black Mission Figs 227 g / 8. oz | Melissa's | $42.95 | G10D03 |
