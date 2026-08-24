@@ -185,15 +185,15 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1122
-- **Total value**: $124,492.37
-- **Average price**: $110.96
+- **Total value**: $124,754.85
+- **Average price**: $111.19
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1121
-- **Price changes detected**: 15
-- **Stock/availability changes**: 11
-- **Discontinued products**: 1
+- **New products added**: 0
+- **Existing products updated**: 1122
+- **Price changes detected**: 69
+- **Stock/availability changes**: 15
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1016
-- **Price increases**: 473
-- **Price decreases**: 503
-- **Average increase**: 6.9%
-- **Average decrease**: -5.7%
+- **Total price changes**: 1070
+- **Price increases**: 502
+- **Price decreases**: 529
+- **Average increase**: 8.2%
+- **Average decrease**: -6.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Bone-in Chicken Thighs Tray | $69.26 | $69.19 | $-0.07 | -0.1% | Decrease |
-| Member's Selection Chilled Chicken Liver, Tray Pack | $31.12 | $31.22 | $+0.10 | +0.3% | Increase |
-| Melissa's Black Mission Figs 227 g / 8. oz | $0.00 | $42.95 | $+42.95 | +100.0% | New |
-| Papaya | $38.12 | $38.15 | $+0.03 | +0.1% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $148.15 | $147.47 | $-0.68 | -0.5% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $117.65 | $117.29 | $-0.36 | -0.3% | Decrease |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $76.63 | $76.77 | $+0.14 | +0.2% | Increase |
-| Fresh Chicken Breast Boneless Skinless Tray | $134.85 | $135.20 | $+0.35 | +0.3% | Increase |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $89.68 | $89.82 | $+0.14 | +0.2% | Increase |
-| Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $24.70 | $92.95 | $+68.25 | +276.3% | Increase |
-| Pork Chop with Bone Frozen Tray | $79.73 | $79.97 | $+0.24 | +0.3% | Increase |
-| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $147.71 | $146.93 | $-0.78 | -0.5% | Decrease |
-| Member's Selection Frozen US Ground Beef Patties 80/20 Tray Pack | $136.53 | $136.33 | $-0.20 | -0.1% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $92.69 | $92.60 | $-0.09 | -0.1% | Decrease |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $88.61 | $88.74 | $+0.13 | +0.1% | Increase |
+| Kiss Muffin Assorted Chocolate and Blueberry Muffins 12 Units / 64 g | $39.95 | $42.95 | $+3.00 | +7.5% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $43.46 | $43.60 | $+0.14 | +0.3% | Increase |
+| Fresh Whole Chicken for Frying Bag | $282.05 | $282.88 | $+0.83 | +0.3% | Increase |
+| Frozen Beef Feet  | $104.65 | $109.53 | $+4.88 | +4.7% | Increase |
+| Frozen Bone-In Pork Loin Case | $1520.78 | $1551.85 | $+31.07 | +2.0% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $200.15 | $200.44 | $+0.29 | +0.1% | Increase |
+| Frozen Sliced Turkey Drumsticks | $193.49 | $193.75 | $+0.26 | +0.1% | Increase |
+| Bertie's Pimento Peppers Sauce 750 mL | $48.95 | $41.15 | $-7.80 | -15.9% | Decrease |
+| Kiss Assorted Flavor Glazed Cream-Filled Pastries 8 Units / 75 g | $31.95 | $34.95 | $+3.00 | +9.4% | Increase |
+| Papaya | $38.15 | $38.28 | $+0.13 | +0.3% | Increase |
+| Swiss Crunchy Peanut Butter 1.3 kg | $34.95 | $42.95 | $+8.00 | +22.9% | Increase |
+| Nesquik Liquid Milk Drink with Cocoa Flavor 12 Units / 250 mL | $68.95 | $57.95 | $-11.00 | -16.0% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $147.47 | $146.96 | $-0.51 | -0.3% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $94.54 | $94.69 | $+0.15 | +0.2% | Increase |
+| Tostitos Scoops 411 g | $53.95 | $45.95 | $-8.00 | -14.8% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -295,7 +295,4 @@ This project has recently gained unexpected attention. It was created for person
 | Food With Purpose Sparkling Tea Infused with Fruit Juice - Sugar Free 12 Units / 250 mL / 8.5 oz | Food with Purpose | $59.70 | 2026-08-17 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Melissa's Black Mission Figs 227 g / 8. oz | Melissa's | $42.95 | G10D03 |
+No new products added today.
