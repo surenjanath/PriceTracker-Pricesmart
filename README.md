@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1122
-- **Total value**: $124,616.91
-- **Average price**: $111.07
+- **Total products scraped**: 1126
+- **Total value**: $125,365.70
+- **Average price**: $111.34
 
 ## Database Changes
-- **New products added**: 1
+- **New products added**: 5
 - **Existing products updated**: 1121
-- **Price changes detected**: 20
-- **Stock/availability changes**: 18
-- **Discontinued products**: 1
+- **Price changes detected**: 53
+- **Stock/availability changes**: 34
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
@@ -209,45 +209,45 @@ This project has recently gained unexpected attention. It was created for person
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| King Cheese Feta with Flavors 2 Units / 227 g / 8 oz | King Cheese | $104.95 | true |
+| Oikos Greek Yogurt 18 Units / 150 g / 5.3 oz | Oikos | $194.95 | true |
 | Table Foods Stuffed Peppers Variety 504 g / 18 oz | Table Foods | $116.95 | true |
+| King Cheese Feta with Flavors 2 Units / 227 g / 8 oz | King Cheese | $104.95 | true |
 | Lee Kum Kee Traditional Soy Sauce for Cooking and Marinating 2 Units / 500 mL | Lee Kum Kee | $39.95 | true |
 |  Chobani Greek Yogurt Plain 1.13 kg / 2.5 lb | Chobani | $78.95 | true |
 | Café Santo Domingo 100% Dominican Arabica Ground Coffee 2 Units / 453.6 g | Cafe Santo Domingo | $109.95 | true |
-| Smithfield Smoked and Caramelized Pork Shoulder Cubes 453 g / 1 lb | Smithfield | $189.95 | true |
 | Par Excellence 100% Refined Soybean Oil for Cooking and Frying 8.6 L | Par Excellence | $129.95 | true |
+| Smithfield Smoked and Caramelized Pork Shoulder Cubes 453 g / 1 lb | Smithfield | $177.95 | true |
 | Florida's Natural Peach and Mango Juice 2 Units / 1.75 L / 59 oz  | Florida's Natural | $117.95 | true |
-| Oasis Pink Lemon Flavored Water 24 Units / 320 mL / 10.8 oz | Oasis | $39.95 | true |
 | Lush Assorted Fruit Flavored Drinks 24 Units / 200 mL / 6.76 oz | Lush | $64.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1060
-- **Price increases**: 493
-- **Price decreases**: 528
-- **Average increase**: 9.0%
-- **Average decrease**: -6.1%
+- **Total price changes**: 1050
+- **Price increases**: 505
+- **Price decreases**: 502
+- **Average increase**: 8.2%
+- **Average decrease**: -5.9%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Frozen Beef Feet  | $123.10 | $117.96 | $-5.14 | -4.2% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $200.44 | $200.73 | $+0.29 | +0.1% | Increase |
-| Fresh Cantaloupe Melon | $0.00 | $59.95 | $+59.95 | +100.0% | New |
-| Fresh Bone-in Chicken Thighs Tray | $69.19 | $69.12 | $-0.07 | -0.1% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $94.69 | $94.83 | $+0.14 | +0.1% | Increase |
-| Plantains 1.36 kg / 3 lb | $32.95 | $29.95 | $-3.00 | -9.1% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $43.60 | $43.46 | $-0.14 | -0.3% | Decrease |
-| Dutch Potatoes 4.54 kg / 10 lb | $29.95 | $28.95 | $-1.00 | -3.3% | Decrease |
-| Fresh Chicken Thighs Boneless Tray | $89.63 | $89.50 | $-0.13 | -0.1% | Decrease |
-| Nutrina Chilled Whole Chicken Bag | $346.47 | $345.48 | $-0.99 | -0.3% | Decrease |
-| Fresh Ground Chicken Meat Bag | $293.92 | $293.45 | $-0.47 | -0.2% | Decrease |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $90.10 | $89.82 | $-0.28 | -0.3% | Decrease |
-| Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $57.95 | $34.70 | $-23.25 | -40.1% | Decrease |
-| Member's Selection Frozen US Ground Beef Patties 80/20 Tray Pack | $136.33 | $135.93 | $-0.40 | -0.3% | Decrease |
-| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $200.32 | $197.29 | $-3.03 | -1.5% | Decrease |
+| Smithfield Boneless Ham  Smoked 680 g / 24 oz | $87.95 | $89.95 | $+2.00 | +2.3% | Increase |
+| Sambazon Acai Bowl 6 Units / 167 g / 5.9 oz | $144.70 | $174.95 | $+30.25 | +20.9% | Increase |
+| International Delight Caramel Creamer 1.4 L / 48 oz | $63.95 | $64.95 | $+1.00 | +1.6% | Increase |
+| O'Tasty Chicken Potstickers 907 g / 2 lb | $99.95 | $104.95 | $+5.00 | +5.0% | Increase |
+| Member's Selection Havarti Cheese 680 g / 1.5 lb  | $89.95 | $92.95 | $+3.00 | +3.3% | Increase |
+| Bauducco Chocolate-Covered Ginger Cookies 340 g / 12 oz | $0.00 | $94.95 | $+94.95 | +100.0% | New |
+| Gummy Ball Eye-Shaped Watermelon-flavored Gummies 1.2 kg | $202.95 | $212.95 | $+10.00 | +4.9% | Increase |
+| Lindt Assorted Chocolates 600 g / 21.16 oz | $164.95 | $209.95 | $+45.00 | +27.3% | Increase |
+| Frozen Beef Feet  | $117.96 | $115.92 | $-2.04 | -1.7% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $193.49 | $193.75 | $+0.26 | +0.1% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $246.73 | $245.87 | $-0.86 | -0.3% | Decrease |
+| Papaya | $38.41 | $38.28 | $-0.13 | -0.3% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $144.90 | $145.23 | $+0.33 | +0.2% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $117.29 | $117.65 | $+0.36 | +0.3% | Increase |
+| Fruta Assorted Flavor Juice Boxes 24 Units / 200 mL / 6.8 oz | $0.00 | $69.95 | $+69.95 | +100.0% | New |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,8 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Coke Soft Drink Zero Sugar Free and Calorie Free 12 Units / 591 mL / 20 oz | Coca-Cola | $56.95 | 2026-08-26 |
+| Nescafé Classic Instant Coffee 190 g / 6.7 oz | Nescafé | $66.95 | 2026-08-26 |
 | Silk Almond Milk Original 2 Units / 1.89 L / 64 oz  | Silk | $104.95 | 2026-08-25 |
 | Anthon Berg Baileys Chocolate-Covered Marzipan with Baileys Liqueur 20 Count / 25 g / 0.8 oz | Anthon Berg | $149.95 | 2026-08-24 |
 | Kraft Cream Cheese 4 Units / 227 g / 8 oz | Kraft | $81.95 | 2026-08-22 |
@@ -291,11 +293,13 @@ This project has recently gained unexpected attention. It was created for person
 | Ocean Delight Frozen Blue Crab Meat 680 g / 1.5 lb | Ocean Delight | $124.95 | 2026-08-19 |
 | Silk Unsweetened Original 2 Units 1.89 L / 64 oz | Silk | $104.95 | 2026-08-19 |
 | Swiss Miss Cocoa with No Added Sugar 60 Units / 20 g / 0.7 oz | Swiss Miss | $109.95 | 2026-08-19 |
-| Galvanina Lemon Flavor Sparkling Mineral Water 24 Units / 500 mL / 16.9 oz | Galvanina | $169.95 | 2026-08-18 |
-| Salmon Fillet with Skin on Boneless Skin Frozen Case |  | $1699.50 | 2026-08-18 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Fresh Cantaloupe Melon |  | $59.95 | G10D03 |
+| Bauducco Chocolate-Covered Ginger Cookies 340 g / 12 oz | Bauducco | $94.95 | G10D03 |
+| Fruta Assorted Flavor Juice Boxes 24 Units / 200 mL / 6.8 oz | Fruta | $69.95 | G10D03 |
+| Coffee Mate Italian Sweet Creme Coffee Creamer 1.89 L / 64 oz | Coffee Mate | $74.95 | G10D03 |
+| Riceworks Avocado Chips 453 g / 16 oz | Riceworks | $86.95 | G10D03 |
+| Chobani Lactose Free Yogurt Drink with 20 g Protein 12 Units / 283 g / 10 oz | Chobani | $234.95 | G10D03 |
