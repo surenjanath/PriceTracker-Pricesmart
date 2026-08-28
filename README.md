@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1126
-- **Total value**: $125,365.70
-- **Average price**: $111.34
+- **Total products scraped**: 1124
+- **Total value**: $125,052.81
+- **Average price**: $111.26
 
 ## Database Changes
-- **New products added**: 5
-- **Existing products updated**: 1121
-- **Price changes detected**: 53
-- **Stock/availability changes**: 34
-- **Discontinued products**: 2
+- **New products added**: 0
+- **Existing products updated**: 1124
+- **Price changes detected**: 19
+- **Stock/availability changes**: 16
+- **Discontinued products**: 4
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 174 |
-|  | 135 |
+| Member's Selection | 173 |
+|  | 136 |
 | Badia | 16 |
 | Swiss | 14 |
 | Kirkland Signature | 12 |
@@ -215,39 +215,39 @@ This project has recently gained unexpected attention. It was created for person
 | Lee Kum Kee Traditional Soy Sauce for Cooking and Marinating 2 Units / 500 mL | Lee Kum Kee | $39.95 | true |
 |  Chobani Greek Yogurt Plain 1.13 kg / 2.5 lb | Chobani | $78.95 | true |
 | Café Santo Domingo 100% Dominican Arabica Ground Coffee 2 Units / 453.6 g | Cafe Santo Domingo | $109.95 | true |
-| Par Excellence 100% Refined Soybean Oil for Cooking and Frying 8.6 L | Par Excellence | $129.95 | true |
 | Smithfield Smoked and Caramelized Pork Shoulder Cubes 453 g / 1 lb | Smithfield | $177.95 | true |
-| Florida's Natural Peach and Mango Juice 2 Units / 1.75 L / 59 oz  | Florida's Natural | $117.95 | true |
-| Lush Assorted Fruit Flavored Drinks 24 Units / 200 mL / 6.76 oz | Lush | $64.95 | true |
+| Par Excellence 100% Refined Soybean Oil for Cooking and Frying 8.6 L | Par Excellence | $129.95 | true |
+| Nesquik Strawberry Flavored Whole Grain Corn Cereal 1.01 kg / 35.9 oz | Nesquik | $52.95 | true |
+| Oasis Pink Lemon Flavored Water 24 Units / 320 mL / 10.8 oz | Oasis | $39.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
 - **Total price changes**: 1050
-- **Price increases**: 505
-- **Price decreases**: 502
-- **Average increase**: 8.2%
-- **Average decrease**: -5.9%
+- **Price increases**: 502
+- **Price decreases**: 507
+- **Average increase**: 8.3%
+- **Average decrease**: -5.7%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Smithfield Boneless Ham  Smoked 680 g / 24 oz | $87.95 | $89.95 | $+2.00 | +2.3% | Increase |
-| Sambazon Acai Bowl 6 Units / 167 g / 5.9 oz | $144.70 | $174.95 | $+30.25 | +20.9% | Increase |
-| International Delight Caramel Creamer 1.4 L / 48 oz | $63.95 | $64.95 | $+1.00 | +1.6% | Increase |
-| O'Tasty Chicken Potstickers 907 g / 2 lb | $99.95 | $104.95 | $+5.00 | +5.0% | Increase |
-| Member's Selection Havarti Cheese 680 g / 1.5 lb  | $89.95 | $92.95 | $+3.00 | +3.3% | Increase |
-| Bauducco Chocolate-Covered Ginger Cookies 340 g / 12 oz | $0.00 | $94.95 | $+94.95 | +100.0% | New |
-| Gummy Ball Eye-Shaped Watermelon-flavored Gummies 1.2 kg | $202.95 | $212.95 | $+10.00 | +4.9% | Increase |
-| Lindt Assorted Chocolates 600 g / 21.16 oz | $164.95 | $209.95 | $+45.00 | +27.3% | Increase |
-| Frozen Beef Feet  | $117.96 | $115.92 | $-2.04 | -1.7% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $193.49 | $193.75 | $+0.26 | +0.1% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $246.73 | $245.87 | $-0.86 | -0.3% | Decrease |
-| Papaya | $38.41 | $38.28 | $-0.13 | -0.3% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $144.90 | $145.23 | $+0.33 | +0.2% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $117.29 | $117.65 | $+0.36 | +0.3% | Increase |
-| Fruta Assorted Flavor Juice Boxes 24 Units / 200 mL / 6.8 oz | $0.00 | $69.95 | $+69.95 | +100.0% | New |
+| Frozen Sliced Turkey Drumsticks | $193.75 | $193.89 | $+0.14 | +0.1% | Increase |
+| Frozen Beef Feet  | $115.92 | $119.44 | $+3.52 | +3.0% | Increase |
+| Papaya | $38.28 | $38.25 | $-0.03 | -0.1% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $145.23 | $144.90 | $-0.33 | -0.2% | Decrease |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $133.74 | $134.23 | $+0.49 | +0.4% | Increase |
+| Frutopia Fruit Juice Drink Assorted Pack 24 Units / 475 mL | $86.95 | $79.95 | $-7.00 | -8.1% | Decrease |
+| Plantains 1.36 kg / 3 lb | $29.95 | $32.95 | $+3.00 | +10.0% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $71.17 | $71.07 | $-0.10 | -0.1% | Decrease |
+| Fresh Whole Chicken 2 Units | $104.68 | $104.50 | $-0.18 | -0.2% | Decrease |
+| Fine Choice Fresh Marinated Chicken Tray | $93.28 | $93.09 | $-0.19 | -0.2% | Decrease |
+| Member's Selection Frozen US Ground Beef Patties 80/20 Tray Pack | $136.33 | $135.93 | $-0.40 | -0.3% | Decrease |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $443.31 | $446.36 | $+3.05 | +0.7% | Increase |
+| Fresh Ground Chicken Meat Bag | $298.43 | $297.83 | $-0.60 | -0.2% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $282.88 | $282.55 | $-0.33 | -0.1% | Decrease |
+| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $197.29 | $197.57 | $+0.28 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,23 +283,16 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Nectarine 908 g / 2 lb |  | $69.95 | 2026-08-27 |
+| Farm and Function Frozen Fruition Blend 1.3 kg / 3 lb | Farm and Function | $99.95 | 2026-08-27 |
+| Coffee Mate Italian Sweet Creme Coffee Creamer 1.89 L / 64 oz | Coffee Mate | $74.95 | 2026-08-27 |
+| Member's Selection Frozen Skin On Boneless Salmon Fillet Vacuum Packed | Member's Selection | $156.90 | 2026-08-27 |
 | Coke Soft Drink Zero Sugar Free and Calorie Free 12 Units / 591 mL / 20 oz | Coca-Cola | $56.95 | 2026-08-26 |
 | Nescafé Classic Instant Coffee 190 g / 6.7 oz | Nescafé | $66.95 | 2026-08-26 |
 | Silk Almond Milk Original 2 Units / 1.89 L / 64 oz  | Silk | $104.95 | 2026-08-25 |
 | Anthon Berg Baileys Chocolate-Covered Marzipan with Baileys Liqueur 20 Count / 25 g / 0.8 oz | Anthon Berg | $149.95 | 2026-08-24 |
 | Kraft Cream Cheese 4 Units / 227 g / 8 oz | Kraft | $81.95 | 2026-08-22 |
 | Latitude 45 Frozen Smoked Salmon Charcuterie 567 g / 1.25 lb | Latitude 45 | $99.70 | 2026-08-19 |
-| Nongshim Shin Ramyun Original in Cup 6 Units / 75 g / 2.64 oz | Nongshim | $70.70 | 2026-08-19 |
-| Ocean Delight Frozen Blue Crab Meat 680 g / 1.5 lb | Ocean Delight | $124.95 | 2026-08-19 |
-| Silk Unsweetened Original 2 Units 1.89 L / 64 oz | Silk | $104.95 | 2026-08-19 |
-| Swiss Miss Cocoa with No Added Sugar 60 Units / 20 g / 0.7 oz | Swiss Miss | $109.95 | 2026-08-19 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Bauducco Chocolate-Covered Ginger Cookies 340 g / 12 oz | Bauducco | $94.95 | G10D03 |
-| Fruta Assorted Flavor Juice Boxes 24 Units / 200 mL / 6.8 oz | Fruta | $69.95 | G10D03 |
-| Coffee Mate Italian Sweet Creme Coffee Creamer 1.89 L / 64 oz | Coffee Mate | $74.95 | G10D03 |
-| Riceworks Avocado Chips 453 g / 16 oz | Riceworks | $86.95 | G10D03 |
-| Chobani Lactose Free Yogurt Drink with 20 g Protein 12 Units / 283 g / 10 oz | Chobani | $234.95 | G10D03 |
+No new products added today.
