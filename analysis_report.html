@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1124
-- **Total value**: $125,052.81
-- **Average price**: $111.26
+- **Total products scraped**: 1126
+- **Total value**: $125,580.51
+- **Average price**: $111.53
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1124
-- **Price changes detected**: 19
-- **Stock/availability changes**: 16
-- **Discontinued products**: 4
+- **New products added**: 1
+- **Existing products updated**: 1125
+- **Price changes detected**: 58
+- **Stock/availability changes**: 15
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 173 |
-|  | 136 |
+| Member's Selection | 174 |
+|  | 135 |
 | Badia | 16 |
 | Swiss | 14 |
 | Kirkland Signature | 12 |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1050
-- **Price increases**: 502
-- **Price decreases**: 507
+- **Total price changes**: 1063
+- **Price increases**: 500
+- **Price decreases**: 523
 - **Average increase**: 8.3%
-- **Average decrease**: -5.7%
+- **Average decrease**: -5.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Frozen Sliced Turkey Drumsticks | $193.75 | $193.89 | $+0.14 | +0.1% | Increase |
-| Frozen Beef Feet  | $115.92 | $119.44 | $+3.52 | +3.0% | Increase |
-| Papaya | $38.28 | $38.25 | $-0.03 | -0.1% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $145.23 | $144.90 | $-0.33 | -0.2% | Decrease |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $133.74 | $134.23 | $+0.49 | +0.4% | Increase |
-| Frutopia Fruit Juice Drink Assorted Pack 24 Units / 475 mL | $86.95 | $79.95 | $-7.00 | -8.1% | Decrease |
-| Plantains 1.36 kg / 3 lb | $29.95 | $32.95 | $+3.00 | +10.0% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $71.17 | $71.07 | $-0.10 | -0.1% | Decrease |
-| Fresh Whole Chicken 2 Units | $104.68 | $104.50 | $-0.18 | -0.2% | Decrease |
-| Fine Choice Fresh Marinated Chicken Tray | $93.28 | $93.09 | $-0.19 | -0.2% | Decrease |
-| Member's Selection Frozen US Ground Beef Patties 80/20 Tray Pack | $136.33 | $135.93 | $-0.40 | -0.3% | Decrease |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $443.31 | $446.36 | $+3.05 | +0.7% | Increase |
-| Fresh Ground Chicken Meat Bag | $298.43 | $297.83 | $-0.60 | -0.2% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $282.88 | $282.55 | $-0.33 | -0.1% | Decrease |
-| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $197.29 | $197.57 | $+0.28 | +0.1% | Increase |
+| Kraft Parmesan Cheese 680 g / 24 oz | $119.95 | $116.95 | $-3.00 | -2.5% | Decrease |
+| KFI Korma Cooking Sauce 2 Units / 650 mL | $73.70 | $59.70 | $-14.00 | -19.0% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $200.73 | $201.03 | $+0.30 | +0.1% | Increase |
+| Takis Fuego with Hot Chili and Lemon 46 Units / 28 g | $199.70 | $179.70 | $-20.00 | -10.0% | Decrease |
+| POM Pomegranate Juice 1.4 L / 48 oz | $0.00 | $107.95 | $+107.95 | +100.0% | New |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $245.87 | $246.73 | $+0.86 | +0.3% | Increase |
+| Papaya | $38.25 | $38.15 | $-0.10 | -0.3% | Decrease |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $134.23 | $134.64 | $+0.41 | +0.3% | Increase |
+| Mini Sweet Peppers 454 g / 1 lb | $57.95 | $42.95 | $-15.00 | -25.9% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $117.65 | $117.83 | $+0.18 | +0.2% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $69.12 | $69.05 | $-0.07 | -0.1% | Decrease |
+| Brussels Sprouts 454 g / 1 lb | $49.95 | $47.95 | $-2.00 | -4.0% | Decrease |
+| Chilled Chicken Gizzard Tray Pack | $43.46 | $43.60 | $+0.14 | +0.3% | Increase |
+| Fresh Chicken Leg Quarters Tray | $95.70 | $95.60 | $-0.10 | -0.1% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $71.07 | $70.96 | $-0.11 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,8 +100,6 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
-| Nectarine 908 g / 2 lb |  | $69.95 | 2026-08-27 |
-| Farm and Function Frozen Fruition Blend 1.3 kg / 3 lb | Farm and Function | $99.95 | 2026-08-27 |
 | Coffee Mate Italian Sweet Creme Coffee Creamer 1.89 L / 64 oz | Coffee Mate | $74.95 | 2026-08-27 |
 | Member's Selection Frozen Skin On Boneless Salmon Fillet Vacuum Packed | Member's Selection | $156.90 | 2026-08-27 |
 | Coke Soft Drink Zero Sugar Free and Calorie Free 12 Units / 591 mL / 20 oz | Coca-Cola | $56.95 | 2026-08-26 |
@@ -110,6 +108,11 @@
 | Anthon Berg Baileys Chocolate-Covered Marzipan with Baileys Liqueur 20 Count / 25 g / 0.8 oz | Anthon Berg | $149.95 | 2026-08-24 |
 | Kraft Cream Cheese 4 Units / 227 g / 8 oz | Kraft | $81.95 | 2026-08-22 |
 | Latitude 45 Frozen Smoked Salmon Charcuterie 567 g / 1.25 lb | Latitude 45 | $99.70 | 2026-08-19 |
+| Nongshim Shin Ramyun Original in Cup 6 Units / 75 g / 2.64 oz | Nongshim | $70.70 | 2026-08-19 |
+| Ocean Delight Frozen Blue Crab Meat 680 g / 1.5 lb | Ocean Delight | $124.95 | 2026-08-19 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| POM Pomegranate Juice 1.4 L / 48 oz | POM | $107.95 | G10D03 |
