@@ -1,22 +1,22 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1126
-- **Total value**: $125,580.51
-- **Average price**: $111.53
+- **Total products scraped**: 1130
+- **Total value**: $125,853.63
+- **Average price**: $111.37
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1125
-- **Price changes detected**: 58
-- **Stock/availability changes**: 15
+- **New products added**: 4
+- **Existing products updated**: 1126
+- **Price changes detected**: 20
+- **Stock/availability changes**: 17
 - **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 174 |
+| Member's Selection | 175 |
 |  | 135 |
 | Badia | 16 |
 | Swiss | 14 |
@@ -27,44 +27,44 @@
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Oikos Greek Yogurt 18 Units / 150 g / 5.3 oz | Oikos | $194.95 | true |
-| Table Foods Stuffed Peppers Variety 504 g / 18 oz | Table Foods | $116.95 | true |
-| King Cheese Feta with Flavors 2 Units / 227 g / 8 oz | King Cheese | $104.95 | true |
 | Lee Kum Kee Traditional Soy Sauce for Cooking and Marinating 2 Units / 500 mL | Lee Kum Kee | $39.95 | true |
+| King Cheese Feta with Flavors 2 Units / 227 g / 8 oz | King Cheese | $104.95 | true |
+| Table Foods Stuffed Peppers Variety 504 g / 18 oz | Table Foods | $116.95 | true |
 |  Chobani Greek Yogurt Plain 1.13 kg / 2.5 lb | Chobani | $78.95 | true |
-| Café Santo Domingo 100% Dominican Arabica Ground Coffee 2 Units / 453.6 g | Cafe Santo Domingo | $109.95 | true |
 | Smithfield Smoked and Caramelized Pork Shoulder Cubes 453 g / 1 lb | Smithfield | $177.95 | true |
+| Café Santo Domingo 100% Dominican Arabica Ground Coffee 2 Units / 453.6 g | Cafe Santo Domingo | $109.95 | true |
 | Par Excellence 100% Refined Soybean Oil for Cooking and Frying 8.6 L | Par Excellence | $129.95 | true |
+| Lush Assorted Fruit Flavored Drinks 24 Units / 200 mL / 6.76 oz | Lush | $64.95 | true |
 | Nesquik Strawberry Flavored Whole Grain Corn Cereal 1.01 kg / 35.9 oz | Nesquik | $52.95 | true |
-| Oasis Pink Lemon Flavored Water 24 Units / 320 mL / 10.8 oz | Oasis | $39.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1063
-- **Price increases**: 500
-- **Price decreases**: 523
-- **Average increase**: 8.3%
+- **Total price changes**: 1060
+- **Price increases**: 502
+- **Price decreases**: 515
+- **Average increase**: 8.2%
 - **Average decrease**: -5.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Kraft Parmesan Cheese 680 g / 24 oz | $119.95 | $116.95 | $-3.00 | -2.5% | Decrease |
-| KFI Korma Cooking Sauce 2 Units / 650 mL | $73.70 | $59.70 | $-14.00 | -19.0% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $200.73 | $201.03 | $+0.30 | +0.1% | Increase |
-| Takis Fuego with Hot Chili and Lemon 46 Units / 28 g | $199.70 | $179.70 | $-20.00 | -10.0% | Decrease |
-| POM Pomegranate Juice 1.4 L / 48 oz | $0.00 | $107.95 | $+107.95 | +100.0% | New |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $245.87 | $246.73 | $+0.86 | +0.3% | Increase |
-| Papaya | $38.25 | $38.15 | $-0.10 | -0.3% | Decrease |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $134.23 | $134.64 | $+0.41 | +0.3% | Increase |
-| Mini Sweet Peppers 454 g / 1 lb | $57.95 | $42.95 | $-15.00 | -25.9% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $117.65 | $117.83 | $+0.18 | +0.2% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $69.12 | $69.05 | $-0.07 | -0.1% | Decrease |
-| Brussels Sprouts 454 g / 1 lb | $49.95 | $47.95 | $-2.00 | -4.0% | Decrease |
-| Chilled Chicken Gizzard Tray Pack | $43.46 | $43.60 | $+0.14 | +0.3% | Increase |
-| Fresh Chicken Leg Quarters Tray | $95.70 | $95.60 | $-0.10 | -0.1% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $71.07 | $70.96 | $-0.11 | -0.2% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $69.05 | $68.99 | $-0.06 | -0.1% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $93.05 | $93.28 | $+0.23 | +0.2% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $43.60 | $43.46 | $-0.14 | -0.3% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $193.89 | $194.42 | $+0.53 | +0.3% | Increase |
+| Pepe’s Nature’s Pride Yellow Split Peas 2.3 kg | $0.00 | $27.95 | $+27.95 | +100.0% | New |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $246.73 | $247.59 | $+0.86 | +0.3% | Increase |
+| Frozen Beef Feet  | $119.44 | $116.38 | $-3.06 | -2.6% | Decrease |
+| Papaya | $38.15 | $38.28 | $+0.13 | +0.3% | Increase |
+| Ocean Spray 100% Vitamin C Cranberry Pomegranate Juice 2 Units / 1.89 L / 64 oz | $0.00 | $79.95 | $+79.95 | +100.0% | New |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $89.68 | $89.40 | $-0.28 | -0.3% | Decrease |
+| Fresh Ground Chicken Tray | $104.44 | $104.57 | $+0.13 | +0.1% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $70.96 | $71.17 | $+0.21 | +0.3% | Increase |
+| Fresh Whole Chicken for Frying Bag | $282.55 | $282.05 | $-0.50 | -0.2% | Decrease |
+| Fresh Chicken Thighs Boneless Bag | $340.64 | $341.48 | $+0.84 | +0.2% | Increase |
+| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $197.57 | $197.72 | $+0.15 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -115,4 +115,7 @@
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| POM Pomegranate Juice 1.4 L / 48 oz | POM | $107.95 | G10D03 |
+| Pepe’s Nature’s Pride Yellow Split Peas 2.3 kg | Pepe's Nature's Pride | $27.95 | G10D03 |
+| Ocean Spray 100% Vitamin C Cranberry Pomegranate Juice 2 Units / 1.89 L / 64 oz | Ocean Spray | $79.95 | G10D03 |
+| Garofalo Fusilli & Farfalle Pasta Variety Pack 4 Units / 500 g / 1.1 lb | Garofalo | $99.95 | G10D03 |
+| Member's Selection Freshly Baked Sliced Butter Brioche Bread | Member's Selection | $66.95 | G10D03 |
