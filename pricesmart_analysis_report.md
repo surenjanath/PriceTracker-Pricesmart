@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1128
-- **Total value**: $125,317.30
-- **Average price**: $111.10
+- **Total products scraped**: 1129
+- **Total value**: $125,313.86
+- **Average price**: $111.00
 
 ## Database Changes
-- **New products added**: 0
+- **New products added**: 1
 - **Existing products updated**: 1128
-- **Price changes detected**: 16
-- **Stock/availability changes**: 13
-- **Discontinued products**: 2
+- **Price changes detected**: 40
+- **Stock/availability changes**: 17
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 175 |
-|  | 134 |
+|  | 135 |
 | Badia | 16 |
 | Swiss | 14 |
 | Kirkland Signature | 12 |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1032
-- **Price increases**: 491
-- **Price decreases**: 499
-- **Average increase**: 8.2%
-- **Average decrease**: -5.5%
+- **Total price changes**: 1016
+- **Price increases**: 476
+- **Price decreases**: 498
+- **Average increase**: 8.5%
+- **Average decrease**: -5.8%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Bone-in Chicken Thighs Tray | $68.99 | $68.92 | $-0.07 | -0.1% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $82.32 | $82.62 | $+0.30 | +0.4% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $201.03 | $198.87 | $-2.16 | -1.1% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $194.42 | $194.56 | $+0.14 | +0.1% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $247.59 | $244.15 | $-3.44 | -1.4% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $144.90 | $144.39 | $-0.51 | -0.4% | Decrease |
-| Frozen Beef Feet  | $116.38 | $121.54 | $+5.16 | +4.4% | Increase |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $89.40 | $89.12 | $-0.28 | -0.3% | Decrease |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $161.39 | $161.75 | $+0.36 | +0.2% | Increase |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $456.00 | $448.82 | $-7.18 | -1.6% | Decrease |
-| Frozen Lamb Shoulder Chops Tray | $123.59 | $123.77 | $+0.18 | +0.1% | Increase |
-| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $65.93 | $66.24 | $+0.31 | +0.5% | Increase |
-| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $137.52 | $135.56 | $-1.96 | -1.4% | Decrease |
-| Pork Chop with Bone Frozen Tray | $83.63 | $82.28 | $-1.35 | -1.6% | Decrease |
-| Fresh Chicken Boneless Breast Bag | $479.57 | $480.39 | $+0.82 | +0.2% | Increase |
+| Fresh Cantaloupe Melon | $59.95 | $64.95 | $+5.00 | +8.3% | Increase |
+| Plantains 1.36 kg / 3 lb | $32.95 | $29.95 | $-3.00 | -9.1% | Decrease |
+| Nutrina Chilled Whole Chicken Bag | $345.15 | $344.16 | $-0.99 | -0.3% | Decrease |
+| Galbani Mozzarella Cheese Block 2.26 kg / 5 lb | $122.95 | $74.70 | $-48.25 | -39.2% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $198.87 | $199.16 | $+0.29 | +0.1% | Increase |
+| Frozen Beef Feet  | $121.54 | $119.44 | $-2.10 | -1.7% | Decrease |
+| Bigelow Vanilla Chai Tea 60 Bags / 139 g | $0.00 | $94.95 | $+94.95 | +100.0% | New |
+| Maggi Vegetable Soup 12 Units / 45 g | $71.95 | $65.95 | $-6.00 | -8.3% | Decrease |
+| Member's Selection Frozen US Ground Beef Patties 80/20 Tray Pack | $136.53 | $136.93 | $+0.40 | +0.3% | Increase |
+| Member's Selection Frozen Sliced Turkey Wings, Bag | $161.75 | $162.94 | $+1.19 | +0.7% | Increase |
+| Fresh Ground Chicken Tray | $104.57 | $104.18 | $-0.39 | -0.4% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $71.17 | $71.48 | $+0.31 | +0.4% | Increase |
+| Orchard Assorted Drinks Juice Mix 6 Units / 1L | $61.95 | $56.95 | $-5.00 | -8.1% | Decrease |
+| Plum 907 g / 2 lb | $62.95 | $64.95 | $+2.00 | +3.2% | Increase |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $77.03 | $77.16 | $+0.13 | +0.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Cream of Wheat Hot Cereal 794 g / 28 oz | Cream of Wheat | $59.95 | 2026-08-31 |
 | Frozen Lamb Leg Whole Boneless Tray Pack |  | $352.45 | 2026-08-30 |
 | Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | Swift | $175.90 | 2026-08-30 |
 | Coffee Mate Italian Sweet Creme Coffee Creamer 1.89 L / 64 oz | Coffee Mate | $74.95 | 2026-08-27 |
@@ -109,7 +110,9 @@
 | Silk Almond Milk Original 2 Units / 1.89 L / 64 oz  | Silk | $104.95 | 2026-08-25 |
 | Anthon Berg Baileys Chocolate-Covered Marzipan with Baileys Liqueur 20 Count / 25 g / 0.8 oz | Anthon Berg | $149.95 | 2026-08-24 |
 | Kraft Cream Cheese 4 Units / 227 g / 8 oz | Kraft | $81.95 | 2026-08-22 |
-| Latitude 45 Frozen Smoked Salmon Charcuterie 567 g / 1.25 lb | Latitude 45 | $99.70 | 2026-08-19 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Bigelow Vanilla Chai Tea 60 Bags / 139 g | Bigelow | $94.95 | G10D03 |
