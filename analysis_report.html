@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1127
-- **Total value**: $124,917.88
-- **Average price**: $110.84
+- **Total products scraped**: 1128
+- **Total value**: $124,856.22
+- **Average price**: $110.69
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1126
-- **Price changes detected**: 30
-- **Stock/availability changes**: 21
-- **Discontinued products**: 2
+- **New products added**: 0
+- **Existing products updated**: 1128
+- **Price changes detected**: 44
+- **Stock/availability changes**: 20
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 175 |
-|  | 134 |
+|  | 135 |
 | Badia | 16 |
 | Swiss | 14 |
 | Kirkland Signature | 12 |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1076
-- **Price increases**: 517
-- **Price decreases**: 518
-- **Average increase**: 7.6%
-- **Average decrease**: -5.9%
+- **Total price changes**: 1047
+- **Price increases**: 507
+- **Price decreases**: 500
+- **Average increase**: 7.8%
+- **Average decrease**: -6.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Whole Chicken for Frying Bag | $279.58 | $279.09 | $-0.49 | -0.2% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $198.04 | $196.83 | $-1.21 | -0.6% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $240.75 | $241.03 | $+0.28 | +0.1% | Increase |
-| Frozen Beef Feet  | $116.38 | $115.43 | $-0.95 | -0.8% | Decrease |
-| Papaya | $37.32 | $37.35 | $+0.03 | +0.1% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $200.90 | $201.48 | $+0.58 | +0.3% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $66.41 | $66.34 | $-0.07 | -0.1% | Decrease |
-| Fresh Ground Chicken Tray | $103.79 | $103.66 | $-0.13 | -0.1% | Decrease |
-| Bouchard Dubai Chocolates Pistachio & Knafeh 454 g / 16 oz | $0.00 | $189.95 | $+189.95 | +100.0% | New |
-| Frozen Bone In Pork Shoulder Sliced Tray | $72.00 | $72.11 | $+0.11 | +0.2% | Increase |
-| Fresh Chicken Thighs Boneless Tray | $88.72 | $88.59 | $-0.13 | -0.1% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $95.98 | $96.13 | $+0.15 | +0.2% | Increase |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $78.35 | $78.22 | $-0.13 | -0.2% | Decrease |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $89.42 | $89.56 | $+0.14 | +0.2% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $123.59 | $124.13 | $+0.54 | +0.4% | Increase |
+| Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $34.70 | $57.95 | $+23.25 | +67.0% | Increase |
+| Fresh Whole Striploin Fillet Vacuum packaged | $2379.57 | $2167.07 | $-212.50 | -8.9% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.60 | $114.42 | $-0.18 | -0.2% | Decrease |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $134.23 | $134.48 | $+0.25 | +0.2% | Increase |
+| Frozen Beef Feet  | $115.43 | $112.85 | $-2.58 | -2.2% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $201.48 | $200.90 | $-0.58 | -0.3% | Decrease |
+| Swiss Elbows 6 Units / 300 g / 10.6 oz | $24.95 | $28.95 | $+4.00 | +16.0% | Increase |
+| Swiss Twists 6 Units / 300 g | $24.95 | $28.95 | $+4.00 | +16.0% | Increase |
+| Nectarine 908 g / 2 lb | $69.95 | $77.95 | $+8.00 | +11.4% | Increase |
+| Mini Sweet Peppers 454 g / 1 lb | $42.95 | $52.95 | $+10.00 | +23.3% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $66.34 | $66.41 | $+0.07 | +0.1% | Increase |
+| Frozen Bone-In Pork Shoulder Vacuum Packed | $194.41 | $209.69 | $+15.28 | +7.9% | Increase |
+| Swiss Spaghetti 6 Units / 400 g | $28.95 | $32.95 | $+4.00 | +13.8% | Increase |
+| Plum 907 g / 2 lb | $64.95 | $67.95 | $+3.00 | +4.6% | Increase |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $85.62 | $85.89 | $+0.27 | +0.3% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -112,7 +112,4 @@
 | Coffee Mate Italian Sweet Creme Coffee Creamer 1.89 L / 64 oz | Coffee Mate | $74.95 | 2026-08-27 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Bouchard Dubai Chocolates Pistachio & Knafeh 454 g / 16 oz | Bouchard | $189.95 | G10D03 |
+No new products added today.
