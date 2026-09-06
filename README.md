@@ -184,22 +184,22 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1128
-- **Total value**: $124,856.22
-- **Average price**: $110.69
+- **Total products scraped**: 1127
+- **Total value**: $124,648.10
+- **Average price**: $110.60
 
 ## Database Changes
 - **New products added**: 0
-- **Existing products updated**: 1128
-- **Price changes detected**: 44
-- **Stock/availability changes**: 20
-- **Discontinued products**: 0
+- **Existing products updated**: 1127
+- **Price changes detected**: 25
+- **Stock/availability changes**: 26
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 175 |
+| Member's Selection | 174 |
 |  | 135 |
 | Badia | 16 |
 | Swiss | 14 |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1047
-- **Price increases**: 507
-- **Price decreases**: 500
-- **Average increase**: 7.8%
-- **Average decrease**: -6.0%
+- **Total price changes**: 1045
+- **Price increases**: 512
+- **Price decreases**: 494
+- **Average increase**: 7.7%
+- **Average decrease**: -5.9%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $34.70 | $57.95 | $+23.25 | +67.0% | Increase |
-| Fresh Whole Striploin Fillet Vacuum packaged | $2379.57 | $2167.07 | $-212.50 | -8.9% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.60 | $114.42 | $-0.18 | -0.2% | Decrease |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $134.23 | $134.48 | $+0.25 | +0.2% | Increase |
-| Frozen Beef Feet  | $115.43 | $112.85 | $-2.58 | -2.2% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $201.48 | $200.90 | $-0.58 | -0.3% | Decrease |
-| Swiss Elbows 6 Units / 300 g / 10.6 oz | $24.95 | $28.95 | $+4.00 | +16.0% | Increase |
-| Swiss Twists 6 Units / 300 g | $24.95 | $28.95 | $+4.00 | +16.0% | Increase |
-| Nectarine 908 g / 2 lb | $69.95 | $77.95 | $+8.00 | +11.4% | Increase |
-| Mini Sweet Peppers 454 g / 1 lb | $42.95 | $52.95 | $+10.00 | +23.3% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $66.34 | $66.41 | $+0.07 | +0.1% | Increase |
-| Frozen Bone-In Pork Shoulder Vacuum Packed | $194.41 | $209.69 | $+15.28 | +7.9% | Increase |
-| Swiss Spaghetti 6 Units / 400 g | $28.95 | $32.95 | $+4.00 | +13.8% | Increase |
-| Plum 907 g / 2 lb | $64.95 | $67.95 | $+3.00 | +4.6% | Increase |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $85.62 | $85.89 | $+0.27 | +0.3% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $66.41 | $66.47 | $+0.06 | +0.1% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $93.09 | $93.05 | $-0.04 | -0.0% | Decrease |
+| Frozen Bone-In Goat Carcass Case | $1369.62 | $1372.42 | $+2.80 | +0.2% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $241.03 | $241.88 | $+0.85 | +0.4% | Increase |
+| Frozen Pork Belly Skin On Sliced Tray  | $93.80 | $93.11 | $-0.69 | -0.7% | Decrease |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $89.56 | $89.69 | $+0.13 | +0.1% | Increase |
+| Papaya | $37.35 | $37.26 | $-0.09 | -0.2% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $96.41 | $96.56 | $+0.15 | +0.2% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $124.31 | $124.67 | $+0.36 | +0.3% | Increase |
+| Nutrina Chilled Whole Chicken Bag | $341.86 | $341.69 | $-0.17 | -0.0% | Decrease |
+| Fresh Whole Chicken 2 Units | $104.33 | $104.50 | $+0.17 | +0.2% | Increase |
+| Fresh Whole Chicken for Frying Bag | $279.09 | $278.59 | $-0.50 | -0.2% | Decrease |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $85.89 | $86.16 | $+0.27 | +0.3% | Increase |
+| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $194.84 | $194.41 | $-0.43 | -0.2% | Decrease |
+| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $66.74 | $66.34 | $-0.40 | -0.6% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Member's Selection Frozen Skin On Boneless Trout Fillet Vacuum Packaged Bag | Member's Selection | $210.84 | 2026-09-05 |
 | Pam Original Oil Spray 2 Units /  400 g / 14 oz | PAM | $109.95 | 2026-09-03 |
 | Crispy Just Baked Mini Naan Bread Bites Baked and Crunchy Snack Style | Crispy Just Baked | $44.95 | 2026-09-03 |
 | Ocean Delight Caribbean Spiny Lobster Tails 2 Units / 198 g / 7 oz | Ocean Delight | $245.95 | 2026-09-02 |
@@ -292,7 +293,6 @@ This project has recently gained unexpected attention. It was created for person
 | Cream of Wheat Hot Cereal 794 g / 28 oz | Cream of Wheat | $59.95 | 2026-08-31 |
 | Frozen Lamb Leg Whole Boneless Tray Pack |  | $352.45 | 2026-08-30 |
 | Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | Swift | $175.90 | 2026-08-30 |
-| Coffee Mate Italian Sweet Creme Coffee Creamer 1.89 L / 64 oz | Coffee Mate | $74.95 | 2026-08-27 |
 
 ## New Products Added Today
 No new products added today.
