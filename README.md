@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1127
-- **Total value**: $124,648.10
-- **Average price**: $110.60
+- **Total products scraped**: 1128
+- **Total value**: $125,261.48
+- **Average price**: $111.05
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1127
-- **Price changes detected**: 25
-- **Stock/availability changes**: 26
-- **Discontinued products**: 1
+- **New products added**: 2
+- **Existing products updated**: 1126
+- **Price changes detected**: 57
+- **Stock/availability changes**: 16
+- **Discontinued products**: 3
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 174 |
-|  | 135 |
+|  | 134 |
 | Badia | 16 |
 | Swiss | 14 |
 | Kirkland Signature | 12 |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1045
-- **Price increases**: 512
-- **Price decreases**: 494
-- **Average increase**: 7.7%
-- **Average decrease**: -5.9%
+- **Total price changes**: 1074
+- **Price increases**: 544
+- **Price decreases**: 491
+- **Average increase**: 8.1%
+- **Average decrease**: -6.2%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Bone-in Chicken Thighs Tray | $66.41 | $66.47 | $+0.06 | +0.1% | Increase |
-| Fine Choice Fresh Marinated Chicken Tray | $93.09 | $93.05 | $-0.04 | -0.0% | Decrease |
-| Frozen Bone-In Goat Carcass Case | $1369.62 | $1372.42 | $+2.80 | +0.2% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $241.03 | $241.88 | $+0.85 | +0.4% | Increase |
-| Frozen Pork Belly Skin On Sliced Tray  | $93.80 | $93.11 | $-0.69 | -0.7% | Decrease |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $89.56 | $89.69 | $+0.13 | +0.1% | Increase |
-| Papaya | $37.35 | $37.26 | $-0.09 | -0.2% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $96.41 | $96.56 | $+0.15 | +0.2% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $124.31 | $124.67 | $+0.36 | +0.3% | Increase |
-| Nutrina Chilled Whole Chicken Bag | $341.86 | $341.69 | $-0.17 | -0.0% | Decrease |
-| Fresh Whole Chicken 2 Units | $104.33 | $104.50 | $+0.17 | +0.2% | Increase |
-| Fresh Whole Chicken for Frying Bag | $279.09 | $278.59 | $-0.50 | -0.2% | Decrease |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $85.89 | $86.16 | $+0.27 | +0.3% | Increase |
-| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $194.84 | $194.41 | $-0.43 | -0.2% | Decrease |
-| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $66.74 | $66.34 | $-0.40 | -0.6% | Decrease |
+| Farm2You White Peach 907 g / 2 lb | $0.00 | $59.95 | $+59.95 | +100.0% | New |
+| La Yogurt Yogurt 12 Units / 170 g / 6 oz | $49.70 | $89.95 | $+40.25 | +81.0% | Increase |
+| Fresh Chicken Leg Quarters Tray | $95.00 | $94.81 | $-0.19 | -0.2% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.42 | $114.60 | $+0.18 | +0.2% | Increase |
+| Dietz & Watson Chef Carved Ham 1.36 kg / 3 lb | $165.95 | $189.95 | $+24.00 | +14.5% | Increase |
+| Better Butter Cinnamon and Brown Sugar Butter 510 g / 18 oz | $0.00 | $99.95 | $+99.95 | +100.0% | New |
+| Pillsbury Cookie Dough Mix 1.3 kg / 3 lb | $71.70 | $112.95 | $+41.25 | +57.5% | Increase |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $89.69 | $89.97 | $+0.28 | +0.3% | Increase |
+| Papaya | $37.26 | $37.35 | $+0.09 | +0.2% | Increase |
+| Bertie's Pimento Peppers Sauce 750 mL | $41.15 | $48.95 | $+7.80 | +19.0% | Increase |
+| Frozen Bone-In Pork Shoulder Vacuum Packed | $209.69 | $205.69 | $-4.00 | -1.9% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $72.11 | $71.90 | $-0.21 | -0.3% | Decrease |
+| Swiss Spaghetti 6 Units / 400 g | $32.95 | $38.95 | $+6.00 | +18.2% | Increase |
+| Nesquik Chocolate-flavored Corn and Whole Wheat Cereal 1.02 kg / 35.9 oz | $44.95 | $52.95 | $+8.00 | +17.8% | Increase |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $96.56 | $96.70 | $+0.14 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,9 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Byrne Dairy Half & Half Cream Milk 946 mL / 32 oz | Byrne Dairy | $44.95 | 2026-09-06 |
+| Pineapple Crownless Fresh |  | $24.95 | 2026-09-06 |
+| Cole Cold Assorted Sodas 6 Units / 2 L | Cole Cold | $45.95 | 2026-09-06 |
 | Member's Selection Frozen Skin On Boneless Trout Fillet Vacuum Packaged Bag | Member's Selection | $210.84 | 2026-09-05 |
 | Pam Original Oil Spray 2 Units /  400 g / 14 oz | PAM | $109.95 | 2026-09-03 |
 | Crispy Just Baked Mini Naan Bread Bites Baked and Crunchy Snack Style | Crispy Just Baked | $44.95 | 2026-09-03 |
@@ -290,9 +293,10 @@ This project has recently gained unexpected attention. It was created for person
 | Ginger 680 g / 1.5 lb |  | $24.95 | 2026-09-02 |
 | Coffee Toppers Salted Caramel Whipped Cream 2 Units / 425 g / 15 oz | Coffee Toppers | $29.70 | 2026-09-02 |
 | Just About Foods Organic and Creamy Peanut Butter 1.13 kg / 40 oz | Just About Foods | $96.95 | 2026-09-01 |
-| Cream of Wheat Hot Cereal 794 g / 28 oz | Cream of Wheat | $59.95 | 2026-08-31 |
-| Frozen Lamb Leg Whole Boneless Tray Pack |  | $352.45 | 2026-08-30 |
-| Swift Frozen Chilled Pork Ribs Kansas City Style BBQ Vacuum Pack  | Swift | $175.90 | 2026-08-30 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Farm2You White Peach 907 g / 2 lb | Farm2You | $59.95 | G10D03 |
+| Better Butter Cinnamon and Brown Sugar Butter 510 g / 18 oz | Better Butter | $99.95 | G10D03 |
