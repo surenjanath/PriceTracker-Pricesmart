@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1128
-- **Total value**: $125,261.48
-- **Average price**: $111.05
+- **Total products scraped**: 1129
+- **Total value**: $125,247.27
+- **Average price**: $110.94
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1126
-- **Price changes detected**: 57
+- **New products added**: 0
+- **Existing products updated**: 1129
+- **Price changes detected**: 18
 - **Stock/availability changes**: 16
-- **Discontinued products**: 3
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 174 |
-|  | 134 |
+|  | 135 |
 | Badia | 16 |
 | Swiss | 14 |
 | Kirkland Signature | 12 |
@@ -26,45 +26,45 @@
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Oikos Greek Yogurt 18 Units / 150 g / 5.3 oz | Oikos | $199.95 | true |
-| Table Foods Stuffed Peppers Variety 504 g / 18 oz | Table Foods | $116.95 | true |
-| Lee Kum Kee Traditional Soy Sauce for Cooking and Marinating 2 Units / 500 mL | Lee Kum Kee | $39.95 | true |
-| Lush Assorted Fruit Flavored Drinks 24 Units / 200 mL / 6.76 oz | Lush | $64.95 | true |
-|  Chobani Greek Yogurt Plain 1.13 kg / 2.5 lb | Chobani | $78.95 | true |
+| Member's Selection Freshly Baked Sliced Butter Brioche Bread | Member's Selection | $66.95 | true |
+| Bigelow Vanilla Chai Tea 60 Bags / 139 g | Bigelow | $94.95 | true |
+| Chobani Lactose Free Yogurt Drink with 20 g Protein 12 Units / 283 g / 10 oz | Chobani | $234.95 | true |
+| Garofalo Fusilli & Farfalle Pasta Variety Pack 4 Units / 500 g / 1.1 lb | Garofalo | $97.95 | true |
+| Riceworks Avocado Chips 453 g / 16 oz | Riceworks | $92.95 | true |
+| Crystal Farms Light String Cheese 24 Units 567 g / 1.25 lb | Crystal Farms | $75.95 | true |
 | Smithfield Smoked and Caramelized Pork Shoulder Cubes 453 g / 1 lb | Smithfield | $177.95 | true |
-| Nesquik Strawberry Flavored Whole Grain Corn Cereal 1.01 kg / 35.9 oz | Nesquik | $52.95 | true |
-| King Cheese Feta with Flavors 2 Units / 227 g / 8 oz | King Cheese | $104.95 | true |
-| Café Santo Domingo 100% Dominican Arabica Ground Coffee 2 Units / 453.6 g | Cafe Santo Domingo | $109.95 | true |
-| Par Excellence 100% Refined Soybean Oil for Cooking and Frying 8.6 L | Par Excellence | $129.95 | true |
+| Fruta Assorted Flavor Juice Boxes 24 Units / 200 mL / 6.8 oz | Fruta | $69.95 | true |
+| Bella Contadina Garlic with Green Pesto 330 g / 11.7 oz | Bella Contadina | $72.95 | true |
+| Florida's Natural Peach and Mango Juice 2 Units / 1.75 L / 59 oz  | Florida's Natural | $117.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1074
-- **Price increases**: 544
-- **Price decreases**: 491
+- **Total price changes**: 1068
+- **Price increases**: 546
+- **Price decreases**: 483
 - **Average increase**: 8.1%
-- **Average decrease**: -6.2%
+- **Average decrease**: -6.3%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Farm2You White Peach 907 g / 2 lb | $0.00 | $59.95 | $+59.95 | +100.0% | New |
-| La Yogurt Yogurt 12 Units / 170 g / 6 oz | $49.70 | $89.95 | $+40.25 | +81.0% | Increase |
-| Fresh Chicken Leg Quarters Tray | $95.00 | $94.81 | $-0.19 | -0.2% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.42 | $114.60 | $+0.18 | +0.2% | Increase |
-| Dietz & Watson Chef Carved Ham 1.36 kg / 3 lb | $165.95 | $189.95 | $+24.00 | +14.5% | Increase |
-| Better Butter Cinnamon and Brown Sugar Butter 510 g / 18 oz | $0.00 | $99.95 | $+99.95 | +100.0% | New |
-| Pillsbury Cookie Dough Mix 1.3 kg / 3 lb | $71.70 | $112.95 | $+41.25 | +57.5% | Increase |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $89.69 | $89.97 | $+0.28 | +0.3% | Increase |
-| Papaya | $37.26 | $37.35 | $+0.09 | +0.2% | Increase |
-| Bertie's Pimento Peppers Sauce 750 mL | $41.15 | $48.95 | $+7.80 | +19.0% | Increase |
-| Frozen Bone-In Pork Shoulder Vacuum Packed | $209.69 | $205.69 | $-4.00 | -1.9% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $72.11 | $71.90 | $-0.21 | -0.3% | Decrease |
-| Swiss Spaghetti 6 Units / 400 g | $32.95 | $38.95 | $+6.00 | +18.2% | Increase |
-| Nesquik Chocolate-flavored Corn and Whole Wheat Cereal 1.02 kg / 35.9 oz | $44.95 | $52.95 | $+8.00 | +17.8% | Increase |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $96.56 | $96.70 | $+0.14 | +0.1% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $136.67 | $137.17 | $+0.50 | +0.4% | Increase |
+| Frozen Sliced Turkey Drumsticks | $196.83 | $196.70 | $-0.13 | -0.1% | Decrease |
+| Frozen Beef Feet  | $112.85 | $112.24 | $-0.61 | -0.5% | Decrease |
+| KFI Korma Cooking Sauce 2 Units / 650 mL | $59.70 | $52.70 | $-7.00 | -11.7% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $200.90 | $200.03 | $-0.87 | -0.4% | Decrease |
+| Iceberg Lettuce Unit | $21.95 | $22.95 | $+1.00 | +4.6% | Increase |
+| Fresh Beef Striploin Steak Tray | $207.05 | $205.88 | $-1.17 | -0.6% | Decrease |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $86.43 | $86.57 | $+0.14 | +0.2% | Increase |
+| Swiss Spouch Ketchup 6 Units / 750 ml / 25 oz | $52.95 | $59.95 | $+7.00 | +13.2% | Increase |
+| Nutrina Chilled Whole Chicken Bag | $341.69 | $341.53 | $-0.16 | -0.0% | Decrease |
+| Brunswick Chunk Tuna in Oil Canned 6 Units / 142 g / 5 oz | $58.95 | $61.95 | $+3.00 | +5.1% | Increase |
+| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $128.71 | $128.51 | $-0.20 | -0.2% | Decrease |
+| Fresh Chicken Boneless Breast Bag | $485.42 | $486.25 | $+0.83 | +0.2% | Increase |
+| Fresh Chicken Breast Boneless Skinless Tray | $136.27 | $137.17 | $+0.90 | +0.7% | Increase |
+| Member's Selection Ready-to-Eat Barbecue Flavored Chicken Wings | $84.12 | $85.50 | $+1.38 | +1.6% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,8 +100,8 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Nescafé Gold Instant Coffee 200 g + Vanilla-Flavored Cream 425.2 g | Nescafé | $119.95 | 2026-09-07 |
 | Byrne Dairy Half & Half Cream Milk 946 mL / 32 oz | Byrne Dairy | $44.95 | 2026-09-06 |
-| Pineapple Crownless Fresh |  | $24.95 | 2026-09-06 |
 | Cole Cold Assorted Sodas 6 Units / 2 L | Cole Cold | $45.95 | 2026-09-06 |
 | Member's Selection Frozen Skin On Boneless Trout Fillet Vacuum Packaged Bag | Member's Selection | $210.84 | 2026-09-05 |
 | Pam Original Oil Spray 2 Units /  400 g / 14 oz | PAM | $109.95 | 2026-09-03 |
@@ -112,8 +112,4 @@
 | Just About Foods Organic and Creamy Peanut Butter 1.13 kg / 40 oz | Just About Foods | $96.95 | 2026-09-01 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Farm2You White Peach 907 g / 2 lb | Farm2You | $59.95 | G10D03 |
-| Better Butter Cinnamon and Brown Sugar Butter 510 g / 18 oz | Better Butter | $99.95 | G10D03 |
+No new products added today.
