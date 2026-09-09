@@ -184,15 +184,15 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1129
-- **Total value**: $125,247.27
-- **Average price**: $110.94
+- **Total products scraped**: 1128
+- **Total value**: $125,255.62
+- **Average price**: $111.04
 
 ## Database Changes
 - **New products added**: 0
-- **Existing products updated**: 1129
-- **Price changes detected**: 18
-- **Stock/availability changes**: 16
+- **Existing products updated**: 1128
+- **Price changes detected**: 14
+- **Stock/availability changes**: 9
 - **Discontinued products**: 1
 
 ## Top 5 Brands
@@ -200,7 +200,7 @@ This project has recently gained unexpected attention. It was created for person
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 174 |
-|  | 135 |
+|  | 134 |
 | Badia | 16 |
 | Swiss | 14 |
 | Kirkland Signature | 12 |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1068
-- **Price increases**: 546
-- **Price decreases**: 483
+- **Total price changes**: 1013
+- **Price increases**: 533
+- **Price decreases**: 441
 - **Average increase**: 8.1%
-- **Average decrease**: -6.3%
+- **Average decrease**: -5.7%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.60 | $114.78 | $+0.18 | +0.2% | Increase |
+| Frozen Sliced Turkey Drumsticks | $196.70 | $196.03 | $-0.67 | -0.3% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $241.88 | $241.03 | $-0.85 | -0.4% | Decrease |
+| Papaya | $37.35 | $37.48 | $+0.13 | +0.3% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $71.90 | $71.69 | $-0.21 | -0.3% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $96.70 | $96.99 | $+0.29 | +0.3% | Increase |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $86.57 | $86.70 | $+0.13 | +0.2% | Increase |
+| Fresh Beef Striploin Steak Tray | $205.88 | $205.29 | $-0.59 | -0.3% | Decrease |
+| Frozen Lamb Shoulder Chops Tray | $125.03 | $125.21 | $+0.18 | +0.1% | Increase |
+| Kirkland Signature Basil Pesto 624 g / 22 oz | $49.70 | $126.95 | $+77.25 | +155.4% | Increase |
+| Member's Selection Ready-to-Eat Barbecue Flavored Chicken Wings | $85.50 | $86.19 | $+0.69 | +0.8% | Increase |
+| Member's Selection Frozen Boneless Pork Loin Roast Tray | $107.38 | $107.28 | $-0.10 | -0.1% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Stew Tray | $104.19 | $104.35 | $+0.16 | +0.2% | Increase |
+| Member's Selection Frozen Oxtail Bag | $193.07 | $192.78 | $-0.29 | -0.2% | Decrease |
 | Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $136.67 | $137.17 | $+0.50 | +0.4% | Increase |
-| Frozen Sliced Turkey Drumsticks | $196.83 | $196.70 | $-0.13 | -0.1% | Decrease |
-| Frozen Beef Feet  | $112.85 | $112.24 | $-0.61 | -0.5% | Decrease |
-| KFI Korma Cooking Sauce 2 Units / 650 mL | $59.70 | $52.70 | $-7.00 | -11.7% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $200.90 | $200.03 | $-0.87 | -0.4% | Decrease |
-| Iceberg Lettuce Unit | $21.95 | $22.95 | $+1.00 | +4.6% | Increase |
-| Fresh Beef Striploin Steak Tray | $207.05 | $205.88 | $-1.17 | -0.6% | Decrease |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $86.43 | $86.57 | $+0.14 | +0.2% | Increase |
-| Swiss Spouch Ketchup 6 Units / 750 ml / 25 oz | $52.95 | $59.95 | $+7.00 | +13.2% | Increase |
-| Nutrina Chilled Whole Chicken Bag | $341.69 | $341.53 | $-0.16 | -0.0% | Decrease |
-| Brunswick Chunk Tuna in Oil Canned 6 Units / 142 g / 5 oz | $58.95 | $61.95 | $+3.00 | +5.1% | Increase |
-| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $128.71 | $128.51 | $-0.20 | -0.2% | Decrease |
-| Fresh Chicken Boneless Breast Bag | $485.42 | $486.25 | $+0.83 | +0.2% | Increase |
-| Fresh Chicken Breast Boneless Skinless Tray | $136.27 | $137.17 | $+0.90 | +0.7% | Increase |
-| Member's Selection Ready-to-Eat Barbecue Flavored Chicken Wings | $84.12 | $85.50 | $+1.38 | +1.6% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Fresh Apple Cosmic Crisp 1.36 kg / 3 lb |  | $67.95 | 2026-09-08 |
 | Nescafé Gold Instant Coffee 200 g + Vanilla-Flavored Cream 425.2 g | Nescafé | $119.95 | 2026-09-07 |
 | Byrne Dairy Half & Half Cream Milk 946 mL / 32 oz | Byrne Dairy | $44.95 | 2026-09-06 |
 | Cole Cold Assorted Sodas 6 Units / 2 L | Cole Cold | $45.95 | 2026-09-06 |
@@ -292,7 +293,6 @@ This project has recently gained unexpected attention. It was created for person
 | Ocean Delight Caribbean Spiny Lobster Tails 2 Units / 198 g / 7 oz | Ocean Delight | $245.95 | 2026-09-02 |
 | Ginger 680 g / 1.5 lb |  | $24.95 | 2026-09-02 |
 | Coffee Toppers Salted Caramel Whipped Cream 2 Units / 425 g / 15 oz | Coffee Toppers | $29.70 | 2026-09-02 |
-| Just About Foods Organic and Creamy Peanut Butter 1.13 kg / 40 oz | Just About Foods | $96.95 | 2026-09-01 |
 
 ## New Products Added Today
 No new products added today.
