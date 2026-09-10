@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1128
-- **Total value**: $125,255.62
-- **Average price**: $111.04
+- **Total products scraped**: 1132
+- **Total value**: $125,565.01
+- **Average price**: $110.92
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1128
-- **Price changes detected**: 14
-- **Stock/availability changes**: 9
-- **Discontinued products**: 1
+- **New products added**: 7
+- **Existing products updated**: 1125
+- **Price changes detected**: 46
+- **Stock/availability changes**: 11
+- **Discontinued products**: 3
 
 ## Top 5 Brands
 
@@ -19,7 +19,7 @@
 | Member's Selection | 174 |
 |  | 134 |
 | Badia | 16 |
-| Swiss | 14 |
+| Swiss | 15 |
 | Kirkland Signature | 12 |
 
 ## Recent Products
@@ -27,44 +27,44 @@
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Member's Selection Freshly Baked Sliced Butter Brioche Bread | Member's Selection | $66.95 | true |
-| Bigelow Vanilla Chai Tea 60 Bags / 139 g | Bigelow | $94.95 | true |
-| Chobani Lactose Free Yogurt Drink with 20 g Protein 12 Units / 283 g / 10 oz | Chobani | $234.95 | true |
-| Garofalo Fusilli & Farfalle Pasta Variety Pack 4 Units / 500 g / 1.1 lb | Garofalo | $97.95 | true |
 | Riceworks Avocado Chips 453 g / 16 oz | Riceworks | $92.95 | true |
+| Chobani Lactose Free Yogurt Drink with 20 g Protein 12 Units / 283 g / 10 oz | Chobani | $234.95 | true |
+| Bigelow Vanilla Chai Tea 60 Bags / 139 g | Bigelow | $94.95 | true |
 | Crystal Farms Light String Cheese 24 Units 567 g / 1.25 lb | Crystal Farms | $75.95 | true |
-| Smithfield Smoked and Caramelized Pork Shoulder Cubes 453 g / 1 lb | Smithfield | $177.95 | true |
-| Fruta Assorted Flavor Juice Boxes 24 Units / 200 mL / 6.8 oz | Fruta | $69.95 | true |
+| Garofalo Fusilli & Farfalle Pasta Variety Pack 4 Units / 500 g / 1.1 lb | Garofalo | $97.95 | true |
 | Bella Contadina Garlic with Green Pesto 330 g / 11.7 oz | Bella Contadina | $72.95 | true |
 | Florida's Natural Peach and Mango Juice 2 Units / 1.75 L / 59 oz  | Florida's Natural | $117.95 | true |
+| POM Pomegranate Juice 1.4 L / 48 oz | POM | $107.95 | true |
+| Fruta Assorted Flavor Juice Boxes 24 Units / 200 mL / 6.8 oz | Fruta | $69.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1013
-- **Price increases**: 533
-- **Price decreases**: 441
+- **Total price changes**: 1034
+- **Price increases**: 545
+- **Price decreases**: 445
 - **Average increase**: 8.1%
-- **Average decrease**: -5.7%
+- **Average decrease**: -5.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.60 | $114.78 | $+0.18 | +0.2% | Increase |
-| Frozen Sliced Turkey Drumsticks | $196.70 | $196.03 | $-0.67 | -0.3% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $241.88 | $241.03 | $-0.85 | -0.4% | Decrease |
-| Papaya | $37.35 | $37.48 | $+0.13 | +0.3% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $71.90 | $71.69 | $-0.21 | -0.3% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $96.70 | $96.99 | $+0.29 | +0.3% | Increase |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $86.57 | $86.70 | $+0.13 | +0.2% | Increase |
-| Fresh Beef Striploin Steak Tray | $205.88 | $205.29 | $-0.59 | -0.3% | Decrease |
-| Frozen Lamb Shoulder Chops Tray | $125.03 | $125.21 | $+0.18 | +0.1% | Increase |
-| Kirkland Signature Basil Pesto 624 g / 22 oz | $49.70 | $126.95 | $+77.25 | +155.4% | Increase |
-| Member's Selection Ready-to-Eat Barbecue Flavored Chicken Wings | $85.50 | $86.19 | $+0.69 | +0.8% | Increase |
-| Member's Selection Frozen Boneless Pork Loin Roast Tray | $107.38 | $107.28 | $-0.10 | -0.1% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Stew Tray | $104.19 | $104.35 | $+0.16 | +0.2% | Increase |
-| Member's Selection Frozen Oxtail Bag | $193.07 | $192.78 | $-0.29 | -0.2% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $136.67 | $137.17 | $+0.50 | +0.4% | Increase |
+| SFM Salted Pollock Bone In  650 g / 1.4 lb | $42.95 | $56.95 | $+14.00 | +32.6% | Increase |
+| Vasha Foods Veggie Patties, 16 Units / 56.6 g / 2 oz | $69.95 | $84.95 | $+15.00 | +21.4% | Increase |
+| Karibbean Flavours Amchar Massala Spice Blend 550 g | $0.00 | $50.95 | $+50.95 | +100.0% | New |
+| Swiss Grill & Chill Grilling Sauce Units 4 Units | $0.00 | $52.95 | $+52.95 | +100.0% | New |
+| Holiday Nova Rolls Chili and Lemon Flavor Tortilla Chips 10 Units / 45 g | $0.00 | $59.95 | $+59.95 | +100.0% | New |
+| Bertie's Scorpion Pepper Sauce 750 mL / 25 oz | $0.00 | $86.95 | $+86.95 | +100.0% | New |
+| Blue Waters Premium Natural Carbonated Water 12 Units / 500 mL | $0.00 | $74.95 | $+74.95 | +100.0% | New |
+| Cadbury Deliciously Creamy Milk Chocolate 360 g | $0.00 | $104.95 | $+104.95 | +100.0% | New |
+| Karibbean Flavours Geera Ground Roasted 475 g | $0.00 | $49.95 | $+49.95 | +100.0% | New |
+| Frozen Sliced Turkey Drumsticks | $196.03 | $146.25 | $-49.78 | -25.4% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $137.17 | $126.97 | $-10.20 | -7.4% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.78 | $102.02 | $-12.76 | -11.1% | Decrease |
+| Frozen Beef Feet  | $112.24 | $111.42 | $-0.82 | -0.7% | Decrease |
+| Barista Classic Blend Cappuccino Powder 2 Units / 320 g | $74.95 | $76.95 | $+2.00 | +2.7% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $200.03 | $199.74 | $-0.29 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,9 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Nescafé Original Instant Iced Coffee 16 Units / 15 g | Nescafé | $42.70 | 2026-09-09 |
+| Sea Best Raw Lobster Cake 762 g / 1.68 lb | Sea Best | $64.70 | 2026-09-09 |
+| Natural Delights Medjool Dates 907 g / 2 lb | Natural Delights | $128.95 | 2026-09-09 |
 | Fresh Apple Cosmic Crisp 1.36 kg / 3 lb |  | $67.95 | 2026-09-08 |
 | Nescafé Gold Instant Coffee 200 g + Vanilla-Flavored Cream 425.2 g | Nescafé | $119.95 | 2026-09-07 |
 | Byrne Dairy Half & Half Cream Milk 946 mL / 32 oz | Byrne Dairy | $44.95 | 2026-09-06 |
@@ -107,9 +110,15 @@
 | Member's Selection Frozen Skin On Boneless Trout Fillet Vacuum Packaged Bag | Member's Selection | $210.84 | 2026-09-05 |
 | Pam Original Oil Spray 2 Units /  400 g / 14 oz | PAM | $109.95 | 2026-09-03 |
 | Crispy Just Baked Mini Naan Bread Bites Baked and Crunchy Snack Style | Crispy Just Baked | $44.95 | 2026-09-03 |
-| Ocean Delight Caribbean Spiny Lobster Tails 2 Units / 198 g / 7 oz | Ocean Delight | $245.95 | 2026-09-02 |
-| Ginger 680 g / 1.5 lb |  | $24.95 | 2026-09-02 |
-| Coffee Toppers Salted Caramel Whipped Cream 2 Units / 425 g / 15 oz | Coffee Toppers | $29.70 | 2026-09-02 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Karibbean Flavours Amchar Massala Spice Blend 550 g | Karibbean Flavours | $50.95 | G10D03 |
+| Swiss Grill & Chill Grilling Sauce Units 4 Units | Swiss | $52.95 | G10D03 |
+| Holiday Nova Rolls Chili and Lemon Flavor Tortilla Chips 10 Units / 45 g | Holiday | $59.95 | G10D03 |
+| Bertie's Scorpion Pepper Sauce 750 mL / 25 oz | Bertie's | $86.95 | G10D03 |
+| Blue Waters Premium Natural Carbonated Water 12 Units / 500 mL | Blue Waters | $74.95 | G10D03 |
+| Cadbury Deliciously Creamy Milk Chocolate 360 g | Cadbury | $104.95 | G10D03 |
+| Karibbean Flavours Geera Ground Roasted 475 g | Karibbean Flavours | $49.95 | G10D03 |
