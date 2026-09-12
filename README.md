@@ -185,14 +185,14 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1132
-- **Total value**: $125,410.01
-- **Average price**: $110.79
+- **Total value**: $125,237.04
+- **Average price**: $110.63
 
 ## Database Changes
 - **New products added**: 0
 - **Existing products updated**: 1132
-- **Price changes detected**: 30
-- **Stock/availability changes**: 16
+- **Price changes detected**: 16
+- **Stock/availability changes**: 27
 - **Discontinued products**: 0
 
 ## Top 5 Brands
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1038
-- **Price increases**: 541
-- **Price decreases**: 454
-- **Average increase**: 8.1%
-- **Average decrease**: -5.6%
+- **Total price changes**: 1006
+- **Price increases**: 524
+- **Price decreases**: 440
+- **Average increase**: 8.2%
+- **Average decrease**: -5.7%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $240.46 | $240.75 | $+0.29 | +0.1% | Increase |
-| Frozen Sliced Turkey Drumsticks | $146.25 | $145.85 | $-0.40 | -0.3% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $126.97 | $127.28 | $+0.31 | +0.2% | Increase |
-| Frozen Beef Feet  | $111.42 | $111.08 | $-0.34 | -0.3% | Decrease |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $86.70 | $84.15 | $-2.55 | -2.9% | Decrease |
-| Papaya | $37.45 | $37.42 | $-0.03 | -0.1% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $71.69 | $71.59 | $-0.10 | -0.1% | Decrease |
-| Frozen Bone-In Pork Spare Rib Case | $1487.36 | $1441.56 | $-45.80 | -3.1% | Decrease |
-| Swiss Twists 6 Units / 300 g | $28.95 | $29.95 | $+1.00 | +3.5% | Increase |
-| Swiss Elbows 6 Units / 300 g / 10.6 oz | $28.95 | $29.95 | $+1.00 | +3.5% | Increase |
-| Fresh Ground Chicken Tray | $103.66 | $103.79 | $+0.13 | +0.1% | Increase |
-| Fresh Whole Chicken for Frying Bag | $278.59 | $278.43 | $-0.16 | -0.1% | Decrease |
-| Fresh Ground Chicken Meat Bag | $296.75 | $296.39 | $-0.36 | -0.1% | Decrease |
-| Fresh Chicken Thighs Boneless Bag | $344.95 | $343.15 | $-1.80 | -0.5% | Decrease |
-| Member's Selection Frozen US Ground Beef Patties 80/20 Tray Pack | $136.53 | $136.93 | $+0.40 | +0.3% | Increase |
+| Watermelon 1 kg / 2.2 lb | $94.62 | $93.50 | $-1.12 | -1.2% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $145.85 | $145.45 | $-0.40 | -0.3% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $127.28 | $127.43 | $+0.15 | +0.1% | Increase |
+| Frozen Beef Feet  | $111.08 | $110.81 | $-0.27 | -0.2% | Decrease |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $84.15 | $84.28 | $+0.13 | +0.2% | Increase |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $96.99 | $97.13 | $+0.14 | +0.1% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $66.47 | $66.54 | $+0.07 | +0.1% | Increase |
+| Papaya | $37.42 | $37.48 | $+0.06 | +0.2% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $125.03 | $124.85 | $-0.18 | -0.1% | Decrease |
+| Fresh Ground Chicken Meat Bag | $296.39 | $295.67 | $-0.72 | -0.2% | Decrease |
+| Member's Selection Frozen Boneless Pork Loin Roast Tray | $107.28 | $107.06 | $-0.22 | -0.2% | Decrease |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $78.35 | $78.22 | $-0.13 | -0.2% | Decrease |
+| Fresh Chicken Thighs Boneless Tray | $88.59 | $88.46 | $-0.13 | -0.1% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $92.78 | $92.87 | $+0.09 | +0.1% | Increase |
+| Member's Selection Frozen Bone-In Lamb Shoulder Round Tray | $130.08 | $129.89 | $-0.19 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -277,7 +277,7 @@ This project has recently gained unexpected attention. It was created for person
 | Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $89.95 | $19.70 | -78.1% |
 | Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $57.95 | $14.70 | -74.6% |
 | Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $57.95 | $14.70 | -74.6% |
-| Bombolo Biscotti Decorated Cookies with Autumn Patterns 18 Units | $52.70 | $13.77 | -73.9% |
+| Cultured Cravings Coconut Yogurt 12 Units / 150 g / 5.3 oz | $229.95 | $59.70 | -74.0% |
 
 ## Recently Discontinued Products
 
