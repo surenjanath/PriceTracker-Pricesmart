@@ -184,22 +184,22 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1132
-- **Total value**: $125,237.04
-- **Average price**: $110.63
+- **Total products scraped**: 1131
+- **Total value**: $124,913.67
+- **Average price**: $110.45
 
 ## Database Changes
 - **New products added**: 0
-- **Existing products updated**: 1132
-- **Price changes detected**: 16
-- **Stock/availability changes**: 27
-- **Discontinued products**: 0
+- **Existing products updated**: 1131
+- **Price changes detected**: 18
+- **Stock/availability changes**: 19
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 174 |
+| Member's Selection | 173 |
 |  | 134 |
 | Badia | 16 |
 | Swiss | 15 |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1006
-- **Price increases**: 524
-- **Price decreases**: 440
-- **Average increase**: 8.2%
-- **Average decrease**: -5.7%
+- **Total price changes**: 997
+- **Price increases**: 526
+- **Price decreases**: 430
+- **Average increase**: 8.0%
+- **Average decrease**: -5.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Watermelon 1 kg / 2.2 lb | $94.62 | $93.50 | $-1.12 | -1.2% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $145.85 | $145.45 | $-0.40 | -0.3% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $127.28 | $127.43 | $+0.15 | +0.1% | Increase |
-| Frozen Beef Feet  | $111.08 | $110.81 | $-0.27 | -0.2% | Decrease |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $84.15 | $84.28 | $+0.13 | +0.2% | Increase |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $96.99 | $97.13 | $+0.14 | +0.1% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $66.47 | $66.54 | $+0.07 | +0.1% | Increase |
-| Papaya | $37.42 | $37.48 | $+0.06 | +0.2% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $125.03 | $124.85 | $-0.18 | -0.1% | Decrease |
-| Fresh Ground Chicken Meat Bag | $296.39 | $295.67 | $-0.72 | -0.2% | Decrease |
-| Member's Selection Frozen Boneless Pork Loin Roast Tray | $107.28 | $107.06 | $-0.22 | -0.2% | Decrease |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $78.35 | $78.22 | $-0.13 | -0.2% | Decrease |
-| Fresh Chicken Thighs Boneless Tray | $88.59 | $88.46 | $-0.13 | -0.1% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $92.78 | $92.87 | $+0.09 | +0.1% | Increase |
-| Member's Selection Frozen Bone-In Lamb Shoulder Round Tray | $130.08 | $129.89 | $-0.19 | -0.1% | Decrease |
+| Fresh Chicken Thighs Boneless Tray | $88.46 | $88.33 | $-0.13 | -0.1% | Decrease |
+| Fresh Chicken Breast Boneless Skinless Tray | $119.81 | $119.63 | $-0.18 | -0.2% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $240.75 | $241.03 | $+0.28 | +0.1% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $127.43 | $127.74 | $+0.31 | +0.2% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $199.74 | $199.16 | $-0.58 | -0.3% | Decrease |
+| Papaya | $37.48 | $37.51 | $+0.03 | +0.1% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $124.85 | $125.03 | $+0.18 | +0.1% | Increase |
+| Fresh Whole Chicken for Frying Bag | $278.43 | $279.91 | $+1.48 | +0.5% | Increase |
+| Fresh Ground Chicken Meat Bag | $295.67 | $295.55 | $-0.12 | -0.0% | Decrease |
+| Member's Selection Frozen US Ground Beef Patties 80/20 Tray Pack | $136.93 | $137.33 | $+0.40 | +0.3% | Increase |
+| Fresh Beef Striploin Steak Tray | $205.88 | $205.29 | $-0.59 | -0.3% | Decrease |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $78.22 | $78.35 | $+0.13 | +0.2% | Increase |
+| Member's Selection Frozen Oxtail Bag | $192.49 | $192.20 | $-0.29 | -0.2% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Shoulder Round Tray | $129.89 | $130.08 | $+0.19 | +0.1% | Increase |
+| Member's Selection Ready-to-Eat Barbecue Flavored Chicken Wings | $86.19 | $87.01 | $+0.82 | +1.0% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Member's Selection Frozen Skinless Boneless Salmon Fillets Vacuum Packaged | Member's Selection | $324.89 | 2026-09-12 |
 | Nescafé Original Instant Iced Coffee 16 Units / 15 g | Nescafé | $42.70 | 2026-09-09 |
 | Sea Best Raw Lobster Cake 762 g / 1.68 lb | Sea Best | $64.70 | 2026-09-09 |
 | Natural Delights Medjool Dates 907 g / 2 lb | Natural Delights | $128.95 | 2026-09-09 |
@@ -292,7 +293,6 @@ This project has recently gained unexpected attention. It was created for person
 | Cole Cold Assorted Sodas 6 Units / 2 L | Cole Cold | $45.95 | 2026-09-06 |
 | Member's Selection Frozen Skin On Boneless Trout Fillet Vacuum Packaged Bag | Member's Selection | $210.84 | 2026-09-05 |
 | Pam Original Oil Spray 2 Units /  400 g / 14 oz | PAM | $109.95 | 2026-09-03 |
-| Crispy Just Baked Mini Naan Bread Bites Baked and Crunchy Snack Style | Crispy Just Baked | $44.95 | 2026-09-03 |
 
 ## New Products Added Today
 No new products added today.
