@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1131
-- **Total value**: $124,913.67
-- **Average price**: $110.45
+- **Total products scraped**: 1134
+- **Total value**: $125,380.93
+- **Average price**: $110.57
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1131
-- **Price changes detected**: 18
-- **Stock/availability changes**: 19
-- **Discontinued products**: 1
+- **New products added**: 2
+- **Existing products updated**: 1132
+- **Price changes detected**: 33
+- **Stock/availability changes**: 18
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 997
-- **Price increases**: 526
-- **Price decreases**: 430
-- **Average increase**: 8.0%
-- **Average decrease**: -5.1%
+- **Total price changes**: 1007
+- **Price increases**: 535
+- **Price decreases**: 432
+- **Average increase**: 7.8%
+- **Average decrease**: -5.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Chicken Thighs Boneless Tray | $88.46 | $88.33 | $-0.13 | -0.1% | Decrease |
-| Fresh Chicken Breast Boneless Skinless Tray | $119.81 | $119.63 | $-0.18 | -0.2% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $240.75 | $241.03 | $+0.28 | +0.1% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $127.43 | $127.74 | $+0.31 | +0.2% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $199.74 | $199.16 | $-0.58 | -0.3% | Decrease |
-| Papaya | $37.48 | $37.51 | $+0.03 | +0.1% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $124.85 | $125.03 | $+0.18 | +0.1% | Increase |
-| Fresh Whole Chicken for Frying Bag | $278.43 | $279.91 | $+1.48 | +0.5% | Increase |
-| Fresh Ground Chicken Meat Bag | $295.67 | $295.55 | $-0.12 | -0.0% | Decrease |
-| Member's Selection Frozen US Ground Beef Patties 80/20 Tray Pack | $136.93 | $137.33 | $+0.40 | +0.3% | Increase |
-| Fresh Beef Striploin Steak Tray | $205.88 | $205.29 | $-0.59 | -0.3% | Decrease |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $78.22 | $78.35 | $+0.13 | +0.2% | Increase |
-| Member's Selection Frozen Oxtail Bag | $192.49 | $192.20 | $-0.29 | -0.2% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Shoulder Round Tray | $129.89 | $130.08 | $+0.19 | +0.1% | Increase |
-| Member's Selection Ready-to-Eat Barbecue Flavored Chicken Wings | $86.19 | $87.01 | $+0.82 | +1.0% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $93.05 | $93.09 | $+0.04 | +0.0% | Increase |
+| Fresh Whole Chicken for Frying Bag | $279.91 | $280.40 | $+0.49 | +0.2% | Increase |
+| Fresh Chicken Breast Bone In Tray | $92.87 | $92.96 | $+0.09 | +0.1% | Increase |
+| Fresh Chicken Mixed Parts Tray | $80.32 | $80.02 | $-0.30 | -0.4% | Decrease |
+|  MorningStar Farms Vegan Chicken-Style Nuggets 298 g / 10.5 oz | $0.00 | $119.95 | $+119.95 | +100.0% | New |
+| Virginia Brand Raspberry Vinaigrette 1 L / 33.8 oz | $49.95 | $54.95 | $+5.00 | +10.0% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $127.74 | $127.89 | $+0.15 | +0.1% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $102.02 | $102.34 | $+0.32 | +0.3% | Increase |
+| New Zealand Cheddar Cheese Box 20 Kg / 44 lb | $1329.95 | $1199.95 | $-130.00 | -9.8% | Decrease |
+| Papaya | $37.51 | $37.67 | $+0.16 | +0.4% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $71.59 | $71.90 | $+0.31 | +0.4% | Increase |
+| Swiss Twists 6 Units / 300 g | $29.95 | $31.95 | $+2.00 | +6.7% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $125.03 | $124.85 | $-0.18 | -0.1% | Decrease |
+| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $66.74 | $66.34 | $-0.40 | -0.6% | Decrease |
+| Swiss Elbows 6 Units / 300 g / 10.6 oz | $29.95 | $31.95 | $+2.00 | +6.7% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,8 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Three Little Pigs Pate Combo Pack 307 g / 14 oz | Three Little Pigs | $39.70 | 2026-09-13 |
+| Crix Crispy Salted Crackers 4 Units / 300 g | Crix | $55.95 | 2026-09-13 |
 | Member's Selection Frozen Skinless Boneless Salmon Fillets Vacuum Packaged | Member's Selection | $324.89 | 2026-09-12 |
 | Nescafé Original Instant Iced Coffee 16 Units / 15 g | Nescafé | $42.70 | 2026-09-09 |
 | Sea Best Raw Lobster Cake 762 g / 1.68 lb | Sea Best | $64.70 | 2026-09-09 |
@@ -108,8 +110,10 @@
 | Nescafé Gold Instant Coffee 200 g + Vanilla-Flavored Cream 425.2 g | Nescafé | $119.95 | 2026-09-07 |
 | Byrne Dairy Half & Half Cream Milk 946 mL / 32 oz | Byrne Dairy | $44.95 | 2026-09-06 |
 | Cole Cold Assorted Sodas 6 Units / 2 L | Cole Cold | $45.95 | 2026-09-06 |
-| Member's Selection Frozen Skin On Boneless Trout Fillet Vacuum Packaged Bag | Member's Selection | $210.84 | 2026-09-05 |
-| Pam Original Oil Spray 2 Units /  400 g / 14 oz | PAM | $109.95 | 2026-09-03 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+|  MorningStar Farms Vegan Chicken-Style Nuggets 298 g / 10.5 oz | MorningStar Farms | $119.95 | G10D03 |
+| Gelatys Artisanal Dark Belgian Chocolate Bonbon Gelato 16 Units / 18 g / 0.63 oz | Gelatys Artisanal Gelato | $134.95 | G10D03 |
