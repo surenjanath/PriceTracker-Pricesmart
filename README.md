@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1134
-- **Total value**: $125,380.93
-- **Average price**: $110.57
+- **Total products scraped**: 1138
+- **Total value**: $125,882.45
+- **Average price**: $110.62
 
 ## Database Changes
 - **New products added**: 2
-- **Existing products updated**: 1132
-- **Price changes detected**: 33
-- **Stock/availability changes**: 18
-- **Discontinued products**: 2
+- **Existing products updated**: 1136
+- **Price changes detected**: 26
+- **Stock/availability changes**: 19
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 173 |
-|  | 134 |
+| Member's Selection | 175 |
+|  | 135 |
 | Badia | 16 |
 | Swiss | 15 |
 | Kirkland Signature | 12 |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1007
-- **Price increases**: 535
-- **Price decreases**: 432
-- **Average increase**: 7.8%
-- **Average decrease**: -5.0%
+- **Total price changes**: 1016
+- **Price increases**: 544
+- **Price decreases**: 433
+- **Average increase**: 7.9%
+- **Average decrease**: -5.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fine Choice Fresh Marinated Chicken Tray | $93.05 | $93.09 | $+0.04 | +0.0% | Increase |
-| Fresh Whole Chicken for Frying Bag | $279.91 | $280.40 | $+0.49 | +0.2% | Increase |
-| Fresh Chicken Breast Bone In Tray | $92.87 | $92.96 | $+0.09 | +0.1% | Increase |
-| Fresh Chicken Mixed Parts Tray | $80.32 | $80.02 | $-0.30 | -0.4% | Decrease |
-|  MorningStar Farms Vegan Chicken-Style Nuggets 298 g / 10.5 oz | $0.00 | $119.95 | $+119.95 | +100.0% | New |
-| Virginia Brand Raspberry Vinaigrette 1 L / 33.8 oz | $49.95 | $54.95 | $+5.00 | +10.0% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $127.74 | $127.89 | $+0.15 | +0.1% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $102.02 | $102.34 | $+0.32 | +0.3% | Increase |
-| New Zealand Cheddar Cheese Box 20 Kg / 44 lb | $1329.95 | $1199.95 | $-130.00 | -9.8% | Decrease |
-| Papaya | $37.51 | $37.67 | $+0.16 | +0.4% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $71.59 | $71.90 | $+0.31 | +0.4% | Increase |
-| Swiss Twists 6 Units / 300 g | $29.95 | $31.95 | $+2.00 | +6.7% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $125.03 | $124.85 | $-0.18 | -0.1% | Decrease |
-| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $66.74 | $66.34 | $-0.40 | -0.6% | Decrease |
-| Swiss Elbows 6 Units / 300 g / 10.6 oz | $29.95 | $31.95 | $+2.00 | +6.7% | Increase |
+| Blueberries 508 g / 1.12 lb | $69.95 | $79.95 | $+10.00 | +14.3% | Increase |
+| Frozen Sliced Baby Back Ribs | $0.00 | $121.97 | $+121.97 | +100.0% | New |
+| Member’s Selection Pesto Chicken Ciabatta Sandwich 4 Units Ready to Eat | $0.00 | $90.95 | $+90.95 | +100.0% | New |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $127.89 | $128.51 | $+0.62 | +0.5% | Increase |
+| Frozen Beef Feet  | $110.81 | $110.74 | $-0.07 | -0.1% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Case | $1664.38 | $1653.66 | $-10.72 | -0.6% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $71.90 | $72.11 | $+0.21 | +0.3% | Increase |
+| Fresh Chicken Leg Quarters Tray | $94.81 | $94.71 | $-0.10 | -0.1% | Decrease |
+| Fresh Ground Chicken Meat Bag | $300.83 | $299.87 | $-0.96 | -0.3% | Decrease |
+| Mini Sweet Peppers 454 g / 1 lb | $52.95 | $47.95 | $-5.00 | -9.4% | Decrease |
+| Fresh Chicken Thighs Boneless Bag | $344.95 | $343.15 | $-1.80 | -0.5% | Decrease |
+| Frozen Boneless Skinless Chicken Breast Tray | $207.32 | $208.27 | $+0.95 | +0.5% | Increase |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $78.22 | $78.35 | $+0.13 | +0.2% | Increase |
+| Iceberg Lettuce Unit | $22.95 | $26.95 | $+4.00 | +17.4% | Increase |
+| Member's Selection Frozen Oxtail Bag | $191.91 | $191.33 | $-0.58 | -0.3% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -298,5 +298,5 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-|  MorningStar Farms Vegan Chicken-Style Nuggets 298 g / 10.5 oz | MorningStar Farms | $119.95 | G10D03 |
-| Gelatys Artisanal Dark Belgian Chocolate Bonbon Gelato 16 Units / 18 g / 0.63 oz | Gelatys Artisanal Gelato | $134.95 | G10D03 |
+| Frozen Sliced Baby Back Ribs |  | $121.97 | G10D03 |
+| Member’s Selection Pesto Chicken Ciabatta Sandwich 4 Units Ready to Eat | Member's Selection | $90.95 | G10D03 |
