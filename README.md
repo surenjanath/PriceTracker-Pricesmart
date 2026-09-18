@@ -184,22 +184,22 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1144
-- **Total value**: $126,440.15
-- **Average price**: $110.52
+- **Total products scraped**: 1145
+- **Total value**: $126,319.98
+- **Average price**: $110.32
 
 ## Database Changes
 - **New products added**: 2
-- **Existing products updated**: 1142
-- **Price changes detected**: 63
-- **Stock/availability changes**: 19
-- **Discontinued products**: 4
+- **Existing products updated**: 1143
+- **Price changes detected**: 47
+- **Stock/availability changes**: 15
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 175 |
+| Member's Selection | 176 |
 |  | 141 |
 | Badia | 15 |
 | Swiss | 15 |
@@ -217,37 +217,37 @@ This project has recently gained unexpected attention. It was created for person
 | Garofalo Fusilli & Farfalle Pasta Variety Pack 4 Units / 500 g / 1.1 lb | Garofalo | $97.95 | true |
 | Bella Contadina Garlic with Green Pesto 330 g / 11.7 oz | Bella Contadina | $72.95 | true |
 | Fruta Assorted Flavor Juice Boxes 24 Units / 200 mL / 6.8 oz | Fruta | $69.95 | true |
-| Florida's Natural Peach and Mango Juice 2 Units / 1.75 L / 59 oz  | Florida's Natural | $117.95 | true |
+| Smithfield Smoked and Caramelized Pork Shoulder Cubes 453 g / 1 lb | Smithfield | $177.95 | true |
 | POM Pomegranate Juice 1.4 L / 48 oz | POM | $107.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1061
-- **Price increases**: 583
-- **Price decreases**: 437
-- **Average increase**: 7.6%
+- **Total price changes**: 1088
+- **Price increases**: 594
+- **Price decreases**: 452
+- **Average increase**: 7.7%
 - **Average decrease**: -5.2%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Galbani Mozzarella Cheese Block 2.26 kg / 5 lb | $122.95 | $124.95 | $+2.00 | +1.6% | Increase |
-| International Delight Pumpkin Pie Spice Coffee Creamer 1.4 L / 48 oz | $39.70 | $64.95 | $+25.25 | +63.6% | Increase |
-| Campbell's Cream of Mushroom 4 Units / 298 g / 10.5 oz | $49.95 | $62.95 | $+13.00 | +26.0% | Increase |
-| Dutch Potatoes 22.6 kg / 50 lb | $0.00 | $109.95 | $+109.95 | +100.0% | New |
-| Currants 1 kg / 2.2 lb | $59.95 | $64.95 | $+5.00 | +8.3% | Increase |
-| Black Raisins 1 kg / 2.2 lb | $49.95 | $54.95 | $+5.00 | +10.0% | Increase |
-| Golden Raisins 1 kg / 2.2 lb | $44.95 | $59.95 | $+15.00 | +33.4% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $128.97 | $129.58 | $+0.61 | +0.5% | Increase |
-| Califia Farms Unsweetened Almond Drink 1.4 L / 48 oz | $0.00 | $69.95 | $+69.95 | +100.0% | New |
-| Campoverde Spinach, Mango, Apple and Pineapple Mix 907 g / 2 lb | $112.95 | $114.95 | $+2.00 | +1.8% | Increase |
-| Member's Selection Frozen Sliced Turkey Wings, Bag | $169.54 | $161.05 | $-8.49 | -5.0% | Decrease |
-| Frozen Beef Feet  | $110.74 | $109.79 | $-0.95 | -0.9% | Decrease |
-| Maggi Chicken Bouillon Flavor Cubes Seasoning 128 Units / 11.5 g / 0.4 oz | $99.95 | $134.95 | $+35.00 | +35.0% | Increase |
-| Fine Choice Fresh Marinated Chicken Tray | $93.09 | $93.05 | $-0.04 | -0.0% | Decrease |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $449.07 | $436.33 | $-12.74 | -2.8% | Decrease |
+| Melissa's Black Mission Figs 227 g / 8. oz | $42.95 | $64.95 | $+22.00 | +51.2% | Increase |
+| Mini Sweet Peppers 454 g / 1 lb | $47.95 | $54.95 | $+7.00 | +14.6% | Increase |
+| Nectarine 908 g / 2 lb | $77.95 | $79.95 | $+2.00 | +2.6% | Increase |
+| Peach 908 g / 2 lb | $62.95 | $67.95 | $+5.00 | +7.9% | Increase |
+| Cauliflower 1 Unit | $37.95 | $59.95 | $+22.00 | +58.0% | Increase |
+| Golden Kiwi 1 lb / 453 g | $77.95 | $79.95 | $+2.00 | +2.6% | Increase |
+| Romaine Lettuce Hearts 3 Units | $39.95 | $42.95 | $+3.00 | +7.5% | Increase |
+| Plum 907 g / 2 lb | $67.95 | $69.95 | $+2.00 | +2.9% | Increase |
+| Blueberries 508 g / 1.12 lb | $79.95 | $89.95 | $+10.00 | +12.5% | Increase |
+| Frozen Bone-In Goat Carcass Case | $1372.42 | $1246.51 | $-125.91 | -9.2% | Decrease |
+| Member's Selection Low-Moisture Part-Skim Shredded Mozzarella Cheese 2.2 kg / 5 lb | $0.00 | $119.95 | $+119.95 | +100.0% | New |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $241.03 | $240.75 | $-0.28 | -0.1% | Decrease |
+| Ocean Spray Sparkling Cranberry Juice Canned Soda 4 Units / 340 mL / 11.5 oz | $0.00 | $49.95 | $+49.95 | +100.0% | New |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $129.58 | $129.74 | $+0.16 | +0.1% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $199.16 | $198.87 | $-0.29 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,8 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $129.95 | 2026-09-17 |
+| Sincerely Brgitte Cheese with Truffle 453 g / 1.1 lb | Sincerely  Brigitte | $79.95 | 2026-09-17 |
 | Garcia Chicken & Pork Smoked Sausage 680 g / 1.5 lb | Garcia | $44.95 | 2026-09-16 |
 | Badia All Purpose Marinade Seasoning 591 mL / 20 oz  | Badia | $12.70 | 2026-09-16 |
 | Brunswick Canned Mackerel in Oil 3 Units / 225 g / 7.9 oz | Brunswick | $34.95 | 2026-09-16 |
@@ -291,12 +293,10 @@ This project has recently gained unexpected attention. It was created for person
 | Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2026-09-15 |
 | YoguRico Strawberry Low Fat Drinkable Yogurt  1.68 L / 57 oz | YoguRico | $54.95 | 2026-09-15 |
 | Ocean Spray Cranberry Juice 2 Units / 2.83 L / 96 oz  | Ocean Spray | $79.70 | 2026-09-15 |
-| Three Little Pigs Pate Combo Pack 307 g / 14 oz | Three Little Pigs | $39.70 | 2026-09-13 |
-| Crix Crispy Salted Crackers 4 Units / 300 g | Crix | $55.95 | 2026-09-13 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Dutch Potatoes 22.6 kg / 50 lb |  | $109.95 | G10D03 |
-| Califia Farms Unsweetened Almond Drink 1.4 L / 48 oz | Califia Farms | $69.95 | G10D03 |
+| Member's Selection Low-Moisture Part-Skim Shredded Mozzarella Cheese 2.2 kg / 5 lb | Member's Selection | $119.95 | G10D03 |
+| Ocean Spray Sparkling Cranberry Juice Canned Soda 4 Units / 340 mL / 11.5 oz | Ocean Spray | $49.95 | G10D03 |
