@@ -2,15 +2,15 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1145
-- **Total value**: $126,319.98
-- **Average price**: $110.32
+- **Total value**: $126,388.35
+- **Average price**: $110.38
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1143
-- **Price changes detected**: 47
-- **Stock/availability changes**: 15
-- **Discontinued products**: 2
+- **New products added**: 0
+- **Existing products updated**: 1145
+- **Price changes detected**: 27
+- **Stock/availability changes**: 28
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -35,36 +35,36 @@
 | Bella Contadina Garlic with Green Pesto 330 g / 11.7 oz | Bella Contadina | $72.95 | true |
 | Fruta Assorted Flavor Juice Boxes 24 Units / 200 mL / 6.8 oz | Fruta | $69.95 | true |
 | Smithfield Smoked and Caramelized Pork Shoulder Cubes 453 g / 1 lb | Smithfield | $177.95 | true |
-| POM Pomegranate Juice 1.4 L / 48 oz | POM | $107.95 | true |
+| Florida's Natural Peach and Mango Juice 2 Units / 1.75 L / 59 oz  | Florida's Natural | $117.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1088
-- **Price increases**: 594
-- **Price decreases**: 452
-- **Average increase**: 7.7%
-- **Average decrease**: -5.2%
+- **Total price changes**: 1079
+- **Price increases**: 589
+- **Price decreases**: 448
+- **Average increase**: 7.6%
+- **Average decrease**: -5.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Melissa's Black Mission Figs 227 g / 8. oz | $42.95 | $64.95 | $+22.00 | +51.2% | Increase |
-| Mini Sweet Peppers 454 g / 1 lb | $47.95 | $54.95 | $+7.00 | +14.6% | Increase |
-| Nectarine 908 g / 2 lb | $77.95 | $79.95 | $+2.00 | +2.6% | Increase |
-| Peach 908 g / 2 lb | $62.95 | $67.95 | $+5.00 | +7.9% | Increase |
-| Cauliflower 1 Unit | $37.95 | $59.95 | $+22.00 | +58.0% | Increase |
-| Golden Kiwi 1 lb / 453 g | $77.95 | $79.95 | $+2.00 | +2.6% | Increase |
-| Romaine Lettuce Hearts 3 Units | $39.95 | $42.95 | $+3.00 | +7.5% | Increase |
-| Plum 907 g / 2 lb | $67.95 | $69.95 | $+2.00 | +2.9% | Increase |
-| Blueberries 508 g / 1.12 lb | $79.95 | $89.95 | $+10.00 | +12.5% | Increase |
-| Frozen Bone-In Goat Carcass Case | $1372.42 | $1246.51 | $-125.91 | -9.2% | Decrease |
-| Member's Selection Low-Moisture Part-Skim Shredded Mozzarella Cheese 2.2 kg / 5 lb | $0.00 | $119.95 | $+119.95 | +100.0% | New |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $241.03 | $240.75 | $-0.28 | -0.1% | Decrease |
-| Ocean Spray Sparkling Cranberry Juice Canned Soda 4 Units / 340 mL / 11.5 oz | $0.00 | $49.95 | $+49.95 | +100.0% | New |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $129.58 | $129.74 | $+0.16 | +0.1% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $199.16 | $198.87 | $-0.29 | -0.1% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $240.75 | $241.03 | $+0.28 | +0.1% | Increase |
+| Ocean Delight Mahi Mahi  680 g / 1.5 lb | $124.95 | $134.95 | $+10.00 | +8.0% | Increase |
+| Ocean Delight Whole Snapper 6 Units | $76.95 | $92.95 | $+16.00 | +20.8% | Increase |
+| Ocean Delight Frozen Swai Fillet Skinless Bag 907 g / 2 lb | $53.95 | $56.95 | $+3.00 | +5.6% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $102.18 | $102.34 | $+0.16 | +0.2% | Increase |
+| Papaya | $37.87 | $38.02 | $+0.15 | +0.4% | Increase |
+| Fresh Ground Chicken Meat Bag | $299.87 | $299.63 | $-0.24 | -0.1% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $97.13 | $97.28 | $+0.15 | +0.2% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $72.21 | $72.11 | $-0.10 | -0.1% | Decrease |
+| Gouda Cheese Block | $89.15 | $89.29 | $+0.14 | +0.2% | Increase |
+| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $78.22 | $78.35 | $+0.13 | +0.2% | Increase |
+| Nutrina Chilled Whole Chicken Bag | $349.69 | $349.18 | $-0.51 | -0.1% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $92.87 | $92.78 | $-0.09 | -0.1% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Stew Tray | $93.39 | $93.24 | $-0.15 | -0.2% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Shoulder Round Tray | $129.70 | $129.51 | $-0.19 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Philadelphia Cream Cheese 2 Units / 453 g / 16 oz | Philadelphia | $79.70 | 2026-09-18 |
 | Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $129.95 | 2026-09-17 |
 | Sincerely Brgitte Cheese with Truffle 453 g / 1.1 lb | Sincerely  Brigitte | $79.95 | 2026-09-17 |
 | Garcia Chicken & Pork Smoked Sausage 680 g / 1.5 lb | Garcia | $44.95 | 2026-09-16 |
@@ -109,11 +110,6 @@
 | Philadelphia Salmon Cream Cheese 2 Units / 212 g / 7.5 oz | Philadelphia | $82.95 | 2026-09-15 |
 | Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2026-09-15 |
 | YoguRico Strawberry Low Fat Drinkable Yogurt  1.68 L / 57 oz | YoguRico | $54.95 | 2026-09-15 |
-| Ocean Spray Cranberry Juice 2 Units / 2.83 L / 96 oz  | Ocean Spray | $79.70 | 2026-09-15 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Member's Selection Low-Moisture Part-Skim Shredded Mozzarella Cheese 2.2 kg / 5 lb | Member's Selection | $119.95 | G10D03 |
-| Ocean Spray Sparkling Cranberry Juice Canned Soda 4 Units / 340 mL / 11.5 oz | Ocean Spray | $49.95 | G10D03 |
+No new products added today.
