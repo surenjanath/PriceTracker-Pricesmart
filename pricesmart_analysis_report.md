@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1145
-- **Total value**: $126,388.35
-- **Average price**: $110.38
+- **Total products scraped**: 1150
+- **Total value**: $126,697.04
+- **Average price**: $110.17
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1145
-- **Price changes detected**: 27
-- **Stock/availability changes**: 28
-- **Discontinued products**: 1
+- **New products added**: 2
+- **Existing products updated**: 1148
+- **Price changes detected**: 25
+- **Stock/availability changes**: 23
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1079
-- **Price increases**: 589
-- **Price decreases**: 448
-- **Average increase**: 7.6%
-- **Average decrease**: -5.0%
+- **Total price changes**: 1057
+- **Price increases**: 576
+- **Price decreases**: 442
+- **Average increase**: 7.8%
+- **Average decrease**: -4.8%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $240.75 | $241.03 | $+0.28 | +0.1% | Increase |
-| Ocean Delight Mahi Mahi  680 g / 1.5 lb | $124.95 | $134.95 | $+10.00 | +8.0% | Increase |
-| Ocean Delight Whole Snapper 6 Units | $76.95 | $92.95 | $+16.00 | +20.8% | Increase |
-| Ocean Delight Frozen Swai Fillet Skinless Bag 907 g / 2 lb | $53.95 | $56.95 | $+3.00 | +5.6% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $102.18 | $102.34 | $+0.16 | +0.2% | Increase |
-| Papaya | $37.87 | $38.02 | $+0.15 | +0.4% | Increase |
-| Fresh Ground Chicken Meat Bag | $299.87 | $299.63 | $-0.24 | -0.1% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $97.13 | $97.28 | $+0.15 | +0.2% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $72.21 | $72.11 | $-0.10 | -0.1% | Decrease |
-| Gouda Cheese Block | $89.15 | $89.29 | $+0.14 | +0.2% | Increase |
-| Frozen Whole Boneless Pork Tenderloin Vacuum Packaged | $78.22 | $78.35 | $+0.13 | +0.2% | Increase |
-| Nutrina Chilled Whole Chicken Bag | $349.69 | $349.18 | $-0.51 | -0.1% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $92.87 | $92.78 | $-0.09 | -0.1% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Stew Tray | $93.39 | $93.24 | $-0.15 | -0.2% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Shoulder Round Tray | $129.70 | $129.51 | $-0.19 | -0.1% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $66.41 | $66.47 | $+0.06 | +0.1% | Increase |
+| Viva Zero Sugar Assorted Flavor Sparkling Water 24 Units / 355 mL | $0.00 | $89.95 | $+89.95 | +100.0% | New |
+| Club Social Cheese Flavor Crackers 3 Units / 216 g | $0.00 | $44.95 | $+44.95 | +100.0% | New |
+| Cook's Mate Cornstarch 700 g | $27.95 | $26.95 | $-1.00 | -3.6% | Decrease |
+| Alessi Biscotti Savoiardi Cookies 400 g / 14 oz | $36.70 | $49.95 | $+13.25 | +36.1% | Increase |
+| Treasured Harvest Mixed Nuts 907 g | $99.95 | $104.95 | $+5.00 | +5.0% | Increase |
+| Frozen Beef Feet  | $109.79 | $109.45 | $-0.34 | -0.3% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $102.34 | $102.18 | $-0.16 | -0.2% | Decrease |
+| Papaya | $38.02 | $38.22 | $+0.20 | +0.5% | Increase |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $97.28 | $97.13 | $-0.15 | -0.2% | Decrease |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $89.97 | $89.83 | $-0.14 | -0.2% | Decrease |
+| Fresh Ground Chicken Tray | $104.18 | $104.05 | $-0.13 | -0.1% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $280.08 | $279.91 | $-0.17 | -0.1% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $72.11 | $72.21 | $+0.10 | +0.1% | Increase |
+| Gouda Cheese Block | $89.29 | $89.42 | $+0.13 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -112,4 +112,8 @@
 | YoguRico Strawberry Low Fat Drinkable Yogurt  1.68 L / 57 oz | YoguRico | $54.95 | 2026-09-15 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Viva Zero Sugar Assorted Flavor Sparkling Water 24 Units / 355 mL | Viva | $89.95 | G10D03 |
+| Club Social Cheese Flavor Crackers 3 Units / 216 g | Club Social | $44.95 | G10D03 |
