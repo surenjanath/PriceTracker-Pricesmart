@@ -184,15 +184,15 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1150
-- **Total value**: $126,697.04
-- **Average price**: $110.17
+- **Total products scraped**: 1154
+- **Total value**: $127,306.76
+- **Average price**: $110.32
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1148
-- **Price changes detected**: 25
-- **Stock/availability changes**: 23
+- **New products added**: 3
+- **Existing products updated**: 1151
+- **Price changes detected**: 46
+- **Stock/availability changes**: 13
 - **Discontinued products**: 0
 
 ## Top 5 Brands
@@ -200,7 +200,7 @@ This project has recently gained unexpected attention. It was created for person
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 176 |
-|  | 141 |
+|  | 143 |
 | Badia | 15 |
 | Swiss | 15 |
 | Kirkland Signature | 12 |
@@ -217,37 +217,37 @@ This project has recently gained unexpected attention. It was created for person
 | Garofalo Fusilli & Farfalle Pasta Variety Pack 4 Units / 500 g / 1.1 lb | Garofalo | $97.95 | true |
 | Bella Contadina Garlic with Green Pesto 330 g / 11.7 oz | Bella Contadina | $72.95 | true |
 | Fruta Assorted Flavor Juice Boxes 24 Units / 200 mL / 6.8 oz | Fruta | $69.95 | true |
-| Smithfield Smoked and Caramelized Pork Shoulder Cubes 453 g / 1 lb | Smithfield | $177.95 | true |
 | Florida's Natural Peach and Mango Juice 2 Units / 1.75 L / 59 oz  | Florida's Natural | $117.95 | true |
+| Smithfield Smoked and Caramelized Pork Shoulder Cubes 453 g / 1 lb | Smithfield | $177.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1057
-- **Price increases**: 576
-- **Price decreases**: 442
-- **Average increase**: 7.8%
+- **Total price changes**: 1084
+- **Price increases**: 591
+- **Price decreases**: 454
+- **Average increase**: 8.1%
 - **Average decrease**: -4.8%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Bone-in Chicken Thighs Tray | $66.41 | $66.47 | $+0.06 | +0.1% | Increase |
-| Viva Zero Sugar Assorted Flavor Sparkling Water 24 Units / 355 mL | $0.00 | $89.95 | $+89.95 | +100.0% | New |
-| Club Social Cheese Flavor Crackers 3 Units / 216 g | $0.00 | $44.95 | $+44.95 | +100.0% | New |
-| Cook's Mate Cornstarch 700 g | $27.95 | $26.95 | $-1.00 | -3.6% | Decrease |
-| Alessi Biscotti Savoiardi Cookies 400 g / 14 oz | $36.70 | $49.95 | $+13.25 | +36.1% | Increase |
-| Treasured Harvest Mixed Nuts 907 g | $99.95 | $104.95 | $+5.00 | +5.0% | Increase |
-| Frozen Beef Feet  | $109.79 | $109.45 | $-0.34 | -0.3% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $102.34 | $102.18 | $-0.16 | -0.2% | Decrease |
-| Papaya | $38.02 | $38.22 | $+0.20 | +0.5% | Increase |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $97.28 | $97.13 | $-0.15 | -0.2% | Decrease |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $89.97 | $89.83 | $-0.14 | -0.2% | Decrease |
-| Fresh Ground Chicken Tray | $104.18 | $104.05 | $-0.13 | -0.1% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $280.08 | $279.91 | $-0.17 | -0.1% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $72.11 | $72.21 | $+0.10 | +0.1% | Increase |
-| Gouda Cheese Block | $89.29 | $89.42 | $+0.13 | +0.1% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $93.51 | $94.20 | $+0.69 | +0.7% | Increase |
+| Fresh Whole Chicken 2 Units | $104.85 | $104.68 | $-0.17 | -0.2% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $92.78 | $92.69 | $-0.09 | -0.1% | Decrease |
+| Fresh Chicken Breast Boneless Skinless Tray | $137.17 | $136.72 | $-0.45 | -0.3% | Decrease |
+| Sweet Craft Dolceria Ube Cheesecake 6 Pack 113.4 g / 4 oz | $0.00 | $187.95 | $+187.95 | +100.0% | New |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $241.03 | $240.75 | $-0.28 | -0.1% | Decrease |
+| Frozen Imported Pork Leg Slices | $70.14 | $87.13 | $+16.99 | +24.2% | Increase |
+| Frozen Sliced Turkey Drumsticks | $145.45 | $145.15 | $-0.30 | -0.2% | Decrease |
+| Frozen Sliced Baby Back Ribs | $121.97 | $153.22 | $+31.25 | +25.6% | Increase |
+| Frozen Beef Feet  | $109.45 | $108.78 | $-0.67 | -0.6% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $198.87 | $198.29 | $-0.58 | -0.3% | Decrease |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $436.33 | $434.83 | $-1.50 | -0.3% | Decrease |
+| Papaya | $38.22 | $38.34 | $+0.12 | +0.3% | Increase |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $89.83 | $89.69 | $-0.14 | -0.2% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $97.13 | $97.28 | $+0.15 | +0.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -298,5 +298,6 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Viva Zero Sugar Assorted Flavor Sparkling Water 24 Units / 355 mL | Viva | $89.95 | G10D03 |
-| Club Social Cheese Flavor Crackers 3 Units / 216 g | Club Social | $44.95 | G10D03 |
+| Sweet Craft Dolceria Ube Cheesecake 6 Pack 113.4 g / 4 oz |  | $187.95 | G10D03 |
+| Busetto Foods Holiday Salami Collection 510 g / 18 oz | Busetto Foods | $139.95 | G10D03 |
+| Sincerely Brigitte Assorted Cheese Set 495 g / 17.5 oz | Sincerely  Brigitte | $124.95 | G10D03 |
