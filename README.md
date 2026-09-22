@@ -184,15 +184,15 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1154
-- **Total value**: $127,306.76
-- **Average price**: $110.32
+- **Total products scraped**: 1156
+- **Total value**: $127,697.20
+- **Average price**: $110.46
 
 ## Database Changes
-- **New products added**: 3
-- **Existing products updated**: 1151
-- **Price changes detected**: 46
-- **Stock/availability changes**: 13
+- **New products added**: 1
+- **Existing products updated**: 1155
+- **Price changes detected**: 36
+- **Stock/availability changes**: 21
 - **Discontinued products**: 0
 
 ## Top 5 Brands
@@ -200,7 +200,7 @@ This project has recently gained unexpected attention. It was created for person
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 176 |
-|  | 143 |
+|  | 144 |
 | Badia | 15 |
 | Swiss | 15 |
 | Kirkland Signature | 12 |
@@ -209,45 +209,45 @@ This project has recently gained unexpected attention. It was created for person
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Riceworks Avocado Chips 453 g / 16 oz | Riceworks | $92.95 | true |
-| Chobani Lactose Free Yogurt Drink with 20 g Protein 12 Units / 283 g / 10 oz | Chobani | $234.95 | true |
-| Bigelow Vanilla Chai Tea 60 Bags / 139 g | Bigelow | $94.95 | true |
-| Member's Selection Freshly Baked Sliced Butter Brioche Bread | Member's Selection | $66.95 | true |
-| Crystal Farms Light String Cheese 24 Units 567 g / 1.25 lb | Crystal Farms | $75.95 | true |
-| Garofalo Fusilli & Farfalle Pasta Variety Pack 4 Units / 500 g / 1.1 lb | Garofalo | $97.95 | true |
-| Bella Contadina Garlic with Green Pesto 330 g / 11.7 oz | Bella Contadina | $72.95 | true |
-| Fruta Assorted Flavor Juice Boxes 24 Units / 200 mL / 6.8 oz | Fruta | $69.95 | true |
-| Florida's Natural Peach and Mango Juice 2 Units / 1.75 L / 59 oz  | Florida's Natural | $117.95 | true |
-| Smithfield Smoked and Caramelized Pork Shoulder Cubes 453 g / 1 lb | Smithfield | $177.95 | true |
+| Sincerely Brigitte Assorted Cheese Set 495 g / 17.5 oz | Sincerely  Brigitte | $124.95 | true |
+| Member's Selection Tuna in Water 6 Units / 136 g / 6 oz | Member's Selection | $65.95 | true |
+| Member's Selection Premium Smoked Turkey Breast 2 Units / 340 g / 12 oz | Member's Selection | $107.95 | true |
+| Member’s Selection All-Natural Greek Nonfat Plain Yogurt 907 g / 2 lb  | Member's Selection | $49.95 | true |
+| Blueberries 508 g / 1.12 lb |  | $89.95 | true |
+| Member's Selection Vanilla Greek Yogurt 907 g / 2 lb  | Member's Selection | $49.95 | true |
+| Member Selection String Cheese 24 Units / 28 g / 0.9 oz | Member's Selection | $62.95 | true |
+| Member's Selection Cold Extracted Extra Virgin Olive Oil 2 L | Member's Selection | $149.95 | true |
+| Member's Selection Organic Virgin Coconut Oil 1.65 L / 56 oz | Member's Selection | $129.95 | true |
+| Member's Selection Sliced Smoked Bacon 2 Units / 680 g / 24 oz | Member's Selection | $157.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1084
-- **Price increases**: 591
-- **Price decreases**: 454
-- **Average increase**: 8.1%
-- **Average decrease**: -4.8%
+- **Total price changes**: 1105
+- **Price increases**: 608
+- **Price decreases**: 458
+- **Average increase**: 7.7%
+- **Average decrease**: -4.9%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Seasoned BBQ Chicken Quarters Bag | $93.51 | $94.20 | $+0.69 | +0.7% | Increase |
-| Fresh Whole Chicken 2 Units | $104.85 | $104.68 | $-0.17 | -0.2% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $92.78 | $92.69 | $-0.09 | -0.1% | Decrease |
-| Fresh Chicken Breast Boneless Skinless Tray | $137.17 | $136.72 | $-0.45 | -0.3% | Decrease |
-| Sweet Craft Dolceria Ube Cheesecake 6 Pack 113.4 g / 4 oz | $0.00 | $187.95 | $+187.95 | +100.0% | New |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $241.03 | $240.75 | $-0.28 | -0.1% | Decrease |
-| Frozen Imported Pork Leg Slices | $70.14 | $87.13 | $+16.99 | +24.2% | Increase |
-| Frozen Sliced Turkey Drumsticks | $145.45 | $145.15 | $-0.30 | -0.2% | Decrease |
-| Frozen Sliced Baby Back Ribs | $121.97 | $153.22 | $+31.25 | +25.6% | Increase |
-| Frozen Beef Feet  | $109.45 | $108.78 | $-0.67 | -0.6% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $198.87 | $198.29 | $-0.58 | -0.3% | Decrease |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $436.33 | $434.83 | $-1.50 | -0.3% | Decrease |
-| Papaya | $38.22 | $38.34 | $+0.12 | +0.3% | Increase |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $89.83 | $89.69 | $-0.14 | -0.2% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $97.13 | $97.28 | $+0.15 | +0.2% | Increase |
+| Life Frozen Sweet Potato Fries 2.26 kg / 5 lb | $0.00 | $69.95 | $+69.95 | +100.0% | New |
+| Frozen Imported Pork Leg Slices | $87.13 | $87.70 | $+0.57 | +0.7% | Increase |
+| Glazed Fruits 908 g / 2 lb | $53.95 | $47.96 | $-5.99 | -11.1% | Decrease |
+| Golden Raisins 1 kg / 2.2 lb | $59.95 | $79.95 | $+20.00 | +33.4% | Increase |
+| Currants 1 kg / 2.2 lb | $64.95 | $69.95 | $+5.00 | +7.7% | Increase |
+| Prunes 1 kg / 2.2 lb | $54.95 | $49.95 | $-5.00 | -9.1% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $129.74 | $144.91 | $+15.17 | +11.7% | Increase |
+| Frozen Beef Feet  | $108.78 | $111.63 | $+2.85 | +2.6% | Increase |
+| Takis Fuego with Hot Chili and Lemon 46 Units / 28 g | $179.70 | $199.70 | $+20.00 | +11.1% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Case | $1539.85 | $1700.85 | $+161.00 | +10.5% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $198.29 | $198.87 | $+0.58 | +0.3% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $102.18 | $112.22 | $+10.04 | +9.8% | Increase |
+| Papaya | $38.34 | $38.44 | $+0.10 | +0.3% | Increase |
+| Cow Brand Ghee 2 kg / 70.5 oz | $259.95 | $262.95 | $+3.00 | +1.2% | Increase |
+| Fresh Ground Chicken Meat Bag | $299.63 | $298.43 | $-1.20 | -0.4% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -298,6 +298,4 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Sweet Craft Dolceria Ube Cheesecake 6 Pack 113.4 g / 4 oz |  | $187.95 | G10D03 |
-| Busetto Foods Holiday Salami Collection 510 g / 18 oz | Busetto Foods | $139.95 | G10D03 |
-| Sincerely Brigitte Assorted Cheese Set 495 g / 17.5 oz | Sincerely  Brigitte | $124.95 | G10D03 |
+| Life Frozen Sweet Potato Fries 2.26 kg / 5 lb | Life | $69.95 | G10D03 |
