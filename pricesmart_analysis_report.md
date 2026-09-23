@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1156
-- **Total value**: $127,697.20
-- **Average price**: $110.46
+- **Total products scraped**: 1158
+- **Total value**: $127,867.76
+- **Average price**: $110.42
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1155
-- **Price changes detected**: 36
-- **Stock/availability changes**: 21
+- **New products added**: 0
+- **Existing products updated**: 1158
+- **Price changes detected**: 17
+- **Stock/availability changes**: 20
 - **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 176 |
-|  | 144 |
+| Member's Selection | 175 |
+|  | 145 |
 | Badia | 15 |
 | Swiss | 15 |
 | Kirkland Signature | 12 |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1105
-- **Price increases**: 608
-- **Price decreases**: 458
-- **Average increase**: 7.7%
-- **Average decrease**: -4.9%
+- **Total price changes**: 1053
+- **Price increases**: 575
+- **Price decreases**: 439
+- **Average increase**: 6.8%
+- **Average decrease**: -4.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Life Frozen Sweet Potato Fries 2.26 kg / 5 lb | $0.00 | $69.95 | $+69.95 | +100.0% | New |
-| Frozen Imported Pork Leg Slices | $87.13 | $87.70 | $+0.57 | +0.7% | Increase |
-| Glazed Fruits 908 g / 2 lb | $53.95 | $47.96 | $-5.99 | -11.1% | Decrease |
-| Golden Raisins 1 kg / 2.2 lb | $59.95 | $79.95 | $+20.00 | +33.4% | Increase |
-| Currants 1 kg / 2.2 lb | $64.95 | $69.95 | $+5.00 | +7.7% | Increase |
-| Prunes 1 kg / 2.2 lb | $54.95 | $49.95 | $-5.00 | -9.1% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $129.74 | $144.91 | $+15.17 | +11.7% | Increase |
-| Frozen Beef Feet  | $108.78 | $111.63 | $+2.85 | +2.6% | Increase |
-| Takis Fuego with Hot Chili and Lemon 46 Units / 28 g | $179.70 | $199.70 | $+20.00 | +11.1% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Case | $1539.85 | $1700.85 | $+161.00 | +10.5% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $198.29 | $198.87 | $+0.58 | +0.3% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $102.18 | $112.22 | $+10.04 | +9.8% | Increase |
-| Papaya | $38.34 | $38.44 | $+0.10 | +0.3% | Increase |
-| Cow Brand Ghee 2 kg / 70.5 oz | $259.95 | $262.95 | $+3.00 | +1.2% | Increase |
-| Fresh Ground Chicken Meat Bag | $299.63 | $298.43 | $-1.20 | -0.4% | Decrease |
+| Nature's Pride Pigeon Peas 1.8 kg / 4 lb | $41.95 | $43.95 | $+2.00 | +4.8% | Increase |
+| Frozen Sliced Baby Back Ribs | $153.22 | $138.07 | $-15.15 | -9.9% | Decrease |
+| Takis Fuego with Hot Chili and Lemon 46 Units / 28 g | $199.70 | $259.70 | $+60.00 | +30.0% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $198.87 | $198.29 | $-0.58 | -0.3% | Decrease |
+| Papaya | $38.44 | $38.76 | $+0.32 | +0.8% | Increase |
+| Nongshim Shin Toomba Hot and Creamy Instant Ramen 4 Units / 137 g | $44.70 | $59.70 | $+15.00 | +33.6% | Increase |
+| Gouda Cheese Block | $89.56 | $89.69 | $+0.13 | +0.1% | Increase |
+| Fresh Ground Chicken Tray | $104.05 | $104.18 | $+0.13 | +0.1% | Increase |
+| Frozen Bone-In Pork Spare Rib Case | $1441.56 | $1418.89 | $-22.67 | -1.6% | Decrease |
+| Frutopia Fruit Juice Drink Assorted Pack 24 Units / 475 mL | $70.95 | $84.95 | $+14.00 | +19.7% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $72.42 | $72.52 | $+0.10 | +0.1% | Increase |
+| Minute Maid Fruit Flavor Drink 24 Units / 355 mL | $64.95 | $52.95 | $-12.00 | -18.5% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $79.22 | $78.72 | $-0.50 | -0.6% | Decrease |
+| Nesquik Chocolate-flavored Corn and Whole Wheat Cereal 1.02 kg / 35.9 oz | $52.95 | $44.95 | $-8.00 | -15.1% | Decrease |
+| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $129.69 | $129.88 | $+0.19 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -112,7 +112,4 @@
 | YoguRico Strawberry Low Fat Drinkable Yogurt  1.68 L / 57 oz | YoguRico | $54.95 | 2026-09-15 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Life Frozen Sweet Potato Fries 2.26 kg / 5 lb | Life | $69.95 | G10D03 |
+No new products added today.
