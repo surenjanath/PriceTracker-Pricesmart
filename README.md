@@ -184,22 +184,22 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1158
-- **Total value**: $127,867.76
-- **Average price**: $110.42
+- **Total products scraped**: 1161
+- **Total value**: $128,986.47
+- **Average price**: $111.10
 
 ## Database Changes
-- **New products added**: 0
+- **New products added**: 3
 - **Existing products updated**: 1158
-- **Price changes detected**: 17
-- **Stock/availability changes**: 20
-- **Discontinued products**: 0
+- **Price changes detected**: 75
+- **Stock/availability changes**: 13
+- **Discontinued products**: 3
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 175 |
+| Member's Selection | 176 |
 |  | 145 |
 | Badia | 15 |
 | Swiss | 15 |
@@ -210,44 +210,44 @@ This project has recently gained unexpected attention. It was created for person
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Sincerely Brigitte Assorted Cheese Set 495 g / 17.5 oz | Sincerely  Brigitte | $124.95 | true |
+| Zalea Gourmet Sliced Peaches in Light Syrup 2 Unidades / 425 g / 15 oz | Zalea Gourmet | $56.95 | true |
 | Member's Selection Tuna in Water 6 Units / 136 g / 6 oz | Member's Selection | $65.95 | true |
 | Member's Selection Premium Smoked Turkey Breast 2 Units / 340 g / 12 oz | Member's Selection | $107.95 | true |
-| Member’s Selection All-Natural Greek Nonfat Plain Yogurt 907 g / 2 lb  | Member's Selection | $49.95 | true |
 | Blueberries 508 g / 1.12 lb |  | $89.95 | true |
-| Member's Selection Vanilla Greek Yogurt 907 g / 2 lb  | Member's Selection | $49.95 | true |
+| Member’s Selection All-Natural Greek Nonfat Plain Yogurt 907 g / 2 lb  | Member's Selection | $51.95 | true |
 | Member Selection String Cheese 24 Units / 28 g / 0.9 oz | Member's Selection | $62.95 | true |
 | Member's Selection Cold Extracted Extra Virgin Olive Oil 2 L | Member's Selection | $149.95 | true |
+| Member's Selection Vanilla Greek Yogurt 907 g / 2 lb  | Member's Selection | $51.95 | true |
 | Member's Selection Organic Virgin Coconut Oil 1.65 L / 56 oz | Member's Selection | $129.95 | true |
-| Member's Selection Sliced Smoked Bacon 2 Units / 680 g / 24 oz | Member's Selection | $157.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1053
-- **Price increases**: 575
-- **Price decreases**: 439
-- **Average increase**: 6.8%
-- **Average decrease**: -4.5%
+- **Total price changes**: 1111
+- **Price increases**: 616
+- **Price decreases**: 454
+- **Average increase**: 6.4%
+- **Average decrease**: -4.4%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Nature's Pride Pigeon Peas 1.8 kg / 4 lb | $41.95 | $43.95 | $+2.00 | +4.8% | Increase |
-| Frozen Sliced Baby Back Ribs | $153.22 | $138.07 | $-15.15 | -9.9% | Decrease |
-| Takis Fuego with Hot Chili and Lemon 46 Units / 28 g | $199.70 | $259.70 | $+60.00 | +30.0% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $198.87 | $198.29 | $-0.58 | -0.3% | Decrease |
-| Papaya | $38.44 | $38.76 | $+0.32 | +0.8% | Increase |
-| Nongshim Shin Toomba Hot and Creamy Instant Ramen 4 Units / 137 g | $44.70 | $59.70 | $+15.00 | +33.6% | Increase |
-| Gouda Cheese Block | $89.56 | $89.69 | $+0.13 | +0.1% | Increase |
-| Fresh Ground Chicken Tray | $104.05 | $104.18 | $+0.13 | +0.1% | Increase |
-| Frozen Bone-In Pork Spare Rib Case | $1441.56 | $1418.89 | $-22.67 | -1.6% | Decrease |
-| Frutopia Fruit Juice Drink Assorted Pack 24 Units / 475 mL | $70.95 | $84.95 | $+14.00 | +19.7% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $72.42 | $72.52 | $+0.10 | +0.1% | Increase |
-| Minute Maid Fruit Flavor Drink 24 Units / 355 mL | $64.95 | $52.95 | $-12.00 | -18.5% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $79.22 | $78.72 | $-0.50 | -0.6% | Decrease |
-| Nesquik Chocolate-flavored Corn and Whole Wheat Cereal 1.02 kg / 35.9 oz | $52.95 | $44.95 | $-8.00 | -15.1% | Decrease |
-| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $129.69 | $129.88 | $+0.19 | +0.1% | Increase |
+| Badia Spice with Lime Pepper Flavor 680.4 g / 24 oz | $78.95 | $59.70 | $-19.25 | -24.4% | Decrease |
+| Miami Beef Beef Patties 40 / 113.5 g / 4 oz | $319.95 | $324.95 | $+5.00 | +1.6% | Increase |
+| Frozen Boneless Skinless Chicken Breast Tray | $210.91 | $216.18 | $+5.27 | +2.5% | Increase |
+| Member's Selection Strawberries 2.26 kg / 5 lb | $144.95 | $147.95 | $+3.00 | +2.1% | Increase |
+| Member's Selection Shredded Mozzarella Cheese 2.26 kg / 5 lb | $119.95 | $122.95 | $+3.00 | +2.5% | Increase |
+| Breakstone's Cottage Cheese 680 g / 1.5 lb | $47.95 | $49.95 | $+2.00 | +4.2% | Increase |
+| Stauffers Snaps Crispy Pumpkin Flavor Cookies with Spices 397 g / 14 oz | $0.00 | $49.95 | $+49.95 | +100.0% | New |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $240.75 | $241.03 | $+0.28 | +0.1% | Increase |
+| Trolli Multi Mix Assorted Gummies 2 Units / 500 g | $0.00 | $119.95 | $+119.95 | +100.0% | New |
+| Frozen Imported Pork Leg Slices | $87.70 | $89.64 | $+1.94 | +2.2% | Increase |
+| Frozen Sliced Baby Back Ribs | $138.07 | $146.22 | $+8.15 | +5.9% | Increase |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $84.28 | $84.15 | $-0.13 | -0.2% | Decrease |
+| Takis Fuego with Hot Chili and Lemon 46 Units / 28 g | $259.70 | $228.70 | $-31.00 | -11.9% | Decrease |
+| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $66.34 | $66.24 | $-0.10 | -0.2% | Decrease |
+| Prairie Farms Whole Milk 1.89 L / 64 oz | $57.95 | $59.95 | $+2.00 | +3.5% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,9 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Best Fruit Sweetened Fruit Snack Seedless Plum with Strawberry Flavor 454 g | Best Fruit | $64.95 | 2026-09-23 |
+| Red Grapes Seedless 907 g / 2 lb |  | $89.95 | 2026-09-23 |
+| Sundays Cherry Coconut Ice cream 3.78 L / 1 gal | Sundays | $59.95 | 2026-09-23 |
 | Philadelphia Cream Cheese 2 Units / 453 g / 16 oz | Philadelphia | $79.70 | 2026-09-18 |
 | Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $129.95 | 2026-09-17 |
 | Sincerely Brgitte Cheese with Truffle 453 g / 1.1 lb | Sincerely  Brigitte | $79.95 | 2026-09-17 |
@@ -290,9 +293,11 @@ This project has recently gained unexpected attention. It was created for person
 | Badia All Purpose Marinade Seasoning 591 mL / 20 oz  | Badia | $12.70 | 2026-09-16 |
 | Brunswick Canned Mackerel in Oil 3 Units / 225 g / 7.9 oz | Brunswick | $34.95 | 2026-09-16 |
 | Bombolo Biscotti Mini Tartlets Filled with Sweet Wild Berry and Vanilla Flavor | Bombolo Biscotti | $64.95 | 2026-09-16 |
-| Philadelphia Salmon Cream Cheese 2 Units / 212 g / 7.5 oz | Philadelphia | $82.95 | 2026-09-15 |
-| Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2026-09-15 |
-| YoguRico Strawberry Low Fat Drinkable Yogurt  1.68 L / 57 oz | YoguRico | $54.95 | 2026-09-15 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Stauffers Snaps Crispy Pumpkin Flavor Cookies with Spices 397 g / 14 oz | Stauffers | $49.95 | G10D03 |
+| Trolli Multi Mix Assorted Gummies 2 Units / 500 g | Trolli | $119.95 | G10D03 |
+| Zalea Gourmet Sliced Peaches in Light Syrup 2 Unidades / 425 g / 15 oz | Zalea Gourmet | $56.95 | G10D03 |
