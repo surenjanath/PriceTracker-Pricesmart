@@ -185,15 +185,15 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1161
-- **Total value**: $128,986.47
-- **Average price**: $111.10
+- **Total value**: $129,013.10
+- **Average price**: $111.12
 
 ## Database Changes
-- **New products added**: 3
-- **Existing products updated**: 1158
-- **Price changes detected**: 75
+- **New products added**: 0
+- **Existing products updated**: 1161
+- **Price changes detected**: 54
 - **Stock/availability changes**: 13
-- **Discontinued products**: 3
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -213,41 +213,41 @@ This project has recently gained unexpected attention. It was created for person
 | Zalea Gourmet Sliced Peaches in Light Syrup 2 Unidades / 425 g / 15 oz | Zalea Gourmet | $56.95 | true |
 | Member's Selection Tuna in Water 6 Units / 136 g / 6 oz | Member's Selection | $65.95 | true |
 | Member's Selection Premium Smoked Turkey Breast 2 Units / 340 g / 12 oz | Member's Selection | $107.95 | true |
-| Blueberries 508 g / 1.12 lb |  | $89.95 | true |
+| Blueberries 508 g / 1.12 lb |  | $99.95 | true |
+| Member's Selection Vanilla Greek Yogurt 907 g / 2 lb  | Member's Selection | $51.95 | true |
 | Member’s Selection All-Natural Greek Nonfat Plain Yogurt 907 g / 2 lb  | Member's Selection | $51.95 | true |
 | Member Selection String Cheese 24 Units / 28 g / 0.9 oz | Member's Selection | $62.95 | true |
 | Member's Selection Cold Extracted Extra Virgin Olive Oil 2 L | Member's Selection | $149.95 | true |
-| Member's Selection Vanilla Greek Yogurt 907 g / 2 lb  | Member's Selection | $51.95 | true |
-| Member's Selection Organic Virgin Coconut Oil 1.65 L / 56 oz | Member's Selection | $129.95 | true |
+| Member's Selection Premium Turkey Breast 2 Units / 340 g / 12 oz | Member's Selection | $107.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1111
-- **Price increases**: 616
-- **Price decreases**: 454
-- **Average increase**: 6.4%
-- **Average decrease**: -4.4%
+- **Total price changes**: 1144
+- **Price increases**: 655
+- **Price decreases**: 449
+- **Average increase**: 5.9%
+- **Average decrease**: -4.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Badia Spice with Lime Pepper Flavor 680.4 g / 24 oz | $78.95 | $59.70 | $-19.25 | -24.4% | Decrease |
-| Miami Beef Beef Patties 40 / 113.5 g / 4 oz | $319.95 | $324.95 | $+5.00 | +1.6% | Increase |
-| Frozen Boneless Skinless Chicken Breast Tray | $210.91 | $216.18 | $+5.27 | +2.5% | Increase |
-| Member's Selection Strawberries 2.26 kg / 5 lb | $144.95 | $147.95 | $+3.00 | +2.1% | Increase |
-| Member's Selection Shredded Mozzarella Cheese 2.26 kg / 5 lb | $119.95 | $122.95 | $+3.00 | +2.5% | Increase |
-| Breakstone's Cottage Cheese 680 g / 1.5 lb | $47.95 | $49.95 | $+2.00 | +4.2% | Increase |
-| Stauffers Snaps Crispy Pumpkin Flavor Cookies with Spices 397 g / 14 oz | $0.00 | $49.95 | $+49.95 | +100.0% | New |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $240.75 | $241.03 | $+0.28 | +0.1% | Increase |
-| Trolli Multi Mix Assorted Gummies 2 Units / 500 g | $0.00 | $119.95 | $+119.95 | +100.0% | New |
-| Frozen Imported Pork Leg Slices | $87.70 | $89.64 | $+1.94 | +2.2% | Increase |
-| Frozen Sliced Baby Back Ribs | $138.07 | $146.22 | $+8.15 | +5.9% | Increase |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $84.28 | $84.15 | $-0.13 | -0.2% | Decrease |
-| Takis Fuego with Hot Chili and Lemon 46 Units / 28 g | $259.70 | $228.70 | $-31.00 | -11.9% | Decrease |
-| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $66.34 | $66.24 | $-0.10 | -0.2% | Decrease |
-| Prairie Farms Whole Milk 1.89 L / 64 oz | $57.95 | $59.95 | $+2.00 | +3.5% | Increase |
+| Fine Choice Fresh Marinated Chicken Tray | $93.05 | $93.09 | $+0.04 | +0.0% | Increase |
+| Nectarine 908 g / 2 lb | $79.95 | $84.95 | $+5.00 | +6.3% | Increase |
+| Peach 908 g / 2 lb | $67.95 | $69.95 | $+2.00 | +2.9% | Increase |
+| Plum 907 g / 2 lb | $69.95 | $74.95 | $+5.00 | +7.1% | Increase |
+| Member's Selection Frozen Boneless Salmon Portions with Skin 680 g / 1.5 lb | $177.95 | $179.95 | $+2.00 | +1.1% | Increase |
+| Frozen Imported Pork Leg Slices | $89.64 | $90.05 | $+0.41 | +0.5% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $144.91 | $146.60 | $+1.69 | +1.2% | Increase |
+| Frozen Sliced Turkey Drumsticks | $145.15 | $145.05 | $-0.10 | -0.1% | Decrease |
+| Frozen Sliced Turkey Wings, Bag | $161.05 | $162.19 | $+1.14 | +0.7% | Increase |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $84.15 | $82.88 | $-1.27 | -1.5% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $112.22 | $114.96 | $+2.74 | +2.4% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $198.29 | $198.87 | $+0.58 | +0.3% | Increase |
+| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $66.24 | $66.13 | $-0.11 | -0.2% | Decrease |
+| Fresh Ground Chicken Meat Bag | $298.43 | $299.99 | $+1.56 | +0.5% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $43.60 | $43.74 | $+0.14 | +0.3% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -295,9 +295,4 @@ This project has recently gained unexpected attention. It was created for person
 | Bombolo Biscotti Mini Tartlets Filled with Sweet Wild Berry and Vanilla Flavor | Bombolo Biscotti | $64.95 | 2026-09-16 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Stauffers Snaps Crispy Pumpkin Flavor Cookies with Spices 397 g / 14 oz | Stauffers | $49.95 | G10D03 |
-| Trolli Multi Mix Assorted Gummies 2 Units / 500 g | Trolli | $119.95 | G10D03 |
-| Zalea Gourmet Sliced Peaches in Light Syrup 2 Unidades / 425 g / 15 oz | Zalea Gourmet | $56.95 | G10D03 |
+No new products added today.
