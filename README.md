@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1161
-- **Total value**: $129,013.10
-- **Average price**: $111.12
+- **Total products scraped**: 1163
+- **Total value**: $129,247.25
+- **Average price**: $111.13
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1161
-- **Price changes detected**: 54
-- **Stock/availability changes**: 13
-- **Discontinued products**: 0
+- **New products added**: 3
+- **Existing products updated**: 1160
+- **Price changes detected**: 27
+- **Stock/availability changes**: 33
+- **Discontinued products**: 3
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 176 |
-|  | 145 |
+|  | 146 |
 | Badia | 15 |
 | Swiss | 15 |
 | Kirkland Signature | 12 |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1144
-- **Price increases**: 655
-- **Price decreases**: 449
-- **Average increase**: 5.9%
+- **Total price changes**: 1174
+- **Price increases**: 668
+- **Price decreases**: 463
+- **Average increase**: 5.8%
 - **Average decrease**: -4.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fine Choice Fresh Marinated Chicken Tray | $93.05 | $93.09 | $+0.04 | +0.0% | Increase |
-| Nectarine 908 g / 2 lb | $79.95 | $84.95 | $+5.00 | +6.3% | Increase |
-| Peach 908 g / 2 lb | $67.95 | $69.95 | $+2.00 | +2.9% | Increase |
-| Plum 907 g / 2 lb | $69.95 | $74.95 | $+5.00 | +7.1% | Increase |
-| Member's Selection Frozen Boneless Salmon Portions with Skin 680 g / 1.5 lb | $177.95 | $179.95 | $+2.00 | +1.1% | Increase |
-| Frozen Imported Pork Leg Slices | $89.64 | $90.05 | $+0.41 | +0.5% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $144.91 | $146.60 | $+1.69 | +1.2% | Increase |
-| Frozen Sliced Turkey Drumsticks | $145.15 | $145.05 | $-0.10 | -0.1% | Decrease |
-| Frozen Sliced Turkey Wings, Bag | $161.05 | $162.19 | $+1.14 | +0.7% | Increase |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $84.15 | $82.88 | $-1.27 | -1.5% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $112.22 | $114.96 | $+2.74 | +2.4% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $198.29 | $198.87 | $+0.58 | +0.3% | Increase |
-| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $66.24 | $66.13 | $-0.11 | -0.2% | Decrease |
-| Fresh Ground Chicken Meat Bag | $298.43 | $299.99 | $+1.56 | +0.5% | Increase |
-| Chilled Chicken Gizzard Tray Pack | $43.60 | $43.74 | $+0.14 | +0.3% | Increase |
+| Nissin Chicken Ramen Instant Soups 24 Units / 85 g / 3 oz  | $114.95 | $99.95 | $-15.00 | -13.0% | Decrease |
+| Sam Trade Red Lentil Protein-Based Penne Pasta 2 Units / 227 g / 8 oz | $0.00 | $64.95 | $+64.95 | +100.0% | New |
+| Frozen Beef Feet  | $0.00 | $82.42 | $+82.42 | +100.0% | New |
+| KitKat Finger Bar 36 Packets / 2 Units  | $0.00 | $159.95 | $+159.95 | +100.0% | New |
+| Frozen Imported Pork Leg Slices | $90.05 | $90.98 | $+0.93 | +1.0% | Increase |
+| Frozen Lamb Leg Whole Vacuum Packed | $400.18 | $403.06 | $+2.88 | +0.7% | Increase |
+| Frozen Sliced Turkey Drumsticks | $145.05 | $144.66 | $-0.39 | -0.3% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.96 | $114.78 | $-0.18 | -0.2% | Decrease |
+| Fresh Ginger 1.36 kg / 3 lb | $61.95 | $42.95 | $-19.00 | -30.7% | Decrease |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $434.83 | $437.32 | $+2.49 | +0.6% | Increase |
+| Fresh Ground Chicken Meat Bag | $299.99 | $301.91 | $+1.92 | +0.6% | Increase |
+| Gouda Cheese Block | $89.69 | $89.83 | $+0.14 | +0.2% | Increase |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $97.13 | $96.99 | $-0.14 | -0.1% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $288.24 | $288.07 | $-0.17 | -0.1% | Decrease |
+| Frozen Beef Feet  | $111.63 | $112.54 | $+0.91 | +0.8% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,9 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Royal Asia Honey Walnut Shrimp 907 g / 2 lb | Royal Asia | $79.70 | 2026-09-25 |
+| Purple Cauliflower  |  | $49.95 | 2026-09-25 |
+| Columbus Charcuterie Trio Salame 340 g / 12 oz | Columbus | $74.95 | 2026-09-25 |
 | Best Fruit Sweetened Fruit Snack Seedless Plum with Strawberry Flavor 454 g | Best Fruit | $64.95 | 2026-09-23 |
 | Red Grapes Seedless 907 g / 2 lb |  | $89.95 | 2026-09-23 |
 | Sundays Cherry Coconut Ice cream 3.78 L / 1 gal | Sundays | $59.95 | 2026-09-23 |
@@ -290,9 +293,11 @@ This project has recently gained unexpected attention. It was created for person
 | Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $129.95 | 2026-09-17 |
 | Sincerely Brgitte Cheese with Truffle 453 g / 1.1 lb | Sincerely  Brigitte | $79.95 | 2026-09-17 |
 | Garcia Chicken & Pork Smoked Sausage 680 g / 1.5 lb | Garcia | $44.95 | 2026-09-16 |
-| Badia All Purpose Marinade Seasoning 591 mL / 20 oz  | Badia | $12.70 | 2026-09-16 |
-| Brunswick Canned Mackerel in Oil 3 Units / 225 g / 7.9 oz | Brunswick | $34.95 | 2026-09-16 |
-| Bombolo Biscotti Mini Tartlets Filled with Sweet Wild Berry and Vanilla Flavor | Bombolo Biscotti | $64.95 | 2026-09-16 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Sam Trade Red Lentil Protein-Based Penne Pasta 2 Units / 227 g / 8 oz | Sam Trade | $64.95 | G10D03 |
+| Frozen Beef Feet  |  | $82.42 | G10D03 |
+| KitKat Finger Bar 36 Packets / 2 Units  | Kit Kat | $159.95 | G10D03 |
