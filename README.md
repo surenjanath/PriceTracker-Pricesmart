@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1163
-- **Total value**: $129,247.25
-- **Average price**: $111.13
+- **Total products scraped**: 1164
+- **Total value**: $129,440.77
+- **Average price**: $111.20
 
 ## Database Changes
-- **New products added**: 3
-- **Existing products updated**: 1160
-- **Price changes detected**: 27
-- **Stock/availability changes**: 33
-- **Discontinued products**: 3
+- **New products added**: 1
+- **Existing products updated**: 1163
+- **Price changes detected**: 25
+- **Stock/availability changes**: 32
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -211,43 +211,43 @@ This project has recently gained unexpected attention. It was created for person
 |-------|-------|-------------|--------------|
 | Sincerely Brigitte Assorted Cheese Set 495 g / 17.5 oz | Sincerely  Brigitte | $124.95 | true |
 | Zalea Gourmet Sliced Peaches in Light Syrup 2 Unidades / 425 g / 15 oz | Zalea Gourmet | $56.95 | true |
+| Member's Selection Frozen Boneless Salmon Portions with Skin 680 g / 1.5 lb | Member's Selection | $179.95 | true |
 | Member's Selection Tuna in Water 6 Units / 136 g / 6 oz | Member's Selection | $65.95 | true |
 | Member's Selection Premium Smoked Turkey Breast 2 Units / 340 g / 12 oz | Member's Selection | $107.95 | true |
 | Blueberries 508 g / 1.12 lb |  | $99.95 | true |
-| Member's Selection Vanilla Greek Yogurt 907 g / 2 lb  | Member's Selection | $51.95 | true |
-| Member’s Selection All-Natural Greek Nonfat Plain Yogurt 907 g / 2 lb  | Member's Selection | $51.95 | true |
 | Member Selection String Cheese 24 Units / 28 g / 0.9 oz | Member's Selection | $62.95 | true |
 | Member's Selection Cold Extracted Extra Virgin Olive Oil 2 L | Member's Selection | $149.95 | true |
 | Member's Selection Premium Turkey Breast 2 Units / 340 g / 12 oz | Member's Selection | $107.95 | true |
+| Member’s Selection Breaded Mozzarella Sticks 2.04 kg / 4.5 lb | Member's Selection | $159.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1174
-- **Price increases**: 668
-- **Price decreases**: 463
-- **Average increase**: 5.8%
-- **Average decrease**: -4.5%
+- **Total price changes**: 1142
+- **Price increases**: 643
+- **Price decreases**: 460
+- **Average increase**: 5.9%
+- **Average decrease**: -4.4%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Nissin Chicken Ramen Instant Soups 24 Units / 85 g / 3 oz  | $114.95 | $99.95 | $-15.00 | -13.0% | Decrease |
-| Sam Trade Red Lentil Protein-Based Penne Pasta 2 Units / 227 g / 8 oz | $0.00 | $64.95 | $+64.95 | +100.0% | New |
-| Frozen Beef Feet  | $0.00 | $82.42 | $+82.42 | +100.0% | New |
-| KitKat Finger Bar 36 Packets / 2 Units  | $0.00 | $159.95 | $+159.95 | +100.0% | New |
-| Frozen Imported Pork Leg Slices | $90.05 | $90.98 | $+0.93 | +1.0% | Increase |
-| Frozen Lamb Leg Whole Vacuum Packed | $400.18 | $403.06 | $+2.88 | +0.7% | Increase |
-| Frozen Sliced Turkey Drumsticks | $145.05 | $144.66 | $-0.39 | -0.3% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.96 | $114.78 | $-0.18 | -0.2% | Decrease |
-| Fresh Ginger 1.36 kg / 3 lb | $61.95 | $42.95 | $-19.00 | -30.7% | Decrease |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $434.83 | $437.32 | $+2.49 | +0.6% | Increase |
-| Fresh Ground Chicken Meat Bag | $299.99 | $301.91 | $+1.92 | +0.6% | Increase |
-| Gouda Cheese Block | $89.69 | $89.83 | $+0.14 | +0.2% | Increase |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $97.13 | $96.99 | $-0.14 | -0.1% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $288.24 | $288.07 | $-0.17 | -0.1% | Decrease |
-| Frozen Beef Feet  | $111.63 | $112.54 | $+0.91 | +0.8% | Increase |
+| Member's Selection Chilled Chicken Liver, Tray Pack | $31.12 | $31.02 | $-0.10 | -0.3% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $94.71 | $94.61 | $-0.10 | -0.1% | Decrease |
+| Frozen Beef Feet  | $82.42 | $91.23 | $+8.81 | +10.7% | Increase |
+| Natural Delights Medjool Dates 907 g / 2 lb | $128.95 | $156.40 | $+27.45 | +21.3% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $241.03 | $240.46 | $-0.57 | -0.2% | Decrease |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $134.48 | $133.91 | $-0.57 | -0.4% | Decrease |
+| Frozen Imported Pork Leg Slices | $90.98 | $92.02 | $+1.04 | +1.1% | Increase |
+| Frozen Lamb Leg Whole Vacuum Packed | $403.06 | $400.18 | $-2.88 | -0.7% | Decrease |
+| Pranksters Kiwi 454 g / 16 oz | $0.00 | $99.95 | $+99.95 | +100.0% | New |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $82.88 | $83.14 | $+0.26 | +0.3% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $198.87 | $198.29 | $-0.58 | -0.3% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.78 | $114.96 | $+0.18 | +0.2% | Increase |
+| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $66.13 | $66.03 | $-0.10 | -0.2% | Decrease |
+| Frozen Sliced Baby Back Ribs | $146.22 | $153.41 | $+7.19 | +4.9% | Increase |
+| Gouda Cheese Block | $89.83 | $89.97 | $+0.14 | +0.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Laurieri Italian Crackers Assorted Flavors 30 Units / 25 g / 0.8 oz | Laurieri | $77.70 | 2026-09-26 |
 | Royal Asia Honey Walnut Shrimp 907 g / 2 lb | Royal Asia | $79.70 | 2026-09-25 |
 | Purple Cauliflower  |  | $49.95 | 2026-09-25 |
 | Columbus Charcuterie Trio Salame 340 g / 12 oz | Columbus | $74.95 | 2026-09-25 |
@@ -292,12 +293,9 @@ This project has recently gained unexpected attention. It was created for person
 | Philadelphia Cream Cheese 2 Units / 453 g / 16 oz | Philadelphia | $79.70 | 2026-09-18 |
 | Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $129.95 | 2026-09-17 |
 | Sincerely Brgitte Cheese with Truffle 453 g / 1.1 lb | Sincerely  Brigitte | $79.95 | 2026-09-17 |
-| Garcia Chicken & Pork Smoked Sausage 680 g / 1.5 lb | Garcia | $44.95 | 2026-09-16 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Sam Trade Red Lentil Protein-Based Penne Pasta 2 Units / 227 g / 8 oz | Sam Trade | $64.95 | G10D03 |
-| Frozen Beef Feet  |  | $82.42 | G10D03 |
-| KitKat Finger Bar 36 Packets / 2 Units  | Kit Kat | $159.95 | G10D03 |
+| Pranksters Kiwi 454 g / 16 oz | Pranksters | $99.95 | G10D03 |
