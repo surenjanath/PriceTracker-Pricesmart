@@ -184,25 +184,25 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1164
-- **Total value**: $129,440.77
-- **Average price**: $111.20
+- **Total products scraped**: 1163
+- **Total value**: $128,078.00
+- **Average price**: $110.13
 
 ## Database Changes
 - **New products added**: 1
-- **Existing products updated**: 1163
-- **Price changes detected**: 25
-- **Stock/availability changes**: 32
-- **Discontinued products**: 1
+- **Existing products updated**: 1162
+- **Price changes detected**: 29
+- **Stock/availability changes**: 16
+- **Discontinued products**: 3
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 176 |
-|  | 146 |
-| Badia | 15 |
+| Member's Selection | 177 |
+|  | 145 |
 | Swiss | 15 |
+| Badia | 14 |
 | Kirkland Signature | 12 |
 
 ## Recent Products
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1142
-- **Price increases**: 643
-- **Price decreases**: 460
-- **Average increase**: 5.9%
-- **Average decrease**: -4.4%
+- **Total price changes**: 1094
+- **Price increases**: 627
+- **Price decreases**: 428
+- **Average increase**: 6.1%
+- **Average decrease**: -4.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Member's Selection Chilled Chicken Liver, Tray Pack | $31.12 | $31.02 | $-0.10 | -0.3% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $94.71 | $94.61 | $-0.10 | -0.1% | Decrease |
-| Frozen Beef Feet  | $82.42 | $91.23 | $+8.81 | +10.7% | Increase |
-| Natural Delights Medjool Dates 907 g / 2 lb | $128.95 | $156.40 | $+27.45 | +21.3% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $241.03 | $240.46 | $-0.57 | -0.2% | Decrease |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $134.48 | $133.91 | $-0.57 | -0.4% | Decrease |
-| Frozen Imported Pork Leg Slices | $90.98 | $92.02 | $+1.04 | +1.1% | Increase |
-| Frozen Lamb Leg Whole Vacuum Packed | $403.06 | $400.18 | $-2.88 | -0.7% | Decrease |
-| Pranksters Kiwi 454 g / 16 oz | $0.00 | $99.95 | $+99.95 | +100.0% | New |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $82.88 | $83.14 | $+0.26 | +0.3% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $198.87 | $198.29 | $-0.58 | -0.3% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.78 | $114.96 | $+0.18 | +0.2% | Increase |
-| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $66.13 | $66.03 | $-0.10 | -0.2% | Decrease |
-| Frozen Sliced Baby Back Ribs | $146.22 | $153.41 | $+7.19 | +4.9% | Increase |
-| Gouda Cheese Block | $89.83 | $89.97 | $+0.14 | +0.2% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $66.47 | $66.41 | $-0.06 | -0.1% | Decrease |
+| Fresh Chicken Mixed Parts Tray | $78.42 | $78.22 | $-0.20 | -0.3% | Decrease |
+| Frozen Beef Feet  | $91.23 | $93.62 | $+2.39 | +2.6% | Increase |
+| Member's Selection Extra Virgin Olive Oil 750 mL / 25.36 oz | $0.00 | $69.95 | $+69.95 | +100.0% | New |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $240.46 | $240.75 | $+0.29 | +0.1% | Increase |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $133.91 | $132.76 | $-1.15 | -0.9% | Decrease |
+| Frozen Imported Pork Leg Slices | $92.02 | $90.05 | $-1.97 | -2.1% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $146.60 | $147.47 | $+0.87 | +0.6% | Increase |
+| Frozen Sliced Turkey Drumsticks | $144.66 | $144.46 | $-0.20 | -0.1% | Decrease |
+| Frozen Sliced Turkey Wings, Bag | $162.19 | $162.88 | $+0.69 | +0.4% | Increase |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $83.14 | $83.40 | $+0.26 | +0.3% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $198.29 | $198.87 | $+0.58 | +0.3% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.96 | $114.78 | $-0.18 | -0.2% | Decrease |
+| Frozen Lamb Shoulder Case | $1390.62 | $1410.22 | $+19.60 | +1.4% | Increase |
+| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $66.03 | $67.22 | $+1.19 | +1.8% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,9 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Ocean Delight Frozen Octopus 907 g / 2 lb | Ocean Delight | $98.95 | 2026-09-27 |
+| Badia Spice with Lime Pepper Flavor 680.4 g / 24 oz | Badia | $59.70 | 2026-09-27 |
+| Frozen Bone-In Pork Loin Case |  | $1551.85 | 2026-09-27 |
 | Laurieri Italian Crackers Assorted Flavors 30 Units / 25 g / 0.8 oz | Laurieri | $77.70 | 2026-09-26 |
 | Royal Asia Honey Walnut Shrimp 907 g / 2 lb | Royal Asia | $79.70 | 2026-09-25 |
 | Purple Cauliflower  |  | $49.95 | 2026-09-25 |
@@ -290,12 +293,9 @@ This project has recently gained unexpected attention. It was created for person
 | Best Fruit Sweetened Fruit Snack Seedless Plum with Strawberry Flavor 454 g | Best Fruit | $64.95 | 2026-09-23 |
 | Red Grapes Seedless 907 g / 2 lb |  | $89.95 | 2026-09-23 |
 | Sundays Cherry Coconut Ice cream 3.78 L / 1 gal | Sundays | $59.95 | 2026-09-23 |
-| Philadelphia Cream Cheese 2 Units / 453 g / 16 oz | Philadelphia | $79.70 | 2026-09-18 |
-| Nonni's Almond and Cranberry Cookies 575 g / 1.26 lb | Nonni's | $129.95 | 2026-09-17 |
-| Sincerely Brgitte Cheese with Truffle 453 g / 1.1 lb | Sincerely  Brigitte | $79.95 | 2026-09-17 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Pranksters Kiwi 454 g / 16 oz | Pranksters | $99.95 | G10D03 |
+| Member's Selection Extra Virgin Olive Oil 750 mL / 25.36 oz | Member's Selection | $69.95 | G10D03 |
