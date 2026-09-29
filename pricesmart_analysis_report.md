@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1163
-- **Total value**: $128,078.00
-- **Average price**: $110.13
+- **Total products scraped**: 1165
+- **Total value**: $129,447.19
+- **Average price**: $111.11
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1162
-- **Price changes detected**: 29
-- **Stock/availability changes**: 16
-- **Discontinued products**: 3
+- **New products added**: 2
+- **Existing products updated**: 1163
+- **Price changes detected**: 23
+- **Stock/availability changes**: 22
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -32,39 +32,39 @@
 | Member's Selection Tuna in Water 6 Units / 136 g / 6 oz | Member's Selection | $65.95 | true |
 | Member's Selection Premium Smoked Turkey Breast 2 Units / 340 g / 12 oz | Member's Selection | $107.95 | true |
 | Blueberries 508 g / 1.12 lb |  | $99.95 | true |
-| Member Selection String Cheese 24 Units / 28 g / 0.9 oz | Member's Selection | $62.95 | true |
 | Member's Selection Cold Extracted Extra Virgin Olive Oil 2 L | Member's Selection | $149.95 | true |
-| Member's Selection Premium Turkey Breast 2 Units / 340 g / 12 oz | Member's Selection | $107.95 | true |
+| Member Selection String Cheese 24 Units / 28 g / 0.9 oz | Member's Selection | $62.95 | true |
 | Member’s Selection Breaded Mozzarella Sticks 2.04 kg / 4.5 lb | Member's Selection | $159.95 | true |
+| Member's Selection Premium Turkey Breast 2 Units / 340 g / 12 oz | Member's Selection | $107.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1094
-- **Price increases**: 627
-- **Price decreases**: 428
-- **Average increase**: 6.1%
+- **Total price changes**: 1095
+- **Price increases**: 625
+- **Price decreases**: 433
+- **Average increase**: 6.3%
 - **Average decrease**: -4.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Bone-in Chicken Thighs Tray | $66.47 | $66.41 | $-0.06 | -0.1% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $78.42 | $78.22 | $-0.20 | -0.3% | Decrease |
-| Frozen Beef Feet  | $91.23 | $93.62 | $+2.39 | +2.6% | Increase |
-| Member's Selection Extra Virgin Olive Oil 750 mL / 25.36 oz | $0.00 | $69.95 | $+69.95 | +100.0% | New |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $240.46 | $240.75 | $+0.29 | +0.1% | Increase |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $133.91 | $132.76 | $-1.15 | -0.9% | Decrease |
-| Frozen Imported Pork Leg Slices | $92.02 | $90.05 | $-1.97 | -2.1% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $146.60 | $147.47 | $+0.87 | +0.6% | Increase |
-| Frozen Sliced Turkey Drumsticks | $144.66 | $144.46 | $-0.20 | -0.1% | Decrease |
-| Frozen Sliced Turkey Wings, Bag | $162.19 | $162.88 | $+0.69 | +0.4% | Increase |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $83.14 | $83.40 | $+0.26 | +0.3% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $198.29 | $198.87 | $+0.58 | +0.3% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.96 | $114.78 | $-0.18 | -0.2% | Decrease |
-| Frozen Lamb Shoulder Case | $1390.62 | $1410.22 | $+19.60 | +1.4% | Increase |
-| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $66.03 | $67.22 | $+1.19 | +1.8% | Increase |
+| Zalea Gourmet Sliced Peaches in Light Syrup 3 Units / 680 g / 24 oz | $0.00 | $59.70 | $+59.70 | +100.0% | New |
+| Karibbean Flavours Triple Refined Iodized Salt 1.2 kg | $0.00 | $11.95 | $+11.95 | +100.0% | New |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $240.75 | $241.03 | $+0.28 | +0.1% | Increase |
+| Natural Delights Medjool Dates 907 g / 2 lb | $156.40 | $169.95 | $+13.55 | +8.7% | Increase |
+| Frozen Sliced Turkey Drumsticks | $144.46 | $143.96 | $-0.50 | -0.3% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $198.87 | $198.29 | $-0.58 | -0.3% | Decrease |
+| Frozen Sliced Baby Back Ribs | $153.41 | $157.20 | $+3.79 | +2.5% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.78 | $114.60 | $-0.18 | -0.2% | Decrease |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $89.56 | $89.42 | $-0.14 | -0.2% | Decrease |
+| Papaya | $38.76 | $38.89 | $+0.13 | +0.3% | Increase |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $96.84 | $96.70 | $-0.14 | -0.1% | Decrease |
+| Frozen Lamb Shoulder Chops Tray | $125.87 | $126.06 | $+0.19 | +0.2% | Increase |
+| Frozen Bone-In Pork Spare Rib Case | $1418.89 | $2741.47 | $+1322.58 | +93.2% | Increase |
+| Nature's Pride Chann, Chick Peas 1.8 kg / 4 lb | $41.95 | $39.95 | $-2.00 | -4.8% | Decrease |
+| Nature's Pride Lentils 2.3 kg / 5 lb | $44.95 | $41.95 | $-3.00 | -6.7% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Cadbury Delicious Milk Chocolate Bar 180 g       | Cadbury | $57.95 | 2026-09-28 |
 | Ocean Delight Frozen Octopus 907 g / 2 lb | Ocean Delight | $98.95 | 2026-09-27 |
 | Badia Spice with Lime Pepper Flavor 680.4 g / 24 oz | Badia | $59.70 | 2026-09-27 |
 | Frozen Bone-In Pork Loin Case |  | $1551.85 | 2026-09-27 |
@@ -109,10 +110,10 @@
 | Columbus Charcuterie Trio Salame 340 g / 12 oz | Columbus | $74.95 | 2026-09-25 |
 | Best Fruit Sweetened Fruit Snack Seedless Plum with Strawberry Flavor 454 g | Best Fruit | $64.95 | 2026-09-23 |
 | Red Grapes Seedless 907 g / 2 lb |  | $89.95 | 2026-09-23 |
-| Sundays Cherry Coconut Ice cream 3.78 L / 1 gal | Sundays | $59.95 | 2026-09-23 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Member's Selection Extra Virgin Olive Oil 750 mL / 25.36 oz | Member's Selection | $69.95 | G10D03 |
+| Zalea Gourmet Sliced Peaches in Light Syrup 3 Units / 680 g / 24 oz | Zalea Gourmet | $59.70 | G10D03 |
+| Karibbean Flavours Triple Refined Iodized Salt 1.2 kg | Karibbean Flavours | $11.95 | G10D03 |
