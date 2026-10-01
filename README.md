@@ -184,22 +184,22 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1167
-- **Total value**: $129,944.92
-- **Average price**: $111.35
+- **Total products scraped**: 1166
+- **Total value**: $130,253.55
+- **Average price**: $111.71
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1166
-- **Price changes detected**: 24
-- **Stock/availability changes**: 16
-- **Discontinued products**: 2
+- **New products added**: 3
+- **Existing products updated**: 1163
+- **Price changes detected**: 67
+- **Stock/availability changes**: 14
+- **Discontinued products**: 4
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 178 |
+| Member's Selection | 176 |
 |  | 146 |
 | Swiss | 15 |
 | Badia | 14 |
@@ -214,40 +214,40 @@ This project has recently gained unexpected attention. It was created for person
 | Member's Selection Frozen Boneless Salmon Portions with Skin 680 g / 1.5 lb | Member's Selection | $179.95 | true |
 | Member's Selection Tuna in Water 6 Units / 136 g / 6 oz | Member's Selection | $65.95 | true |
 | Member's Selection Premium Smoked Turkey Breast 2 Units / 340 g / 12 oz | Member's Selection | $107.95 | true |
-| Blueberries 508 g / 1.12 lb |  | $99.95 | true |
 | Member's Selection Cold Extracted Extra Virgin Olive Oil 2 L | Member's Selection | $149.95 | true |
-| Member Selection String Cheese 24 Units / 28 g / 0.9 oz | Member's Selection | $62.95 | true |
 | Member's Selection Premium Turkey Breast 2 Units / 340 g / 12 oz | Member's Selection | $107.95 | true |
-| Pillsbury Cookie Dough Mix 1.3 kg / 3 lb | Pillsbury | $114.95 | true |
+| Blueberries 508 g / 1.12 lb |  | $99.95 | true |
+| Member Selection String Cheese 24 Units / 28 g / 0.9 oz | Member's Selection | $63.95 | true |
+| Member’s Selection Breaded Mozzarella Sticks 2.04 kg / 4.5 lb | Member's Selection | $159.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1120
-- **Price increases**: 632
-- **Price decreases**: 450
-- **Average increase**: 6.3%
-- **Average decrease**: -4.5%
+- **Total price changes**: 1133
+- **Price increases**: 662
+- **Price decreases**: 431
+- **Average increase**: 6.6%
+- **Average decrease**: -4.4%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Toppers Assorted Popcorn 20 Units / 14 g | $42.95 | $37.70 | $-5.25 | -12.2% | Decrease |
-| Candied Cherries 1 kg / 2.2 lb | $0.00 | $89.95 | $+89.95 | +100.0% | New |
-| Member's Selection Frozen Bone-In Pork Leg Vacuum Packed | $455.82 | $447.05 | $-8.77 | -1.9% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $147.47 | $147.82 | $+0.35 | +0.2% | Increase |
-| Frozen Sliced Turkey Drumsticks | $143.96 | $143.86 | $-0.10 | -0.1% | Decrease |
-| Natural Delights Medjool Dates 907 g / 2 lb | $169.95 | $159.95 | $-10.00 | -5.9% | Decrease |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $83.40 | $83.53 | $+0.13 | +0.2% | Increase |
-| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $67.22 | $67.12 | $-0.10 | -0.1% | Decrease |
-| Pranksters Kiwi 454 g / 16 oz | $99.95 | $89.95 | $-10.00 | -10.0% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.60 | $114.42 | $-0.18 | -0.2% | Decrease |
-| Frozen Sliced Baby Back Ribs | $157.20 | $156.26 | $-0.94 | -0.6% | Decrease |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $89.42 | $89.29 | $-0.13 | -0.1% | Decrease |
-| Frozen Beef Feet  | $112.54 | $112.89 | $+0.35 | +0.3% | Increase |
-| Fresh Chicken Thighs Boneless Tray | $88.33 | $88.20 | $-0.13 | -0.1% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $92.51 | $92.42 | $-0.09 | -0.1% | Decrease |
+| Sara Lee Classic Pound Butter Cake 2 Pack / 453 g / 15.9 oz | $29.70 | $114.95 | $+85.25 | +287.0% | Increase |
+| Miami Beef Beef Patties 40 / 113.5 g / 4 oz | $324.95 | $327.95 | $+3.00 | +0.9% | Increase |
+| Nesquik Chocolate Powder Mix 1.27 kg / 2.8 lb | $89.95 | $99.95 | $+10.00 | +11.1% | Increase |
+| Member's Selection Shredded Mozzarella Cheese 2.26 kg / 5 lb | $122.95 | $124.95 | $+2.00 | +1.6% | Increase |
+| Nescafé Classic Instant Soluble Coffee 170 g + Cup | $0.00 | $63.95 | $+63.95 | +100.0% | New |
+| Creamery Novelties Ice Cream Punch de Créme 3.78 L / 1 gal | $0.00 | $72.95 | $+72.95 | +100.0% | New |
+| Frozen Bone-In Goat Carcass Case | $1246.51 | $1308.06 | $+61.55 | +4.9% | Increase |
+| Snickers, M&M's, Skittles and Starburst Chocolates and Confectionery Assorted Jumbo Pack 895.6 g / 31.59 oz | $0.00 | $154.95 | $+154.95 | +100.0% | New |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $147.82 | $148.16 | $+0.34 | +0.2% | Increase |
+| Frozen Sliced Turkey Drumsticks | $143.86 | $143.46 | $-0.40 | -0.3% | Decrease |
+| Mandarin Orange Chicken 1.2 kg / 2.6 lb | $184.95 | $187.95 | $+3.00 | +1.6% | Increase |
+| Frozen Sliced Baby Back Ribs | $156.26 | $186.37 | $+30.11 | +19.3% | Increase |
+| Sweet Craft Dolceria Ube Cheesecake 6 Pack 113.4 g / 4 oz | $187.95 | $182.95 | $-5.00 | -2.7% | Decrease |
+| Papaya | $38.89 | $38.76 | $-0.13 | -0.3% | Decrease |
+| Fresh Whole Chicken 2 Units | $104.85 | $104.68 | $-0.17 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,19 +283,21 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Member's Selection Extra Virgin Olive Oil 750 mL / 25.36 oz | Member's Selection | $69.95 | 2026-09-30 |
+| Welch's Sparkling Rose Non-Alcoholic 3 Units / 750 mL | Welch's | $79.70 | 2026-09-30 |
+| Sacla Italia Pizza Sauce 1 kg / 35.2 oz | Sacla | $44.70 | 2026-09-30 |
+| Member's Selection Frozen Boneless Pork Loin Steak Tray | Member's Selection | $82.24 | 2026-09-30 |
 | Pan White Corn Meal Flour 2 Units / 1 kg | Pan | $34.95 | 2026-09-29 |
 | Member's Selection Freshly Prepared Chicken Salad | Member's Selection | $99.95 | 2026-09-29 |
 | Cadbury Delicious Milk Chocolate Bar 180 g       | Cadbury | $57.95 | 2026-09-28 |
 | Ocean Delight Frozen Octopus 907 g / 2 lb | Ocean Delight | $98.95 | 2026-09-27 |
 | Badia Spice with Lime Pepper Flavor 680.4 g / 24 oz | Badia | $59.70 | 2026-09-27 |
 | Frozen Bone-In Pork Loin Case |  | $1551.85 | 2026-09-27 |
-| Laurieri Italian Crackers Assorted Flavors 30 Units / 25 g / 0.8 oz | Laurieri | $77.70 | 2026-09-26 |
-| Royal Asia Honey Walnut Shrimp 907 g / 2 lb | Royal Asia | $79.70 | 2026-09-25 |
-| Purple Cauliflower  |  | $49.95 | 2026-09-25 |
-| Columbus Charcuterie Trio Salame 340 g / 12 oz | Columbus | $74.95 | 2026-09-25 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Candied Cherries 1 kg / 2.2 lb |  | $89.95 | G10D03 |
+| Nescafé Classic Instant Soluble Coffee 170 g + Cup | Nescafé | $63.95 | G10D03 |
+| Creamery Novelties Ice Cream Punch de Créme 3.78 L / 1 gal | Creamery Novelties | $72.95 | G10D03 |
+| Snickers, M&M's, Skittles and Starburst Chocolates and Confectionery Assorted Jumbo Pack 895.6 g / 31.59 oz | Snickers | $154.95 | G10D03 |
