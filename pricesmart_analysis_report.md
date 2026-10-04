@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1175
-- **Total value**: $130,787.02
-- **Average price**: $111.31
+- **Total products scraped**: 1177
+- **Total value**: $131,155.73
+- **Average price**: $111.43
 
 ## Database Changes
-- **New products added**: 5
-- **Existing products updated**: 1170
-- **Price changes detected**: 34
-- **Stock/availability changes**: 12
-- **Discontinued products**: 2
+- **New products added**: 2
+- **Existing products updated**: 1175
+- **Price changes detected**: 26
+- **Stock/availability changes**: 26
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -28,43 +28,43 @@
 |-------|-------|-------------|--------------|
 | Zalea Gourmet Sliced Peaches in Light Syrup 2 Unidades / 425 g / 15 oz | Zalea Gourmet | $57.95 | true |
 | Sincerely Brigitte Assorted Cheese Set 495 g / 17.5 oz | Sincerely  Brigitte | $124.95 | true |
+| Philadelphia Blueberry Cream Cheese Spread 2 Units / 212 g / 7.5 oz | Philadelphia | $134.95 | true |
 | Member's Selection Frozen Boneless Salmon Portions with Skin 680 g / 1.5 lb | Member's Selection | $179.95 | true |
 | Member's Selection Tuna in Water 6 Units / 136 g / 6 oz | Member's Selection | $65.95 | true |
 | Breakstone's Cottage Cheese 680 g / 1.5 lb | Breakstone's | $49.95 | true |
 | Member's Selection Premium Smoked Turkey Breast 2 Units / 340 g / 12 oz | Member's Selection | $107.95 | true |
-| Member's Selection Cold Extracted Extra Virgin Olive Oil 2 L | Member's Selection | $149.95 | true |
 | Member's Selection Premium Turkey Breast 2 Units / 340 g / 12 oz | Member's Selection | $107.95 | true |
 | Blueberries 508 g / 1.12 lb |  | $99.95 | true |
-| Member's Selection Vanilla Greek Yogurt 907 g / 2 lb  | Member's Selection | $51.95 | true |
+| Member's Selection Cold Extracted Extra Virgin Olive Oil 2 L | Member's Selection | $149.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1112
-- **Price increases**: 641
-- **Price decreases**: 428
-- **Average increase**: 7.3%
-- **Average decrease**: -4.6%
+- **Total price changes**: 1109
+- **Price increases**: 638
+- **Price decreases**: 427
+- **Average increase**: 7.4%
+- **Average decrease**: -4.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Donafe Egg-Free Sponge Cake 10 to 12 Slices | $0.00 | $94.95 | $+94.95 | +100.0% | New |
-| Donafe's Egg Free Chocolate Cake 10 to 12 Slices | $97.95 | $104.95 | $+7.00 | +7.1% | Increase |
-| Apple Lucy 907 g / 2 lb | $0.00 | $79.95 | $+79.95 | +100.0% | New |
-| Karibbean Flavours Spicy Tamarind Chutney 3 Units / 460 g / 16 oz | $0.00 | $42.95 | $+42.95 | +100.0% | New |
-| Farmer Joe’s Pineapple Slices in Light Syrup 3 Units / 567 g | $0.00 | $59.95 | $+59.95 | +100.0% | New |
-| Pork Leg Frozen  | $64.74 | $63.14 | $-1.60 | -2.5% | Decrease |
-| Lucy Rose Apples 907 g / 2 lb | $0.00 | $79.95 | $+79.95 | +100.0% | New |
-| Plantains 1.36 kg / 3 lb | $29.95 | $25.95 | $-4.00 | -13.4% | Decrease |
-| Fresh Halloween Pumpkin | $49.70 | $159.95 | $+110.25 | +221.8% | Increase |
-| Member's Selection Frozen Bone-In Pork Leg Vacuum Packed | $447.05 | $457.79 | $+10.74 | +2.4% | Increase |
-| Ferrero Rocher Hazelnut and Chocolate Cream Filled Chocolates 48 Units / 12.5 g / 0.4 oz | $149.70 | $214.95 | $+65.25 | +43.6% | Increase |
-| Frozen Imported Pork Leg Slices | $90.05 | $92.49 | $+2.44 | +2.7% | Increase |
-| Frozen Sliced Turkey Wings, Bag | $165.72 | $165.16 | $-0.56 | -0.3% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $143.86 | $142.36 | $-1.50 | -1.0% | Decrease |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $85.21 | $85.08 | $-0.13 | -0.2% | Decrease |
+| Donafe Egg-Free Sponge Cake 10 to 12 Slices | $94.95 | $92.95 | $-2.00 | -2.1% | Decrease |
+| Donafe's Egg Free Chocolate Cake 10 to 12 Slices | $104.95 | $102.95 | $-2.00 | -1.9% | Decrease |
+| Pork Leg Frozen  | $63.14 | $64.34 | $+1.20 | +1.9% | Increase |
+| Frozen Lamb Leg Whole Vacuum Packed | $398.74 | $399.61 | $+0.87 | +0.2% | Increase |
+| Frozen Imported Pork Leg Slices | $92.49 | $93.07 | $+0.58 | +0.6% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $149.73 | $150.25 | $+0.52 | +0.3% | Increase |
+| Frozen Sliced Turkey Drumsticks | $142.36 | $143.56 | $+1.20 | +0.8% | Increase |
+| Frozen Sliced Turkey Wings, Bag | $165.16 | $164.47 | $-0.69 | -0.4% | Decrease |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $85.08 | $84.95 | $-0.13 | -0.2% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $195.68 | $195.10 | $-0.58 | -0.3% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $66.07 | $66.00 | $-0.07 | -0.1% | Decrease |
+| Papaya | $38.41 | $38.44 | $+0.03 | +0.1% | Increase |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $88.61 | $88.47 | $-0.14 | -0.2% | Decrease |
+| Frozen Sliced Baby Back Ribs | $157.20 | $153.41 | $-3.79 | -2.4% | Decrease |
+| Frozen Beef Feet  | $112.89 | $114.01 | $+1.12 | +1.0% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,13 +100,13 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Kraft Cheez Whiz 2 Units / 425 g / 15 oz | Kraft | $86.95 | 2026-10-03 |
 | De Carlo White Truffle Flavor Extra Virgin Olive Oil 500 mL / 16 oz | De Carlo | $49.70 | 2026-10-02 |
 | Member's Selection Frozen Skin On Boneless Salmon Fillet Vacuum Packed | Member's Selection | $169.64 | 2026-10-02 |
 | Member's Selection Extra Virgin Olive Oil 750 mL / 25.36 oz | Member's Selection | $69.95 | 2026-09-30 |
 | Welch's Sparkling Rose Non-Alcoholic 3 Units / 750 mL | Welch's | $79.70 | 2026-09-30 |
 | Sacla Italia Pizza Sauce 1 kg / 35.2 oz | Sacla | $44.70 | 2026-09-30 |
 | Member's Selection Frozen Boneless Pork Loin Steak Tray | Member's Selection | $82.24 | 2026-09-30 |
-| Pan White Corn Meal Flour 2 Units / 1 kg | Pan | $34.95 | 2026-09-29 |
 | Member's Selection Freshly Prepared Chicken Salad | Member's Selection | $99.95 | 2026-09-29 |
 | Cadbury Delicious Milk Chocolate Bar 180 g       | Cadbury | $57.95 | 2026-09-28 |
 | Ocean Delight Frozen Octopus 907 g / 2 lb | Ocean Delight | $98.95 | 2026-09-27 |
@@ -115,8 +115,5 @@
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Donafe Egg-Free Sponge Cake 10 to 12 Slices | Donafe's | $94.95 | G10D03 |
-| Apple Lucy 907 g / 2 lb |  | $79.95 | G10D03 |
-| Karibbean Flavours Spicy Tamarind Chutney 3 Units / 460 g / 16 oz | Karibbean Flavours | $42.95 | G10D03 |
-| Farmer Joe’s Pineapple Slices in Light Syrup 3 Units / 567 g | Farmer Joe's | $59.95 | G10D03 |
-| Lucy Rose Apples 907 g / 2 lb |  | $79.95 | G10D03 |
+| Welch's Assorted Tropical Juices 24 Units / 295 mL / 10 oz | Welch's | $179.95 | G10D03 |
+| Philadelphia Blueberry Cream Cheese Spread 2 Units / 212 g / 7.5 oz | Philadelphia | $134.95 | G10D03 |
