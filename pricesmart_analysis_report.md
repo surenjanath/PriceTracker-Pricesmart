@@ -1,22 +1,22 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1176
-- **Total value**: $131,354.84
-- **Average price**: $111.70
+- **Total products scraped**: 1181
+- **Total value**: $131,826.79
+- **Average price**: $111.62
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1176
-- **Price changes detected**: 30
-- **Stock/availability changes**: 22
-- **Discontinued products**: 3
+- **New products added**: 2
+- **Existing products updated**: 1179
+- **Price changes detected**: 18
+- **Stock/availability changes**: 16
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 175 |
+| Member's Selection | 176 |
 |  | 149 |
 | Swiss | 15 |
 | Badia | 14 |
@@ -26,45 +26,45 @@
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Califia Farms Unsweetened Almond Drink 1.4 L / 48 oz | Califia Farms | $69.95 | true |
 | Zalea Gourmet Sliced Peaches in Light Syrup 2 Unidades / 425 g / 15 oz | Zalea Gourmet | $57.95 | true |
+| Califia Farms Unsweetened Almond Drink 1.4 L / 48 oz | Califia Farms | $69.95 | true |
 | Sincerely Brigitte Assorted Cheese Set 495 g / 17.5 oz | Sincerely  Brigitte | $124.95 | true |
 | Member's Selection Low-Moisture Part-Skim Shredded Mozzarella Cheese 2.2 kg / 5 lb | Member's Selection | $124.95 | true |
 | Viva Zero Sugar Assorted Flavor Sparkling Water 24 Units / 355 mL | Viva | $89.95 | true |
 |  MorningStar Farms Vegan Chicken-Style Nuggets 298 g / 10.5 oz | MorningStar Farms | $119.95 | true |
-| Sam Trade Red Lentil Protein-Based Penne Pasta 2 Units / 227 g / 8 oz | Sam Trade | $64.95 | true |
 | Stauffers Snaps Crispy Pumpkin Flavor Cookies with Spices 397 g / 14 oz | Stauffers | $49.95 | true |
+| Sam Trade Red Lentil Protein-Based Penne Pasta 2 Units / 227 g / 8 oz | Sam Trade | $64.95 | true |
 | Life Frozen Sweet Potato Fries 2.26 kg / 5 lb | Life | $69.95 | true |
-| Cadbury Deliciously Creamy Milk Chocolate 360 g | Cadbury | $104.95 | true |
+| Rip Van Dark Chocolate Vegan Wafer Cookies 24 Units / 22 g / 0.78 oz | Rip Van | $146.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1133
-- **Price increases**: 649
-- **Price decreases**: 438
-- **Average increase**: 7.7%
-- **Average decrease**: -4.5%
+- **Total price changes**: 1094
+- **Price increases**: 614
+- **Price decreases**: 434
+- **Average increase**: 7.2%
+- **Average decrease**: -4.3%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Peche Patisserie Sourdough and Butter Bread  | $34.95 | $35.45 | $+0.50 | +1.4% | Increase |
-| Pork Leg Frozen  | $64.44 | $64.34 | $-0.10 | -0.2% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $244.15 | $245.29 | $+1.14 | +0.5% | Increase |
-| Frozen Imported Pork Leg Slices | $94.23 | $94.34 | $+0.11 | +0.1% | Increase |
-| Caphe Fia Gourmet Garlic and Parmesan Cheese Bread 12 Units | $35.95 | $36.45 | $+0.50 | +1.4% | Increase |
-| Frozen Sliced Turkey Drumsticks | $143.56 | $143.86 | $+0.30 | +0.2% | Increase |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $80.91 | $80.78 | $-0.13 | -0.2% | Decrease |
-| Tropical Frying Cheese 907 g / 32 oz | $39.70 | $92.95 | $+53.25 | +134.1% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $194.81 | $195.10 | $+0.29 | +0.1% | Increase |
-| Frozen Boneless Skinless Chicken Breast Tray | $214.38 | $213.56 | $-0.82 | -0.4% | Decrease |
-| Papaya | $38.47 | $38.34 | $-0.13 | -0.3% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.60 | $114.78 | $+0.18 | +0.2% | Increase |
-| Cow Brand Ghee 2 kg / 70.5 oz | $239.95 | $252.95 | $+13.00 | +5.4% | Increase |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $96.99 | $96.84 | $-0.15 | -0.2% | Decrease |
-| Frozen Lamb Shoulder Chops Tray | $126.42 | $126.24 | $-0.18 | -0.1% | Decrease |
+| Pork Leg Frozen  | $64.34 | $63.14 | $-1.20 | -1.9% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $245.29 | $245.86 | $+0.57 | +0.2% | Increase |
+| Fresh Halloween Pumpkin | $159.95 | $119.95 | $-40.00 | -25.0% | Decrease |
+| Frozen Imported Pork Leg Slices | $94.34 | $94.69 | $+0.35 | +0.4% | Increase |
+| Krusteaz Cinnamon Swirl Crumb Cake & Muffin Mix with Toppings 3 Units / 411 g / 14.5 oz | $0.00 | $92.95 | $+92.95 | +100.0% | New |
+| Papaya | $38.34 | $38.31 | $-0.03 | -0.1% | Decrease |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $88.34 | $88.20 | $-0.14 | -0.2% | Decrease |
+| Frozen Boneless Skinless Chicken Breast Tray | $213.56 | $212.41 | $-1.15 | -0.5% | Decrease |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $429.58 | $420.58 | $-9.00 | -2.1% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $66.13 | $66.20 | $+0.07 | +0.1% | Increase |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $96.84 | $96.70 | $-0.14 | -0.1% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $92.15 | $92.24 | $+0.09 | +0.1% | Increase |
+| Frozen Beef Feet  | $114.01 | $114.08 | $+0.07 | +0.1% | Increase |
+| Nutrina Chilled Whole Chicken Bag | $339.50 | $338.99 | $-0.51 | -0.2% | Decrease |
+| Member's Selection Frozen US Ground Beef Patties 80/20 Tray Pack | $138.93 | $138.33 | $-0.60 | -0.4% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -112,4 +112,8 @@
 | Welch's Sparkling Rose Non-Alcoholic 3 Units / 750 mL | Welch's | $79.70 | 2026-09-30 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Krusteaz Cinnamon Swirl Crumb Cake & Muffin Mix with Toppings 3 Units / 411 g / 14.5 oz | Krusteaz | $92.95 | G10D03 |
+| Poppycock Gourmet Caramel Popcorn with Cashews 850 g / 30 oz | Poppycock | $169.95 | G10D03 |
