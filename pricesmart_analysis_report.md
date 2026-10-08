@@ -1,22 +1,22 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1181
-- **Total value**: $131,826.79
-- **Average price**: $111.62
+- **Total products scraped**: 1183
+- **Total value**: $132,301.72
+- **Average price**: $111.84
 
 ## Database Changes
-- **New products added**: 2
+- **New products added**: 4
 - **Existing products updated**: 1179
-- **Price changes detected**: 18
-- **Stock/availability changes**: 16
-- **Discontinued products**: 0
+- **Price changes detected**: 41
+- **Stock/availability changes**: 15
+- **Discontinued products**: 3
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 176 |
+| Member's Selection | 178 |
 |  | 149 |
 | Swiss | 15 |
 | Badia | 14 |
@@ -31,40 +31,40 @@
 | Sincerely Brigitte Assorted Cheese Set 495 g / 17.5 oz | Sincerely  Brigitte | $124.95 | true |
 | Member's Selection Low-Moisture Part-Skim Shredded Mozzarella Cheese 2.2 kg / 5 lb | Member's Selection | $124.95 | true |
 | Viva Zero Sugar Assorted Flavor Sparkling Water 24 Units / 355 mL | Viva | $89.95 | true |
-|  MorningStar Farms Vegan Chicken-Style Nuggets 298 g / 10.5 oz | MorningStar Farms | $119.95 | true |
-| Stauffers Snaps Crispy Pumpkin Flavor Cookies with Spices 397 g / 14 oz | Stauffers | $49.95 | true |
-| Sam Trade Red Lentil Protein-Based Penne Pasta 2 Units / 227 g / 8 oz | Sam Trade | $64.95 | true |
-| Life Frozen Sweet Potato Fries 2.26 kg / 5 lb | Life | $69.95 | true |
 | Rip Van Dark Chocolate Vegan Wafer Cookies 24 Units / 22 g / 0.78 oz | Rip Van | $146.95 | true |
+|  MorningStar Farms Vegan Chicken-Style Nuggets 298 g / 10.5 oz | MorningStar Farms | $119.95 | true |
+| Nescafé Classic Instant Soluble Coffee 170 g + Cup | Nescafé | $63.95 | true |
+| Sam Trade Red Lentil Protein-Based Penne Pasta 2 Units / 227 g / 8 oz | Sam Trade | $64.95 | true |
+| Stauffers Snaps Crispy Pumpkin Flavor Cookies with Spices 397 g / 14 oz | Stauffers | $49.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1094
-- **Price increases**: 614
-- **Price decreases**: 434
-- **Average increase**: 7.2%
-- **Average decrease**: -4.3%
+- **Total price changes**: 1121
+- **Price increases**: 623
+- **Price decreases**: 448
+- **Average increase**: 7.4%
+- **Average decrease**: -4.7%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Pork Leg Frozen  | $64.34 | $63.14 | $-1.20 | -1.9% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $245.29 | $245.86 | $+0.57 | +0.2% | Increase |
-| Fresh Halloween Pumpkin | $159.95 | $119.95 | $-40.00 | -25.0% | Decrease |
-| Frozen Imported Pork Leg Slices | $94.34 | $94.69 | $+0.35 | +0.4% | Increase |
-| Krusteaz Cinnamon Swirl Crumb Cake & Muffin Mix with Toppings 3 Units / 411 g / 14.5 oz | $0.00 | $92.95 | $+92.95 | +100.0% | New |
-| Papaya | $38.34 | $38.31 | $-0.03 | -0.1% | Decrease |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $88.34 | $88.20 | $-0.14 | -0.2% | Decrease |
-| Frozen Boneless Skinless Chicken Breast Tray | $213.56 | $212.41 | $-1.15 | -0.5% | Decrease |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $429.58 | $420.58 | $-9.00 | -2.1% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $66.13 | $66.20 | $+0.07 | +0.1% | Increase |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $96.84 | $96.70 | $-0.14 | -0.1% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $92.15 | $92.24 | $+0.09 | +0.1% | Increase |
-| Frozen Beef Feet  | $114.01 | $114.08 | $+0.07 | +0.1% | Increase |
-| Nutrina Chilled Whole Chicken Bag | $339.50 | $338.99 | $-0.51 | -0.2% | Decrease |
-| Member's Selection Frozen US Ground Beef Patties 80/20 Tray Pack | $138.93 | $138.33 | $-0.60 | -0.4% | Decrease |
+| Karibbean Flavors Tamarind Chutney, Sweet and Spicy 2 Units / 450 g | $0.00 | $45.95 | $+45.95 | +100.0% | New |
+| Bluewater Farms Cranberry Juice 1.65 L / 56 oz | $44.70 | $59.95 | $+15.25 | +34.1% | Increase |
+| Wellsley Farms Crab Cakes 510 g / 1 lb | $109.70 | $219.95 | $+110.25 | +100.5% | Increase |
+| Member's Selection Italian Sparkling Mineral Water 24 Units / 500 mL / 16.9 oz | $0.00 | $229.95 | $+229.95 | +100.0% | New |
+| Suzy's Rum Raisin Cheesecake with Caramel and Walnuts 12 Slices | $0.00 | $141.29 | $+141.29 | +100.0% | New |
+| Frozen Sliced Turkey Wings, Bag | $164.36 | $163.79 | $-0.57 | -0.3% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $195.10 | $195.68 | $+0.58 | +0.3% | Increase |
+| Marismas Manzanilla Pitted Olives 1.82 kg / 64 oz  | $59.70 | $94.95 | $+35.25 | +59.0% | Increase |
+| Papaya | $38.31 | $38.22 | $-0.09 | -0.2% | Decrease |
+| Prairie Farms Whole Milk 1.89 L / 64 oz | $59.95 | $58.95 | $-1.00 | -1.7% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $66.20 | $66.13 | $-0.07 | -0.1% | Decrease |
+| Frozen Boneless Skinless Chicken Breast Tray | $212.41 | $211.59 | $-0.82 | -0.4% | Decrease |
+| Fresh Ground Chicken Meat Bag | $301.79 | $303.59 | $+1.80 | +0.6% | Increase |
+| Fresh Chicken Leg Quarters Tray | $93.71 | $93.81 | $+0.10 | +0.1% | Increase |
+| Fresh Whole Chicken 2 Units | $105.72 | $105.55 | $-0.17 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -92,14 +92,17 @@
 | Tropical Frying Cheese 907 g / 32 oz | $89.95 | $19.70 | -78.1% |
 | Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $89.95 | $19.70 | -78.1% |
 | Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $89.95 | $19.70 | -78.1% |
+| Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $59.95 | $14.70 | -75.5% |
 | Smithfield Smoked and Caramelized Pork Shoulder Cubes 453 g / 1 lb | $177.95 | $44.70 | -74.9% |
-| Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $57.95 | $14.70 | -74.6% |
 | Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $57.95 | $14.70 | -74.6% |
 
 ## Recently Discontinued Products
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Carmencita Paella Seasoning with Saffron 15 Units / 4 g / 0.14 oz | Carmencita | $24.70 | 2026-10-07 |
+| Nature's Pride Yellow Split Peas 1.8 kg / 4 lb | Nature's Pride | $21.95 | 2026-10-07 |
+| Heinz Tomato Ketchup 567 g / 20 oz | Heinz | $9.70 | 2026-10-07 |
 | Stuffed Foods Lobster Ravioli 680 g / 24 oz | Stuffed Foods | $99.95 | 2026-10-05 |
 | President Brie Cheese Spreadable 3 Units / 139 g / 4.9 oz | President | $27.70 | 2026-10-05 |
 | Frozen Bone-In Pork Shoulder Vacuum Packed |  | $205.69 | 2026-10-05 |
@@ -107,13 +110,12 @@
 | Annie's Organic Macaroni and Cheese Variety Pack 12 Units / 170 g | Annies | $99.70 | 2026-10-04 |
 | Member's Selection Frozen Boneless Pork Loin Roast Tray | Member's Selection | $100.71 | 2026-10-04 |
 | Kraft Cheez Whiz 2 Units / 425 g / 15 oz | Kraft | $86.95 | 2026-10-03 |
-| De Carlo White Truffle Flavor Extra Virgin Olive Oil 500 mL / 16 oz | De Carlo | $49.70 | 2026-10-02 |
-| Member's Selection Frozen Skin On Boneless Salmon Fillet Vacuum Packed | Member's Selection | $169.64 | 2026-10-02 |
-| Welch's Sparkling Rose Non-Alcoholic 3 Units / 750 mL | Welch's | $79.70 | 2026-09-30 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Krusteaz Cinnamon Swirl Crumb Cake & Muffin Mix with Toppings 3 Units / 411 g / 14.5 oz | Krusteaz | $92.95 | G10D03 |
-| Poppycock Gourmet Caramel Popcorn with Cashews 850 g / 30 oz | Poppycock | $169.95 | G10D03 |
+| Karibbean Flavors Tamarind Chutney, Sweet and Spicy 2 Units / 450 g | Karibbean Flavours | $45.95 | G10D03 |
+| Member's Selection Italian Sparkling Mineral Water 24 Units / 500 mL / 16.9 oz | Member's Selection | $229.95 | G10D03 |
+| Suzy's Rum Raisin Cheesecake with Caramel and Walnuts 12 Slices | Suzy's Cream Cheesecakes | $141.29 | G10D03 |
+| Delve Dip Variety Pack 3 Units / 170 g / 6 oz | Delve | $109.95 | G10D03 |
