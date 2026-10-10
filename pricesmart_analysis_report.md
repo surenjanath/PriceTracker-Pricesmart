@@ -1,22 +1,22 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1188
-- **Total value**: $133,589.12
-- **Average price**: $112.45
+- **Total products scraped**: 1191
+- **Total value**: $134,276.74
+- **Average price**: $112.74
 
 ## Database Changes
-- **New products added**: 5
-- **Existing products updated**: 1183
-- **Price changes detected**: 36
-- **Stock/availability changes**: 8
-- **Discontinued products**: 1
+- **New products added**: 3
+- **Existing products updated**: 1188
+- **Price changes detected**: 26
+- **Stock/availability changes**: 12
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 178 |
+| Member's Selection | 179 |
 |  | 150 |
 | Swiss | 15 |
 | Badia | 14 |
@@ -30,41 +30,41 @@
 | Califia Farms Unsweetened Almond Drink 1.4 L / 48 oz | Califia Farms | $69.95 | true |
 | Sincerely Brigitte Assorted Cheese Set 495 g / 17.5 oz | Sincerely  Brigitte | $124.95 | true |
 | Rip Van Dark Chocolate Vegan Wafer Cookies 24 Units / 22 g / 0.78 oz | Rip Van | $146.95 | true |
+| Viva Zero Sugar Assorted Flavor Sparkling Water 24 Units / 355 mL | Viva | $89.95 | true |
 | Member's Selection Low-Moisture Part-Skim Shredded Mozzarella Cheese 2.2 kg / 5 lb | Member's Selection | $124.95 | true |
 |  MorningStar Farms Vegan Chicken-Style Nuggets 298 g / 10.5 oz | MorningStar Farms | $119.95 | true |
-| Viva Zero Sugar Assorted Flavor Sparkling Water 24 Units / 355 mL | Viva | $89.95 | true |
+| Nescafé Classic Instant Soluble Coffee 170 g + Cup | Nescafé | $63.95 | true |
 | Sam Trade Red Lentil Protein-Based Penne Pasta 2 Units / 227 g / 8 oz | Sam Trade | $64.95 | true |
 | Life Frozen Sweet Potato Fries 2.26 kg / 5 lb | Life | $69.95 | true |
-| Nescafé Classic Instant Soluble Coffee 170 g + Cup | Nescafé | $63.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1148
-- **Price increases**: 635
-- **Price decreases**: 458
-- **Average increase**: 7.4%
-- **Average decrease**: -5.1%
+- **Total price changes**: 1124
+- **Price increases**: 620
+- **Price decreases**: 453
+- **Average increase**: 7.7%
+- **Average decrease**: -5.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Anjous Pears 1.36 kg / 3 lb | $64.95 | $79.95 | $+15.00 | +23.1% | Increase |
-| Dutch Potatoes 22.6 kg / 50 lb | $109.95 | $132.95 | $+23.00 | +20.9% | Increase |
-| Flavorite Cassatta Ice Cream 2.3 L / 77.7 oz | $0.00 | $59.95 | $+59.95 | +100.0% | New |
-|  Gouda Cheese 20 kg / 44 lb | $0.00 | $1059.95 | $+1059.95 | +100.0% | New |
-| Stahl Meyer Whole Smoked Frozen Turkey Thigh | $0.00 | $98.80 | $+98.80 | +100.0% | New |
-| Creamery Novelties Ice Cream Punch de Créme 3.78 L / 1 gal | $72.95 | $74.95 | $+2.00 | +2.7% | Increase |
-| Frozen Lamb Leg Whole Vacuum Packed | $399.61 | $398.74 | $-0.87 | -0.2% | Decrease |
-| Frozen Sliced Turkey Wings, Bag | $163.79 | $163.33 | $-0.46 | -0.3% | Decrease |
-| Frozen Beef Feet  | $116.03 | $115.13 | $-0.90 | -0.8% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.78 | $114.96 | $+0.18 | +0.2% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $66.13 | $66.20 | $+0.07 | +0.1% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $94.89 | $94.66 | $-0.23 | -0.2% | Decrease |
-| Fresh Ground Chicken Meat Bag | $303.59 | $304.07 | $+0.48 | +0.2% | Increase |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $96.70 | $96.41 | $-0.29 | -0.3% | Decrease |
-| Fresh Chicken Leg Quarters Tray | $93.81 | $93.91 | $+0.10 | +0.1% | Increase |
+| Cultured Cravings Coconut Yogurt 12 Units / 150 g / 5.3 oz | $89.70 | $229.95 | $+140.25 | +156.4% | Increase |
+| Chief Ground Split Peas for Soups and Dhal 1.2 kg | $0.00 | $36.95 | $+36.95 | +100.0% | New |
+| Stahl Meyer Whole Smoked Frozen Turkey Thigh | $0.00 | $161.40 | $+161.40 | +100.0% | New |
+| Stahl Meyer Whole Smoked Frozen Turkey Thigh | $98.80 | $155.62 | $+56.82 | +57.5% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $245.86 | $245.29 | $-0.57 | -0.2% | Decrease |
+| Frozen Bone-In Goat Carcass Case | $1232.52 | $1308.06 | $+75.54 | +6.1% | Increase |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $321.54 | $323.38 | $+1.84 | +0.6% | Increase |
+| Frozen Imported Pork Leg Slices | $94.69 | $94.34 | $-0.35 | -0.4% | Decrease |
+| Frozen Sliced Turkey Wings, Bag | $163.33 | $162.88 | $-0.45 | -0.3% | Decrease |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $88.20 | $88.06 | $-0.14 | -0.2% | Decrease |
+| Papaya | $38.22 | $38.12 | $-0.10 | -0.3% | Decrease |
+| Fresh Beef Ribeye Steak Vacuum Packed | $2934.78 | $3076.13 | $+141.35 | +4.8% | Increase |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $420.58 | $415.33 | $-5.25 | -1.2% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $66.20 | $66.13 | $-0.07 | -0.1% | Decrease |
+| Frozen Boneless Skinless Chicken Breast Tray | $211.59 | $210.94 | $-0.65 | -0.3% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -115,8 +115,6 @@
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Flavorite Cassatta Ice Cream 2.3 L / 77.7 oz | Flavorite | $59.95 | G10D03 |
-|  Gouda Cheese 20 kg / 44 lb |  | $1059.95 | G10D03 |
-| Stahl Meyer Whole Smoked Frozen Turkey Thigh | Stahl Meyer | $98.80 | G10D03 |
-| Swiss Miss Hot Chocolate Mix with Marshmallows 60 Units / 28 g / 1 oz | Swiss Miss | $139.95 | G10D03 |
-| Wellesley Farms Snacks Cheddar Cheese with Nuts and Cranberries 12 Units / 43 g / 1.5 oz | Wellsley Farms | $147.95 | G10D03 |
+| Chief Ground Split Peas for Soups and Dhal 1.2 kg | Chief | $36.95 | G10D03 |
+| Stahl Meyer Whole Smoked Frozen Turkey Thigh | Stahl Meyer | $161.40 | G10D03 |
+| Member's Selection Greek Yogurt Non-Fat 907 g / 32 oz | Member's Selection | $51.95 | G10D03 |
