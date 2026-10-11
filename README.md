@@ -185,15 +185,15 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1191
-- **Total value**: $134,276.74
-- **Average price**: $112.74
+- **Total value**: $134,540.98
+- **Average price**: $112.96
 
 ## Database Changes
-- **New products added**: 3
-- **Existing products updated**: 1188
-- **Price changes detected**: 26
-- **Stock/availability changes**: 12
-- **Discontinued products**: 0
+- **New products added**: 1
+- **Existing products updated**: 1190
+- **Price changes detected**: 40
+- **Stock/availability changes**: 16
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -210,44 +210,44 @@ This project has recently gained unexpected attention. It was created for person
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
 | Zalea Gourmet Sliced Peaches in Light Syrup 2 Unidades / 425 g / 15 oz | Zalea Gourmet | $57.95 | true |
-| Califia Farms Unsweetened Almond Drink 1.4 L / 48 oz | Califia Farms | $69.95 | true |
 | Sincerely Brigitte Assorted Cheese Set 495 g / 17.5 oz | Sincerely  Brigitte | $124.95 | true |
 | Rip Van Dark Chocolate Vegan Wafer Cookies 24 Units / 22 g / 0.78 oz | Rip Van | $146.95 | true |
-| Viva Zero Sugar Assorted Flavor Sparkling Water 24 Units / 355 mL | Viva | $89.95 | true |
 | Member's Selection Low-Moisture Part-Skim Shredded Mozzarella Cheese 2.2 kg / 5 lb | Member's Selection | $124.95 | true |
-|  MorningStar Farms Vegan Chicken-Style Nuggets 298 g / 10.5 oz | MorningStar Farms | $119.95 | true |
+| Viva Zero Sugar Assorted Flavor Sparkling Water 24 Units / 355 mL | Viva | $89.95 | true |
 | Nescafé Classic Instant Soluble Coffee 170 g + Cup | Nescafé | $63.95 | true |
 | Sam Trade Red Lentil Protein-Based Penne Pasta 2 Units / 227 g / 8 oz | Sam Trade | $64.95 | true |
+|  MorningStar Farms Vegan Chicken-Style Nuggets 298 g / 10.5 oz | MorningStar Farms | $119.95 | true |
 | Life Frozen Sweet Potato Fries 2.26 kg / 5 lb | Life | $69.95 | true |
+| Stauffers Snaps Crispy Pumpkin Flavor Cookies with Spices 397 g / 14 oz | Stauffers | $49.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1124
-- **Price increases**: 620
-- **Price decreases**: 453
-- **Average increase**: 7.7%
-- **Average decrease**: -5.0%
+- **Total price changes**: 1135
+- **Price increases**: 638
+- **Price decreases**: 445
+- **Average increase**: 7.8%
+- **Average decrease**: -4.9%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Cultured Cravings Coconut Yogurt 12 Units / 150 g / 5.3 oz | $89.70 | $229.95 | $+140.25 | +156.4% | Increase |
-| Chief Ground Split Peas for Soups and Dhal 1.2 kg | $0.00 | $36.95 | $+36.95 | +100.0% | New |
-| Stahl Meyer Whole Smoked Frozen Turkey Thigh | $0.00 | $161.40 | $+161.40 | +100.0% | New |
-| Stahl Meyer Whole Smoked Frozen Turkey Thigh | $98.80 | $155.62 | $+56.82 | +57.5% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $245.86 | $245.29 | $-0.57 | -0.2% | Decrease |
-| Frozen Bone-In Goat Carcass Case | $1232.52 | $1308.06 | $+75.54 | +6.1% | Increase |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $321.54 | $323.38 | $+1.84 | +0.6% | Increase |
-| Frozen Imported Pork Leg Slices | $94.69 | $94.34 | $-0.35 | -0.4% | Decrease |
-| Frozen Sliced Turkey Wings, Bag | $163.33 | $162.88 | $-0.45 | -0.3% | Decrease |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $88.20 | $88.06 | $-0.14 | -0.2% | Decrease |
-| Papaya | $38.22 | $38.12 | $-0.10 | -0.3% | Decrease |
-| Fresh Beef Ribeye Steak Vacuum Packed | $2934.78 | $3076.13 | $+141.35 | +4.8% | Increase |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $420.58 | $415.33 | $-5.25 | -1.2% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $66.20 | $66.13 | $-0.07 | -0.1% | Decrease |
-| Frozen Boneless Skinless Chicken Breast Tray | $211.59 | $210.94 | $-0.65 | -0.3% | Decrease |
+| Member's Selection Chilled Chicken Liver, Tray Pack | $31.02 | $30.92 | $-0.10 | -0.3% | Decrease |
+| Fresh Whole Chicken 2 Units | $105.55 | $105.37 | $-0.18 | -0.2% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $94.66 | $94.89 | $+0.23 | +0.2% | Increase |
+| Betty Crocker Vanilla and Chocolate Super Moist Cake Mix 4 Units / 375 g / 13.25 oz | $74.95 | $77.95 | $+3.00 | +4.0% | Increase |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $132.19 | $136.85 | $+4.66 | +3.5% | Increase |
+| Laurieri Master Bakers Scrocchi Truffle Crackers 6 Units / 175 g / 6.17 oz | $0.00 | $129.95 | $+129.95 | +100.0% | New |
+| Fresh Bone-in Chicken Thighs Tray | $66.13 | $66.20 | $+0.07 | +0.1% | Increase |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $96.41 | $96.27 | $-0.14 | -0.1% | Decrease |
+| Fresh Chicken Breast Bone In Tray | $92.42 | $92.33 | $-0.09 | -0.1% | Decrease |
+| Papaya | $38.12 | $38.02 | $-0.10 | -0.3% | Decrease |
+| Stahl Meyer Whole Smoked Frozen Turkey Thigh | $155.62 | $196.77 | $+41.15 | +26.4% | Increase |
+| Fresh Whole Chicken for Frying Bag | $295.87 | $295.36 | $-0.51 | -0.2% | Decrease |
+| Frozen Lamb Shoulder Chops Tray | $126.06 | $125.87 | $-0.19 | -0.2% | Decrease |
+| Member's Selection Ready-to-Eat Barbecue Flavored Chicken Wings | $89.77 | $89.08 | $-0.69 | -0.8% | Decrease |
+| Nutrina Chilled Whole Chicken Bag | $338.99 | $339.67 | $+0.68 | +0.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Crystal Farms Light String Cheese 24 Units 567 g / 1.25 lb | Crystal Farms | $75.95 | 2026-10-10 |
 | Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | Eggo | $109.95 | 2026-10-08 |
 | Carmencita Paella Seasoning with Saffron 15 Units / 4 g / 0.14 oz | Carmencita | $24.70 | 2026-10-07 |
 | Nature's Pride Yellow Split Peas 1.8 kg / 4 lb | Nature's Pride | $21.95 | 2026-10-07 |
@@ -292,12 +293,9 @@ This project has recently gained unexpected attention. It was created for person
 | Frozen Bone-In Pork Shoulder Vacuum Packed |  | $205.69 | 2026-10-05 |
 | 6ix Naturals 100% Soybean Oil 5 L | 6ix Naturals | $82.95 | 2026-10-04 |
 | Annie's Organic Macaroni and Cheese Variety Pack 12 Units / 170 g | Annies | $99.70 | 2026-10-04 |
-| Member's Selection Frozen Boneless Pork Loin Roast Tray | Member's Selection | $100.71 | 2026-10-04 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Chief Ground Split Peas for Soups and Dhal 1.2 kg | Chief | $36.95 | G10D03 |
-| Stahl Meyer Whole Smoked Frozen Turkey Thigh | Stahl Meyer | $161.40 | G10D03 |
-| Member's Selection Greek Yogurt Non-Fat 907 g / 32 oz | Member's Selection | $51.95 | G10D03 |
+| Laurieri Master Bakers Scrocchi Truffle Crackers 6 Units / 175 g / 6.17 oz | Laurieri | $129.95 | G10D03 |
