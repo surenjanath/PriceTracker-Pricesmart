@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1191
-- **Total value**: $134,540.98
-- **Average price**: $112.96
+- **Total products scraped**: 1190
+- **Total value**: $134,701.35
+- **Average price**: $113.19
 
 ## Database Changes
 - **New products added**: 1
-- **Existing products updated**: 1190
-- **Price changes detected**: 40
+- **Existing products updated**: 1189
+- **Price changes detected**: 30
 - **Stock/availability changes**: 16
-- **Discontinued products**: 1
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1135
-- **Price increases**: 638
-- **Price decreases**: 445
-- **Average increase**: 7.8%
-- **Average decrease**: -4.9%
+- **Total price changes**: 1150
+- **Price increases**: 647
+- **Price decreases**: 450
+- **Average increase**: 8.7%
+- **Average decrease**: -4.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Member's Selection Chilled Chicken Liver, Tray Pack | $31.02 | $30.92 | $-0.10 | -0.3% | Decrease |
-| Fresh Whole Chicken 2 Units | $105.55 | $105.37 | $-0.18 | -0.2% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $94.66 | $94.89 | $+0.23 | +0.2% | Increase |
-| Betty Crocker Vanilla and Chocolate Super Moist Cake Mix 4 Units / 375 g / 13.25 oz | $74.95 | $77.95 | $+3.00 | +4.0% | Increase |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $132.19 | $136.85 | $+4.66 | +3.5% | Increase |
-| Laurieri Master Bakers Scrocchi Truffle Crackers 6 Units / 175 g / 6.17 oz | $0.00 | $129.95 | $+129.95 | +100.0% | New |
-| Fresh Bone-in Chicken Thighs Tray | $66.13 | $66.20 | $+0.07 | +0.1% | Increase |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $96.41 | $96.27 | $-0.14 | -0.1% | Decrease |
-| Fresh Chicken Breast Bone In Tray | $92.42 | $92.33 | $-0.09 | -0.1% | Decrease |
-| Papaya | $38.12 | $38.02 | $-0.10 | -0.3% | Decrease |
-| Stahl Meyer Whole Smoked Frozen Turkey Thigh | $155.62 | $196.77 | $+41.15 | +26.4% | Increase |
-| Fresh Whole Chicken for Frying Bag | $295.87 | $295.36 | $-0.51 | -0.2% | Decrease |
-| Frozen Lamb Shoulder Chops Tray | $126.06 | $125.87 | $-0.19 | -0.2% | Decrease |
-| Member's Selection Ready-to-Eat Barbecue Flavored Chicken Wings | $89.77 | $89.08 | $-0.69 | -0.8% | Decrease |
-| Nutrina Chilled Whole Chicken Bag | $338.99 | $339.67 | $+0.68 | +0.2% | Increase |
+| Member's Selection Chilled Chicken Liver, Tray Pack | $30.92 | $31.02 | $+0.10 | +0.3% | Increase |
+| Oasis Kids Apple and Cranberry Flavored Water 24 Units / 200 mL | $0.00 | $39.95 | $+39.95 | +100.0% | New |
+| Frozen Lamb Leg Whole Vacuum Packed | $398.74 | $392.98 | $-5.76 | -1.4% | Decrease |
+| Member's Selection Frozen Bone-In Pork Leg Vacuum Packed | $457.79 | $460.79 | $+3.00 | +0.7% | Increase |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $323.38 | $361.65 | $+38.27 | +11.8% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $245.29 | $244.15 | $-1.14 | -0.5% | Decrease |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $80.78 | $80.66 | $-0.12 | -0.1% | Decrease |
+| Frozen Imported Pork Leg Slices | $94.34 | $94.23 | $-0.11 | -0.1% | Decrease |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $415.33 | $420.58 | $+5.25 | +1.3% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.96 | $114.78 | $-0.18 | -0.2% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $96.27 | $96.13 | $-0.14 | -0.1% | Decrease |
+| Papaya | $38.02 | $38.06 | $+0.04 | +0.1% | Increase |
+| Member's Selection Ready-to-Eat Barbecue Flavored Chicken Wings | $89.08 | $174.36 | $+85.28 | +95.7% | Increase |
+| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $68.05 | $68.16 | $+0.11 | +0.2% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $125.87 | $125.69 | $-0.18 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,8 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Karibbean Flavors Tamarind Chutney, Sweet and Spicy 2 Units / 450 g | Karibbean Flavours | $45.95 | 2026-10-11 |
+| Ocean Spray Cranberry and Watermelon Juice Blend 2 Units / 1.89 L / 64 oz | Ocean Spray | $72.95 | 2026-10-11 |
 | Crystal Farms Light String Cheese 24 Units 567 g / 1.25 lb | Crystal Farms | $75.95 | 2026-10-10 |
 | Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | Eggo | $109.95 | 2026-10-08 |
 | Carmencita Paella Seasoning with Saffron 15 Units / 4 g / 0.14 oz | Carmencita | $24.70 | 2026-10-07 |
@@ -291,11 +293,9 @@ This project has recently gained unexpected attention. It was created for person
 | Stuffed Foods Lobster Ravioli 680 g / 24 oz | Stuffed Foods | $99.95 | 2026-10-05 |
 | President Brie Cheese Spreadable 3 Units / 139 g / 4.9 oz | President | $27.70 | 2026-10-05 |
 | Frozen Bone-In Pork Shoulder Vacuum Packed |  | $205.69 | 2026-10-05 |
-| 6ix Naturals 100% Soybean Oil 5 L | 6ix Naturals | $82.95 | 2026-10-04 |
-| Annie's Organic Macaroni and Cheese Variety Pack 12 Units / 170 g | Annies | $99.70 | 2026-10-04 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Laurieri Master Bakers Scrocchi Truffle Crackers 6 Units / 175 g / 6.17 oz | Laurieri | $129.95 | G10D03 |
+| Oasis Kids Apple and Cranberry Flavored Water 24 Units / 200 mL | Oasis | $39.95 | G10D03 |
