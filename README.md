@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1188
-- **Total value**: $134,677.51
-- **Average price**: $113.36
+- **Total products scraped**: 1190
+- **Total value**: $134,450.99
+- **Average price**: $112.98
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1186
-- **Price changes detected**: 22
-- **Stock/availability changes**: 11
-- **Discontinued products**: 4
+- **New products added**: 0
+- **Existing products updated**: 1190
+- **Price changes detected**: 21
+- **Stock/availability changes**: 15
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 179 |
-|  | 150 |
+| Member's Selection | 178 |
+|  | 151 |
 | Swiss | 15 |
 | Badia | 14 |
 | Kirkland Signature | 12 |
@@ -212,42 +212,42 @@ This project has recently gained unexpected attention. It was created for person
 | Zalea Gourmet Sliced Peaches in Light Syrup 2 Unidades / 425 g / 15 oz | Zalea Gourmet | $57.95 | true |
 | Sincerely Brigitte Assorted Cheese Set 495 g / 17.5 oz | Sincerely  Brigitte | $124.95 | true |
 | Rip Van Dark Chocolate Vegan Wafer Cookies 24 Units / 22 g / 0.78 oz | Rip Van | $146.95 | true |
+| Califia Farms Unsweetened Almond Drink 1.4 L / 48 oz | Califia Farms | $69.95 | true |
 | Member's Selection Low-Moisture Part-Skim Shredded Mozzarella Cheese 2.2 kg / 5 lb | Member's Selection | $124.95 | true |
 | Sam Trade Red Lentil Protein-Based Penne Pasta 2 Units / 227 g / 8 oz | Sam Trade | $69.95 | true |
 | Viva Zero Sugar Assorted Flavor Sparkling Water 24 Units / 355 mL | Viva | $89.95 | true |
 | Nescafé Classic Instant Soluble Coffee 170 g + Cup | Nescafé | $63.95 | true |
 | Life Frozen Sweet Potato Fries 2.26 kg / 5 lb | Life | $69.95 | true |
 |  MorningStar Farms Vegan Chicken-Style Nuggets 298 g / 10.5 oz | MorningStar Farms | $119.95 | true |
-| Sweet Craft Dolceria Ube Cheesecake 6 Pack 113.4 g / 4 oz |  | $179.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1156
-- **Price increases**: 647
-- **Price decreases**: 454
-- **Average increase**: 8.8%
-- **Average decrease**: -4.8%
+- **Total price changes**: 1177
+- **Price increases**: 655
+- **Price decreases**: 467
+- **Average increase**: 8.7%
+- **Average decrease**: -5.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Jus Milk Whole Milk Powder 1.8 kg | $0.00 | $66.95 | $+66.95 | +100.0% | New |
-|  Gouda Cheese 20 kg / 44 lb | $1059.95 | $1214.95 | $+155.00 | +14.6% | Increase |
-| Rastelli's Herb Seasoned Pork Loin 1.8 kg / 4 lb | $0.00 | $259.95 | $+259.95 | +100.0% | New |
-| Stahl Meyer Whole Smoked Frozen Turkey Thigh | $161.40 | $149.44 | $-11.96 | -7.4% | Decrease |
-| Frozen Imported Pork Leg Slices | $94.23 | $94.34 | $+0.11 | +0.1% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $114.78 | $114.60 | $-0.18 | -0.2% | Decrease |
-| Papaya | $38.06 | $38.09 | $+0.03 | +0.1% | Increase |
-| Frozen Boneless Skinless Chicken Breast Tray | $210.94 | $210.28 | $-0.66 | -0.3% | Decrease |
-| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $68.16 | $68.05 | $-0.11 | -0.2% | Decrease |
-| Frozen Lamb Shoulder Chops Tray | $125.69 | $125.87 | $+0.18 | +0.1% | Increase |
-| Member's Selection Frozen Bone-In Lamb Shoulder Round Tray | $131.60 | $131.41 | $-0.19 | -0.1% | Decrease |
-| Nutrina Chilled Whole Chicken Bag | $340.01 | $340.35 | $+0.34 | +0.1% | Increase |
-| Fresh Chicken Mixed Parts Tray | $75.72 | $76.12 | $+0.40 | +0.5% | Increase |
-| Pranksters Kiwi 454 g / 16 oz | $89.95 | $49.70 | $-40.25 | -44.7% | Decrease |
-| Fresh Ginger 1.36 kg / 3 lb | $39.95 | $24.70 | $-15.25 | -38.2% | Decrease |
+| Lipton Black Tea Yellow Label 2 Units / 100 Tea Bags / 2 g | $106.95 | $96.95 | $-10.00 | -9.4% | Decrease |
+| Member's Selection Frozen Bone-In Pork Leg Vacuum Packed | $460.79 | $470.78 | $+9.99 | +2.2% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $244.15 | $242.45 | $-1.70 | -0.7% | Decrease |
+| Frozen Sliced Turkey Wings, Bag | $162.88 | $162.19 | $-0.69 | -0.4% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $66.20 | $66.27 | $+0.07 | +0.1% | Increase |
+| Member's Selection Frozen Bone-In Lamb Shoulder Round Tray | $131.41 | $131.22 | $-0.19 | -0.1% | Decrease |
+| Cauliflower 1 Unit | $64.95 | $39.70 | $-25.25 | -38.9% | Decrease |
+| Suzy's Rum Raisin Cheesecake with Caramel and Walnuts 12 Slices | $141.29 | $158.95 | $+17.66 | +12.5% | Increase |
+| Frozen Bone In Pork Shoulder Sliced Tray | $76.04 | $75.93 | $-0.11 | -0.1% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $295.20 | $294.52 | $-0.68 | -0.2% | Decrease |
+| Nutrina Chilled Whole Chicken Bag | $340.35 | $340.52 | $+0.17 | +0.0% | Increase |
+| Bolthouse Farms Carrot Juice 1.54 L | $82.95 | $39.70 | $-43.25 | -52.1% | Decrease |
+| Reny Picot Camembert Cheese 397 g / 14 oz | $49.70 | $29.70 | $-20.00 | -40.2% | Decrease |
+| Frozen Sliced Baby Back Ribs | $156.26 | $153.41 | $-2.85 | -1.8% | Decrease |
+| Fresh Ground Chicken Tray | $102.23 | $102.10 | $-0.13 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,8 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Trevijano Thai Style Cous Cous Rice 800 g / 28.2 oz | Trevijano | $74.95 | 2026-10-13 |
+| Member's Selection Soybean Oil 17.2 L | Member's Selection | $339.95 | 2026-10-13 |
 | Mrs Thinster Toasted Coconut Cookies 454 g | Mrs. Thinster's | $92.95 | 2026-10-12 |
 | Arla Havarti & Gouda Snack Cheese 24 Units / 21 g / 0.75 oz  | Arla | $112.95 | 2026-10-12 |
 | Gorton's Pub Style Cod 921 g / 2 lb | Gorton's | $164.95 | 2026-10-12 |
@@ -291,12 +293,6 @@ This project has recently gained unexpected attention. It was created for person
 | Ocean Spray Cranberry and Watermelon Juice Blend 2 Units / 1.89 L / 64 oz | Ocean Spray | $72.95 | 2026-10-11 |
 | Crystal Farms Light String Cheese 24 Units 567 g / 1.25 lb | Crystal Farms | $75.95 | 2026-10-10 |
 | Eggo Thick & Fluffy Waffles Original & Blueberry 2 Units / 330 g / 11.6 oz | Eggo | $109.95 | 2026-10-08 |
-| Carmencita Paella Seasoning with Saffron 15 Units / 4 g / 0.14 oz | Carmencita | $24.70 | 2026-10-07 |
-| Nature's Pride Yellow Split Peas 1.8 kg / 4 lb | Nature's Pride | $21.95 | 2026-10-07 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Jus Milk Whole Milk Powder 1.8 kg | Jus Milk | $66.95 | G10D03 |
-| Rastelli's Herb Seasoned Pork Loin 1.8 kg / 4 lb | Rastelli's | $259.95 | G10D03 |
+No new products added today.
