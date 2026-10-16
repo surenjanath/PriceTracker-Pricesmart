@@ -1,23 +1,23 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1184
-- **Total value**: $134,514.19
-- **Average price**: $113.61
+- **Total products scraped**: 1170
+- **Total value**: $133,703.70
+- **Average price**: $114.28
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1184
-- **Price changes detected**: 72
-- **Stock/availability changes**: 15
-- **Discontinued products**: 7
+- **New products added**: 1
+- **Existing products updated**: 1169
+- **Price changes detected**: 55
+- **Stock/availability changes**: 11
+- **Discontinued products**: 15
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 177 |
-|  | 151 |
+| Member's Selection | 175 |
+|  | 146 |
 | Swiss | 15 |
 | Badia | 14 |
 | Kirkland Signature | 12 |
@@ -31,8 +31,8 @@
 | Rip Van Dark Chocolate Vegan Wafer Cookies 24 Units / 22 g / 0.78 oz | Rip Van | $146.95 | true |
 | Califia Farms Unsweetened Almond Drink 1.4 L / 48 oz | Califia Farms | $69.95 | true |
 | Sam Trade Red Lentil Protein-Based Penne Pasta 2 Units / 227 g / 8 oz | Sam Trade | $69.95 | true |
-| Nescafé Classic Instant Soluble Coffee 170 g + Cup | Nescafé | $63.95 | true |
 | Viva Zero Sugar Assorted Flavor Sparkling Water 24 Units / 355 mL | Viva | $89.95 | true |
+| Nescafé Classic Instant Soluble Coffee 170 g + Cup | Nescafé | $63.95 | true |
 | Life Frozen Sweet Potato Fries 2.26 kg / 5 lb | Life | $69.95 | true |
 |  MorningStar Farms Vegan Chicken-Style Nuggets 298 g / 10.5 oz | MorningStar Farms | $119.95 | true |
 | Sweet Craft Dolceria Ube Cheesecake 6 Pack 113.4 g / 4 oz |  | $179.95 | true |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1214
-- **Price increases**: 681
-- **Price decreases**: 480
-- **Average increase**: 8.4%
-- **Average decrease**: -5.2%
+- **Total price changes**: 1242
+- **Price increases**: 708
+- **Price decreases**: 482
+- **Average increase**: 8.2%
+- **Average decrease**: -5.3%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Best Fruit Lover's Prune Sweet and Spicy Prunes 453 g / 16 oz | $64.95 | $67.95 | $+3.00 | +4.6% | Increase |
-| Member's Selection Assorted Flavor Freshly Baked Cookies 144 Units | $244.95 | $254.95 | $+10.00 | +4.1% | Increase |
-| Member's Selection Chilled Chicken Liver, Tray Pack | $31.02 | $30.92 | $-0.10 | -0.3% | Decrease |
-| Member's Selection Freshly Baked Assorted Flavor Muffins 35 Units | $226.95 | $234.95 | $+8.00 | +3.5% | Increase |
-| Frozen Beef Tails Case | $2124.15 | $2634.15 | $+510.00 | +24.0% | Increase |
-| Member's Selection Freshly Baked Chocolate Chocolate Chip Muffins 35 Units | $231.95 | $239.95 | $+8.00 | +3.4% | Increase |
-| Frozen Sliced Turkey Wings, Bag | $162.19 | $162.88 | $+0.69 | +0.4% | Increase |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $136.85 | $135.63 | $-1.22 | -0.9% | Decrease |
-| Frozen Imported Pork Leg Slices | $94.34 | $94.23 | $-0.11 | -0.1% | Decrease |
-| Member's Selection Daily Baked Coconut Bread 6 Units  | $29.95 | $31.95 | $+2.00 | +6.7% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $66.27 | $66.34 | $+0.07 | +0.1% | Increase |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $420.58 | $415.33 | $-5.25 | -1.2% | Decrease |
-| Prairie Farms Whole Milk 1.89 L / 64 oz | $58.95 | $57.95 | $-1.00 | -1.7% | Decrease |
-| Fresh Ground Chicken Meat Bag | $304.07 | $305.27 | $+1.20 | +0.4% | Increase |
-| Fresh Chicken Leg Quarters Tray | $93.81 | $93.91 | $+0.10 | +0.1% | Increase |
+| Old El Paso Wheat Flour Tortillas 20 Units / 23.2 g / 0.82 oz | $0.00 | $49.95 | $+49.95 | +100.0% | New |
+| Stahl Meyer Whole Smoked Frozen Turkey Thigh | $149.44 | $155.68 | $+6.24 | +4.2% | Increase |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $135.63 | $137.18 | $+1.55 | +1.1% | Increase |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $88.06 | $88.20 | $+0.14 | +0.2% | Increase |
+| Frozen Sliced Turkey Drumsticks | $143.86 | $144.85 | $+0.99 | +0.7% | Increase |
+| Frozen Imported Pork Leg Slices | $94.23 | $93.99 | $-0.24 | -0.3% | Decrease |
+| Apple Lucy 907 g / 2 lb | $79.95 | $39.70 | $-40.25 | -50.3% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $96.13 | $95.98 | $-0.15 | -0.2% | Decrease |
+| Fresh Ground Chicken Meat Bag | $305.27 | $304.07 | $-1.20 | -0.4% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Shoulder Round Tray | $131.22 | $131.41 | $+0.19 | +0.1% | Increase |
+| Frozen Boneless Skinless Chicken Breast Tray | $210.28 | $205.15 | $-5.13 | -2.4% | Decrease |
+| Fresh Beef Striploin Steak Tray | $197.37 | $194.97 | $-2.40 | -1.2% | Decrease |
+| Cauliflower 1 Unit | $39.70 | $64.95 | $+25.25 | +63.6% | Increase |
+| Fresh Whole Chicken for Frying Bag | $294.35 | $294.18 | $-0.17 | -0.1% | Decrease |
+| Nutrina Chilled Whole Chicken Bag | $340.52 | $341.37 | $+0.85 | +0.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,16 +100,19 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
-| Sundays Strawberry Cheesecake Ice Cream 3.78 L / 1 gal | Sundays | $59.95 | 2026-10-14 |
-| Tsatsakis Sunflower Seed Breadsticks 2 Packs 400 g / 14.1 oz | Tsatsakis | $19.70 | 2026-10-14 |
-| DeLallo Provoloni Antipasti 317 g / 11.2 oz | DeLallo | $49.70 | 2026-10-14 |
-| Happy Village Organic Fig and Nut Mini Bars 24 Units / 20 g / 0.7 oz | Happy Village | $89.70 | 2026-10-14 |
-| Calbee Snacks Lightly Salted Baked Pea Crisps 567 g / 1.25 lb | Calbee | $49.70 | 2026-10-14 |
-| Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2026-10-14 |
-| Macfoods Roast Boneless Pork Belly, 1 kg / 2.2 lb | Macfoods | $79.95 | 2026-10-14 |
-| Trevijano Thai Style Cous Cous Rice 800 g / 28.2 oz | Trevijano | $74.95 | 2026-10-13 |
-| Member's Selection Soybean Oil 17.2 L | Member's Selection | $339.95 | 2026-10-13 |
-| Mrs Thinster Toasted Coconut Cookies 454 g | Mrs. Thinster's | $92.95 | 2026-10-12 |
+| General Mills Triple Chex Cereal Mix 1.53 kg / 3 lb | General Mills | $86.95 | 2026-10-15 |
+| Golden Raisins 1 kg / 2.2 lb |  | $79.95 | 2026-10-15 |
+| Currants 1 kg / 2.2 lb |  | $69.95 | 2026-10-15 |
+| Candied Cherries 1 kg / 2.2 lb |  | $89.95 | 2026-10-15 |
+| Nature's Pride Pigeon Peas 1.8 kg / 4 lb | Nature's Pride | $43.95 | 2026-10-15 |
+| Prunes 1 kg / 2.2 lb |  | $49.95 | 2026-10-15 |
+| Black Raisins 1 kg / 2.2 lb |  | $54.95 | 2026-10-15 |
+| Nature's Pride Red Beans 1.8 kg / 4 lb | Nature's Pride | $59.95 | 2026-10-15 |
+| Nature's Pride Black Beans 1.8 kg / 4 lb | Nature's Pride | $43.95 | 2026-10-15 |
+| Nature's Pride Lentils 2.3 kg / 5 lb | Nature's Pride | $41.95 | 2026-10-15 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Old El Paso Wheat Flour Tortillas 20 Units / 23.2 g / 0.82 oz | Old El Paso | $49.95 | G10D03 |
