@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1175
-- **Total value**: $134,276.19
-- **Average price**: $114.28
+- **Total products scraped**: 1176
+- **Total value**: $134,304.32
+- **Average price**: $114.20
 
 ## Database Changes
-- **New products added**: 0
+- **New products added**: 1
 - **Existing products updated**: 1175
-- **Price changes detected**: 22
-- **Stock/availability changes**: 12
-- **Discontinued products**: 1
+- **Price changes detected**: 49
+- **Stock/availability changes**: 8
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1225
-- **Price increases**: 683
-- **Price decreases**: 488
-- **Average increase**: 8.4%
-- **Average decrease**: -5.3%
+- **Total price changes**: 1199
+- **Price increases**: 668
+- **Price decreases**: 478
+- **Average increase**: 8.6%
+- **Average decrease**: -5.7%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $88.34 | $88.47 | $+0.13 | +0.1% | Increase |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $137.18 | $135.63 | $-1.55 | -1.1% | Decrease |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $80.54 | $80.41 | $-0.13 | -0.2% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $242.45 | $241.88 | $-0.57 | -0.2% | Decrease |
-| Frozen Sliced Turkey Wings, Bag | $162.88 | $162.19 | $-0.69 | -0.4% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $145.05 | $145.15 | $+0.10 | +0.1% | Increase |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $95.98 | $95.84 | $-0.14 | -0.1% | Decrease |
-| Fresh Ground Chicken Meat Bag | $305.27 | $304.07 | $-1.20 | -0.4% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Shoulder Round Tray | $131.41 | $131.60 | $+0.19 | +0.1% | Increase |
-| Frozen Boneless Skinless Chicken Breast Tray | $204.67 | $205.15 | $+0.48 | +0.2% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $66.41 | $66.54 | $+0.13 | +0.2% | Increase |
-| Fresh Whole Chicken 2 Units | $105.37 | $105.20 | $-0.17 | -0.2% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $294.01 | $293.33 | $-0.68 | -0.2% | Decrease |
-| Frozen Bone In Pork Shoulder Sliced Tray | $75.93 | $75.61 | $-0.32 | -0.4% | Decrease |
-| Fresh Chicken Thighs Boneless Bag | $351.19 | $349.99 | $-1.20 | -0.3% | Decrease |
+| Member's Selection Freshly Prepared Tuna Salad Wraps 4 Units | $62.95 | $64.95 | $+2.00 | +3.2% | Increase |
+| Pork Leg Frozen  | $63.14 | $63.74 | $+0.60 | +1.0% | Increase |
+| Member's Selection Breaded Chicken Bites Ready to Heat | $84.95 | $89.95 | $+5.00 | +5.9% | Increase |
+| Frozen Sliced Turkey Drumsticks | $145.15 | $145.95 | $+0.80 | +0.6% | Increase |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $95.84 | $95.69 | $-0.15 | -0.2% | Decrease |
+| Member's Selection Ready-to-Eat Barbecue Flavored Chicken Wings | $174.36 | $173.55 | $-0.81 | -0.5% | Decrease |
+| Fresh Beef Striploin Steak Tray | $194.97 | $195.57 | $+0.60 | +0.3% | Increase |
+| Member's Selection Frozen Bone-In Lamb Shoulder Round Tray | $131.60 | $131.03 | $-0.57 | -0.4% | Decrease |
+| Frozen Boneless Skinless Chicken Breast Tray | $205.15 | $204.51 | $-0.64 | -0.3% | Decrease |
+| Papaya | $38.06 | $37.99 | $-0.07 | -0.2% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $94.89 | $94.66 | $-0.23 | -0.2% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $94.01 | $94.11 | $+0.10 | +0.1% | Increase |
+| Orchard Orange Juice with Vitamin C 6 Units / 1 L / 33.8 oz | $70.95 | $59.95 | $-11.00 | -15.5% | Decrease |
+| Erin Farms Turkey Ham 750 g / 1.6 lb | $51.95 | $42.95 | $-9.00 | -17.3% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $293.33 | $292.65 | $-0.68 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -295,4 +295,7 @@ This project has recently gained unexpected attention. It was created for person
 | Black Raisins 1 kg / 2.2 lb |  | $54.95 | 2026-10-15 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Karibbean Flavours Creamy Mayonnaise 3 Units / 330 mL | Karibbean Flavours | $52.95 | G10D03 |
