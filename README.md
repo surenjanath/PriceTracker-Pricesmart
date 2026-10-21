@@ -185,14 +185,14 @@ This project has recently gained unexpected attention. It was created for person
 
 ## Basic Analysis
 - **Total products scraped**: 1179
-- **Total value**: $134,454.58
-- **Average price**: $114.04
+- **Total value**: $134,379.35
+- **Average price**: $113.98
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1177
-- **Price changes detected**: 34
-- **Stock/availability changes**: 13
+- **New products added**: 0
+- **Existing products updated**: 1179
+- **Price changes detected**: 17
+- **Stock/availability changes**: 18
 - **Discontinued products**: 0
 
 ## Top 5 Brands
@@ -214,40 +214,40 @@ This project has recently gained unexpected attention. It was created for person
 | Carmencita Himalayan Pink Salt with Grinder 370 g / 13 oz | Carmencita | $41.45 | true |
 | Member's Selection Extra Virgin Olive Oil 750 mL / 25.36 oz | Member's Selection | $69.95 | true |
 | Chief Ground Split Peas for Soups and Dhal 1.2 kg | Chief | $36.95 | true |
-| Karibbean Flavours Creamy Mayonnaise 3 Units / 330 mL | Karibbean Flavours | $52.95 | true |
+| aribbean Flavours Creamy Egg-Free Mayonnaise 3 Units / 330 mL | Karibbean Flavours | $52.95 | true |
 | Rip Van Dark Chocolate Vegan Wafer Cookies 24 Units / 22 g / 0.78 oz | Rip Van | $146.95 | true |
-| Delve Dip Variety Pack 3 Units / 170 g / 6 oz | Delve | $109.95 | true |
 | Carretilla Quinoa Salad with Chili Dressing Ready to Eat 4 Units 230 g / 8.8 oz | Carretilla | $129.95 | true |
+| Delve Dip Variety Pack 3 Units / 170 g / 6 oz | Delve | $109.95 | true |
 | Poppycock Gourmet Caramel Popcorn with Cashews 850 g / 30 oz | Poppycock | $169.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1208
-- **Price increases**: 675
-- **Price decreases**: 480
+- **Total price changes**: 1225
+- **Price increases**: 684
+- **Price decreases**: 488
 - **Average increase**: 8.7%
-- **Average decrease**: -6.1%
+- **Average decrease**: -6.2%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Reny Picot Camembert Cheese 397 g / 14 oz | $29.70 | $69.95 | $+40.25 | +135.5% | Increase |
-| Stahl Meyer Whole Smoked Frozen Turkey Thigh | $155.68 | $149.44 | $-6.24 | -4.0% | Decrease |
-| Dutch Potatoes 22.6 kg / 50 lb | $132.95 | $134.95 | $+2.00 | +1.5% | Increase |
-| Lipton Black Tea Yellow Label 2 Units / 100 Tea Bags / 2 g | $96.95 | $106.95 | $+10.00 | +10.3% | Increase |
-| Pork Leg Frozen  | $63.74 | $64.74 | $+1.00 | +1.6% | Increase |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $88.47 | $88.61 | $+0.14 | +0.2% | Increase |
-| Cadbury Whole Nut Chocolate Bar 180 g  | $57.95 | $58.95 | $+1.00 | +1.7% | Increase |
-| Frozen Beef Feet  | $115.13 | $114.92 | $-0.21 | -0.2% | Decrease |
-| Frozen Imported Pork Leg Slices | $93.88 | $93.53 | $-0.35 | -0.4% | Decrease |
-| Frozen Boneless Skinless Chicken Breast Tray | $204.51 | $203.55 | $-0.96 | -0.5% | Decrease |
-| Papaya | $37.99 | $37.93 | $-0.06 | -0.2% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Shoulder Round Tray | $131.03 | $130.65 | $-0.38 | -0.3% | Decrease |
-| Nutrina Chilled Whole Chicken Bag | $343.23 | $343.74 | $+0.51 | +0.1% | Increase |
-| Member’s Selection Pesto Chicken Ciabatta Sandwich 4 Units Ready to Eat | $90.95 | $98.95 | $+8.00 | +8.8% | Increase |
-| Stahl Meyer Whole Smoked Frozen Turkey Thigh | $211.04 | $196.77 | $-14.27 | -6.8% | Decrease |
+| Stahl Meyer Whole Smoked Frozen Turkey Thigh | $149.44 | $156.46 | $+7.02 | +4.7% | Increase |
+| Nongshim Shin Toomba Hot and Creamy Instant Ramen 4 Units / 137 g | $59.70 | $53.70 | $-6.00 | -10.1% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $241.88 | $242.17 | $+0.29 | +0.1% | Increase |
+| Frozen Sliced Turkey Wings, Bag | $162.19 | $161.17 | $-1.02 | -0.6% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $195.68 | $195.10 | $-0.58 | -0.3% | Decrease |
+| Papaya | $37.93 | $37.87 | $-0.06 | -0.2% | Decrease |
+| Nutrina Chilled Whole Chicken Bag | $343.74 | $344.25 | $+0.51 | +0.1% | Increase |
+| Stahl Meyer Whole Smoked Frozen Turkey Thigh | $196.77 | $207.69 | $+10.92 | +5.5% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $125.51 | $125.33 | $-0.18 | -0.1% | Decrease |
+| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $190.54 | $190.40 | $-0.14 | -0.1% | Decrease |
+| Member's Selection Frozen Oxtail Bag | $234.29 | $234.65 | $+0.36 | +0.2% | Increase |
+| Ribeye Choice Fillet Fresh Tray | $364.60 | $365.46 | $+0.86 | +0.2% | Increase |
+| Frozen Sliced Baby Back Ribs | $155.12 | $157.96 | $+2.84 | +1.8% | Increase |
+| Enjoy Lactose Free Milk UHT Full Cream 3 Units / 1 L | $59.95 | $64.95 | $+5.00 | +8.3% | Increase |
+| Member's Selection Frozen US Ground Beef Patties 80/20 Tray Pack | $139.73 | $139.93 | $+0.20 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -295,8 +295,4 @@ This project has recently gained unexpected attention. It was created for person
 | Nature's Pride Red Beans 1.8 kg / 4 lb | Nature's Pride | $59.95 | 2026-10-15 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Kuli kuli Organic Pure Moringa 300 g | Kuli kuli | $89.95 | G10D03 |
-| Carmencita Himalayan Pink Salt with Grinder 370 g / 13 oz | Carmencita | $41.45 | G10D03 |
+No new products added today.
