@@ -184,22 +184,22 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1179
-- **Total value**: $134,379.35
-- **Average price**: $113.98
+- **Total products scraped**: 1176
+- **Total value**: $134,618.09
+- **Average price**: $114.47
 
 ## Database Changes
-- **New products added**: 0
-- **Existing products updated**: 1179
-- **Price changes detected**: 17
-- **Stock/availability changes**: 18
-- **Discontinued products**: 0
+- **New products added**: 3
+- **Existing products updated**: 1173
+- **Price changes detected**: 46
+- **Stock/availability changes**: 12
+- **Discontinued products**: 6
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 175 |
+| Member's Selection | 174 |
 |  | 145 |
 | Swiss | 16 |
 | Badia | 14 |
@@ -215,39 +215,39 @@ This project has recently gained unexpected attention. It was created for person
 | Member's Selection Extra Virgin Olive Oil 750 mL / 25.36 oz | Member's Selection | $69.95 | true |
 | Chief Ground Split Peas for Soups and Dhal 1.2 kg | Chief | $36.95 | true |
 | aribbean Flavours Creamy Egg-Free Mayonnaise 3 Units / 330 mL | Karibbean Flavours | $52.95 | true |
-| Rip Van Dark Chocolate Vegan Wafer Cookies 24 Units / 22 g / 0.78 oz | Rip Van | $146.95 | true |
 | Carretilla Quinoa Salad with Chili Dressing Ready to Eat 4 Units 230 g / 8.8 oz | Carretilla | $129.95 | true |
+| Rip Van Dark Chocolate Vegan Wafer Cookies 24 Units / 22 g / 0.78 oz | Rip Van | $146.95 | true |
 | Delve Dip Variety Pack 3 Units / 170 g / 6 oz | Delve | $109.95 | true |
 | Poppycock Gourmet Caramel Popcorn with Cashews 850 g / 30 oz | Poppycock | $169.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1225
-- **Price increases**: 684
-- **Price decreases**: 488
-- **Average increase**: 8.7%
-- **Average decrease**: -6.2%
+- **Total price changes**: 1188
+- **Price increases**: 660
+- **Price decreases**: 476
+- **Average increase**: 8.5%
+- **Average decrease**: -6.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Stahl Meyer Whole Smoked Frozen Turkey Thigh | $149.44 | $156.46 | $+7.02 | +4.7% | Increase |
-| Nongshim Shin Toomba Hot and Creamy Instant Ramen 4 Units / 137 g | $59.70 | $53.70 | $-6.00 | -10.1% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $241.88 | $242.17 | $+0.29 | +0.1% | Increase |
-| Frozen Sliced Turkey Wings, Bag | $162.19 | $161.17 | $-1.02 | -0.6% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $195.68 | $195.10 | $-0.58 | -0.3% | Decrease |
-| Papaya | $37.93 | $37.87 | $-0.06 | -0.2% | Decrease |
-| Nutrina Chilled Whole Chicken Bag | $343.74 | $344.25 | $+0.51 | +0.1% | Increase |
-| Stahl Meyer Whole Smoked Frozen Turkey Thigh | $196.77 | $207.69 | $+10.92 | +5.5% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $125.51 | $125.33 | $-0.18 | -0.1% | Decrease |
-| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $190.54 | $190.40 | $-0.14 | -0.1% | Decrease |
-| Member's Selection Frozen Oxtail Bag | $234.29 | $234.65 | $+0.36 | +0.2% | Increase |
-| Ribeye Choice Fillet Fresh Tray | $364.60 | $365.46 | $+0.86 | +0.2% | Increase |
-| Frozen Sliced Baby Back Ribs | $155.12 | $157.96 | $+2.84 | +1.8% | Increase |
-| Enjoy Lactose Free Milk UHT Full Cream 3 Units / 1 L | $59.95 | $64.95 | $+5.00 | +8.3% | Increase |
-| Member's Selection Frozen US Ground Beef Patties 80/20 Tray Pack | $139.73 | $139.93 | $+0.20 | +0.1% | Increase |
+| Gatorade Glacier Freeze Mix Electrolyte Drink Powder 76.5 oz | $192.95 | $189.95 | $-3.00 | -1.6% | Decrease |
+| Member's Selection Greek Yogurt Non-Fat 907 g / 32 oz | $51.95 | $49.95 | $-2.00 | -3.8% | Decrease |
+| Butterball Frozen Natural Ground Turkey Vacuum Packed 3 Units / 453 g / 16 oz | $137.95 | $134.95 | $-3.00 | -2.2% | Decrease |
+| Member’s Selection All-Natural Greek Nonfat Plain Yogurt 907 g / 2 lb  | $51.95 | $49.95 | $-2.00 | -3.8% | Decrease |
+| Carrington Farms Coconut Oil Spray 2 Units / 141.7 g / 5 oz | $39.70 | $71.95 | $+32.25 | +81.2% | Increase |
+| Café Barista Cappuccino Mix in Assorted Flavors 24 Units / 25 g / 0.88 oz | $0.00 | $77.95 | $+77.95 | +100.0% | New |
+| Snickers Yard Chocolate Bars with Peanuts and Caramel 18 Units / 52.7 g / 1.86 oz | $0.00 | $184.95 | $+184.95 | +100.0% | New |
+| Frozen Beef Feet  | $114.92 | $114.71 | $-0.21 | -0.2% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $145.07 | $145.74 | $+0.67 | +0.5% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $242.17 | $242.45 | $+0.28 | +0.1% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $195.10 | $195.68 | $+0.58 | +0.3% | Increase |
+| Gouda Cheese Block | $90.78 | $90.92 | $+0.14 | +0.2% | Increase |
+| Half Moon Assorted Vegan Ice Cream Popsicles 8 Units / 75 mL / 2.53 oz | $99.95 | $89.95 | $-10.00 | -10.0% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $95.69 | $95.55 | $-0.14 | -0.1% | Decrease |
+| Papaya | $37.87 | $37.80 | $-0.07 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,16 +283,21 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Farmer Joe's Pineapple Tid Bits 3 060 g | Farmer Joe's | $69.95 | 2026-10-21 |
+| Nescafé Ice Instant Coffee 2 Units / 100 g / 3.5 oz + Glass | Nescafé | $86.95 | 2026-10-21 |
+| Dasani Water 24 Units / 500 mL / 17 oz | Dasani | $29.95 | 2026-10-21 |
+| Nature's Heart Extra Creamy Vanilla Flavor Almond Drink 3 Units / 946 mL | Nature's Heart | $59.95 | 2026-10-21 |
+| Sprite Zero Sugar Soda in Cans 12 Units / 355 mL / 12 oz | Sprite | $49.95 | 2026-10-21 |
+| Member's Selection Cookies & Cream Ice Cream 1.89 L / 64 oz | Member's Selection | $39.70 | 2026-10-21 |
 | Bob's Red Mill Oatmeal with Protein 1.81 kg / 4 lb | Bob's Red Mill | $146.95 | 2026-10-17 |
 | Garlic 1 kg / 2.2 lb |  | $19.95 | 2026-10-16 |
 | General Mills Triple Chex Cereal Mix 1.53 kg / 3 lb | General Mills | $86.95 | 2026-10-15 |
 | Golden Raisins 1 kg / 2.2 lb |  | $79.95 | 2026-10-15 |
-| Currants 1 kg / 2.2 lb |  | $69.95 | 2026-10-15 |
-| Candied Cherries 1 kg / 2.2 lb |  | $89.95 | 2026-10-15 |
-| Nature's Pride Pigeon Peas 1.8 kg / 4 lb | Nature's Pride | $43.95 | 2026-10-15 |
-| Prunes 1 kg / 2.2 lb |  | $49.95 | 2026-10-15 |
-| Black Raisins 1 kg / 2.2 lb |  | $54.95 | 2026-10-15 |
-| Nature's Pride Red Beans 1.8 kg / 4 lb | Nature's Pride | $59.95 | 2026-10-15 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Café Barista Cappuccino Mix in Assorted Flavors 24 Units / 25 g / 0.88 oz | Café Barista | $77.95 | G10D03 |
+| Snickers Yard Chocolate Bars with Peanuts and Caramel 18 Units / 52.7 g / 1.86 oz | Snickers | $184.95 | G10D03 |
+| Athena Sweet Athena Ambassador's Cut Handmade Baklava Pastry 709 g / 25 oz | Athena Sweet Athena | $229.95 | G10D03 |
