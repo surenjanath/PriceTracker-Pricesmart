@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1176
-- **Total value**: $134,618.09
-- **Average price**: $114.47
+- **Total products scraped**: 1173
+- **Total value**: $134,441.18
+- **Average price**: $114.61
 
 ## Database Changes
-- **New products added**: 3
+- **New products added**: 0
 - **Existing products updated**: 1173
-- **Price changes detected**: 46
-- **Stock/availability changes**: 12
-- **Discontinued products**: 6
+- **Price changes detected**: 35
+- **Stock/availability changes**: 11
+- **Discontinued products**: 3
 
 ## Top 5 Brands
 
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1188
-- **Price increases**: 660
-- **Price decreases**: 476
+- **Total price changes**: 1223
+- **Price increases**: 677
+- **Price decreases**: 494
 - **Average increase**: 8.5%
-- **Average decrease**: -6.0%
+- **Average decrease**: -6.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Gatorade Glacier Freeze Mix Electrolyte Drink Powder 76.5 oz | $192.95 | $189.95 | $-3.00 | -1.6% | Decrease |
-| Member's Selection Greek Yogurt Non-Fat 907 g / 32 oz | $51.95 | $49.95 | $-2.00 | -3.8% | Decrease |
-| Butterball Frozen Natural Ground Turkey Vacuum Packed 3 Units / 453 g / 16 oz | $137.95 | $134.95 | $-3.00 | -2.2% | Decrease |
-| Member’s Selection All-Natural Greek Nonfat Plain Yogurt 907 g / 2 lb  | $51.95 | $49.95 | $-2.00 | -3.8% | Decrease |
-| Carrington Farms Coconut Oil Spray 2 Units / 141.7 g / 5 oz | $39.70 | $71.95 | $+32.25 | +81.2% | Increase |
-| Café Barista Cappuccino Mix in Assorted Flavors 24 Units / 25 g / 0.88 oz | $0.00 | $77.95 | $+77.95 | +100.0% | New |
-| Snickers Yard Chocolate Bars with Peanuts and Caramel 18 Units / 52.7 g / 1.86 oz | $0.00 | $184.95 | $+184.95 | +100.0% | New |
-| Frozen Beef Feet  | $114.92 | $114.71 | $-0.21 | -0.2% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $145.07 | $145.74 | $+0.67 | +0.5% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $242.17 | $242.45 | $+0.28 | +0.1% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $195.10 | $195.68 | $+0.58 | +0.3% | Increase |
-| Gouda Cheese Block | $90.78 | $90.92 | $+0.14 | +0.2% | Increase |
-| Half Moon Assorted Vegan Ice Cream Popsicles 8 Units / 75 mL / 2.53 oz | $99.95 | $89.95 | $-10.00 | -10.0% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $95.69 | $95.55 | $-0.14 | -0.1% | Decrease |
-| Papaya | $37.87 | $37.80 | $-0.07 | -0.2% | Decrease |
+| Panamei Frozen Seafood Mix 1.36 kg / 3 lb | $117.95 | $119.95 | $+2.00 | +1.7% | Increase |
+| Papaya | $37.80 | $37.77 | $-0.03 | -0.1% | Decrease |
+| Frozen Bone-In Goat Carcass Case | $1370.32 | $1448.68 | $+78.36 | +5.7% | Increase |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $361.65 | $353.55 | $-8.10 | -2.2% | Decrease |
+| Frozen Beef Feet  | $114.71 | $117.99 | $+3.28 | +2.9% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $242.45 | $241.88 | $-0.57 | -0.2% | Decrease |
+| Fresh Beef Striploin Steak Tray | $193.17 | $191.97 | $-1.20 | -0.6% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $94.66 | $94.43 | $-0.23 | -0.2% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Shoulder Round Tray | $130.65 | $130.46 | $-0.19 | -0.1% | Decrease |
+| Mini Sweet Peppers 454 g / 1 lb | $37.95 | $34.95 | $-3.00 | -7.9% | Decrease |
+| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $67.85 | $67.74 | $-0.11 | -0.2% | Decrease |
+| Sambazon Dragon Fruit Juice 1.89 L / 64 oz | $114.95 | $79.70 | $-35.25 | -30.7% | Decrease |
+| Nutrina Chilled Whole Chicken Bag | $344.42 | $344.59 | $+0.17 | +0.0% | Increase |
+| Cauliflower 1 Unit | $64.95 | $62.95 | $-2.00 | -3.1% | Decrease |
+| Frozen Lamb Shoulder Chops Tray | $125.33 | $125.15 | $-0.18 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -86,6 +86,7 @@
 | Product | Old Price | New Price | % Decrease |
 |---------|-----------|-----------|------------|
 | Hunt's Diced Tomatoes 8 Units / 411 g / 14.25 oz | $1999.00 | $104.95 | -94.7% |
+| Quantum Energy Bars Cookie Dough Flavor with Chocolate Chips and Peanut Butter with Dark Chocolate 16 Units / 48 g / 1.7 oz | $79.70 | $10.70 | -86.6% |
 | Member's Selection Premium Carved Cooked Ham with Natural Juices 2 Units / 340 g / 12 oz  | $69.95 | $9.70 | -86.1% |
 | Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $57.95 | $9.70 | -83.3% |
 | Garcia Chicken & Pork Smoked Sausage 680 g / 1.5 lb | $44.95 | $9.70 | -78.4% |
@@ -94,12 +95,14 @@
 | Belgioioso Fresh Mozzarella Snack Cheese 18 Units / 28 g / 1 oz | $89.95 | $19.70 | -78.1% |
 | Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $59.95 | $14.70 | -75.5% |
 | Smithfield Smoked and Caramelized Pork Shoulder Cubes 453 g / 1 lb | $177.95 | $44.70 | -74.9% |
-| Belgioioso Fresh Mozzarella Cheese Pearls 2 Units / 225 g / 8 oz | $57.95 | $14.70 | -74.6% |
 
 ## Recently Discontinued Products
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Apple & Eve Organic Orange Carrot Juice 2 Units / 2.84 L / 96 oz | Apple & Eve | $70.70 | 2026-10-22 |
+| Polly-O String Cheese Mozzarella & Cheddar 24 Units | Polly-O | $59.70 | 2026-10-22 |
+| Reny Picot Camembert Cheese 397 g / 14 oz | Reny Picot | $69.95 | 2026-10-22 |
 | Farmer Joe's Pineapple Tid Bits 3 060 g | Farmer Joe's | $69.95 | 2026-10-21 |
 | Nescafé Ice Instant Coffee 2 Units / 100 g / 3.5 oz + Glass | Nescafé | $86.95 | 2026-10-21 |
 | Dasani Water 24 Units / 500 mL / 17 oz | Dasani | $29.95 | 2026-10-21 |
@@ -107,14 +110,6 @@
 | Sprite Zero Sugar Soda in Cans 12 Units / 355 mL / 12 oz | Sprite | $49.95 | 2026-10-21 |
 | Member's Selection Cookies & Cream Ice Cream 1.89 L / 64 oz | Member's Selection | $39.70 | 2026-10-21 |
 | Bob's Red Mill Oatmeal with Protein 1.81 kg / 4 lb | Bob's Red Mill | $146.95 | 2026-10-17 |
-| Garlic 1 kg / 2.2 lb |  | $19.95 | 2026-10-16 |
-| General Mills Triple Chex Cereal Mix 1.53 kg / 3 lb | General Mills | $86.95 | 2026-10-15 |
-| Golden Raisins 1 kg / 2.2 lb |  | $79.95 | 2026-10-15 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Café Barista Cappuccino Mix in Assorted Flavors 24 Units / 25 g / 0.88 oz | Café Barista | $77.95 | G10D03 |
-| Snickers Yard Chocolate Bars with Peanuts and Caramel 18 Units / 52.7 g / 1.86 oz | Snickers | $184.95 | G10D03 |
-| Athena Sweet Athena Ambassador's Cut Handmade Baklava Pastry 709 g / 25 oz | Athena Sweet Athena | $229.95 | G10D03 |
+No new products added today.
