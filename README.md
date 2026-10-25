@@ -184,22 +184,22 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1173
-- **Total value**: $134,489.99
-- **Average price**: $114.65
+- **Total products scraped**: 1170
+- **Total value**: $134,689.70
+- **Average price**: $115.12
 
 ## Database Changes
 - **New products added**: 1
-- **Existing products updated**: 1172
-- **Price changes detected**: 26
-- **Stock/availability changes**: 8
-- **Discontinued products**: 2
+- **Existing products updated**: 1169
+- **Price changes detected**: 15
+- **Stock/availability changes**: 12
+- **Discontinued products**: 5
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 174 |
+| Member's Selection | 175 |
 |  | 144 |
 | Swiss | 16 |
 | Badia | 14 |
@@ -212,8 +212,8 @@ This project has recently gained unexpected attention. It was created for person
 | Carmencita Mediterranean Spice Mix with Grinder 190 g / 6.7 oz | Carmencita | $48.95 | true |
 | Krusteaz Cinnamon Swirl Crumb Cake & Muffin Mix with Toppings 3 Units / 411 g / 14.5 oz | Krusteaz | $94.95 | true |
 | Carmencita Himalayan Pink Salt with Grinder 370 g / 13 oz | Carmencita | $41.45 | true |
-| Member's Selection Extra Virgin Olive Oil 750 mL / 25.36 oz | Member's Selection | $69.95 | true |
 | Chief Ground Split Peas for Soups and Dhal 1.2 kg | Chief | $36.95 | true |
+| Member's Selection Extra Virgin Olive Oil 750 mL / 25.36 oz | Member's Selection | $69.95 | true |
 | aribbean Flavours Creamy Egg-Free Mayonnaise 3 Units / 330 mL | Karibbean Flavours | $52.95 | true |
 | Carretilla Quinoa Salad with Chili Dressing Ready to Eat 4 Units 230 g / 8.8 oz | Carretilla | $129.95 | true |
 | Delve Dip Variety Pack 3 Units / 170 g / 6 oz | Delve | $109.95 | true |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1233
-- **Price increases**: 684
-- **Price decreases**: 496
-- **Average increase**: 8.9%
-- **Average decrease**: -6.0%
+- **Total price changes**: 1171
+- **Price increases**: 642
+- **Price decreases**: 478
+- **Average increase**: 9.3%
+- **Average decrease**: -6.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Papaya | $37.77 | $37.74 | $-0.03 | -0.1% | Decrease |
-| Pillsbury Cookie Dough Mix 1.3 kg / 3 lb | $44.70 | $114.95 | $+70.25 | +157.2% | Increase |
-| Sunshine Snacks SunMix Assorted Nut Bars 24 Units / 37 g / 1.31 oz | $0.00 | $114.95 | $+114.95 | +100.0% | New |
-| Tostitos Santa Elena Chips 430 g  / 15.17 oz | $32.95 | $39.95 | $+7.00 | +21.2% | Increase |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $353.55 | $342.51 | $-11.04 | -3.1% | Decrease |
-| Stahl Meyer Whole Smoked Frozen Turkey Thigh | $156.46 | $149.44 | $-7.02 | -4.5% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $145.74 | $149.73 | $+3.99 | +2.7% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $241.88 | $242.45 | $+0.57 | +0.2% | Increase |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $415.33 | $414.58 | $-0.75 | -0.2% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $95.55 | $95.41 | $-0.14 | -0.1% | Decrease |
-| Gouda Cheese Block | $90.92 | $91.05 | $+0.13 | +0.1% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Case | $1608.85 | $1654.85 | $+46.00 | +2.9% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $112.22 | $116.51 | $+4.29 | +3.8% | Increase |
-| Nutrina Chilled Whole Chicken Bag | $344.59 | $344.76 | $+0.17 | +0.0% | Increase |
-| Frozen Bone In Pork Shoulder Sliced Tray | $75.40 | $75.29 | $-0.11 | -0.1% | Decrease |
+| Pork Leg Frozen  | $64.74 | $65.13 | $+0.39 | +0.6% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $149.73 | $149.39 | $-0.34 | -0.2% | Decrease |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $135.63 | $134.64 | $-0.99 | -0.7% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $145.95 | $146.45 | $+0.50 | +0.3% | Increase |
+| Frozen Imported Pork Leg Slices | $93.53 | $93.42 | $-0.11 | -0.1% | Decrease |
+| Fresh Beef Striploin Steak Tray | $191.97 | $190.17 | $-1.80 | -0.9% | Decrease |
+| Fresh Chicken Leg Quarters Tray | $94.11 | $94.21 | $+0.10 | +0.1% | Increase |
+| Member's Selection Frozen Bone-In Lamb Shoulder Round Tray | $130.46 | $130.08 | $-0.38 | -0.3% | Decrease |
+| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $67.74 | $67.85 | $+0.11 | +0.2% | Increase |
+| Member's Selection Frozen Oxtail Bag | $236.09 | $236.45 | $+0.36 | +0.2% | Increase |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $80.41 | $80.54 | $+0.13 | +0.2% | Increase |
+| Frozen Sliced Baby Back Ribs | $158.53 | $160.04 | $+1.51 | +1.0% | Increase |
+| Watermelon 1 kg / 2.2 lb | $83.91 | $83.48 | $-0.43 | -0.5% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Stew Tray | $107.04 | $106.87 | $-0.17 | -0.2% | Decrease |
+| Fresh Chicken Breast Boneless Skinless Tray | $120.17 | $120.35 | $+0.18 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,19 +283,19 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Stamina Energy Drink Assorted Flavors 12 Units / 330 mL | Stamina Energy | $48.70 | 2026-10-24 |
+| Bluewater Farms Cranberry Juice 1.65 L / 56 oz | Bluewater Farms | $59.95 | 2026-10-24 |
+| Choco licious Assorted Snack Pack 20 Units | Choco-licious | $35.95 | 2026-10-24 |
+| Eve Sardines in Water High Protein with Omega 3 6 Units / 82 g | Eve | $46.95 | 2026-10-24 |
+| Florida's Natural Mango Lemonade 2 Units / 1.75 L / 59 oz | Florida's Natural | $79.70 | 2026-10-24 |
 | SeaPak Garlic Butter Shrimp 680 g / 1.5 lb | SeaPak | $69.70 | 2026-10-23 |
 | Frozen Boneless Pork Loin Vacuum Packaged |  | $264.33 | 2026-10-23 |
 | Apple & Eve Organic Orange Carrot Juice 2 Units / 2.84 L / 96 oz | Apple & Eve | $70.70 | 2026-10-22 |
 | Polly-O String Cheese Mozzarella & Cheddar 24 Units | Polly-O | $59.70 | 2026-10-22 |
 | Reny Picot Camembert Cheese 397 g / 14 oz | Reny Picot | $69.95 | 2026-10-22 |
-| Farmer Joe's Pineapple Tid Bits 3 060 g | Farmer Joe's | $69.95 | 2026-10-21 |
-| Nescafé Ice Instant Coffee 2 Units / 100 g / 3.5 oz + Glass | Nescafé | $86.95 | 2026-10-21 |
-| Dasani Water 24 Units / 500 mL / 17 oz | Dasani | $29.95 | 2026-10-21 |
-| Nature's Heart Extra Creamy Vanilla Flavor Almond Drink 3 Units / 946 mL | Nature's Heart | $59.95 | 2026-10-21 |
-| Sprite Zero Sugar Soda in Cans 12 Units / 355 mL / 12 oz | Sprite | $49.95 | 2026-10-21 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Sunshine Snacks SunMix Assorted Nut Bars 24 Units / 37 g / 1.31 oz | Sunshine Snacks | $114.95 | G10D03 |
+| Carmencita Black Pepper with Grinder 190 g / 6.7 oz | Carmencita | $71.95 | G10D03 |
