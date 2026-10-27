@@ -184,22 +184,22 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1170
-- **Total value**: $137,655.55
-- **Average price**: $117.65
+- **Total products scraped**: 1172
+- **Total value**: $137,764.49
+- **Average price**: $117.55
 
 ## Database Changes
 - **New products added**: 1
-- **Existing products updated**: 1169
-- **Price changes detected**: 40
-- **Stock/availability changes**: 15
+- **Existing products updated**: 1171
+- **Price changes detected**: 22
+- **Stock/availability changes**: 23
 - **Discontinued products**: 4
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 175 |
+| Member's Selection | 177 |
 |  | 146 |
 | Swiss | 16 |
 | Badia | 14 |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1128
-- **Price increases**: 610
-- **Price decreases**: 469
-- **Average increase**: 10.0%
-- **Average decrease**: -5.9%
+- **Total price changes**: 1125
+- **Price increases**: 606
+- **Price decreases**: 470
+- **Average increase**: 10.3%
+- **Average decrease**: -6.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Chicken Breast Bone In Tray | $92.42 | $92.51 | $+0.09 | +0.1% | Increase |
-| Fresh Chicken Breast Boneless Skinless Tray | $120.35 | $120.53 | $+0.18 | +0.1% | Increase |
-| Frozen Bone-In Pork Shoulder Case | $479.50 | $1301.30 | $+821.80 | +171.4% | Increase |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $342.51 | $353.55 | $+11.04 | +3.2% | Increase |
-| Member's Selection Hickory Smoked Spiral Sliced Ham | $339.95 | $369.95 | $+30.00 | +8.8% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $149.39 | $148.87 | $-0.52 | -0.3% | Decrease |
-| Pork Leg Frozen  | $65.13 | $65.23 | $+0.10 | +0.2% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $242.45 | $237.33 | $-5.12 | -2.1% | Decrease |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $88.61 | $91.35 | $+2.74 | +3.1% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $195.68 | $192.48 | $-3.20 | -1.6% | Decrease |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $414.58 | $404.63 | $-9.95 | -2.4% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $95.41 | $98.06 | $+2.65 | +2.8% | Increase |
-| Frozen Lamb Shoulder Case | $1410.22 | $1429.82 | $+19.60 | +1.4% | Increase |
-| Frozen Imported Pork Leg Slices | $93.42 | $93.07 | $-0.35 | -0.4% | Decrease |
-| Fresh Beef Striploin Steak Tray | $190.17 | $193.17 | $+3.00 | +1.6% | Increase |
+| Perrier Natural Sparkling Mineral Water 6 Units / 1 L | $119.95 | $108.70 | $-11.25 | -9.4% | Decrease |
+| Fresh Start Mauby Concentrate Made with Bark 4 Units / 750 mL / 25.36 oz | $0.00 | $57.95 | $+57.95 | +100.0% | New |
+| Member's Selection Frozen Boneless Pork Loin Roast Tray | $100.71 | $98.17 | $-2.54 | -2.5% | Decrease |
+| Pork Leg Frozen  | $65.23 | $65.43 | $+0.20 | +0.3% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $192.48 | $191.63 | $-0.85 | -0.4% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $98.06 | $97.91 | $-0.15 | -0.2% | Decrease |
+| Fresh Ground Chicken Meat Bag | $305.27 | $304.07 | $-1.20 | -0.4% | Decrease |
+| Fresh Beef Striploin Steak Tray | $193.17 | $191.97 | $-1.20 | -0.6% | Decrease |
+| Frozen Boneless Skinless Chicken Breast Tray | $203.23 | $202.43 | $-0.80 | -0.4% | Decrease |
+| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $63.83 | $63.73 | $-0.10 | -0.2% | Decrease |
+| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $184.28 | $183.87 | $-0.41 | -0.2% | Decrease |
+| Nutrina Chilled Whole Chicken Bag | $345.10 | $345.61 | $+0.51 | +0.1% | Increase |
+| Member's Selection Frozen Oxtail Bag | $236.81 | $237.53 | $+0.72 | +0.3% | Increase |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $79.36 | $79.48 | $+0.12 | +0.2% | Increase |
+| Fresh Chicken Mixed Parts Tray | $76.82 | $76.92 | $+0.10 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,19 +283,19 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| San Clemente Seedless Green Grapes 907 g / 2 lb | San Clemente | $89.95 | 2026-10-26 |
+| Jo-Sing Chow Mein Noodles 6 Units / 400 g | Jo-Sing | $42.95 | 2026-10-26 |
+| Member's Selection Peach Halves 3 Units / 820 g / 28.9 oz | Member's Selection | $49.70 | 2026-10-26 |
+| Member's Selection Hickory Smoked Spiral Sliced Ham | Member's Selection | $369.95 | 2026-10-26 |
 | Munchy's Krunch Oat Cookies with Strawberry and Black Currant 3 Units / 208 g / 7.33 oz | Munchy's | $49.95 | 2026-10-25 |
 | Mucci Farms Grape Tomatoes 681 g / 1.5 lb | Mucci Farms | $89.95 | 2026-10-25 |
 | Eggo Blueberry Waffles 1.4 kg / 3 lb  | Eggo | $142.95 | 2026-10-25 |
 | Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2026-10-25 |
 | Stamina Energy Drink Assorted Flavors 12 Units / 330 mL | Stamina Energy | $48.70 | 2026-10-24 |
 | Bluewater Farms Cranberry Juice 1.65 L / 56 oz | Bluewater Farms | $59.95 | 2026-10-24 |
-| Choco licious Assorted Snack Pack 20 Units | Choco-licious | $35.95 | 2026-10-24 |
-| Eve Sardines in Water High Protein with Omega 3 6 Units / 82 g | Eve | $46.95 | 2026-10-24 |
-| Florida's Natural Mango Lemonade 2 Units / 1.75 L / 59 oz | Florida's Natural | $79.70 | 2026-10-24 |
-| SeaPak Garlic Butter Shrimp 680 g / 1.5 lb | SeaPak | $69.70 | 2026-10-23 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Vigo Breadcrumbs with Pecorino Cheese and Italian Spices 2.27 kg / 5 lb | Vigo | $75.95 | G10D03 |
+| Fresh Start Mauby Concentrate Made with Bark 4 Units / 750 mL / 25.36 oz | Fresh Start | $57.95 | G10D03 |
