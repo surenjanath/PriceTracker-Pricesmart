@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1172
-- **Total value**: $137,764.49
-- **Average price**: $117.55
+- **Total products scraped**: 1175
+- **Total value**: $138,002.32
+- **Average price**: $117.45
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1171
-- **Price changes detected**: 22
-- **Stock/availability changes**: 23
-- **Discontinued products**: 4
+- **New products added**: 3
+- **Existing products updated**: 1172
+- **Price changes detected**: 26
+- **Stock/availability changes**: 16
+- **Discontinued products**: 3
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 177 |
-|  | 146 |
+|  | 148 |
 | Swiss | 16 |
 | Badia | 14 |
 | Kirkland Signature | 12 |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1125
-- **Price increases**: 606
-- **Price decreases**: 470
-- **Average increase**: 10.3%
-- **Average decrease**: -6.0%
+- **Total price changes**: 1154
+- **Price increases**: 618
+- **Price decreases**: 484
+- **Average increase**: 10.1%
+- **Average decrease**: -6.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Perrier Natural Sparkling Mineral Water 6 Units / 1 L | $119.95 | $108.70 | $-11.25 | -9.4% | Decrease |
-| Fresh Start Mauby Concentrate Made with Bark 4 Units / 750 mL / 25.36 oz | $0.00 | $57.95 | $+57.95 | +100.0% | New |
-| Member's Selection Frozen Boneless Pork Loin Roast Tray | $100.71 | $98.17 | $-2.54 | -2.5% | Decrease |
-| Pork Leg Frozen  | $65.23 | $65.43 | $+0.20 | +0.3% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $192.48 | $191.63 | $-0.85 | -0.4% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $98.06 | $97.91 | $-0.15 | -0.2% | Decrease |
-| Fresh Ground Chicken Meat Bag | $305.27 | $304.07 | $-1.20 | -0.4% | Decrease |
-| Fresh Beef Striploin Steak Tray | $193.17 | $191.97 | $-1.20 | -0.6% | Decrease |
-| Frozen Boneless Skinless Chicken Breast Tray | $203.23 | $202.43 | $-0.80 | -0.4% | Decrease |
-| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $63.83 | $63.73 | $-0.10 | -0.2% | Decrease |
-| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $184.28 | $183.87 | $-0.41 | -0.2% | Decrease |
-| Nutrina Chilled Whole Chicken Bag | $345.10 | $345.61 | $+0.51 | +0.1% | Increase |
-| Member's Selection Frozen Oxtail Bag | $236.81 | $237.53 | $+0.72 | +0.3% | Increase |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $79.36 | $79.48 | $+0.12 | +0.2% | Increase |
-| Fresh Chicken Mixed Parts Tray | $76.82 | $76.92 | $+0.10 | +0.1% | Increase |
+| Kirkland Signature Clusters Chocolate Coated Cookies with Caramel and Marshmallow Filling 748 g / 26.3 oz | $151.95 | $154.95 | $+3.00 | +2.0% | Increase |
+| Great Foods Smoked Bacon 2 Units / 200 g / 7 oz | $0.00 | $38.95 | $+38.95 | +100.0% | New |
+| Smoked Pork Chop with Bone Frozen Tray | $0.00 | $80.07 | $+80.07 | +100.0% | New |
+| Pork Leg Frozen  | $65.43 | $65.63 | $+0.20 | +0.3% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $191.63 | $192.20 | $+0.57 | +0.3% | Increase |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $97.91 | $98.06 | $+0.15 | +0.2% | Increase |
+| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $134.64 | $135.63 | $+0.99 | +0.7% | Increase |
+| Member's Selection Ready-to-Eat Barbecue Flavored Chicken Wings | $174.36 | $173.82 | $-0.54 | -0.3% | Decrease |
+| Fresh Beef Striploin Steak Tray | $191.97 | $190.77 | $-1.20 | -0.6% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $116.32 | $116.51 | $+0.19 | +0.2% | Increase |
+| Chilled Chicken Gizzard Tray Pack | $43.88 | $43.74 | $-0.14 | -0.3% | Decrease |
+| Frozen Boneless Skinless Chicken Breast Tray | $202.43 | $202.27 | $-0.16 | -0.1% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Shoulder Round Tray | $132.82 | $133.02 | $+0.20 | +0.2% | Increase |
+| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $183.87 | $183.47 | $-0.40 | -0.2% | Decrease |
+| Frozen Lamb Shoulder Chops Tray | $127.71 | $127.53 | $-0.18 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,9 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Chobani Greek Yogurt 20G Protein 8 Units / 296 mL / 10 oz | Chobani | $159.95 | 2026-10-27 |
+| Zalea Gourmet Sliced Peaches in Light Syrup 3 Units / 680 g / 24 oz | Zalea Gourmet | $59.70 | 2026-10-27 |
+| Smithfield Smoked and Caramelized Pork Shoulder Cubes 453 g / 1 lb | Smithfield | $79.70 | 2026-10-27 |
 | San Clemente Seedless Green Grapes 907 g / 2 lb | San Clemente | $89.95 | 2026-10-26 |
 | Jo-Sing Chow Mein Noodles 6 Units / 400 g | Jo-Sing | $42.95 | 2026-10-26 |
 | Member's Selection Peach Halves 3 Units / 820 g / 28.9 oz | Member's Selection | $49.70 | 2026-10-26 |
@@ -290,12 +293,11 @@ This project has recently gained unexpected attention. It was created for person
 | Munchy's Krunch Oat Cookies with Strawberry and Black Currant 3 Units / 208 g / 7.33 oz | Munchy's | $49.95 | 2026-10-25 |
 | Mucci Farms Grape Tomatoes 681 g / 1.5 lb | Mucci Farms | $89.95 | 2026-10-25 |
 | Eggo Blueberry Waffles 1.4 kg / 3 lb  | Eggo | $142.95 | 2026-10-25 |
-| Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2026-10-25 |
-| Stamina Energy Drink Assorted Flavors 12 Units / 330 mL | Stamina Energy | $48.70 | 2026-10-24 |
-| Bluewater Farms Cranberry Juice 1.65 L / 56 oz | Bluewater Farms | $59.95 | 2026-10-24 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Fresh Start Mauby Concentrate Made with Bark 4 Units / 750 mL / 25.36 oz | Fresh Start | $57.95 | G10D03 |
+| Great Foods Smoked Bacon 2 Units / 200 g / 7 oz | Great Foods | $38.95 | G10D03 |
+| Smoked Pork Chop with Bone Frozen Tray |  | $80.07 | G10D03 |
+| Parthenon Muffuletta Olive Salad 961 g / 33.9 oz | Parthenon | $97.95 | G10D03 |
