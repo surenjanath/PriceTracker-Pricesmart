@@ -2,15 +2,15 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1174
-- **Total value**: $138,330.41
-- **Average price**: $117.83
+- **Total value**: $138,261.65
+- **Average price**: $117.77
 
 ## Database Changes
-- **New products added**: 1
-- **Existing products updated**: 1173
-- **Price changes detected**: 50
-- **Stock/availability changes**: 15
-- **Discontinued products**: 4
+- **New products added**: 0
+- **Existing products updated**: 1174
+- **Price changes detected**: 39
+- **Stock/availability changes**: 17
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1150
-- **Price increases**: 619
+- **Total price changes**: 1164
+- **Price increases**: 634
 - **Price decreases**: 481
-- **Average increase**: 10.4%
+- **Average increase**: 10.6%
 - **Average decrease**: -6.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Re-Lyte Hydration Electrolyte Powder Variety Flavors 30 Units / 6.3 g / 0.22 oz | $0.00 | $306.95 | $+306.95 | +100.0% | New |
-| Phillip Seafood Crab Claw Meat 454 g / 16 oz  | $134.95 | $137.95 | $+3.00 | +2.2% | Increase |
-| Breakstone's Cottage Cheese 680 g / 1.5 lb | $48.95 | $49.95 | $+1.00 | +2.0% | Increase |
-| Member's Selection Pumpkin and Spice Swiss Roll Freshly Baked | $35.95 | $37.95 | $+2.00 | +5.6% | Increase |
-| Dare Viva Puffs Candy Cane 2 Units / 300 g | $49.95 | $52.95 | $+3.00 | +6.0% | Increase |
-| Smoked Pork Chop with Bone Frozen Tray | $80.07 | $81.28 | $+1.21 | +1.5% | Increase |
-| Papaya | $37.74 | $37.71 | $-0.03 | -0.1% | Decrease |
-| Fresh Beef Ribeye Steak Vacuum Packed | $3076.13 | $3184.23 | $+108.10 | +3.5% | Increase |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $98.06 | $97.91 | $-0.15 | -0.2% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $148.87 | $149.73 | $+0.86 | +0.6% | Increase |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | $135.63 | $136.04 | $+0.41 | +0.3% | Increase |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $404.63 | $407.07 | $+2.44 | +0.6% | Increase |
-| Amare Probiotics Sauerkraut / Chucrut 500 g / 17.6 oz | $46.95 | $47.95 | $+1.00 | +2.1% | Increase |
-| Cookeen Margarine 6 Units / 227 g / 8 oz | $110.95 | $109.95 | $-1.00 | -0.9% | Decrease |
-| Member's Selection Chilled Chicken Liver, Tray Pack | $30.92 | $31.02 | $+0.10 | +0.3% | Increase |
+| Papaya | $37.71 | $37.77 | $+0.06 | +0.2% | Increase |
+| Charles Chocolate Coated Jordanian Almond 1 kg / 2.2 lb | $29.70 | $76.95 | $+47.25 | +159.1% | Increase |
+| Smoked Pork Chop with Bone Frozen Tray | $81.28 | $87.04 | $+5.76 | +7.1% | Increase |
+| Frozen Beef Feet  | $117.99 | $118.20 | $+0.21 | +0.2% | Increase |
+| Member's Selection Frozen Boneless Pork Loin Roast Tray | $98.17 | $97.75 | $-0.42 | -0.4% | Decrease |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $91.35 | $91.21 | $-0.14 | -0.2% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $97.91 | $98.65 | $+0.74 | +0.8% | Increase |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $407.07 | $410.97 | $+3.90 | +1.0% | Increase |
+| Frozen Sliced Turkey Drumsticks | $146.45 | $147.05 | $+0.60 | +0.4% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $66.61 | $66.54 | $-0.07 | -0.1% | Decrease |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $116.32 | $116.51 | $+0.19 | +0.2% | Increase |
+| Mini Sweet Peppers 454 g / 1 lb | $34.95 | $39.95 | $+5.00 | +14.3% | Increase |
+| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $63.73 | $63.83 | $+0.10 | +0.2% | Increase |
+| Frozen Boneless Skinless Chicken Breast Tray | $202.11 | $201.63 | $-0.48 | -0.2% | Decrease |
+| Fresh Whole Chicken 2 Units | $105.02 | $104.85 | $-0.17 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,8 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Fresh Seedless Red Grapes 907 g / 2 lb |  | $79.95 | 2026-10-29 |
+| Karnis Assorted Flavored Dressings 3 Units / 226 g / 8 oz | Karnis | $69.70 | 2026-10-29 |
 | Toppers Assorted Popcorn 20 Units / 14 g | Toppers | $37.70 | 2026-10-28 |
 | Takis Fuego with Hot Chili and Lemon 46 Units / 28 g | Takis | $228.70 | 2026-10-28 |
 | KFI Korma Cooking Sauce 2 Units / 650 mL | KFI | $52.70 | 2026-10-28 |
@@ -108,11 +110,6 @@
 | Zalea Gourmet Sliced Peaches in Light Syrup 3 Units / 680 g / 24 oz | Zalea Gourmet | $59.70 | 2026-10-27 |
 | Smithfield Smoked and Caramelized Pork Shoulder Cubes 453 g / 1 lb | Smithfield | $79.70 | 2026-10-27 |
 | San Clemente Seedless Green Grapes 907 g / 2 lb | San Clemente | $89.95 | 2026-10-26 |
-| Jo-Sing Chow Mein Noodles 6 Units / 400 g | Jo-Sing | $42.95 | 2026-10-26 |
-| Member's Selection Peach Halves 3 Units / 820 g / 28.9 oz | Member's Selection | $49.70 | 2026-10-26 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Re-Lyte Hydration Electrolyte Powder Variety Flavors 30 Units / 6.3 g / 0.22 oz |  | $306.95 | G10D03 |
+No new products added today.
