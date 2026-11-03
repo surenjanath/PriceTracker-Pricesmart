@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1171
-- **Total value**: $125,588.61
-- **Average price**: $107.25
+- **Total products scraped**: 1167
+- **Total value**: $126,283.85
+- **Average price**: $108.21
 
 ## Database Changes
 - **New products added**: 1
-- **Existing products updated**: 1170
-- **Price changes detected**: 83
-- **Stock/availability changes**: 23
-- **Discontinued products**: 18
+- **Existing products updated**: 1166
+- **Price changes detected**: 33
+- **Stock/availability changes**: 15
+- **Discontinued products**: 5
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 180 |
-|  | 142 |
+| Member's Selection | 178 |
+|  | 141 |
 | Swiss | 16 |
 | Badia | 14 |
 | Kirkland Signature | 12 |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1122
-- **Price increases**: 590
-- **Price decreases**: 477
-- **Average increase**: 10.7%
-- **Average decrease**: -5.8%
+- **Total price changes**: 1128
+- **Price increases**: 600
+- **Price decreases**: 474
+- **Average increase**: 10.6%
+- **Average decrease**: -5.9%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Bone-in Chicken Thighs Tray | $66.47 | $66.81 | $+0.34 | +0.5% | Increase |
-| Fresh Chicken Thighs Boneless Tray | $88.07 | $88.33 | $+0.26 | +0.3% | Increase |
-| Fine Choice Fresh Marinated Chicken Tray | $93.05 | $92.82 | $-0.23 | -0.2% | Decrease |
-| Fresh Chicken Breast Boneless Skinless Tray | $137.62 | $137.17 | $-0.45 | -0.3% | Decrease |
-| Frozen Beef Feet | $84.70 | $88.77 | $+4.07 | +4.8% | Increase |
-|  Best Fruit Ripe Dehydrated Mangoes 4 Units / 100 g | $82.70 | $94.95 | $+12.25 | +14.8% | Increase |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $342.51 | $353.55 | $+11.04 | +3.2% | Increase |
-| Frozen Sliced Turkey Wings, Bag | $161.17 | $160.03 | $-1.14 | -0.7% | Decrease |
-| Papaya | $37.87 | $39.59 | $+1.72 | +4.5% | Increase |
-| Frozen Beef Feet  | $117.84 | $115.54 | $-2.30 | -2.0% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $237.33 | $233.14 | $-4.19 | -1.8% | Decrease |
-| Frozen Lamb Leg Whole Vacuum Packed | $392.98 | $388.09 | $-4.89 | -1.2% | Decrease |
-| Smoked Pork Chop with Bone Frozen Tray | $89.18 | $87.04 | $-2.14 | -2.4% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $192.48 | $187.53 | $-4.95 | -2.6% | Decrease |
-| Rice Krispies Christmas Edition Rice Cereal 1.03 kg / 36.3 oz | $0.00 | $96.95 | $+96.95 | +100.0% | New |
+| Frozen Skinless Boneless Beef Shoulder Clod Case | $0.00 | $1637.58 | $+1637.58 | +100.0% | New |
+| Frozen Beef Feet | $88.77 | $100.33 | $+11.56 | +13.0% | Increase |
+| Frozen Pork Belly Skin On Sliced Tray  | $90.12 | $95.61 | $+5.49 | +6.1% | Increase |
+| Papaya | $39.59 | $39.49 | $-0.10 | -0.3% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $233.14 | $235.34 | $+2.20 | +0.9% | Increase |
+| Smoked Pork Chop with Bone Frozen Tray | $87.04 | $89.18 | $+2.14 | +2.5% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $187.53 | $188.65 | $+1.12 | +0.6% | Increase |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $406.15 | $408.57 | $+2.42 | +0.6% | Increase |
+| Member's Selection Frozen Boneless Pork Loin Roast Tray | $93.09 | $92.77 | $-0.32 | -0.3% | Decrease |
+| Gouda Cheese Block | $91.46 | $91.73 | $+0.27 | +0.3% | Increase |
+| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $91.49 | $91.77 | $+0.28 | +0.3% | Increase |
+| Frozen Sliced Turkey Drumsticks | $147.85 | $147.35 | $-0.50 | -0.3% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $158.72 | $158.38 | $-0.34 | -0.2% | Decrease |
+| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $63.34 | $63.44 | $+0.10 | +0.2% | Increase |
+| Frozen Imported Pork Leg Slices | $92.95 | $92.72 | $-0.23 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,19 +283,19 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Fresh Red Globe Grapes 1.36 kg / 3 lb |  | $129.95 | 2026-11-02 |
+| Rastelli's Ribeye Steak Frozen 10 Units / 225 g / 8 oz  | Rastelli's | $569.95 | 2026-11-02 |
+| Frozen Skinless Boneless Tilapia Fillet 20 % Glaze Case 3.6 kg / 8 lb |  | $174.95 | 2026-11-02 |
+| Member's Selection Frozen Skinless Boneless Tilapia Fillet 2.27 kg / 5 lb | Member's Selection | $97.95 | 2026-11-02 |
+| Member's Selection Freshly Baked Chocolate Chip Cookies 24 Units | Member's Selection | $60.95 | 2026-11-02 |
 | Tropical Gold Breaded Calamari Rings 2 Units / 454 g / 1 lb | Tropical Gold | $92.95 | 2026-11-01 |
 | San Clemente Grape Black Seedless 907 g / 2 lb | San Clemente | $84.95 | 2026-11-01 |
 | Frozen Bone-In Pork Shoulder Case |  | $1301.30 | 2026-11-01 |
 | Frozen Bone-In Goat Carcass Case |  | $1448.68 | 2026-11-01 |
 | Verdant Valley Roast Boneless Pork Belly, 1 kg / 2.2 lb | Verdant Valley | $79.95 | 2026-11-01 |
-| Pork Belly with Skin Frozen Vacuum Packaged |  | $176.25 | 2026-11-01 |
-| Frozen Beef Feet  |  | $93.62 | 2026-11-01 |
-| Frozen Beef Tails Case |  | $2634.15 | 2026-11-01 |
-| Verdant Valley Vacuum Packaged Seasoned Roast Pork | Verdant Valley | $99.95 | 2026-11-01 |
-| Frozen Lamb Shoulder Case |  | $1429.82 | 2026-11-01 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Rice Krispies Christmas Edition Rice Cereal 1.03 kg / 36.3 oz | Rice Krispies Treats | $96.95 | G10D03 |
+| Frozen Skinless Boneless Beef Shoulder Clod Case |  | $1637.58 | G10D03 |
