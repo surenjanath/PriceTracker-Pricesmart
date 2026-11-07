@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1168
-- **Total value**: $129,377.19
-- **Average price**: $110.77
+- **Total products scraped**: 1169
+- **Total value**: $129,372.80
+- **Average price**: $110.67
 
 ## Database Changes
-- **New products added**: 4
-- **Existing products updated**: 1164
-- **Price changes detected**: 75
-- **Stock/availability changes**: 15
-- **Discontinued products**: 5
+- **New products added**: 3
+- **Existing products updated**: 1166
+- **Price changes detected**: 32
+- **Stock/availability changes**: 7
+- **Discontinued products**: 2
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 179 |
-|  | 143 |
+| Member's Selection | 178 |
+|  | 144 |
 | Swiss | 16 |
 | Badia | 14 |
 | Kirkland Signature | 12 |
@@ -214,40 +214,40 @@ This project has recently gained unexpected attention. It was created for person
 | Carmencita Himalayan Pink Salt with Grinder 370 g / 13 oz | Carmencita | $41.45 | true |
 | Carmencita Black Pepper with Grinder 190 g / 6.7 oz | Carmencita | $71.95 | true |
 | aribbean Flavours Creamy Egg-Free Mayonnaise 3 Units / 330 mL | Karibbean Flavours | $52.95 | true |
+| Parthenon Muffuletta Olive Salad 961 g / 33.9 oz | Parthenon | $89.95 | true |
 | Carretilla Quinoa Salad with Chili Dressing Ready to Eat 4 Units 230 g / 8.8 oz | Carretilla | $129.95 | true |
 | Member's Selection Colombian Freeze-Dried Coffee Assorted Flavors 3 Units / 100 g | Member's Selection | $185.95 | true |
 | Crisp Ups Quesadillas Shredded Chicken & Cheese 925 g / 2 lb | Crisp Ups | $192.95 | true |
-| Parthenon Muffuletta Olive Salad 961 g / 33.9 oz | Parthenon | $89.95 | true |
 | Wellesley Farms Snacks Cheddar Cheese with Nuts and Cranberries 12 Units / 43 g / 1.5 oz | Wellsley Farms | $142.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1133
-- **Price increases**: 590
-- **Price decreases**: 487
-- **Average increase**: 10.5%
-- **Average decrease**: -6.0%
+- **Total price changes**: 1168
+- **Price increases**: 605
+- **Price decreases**: 504
+- **Average increase**: 10.4%
+- **Average decrease**: -6.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Aqua Star Breaded Shrimp 1.36 kg / 3 lb | $94.70 | $192.95 | $+98.25 | +103.7% | Increase |
-| Frozen Lamb Shoulder Case | $0.00 | $1429.82 | $+1429.82 | +100.0% | New |
-| Member's Selection Hickory Smoked Spiral Sliced Ham | $0.00 | $369.95 | $+369.95 | +100.0% | New |
-| Frozen Beef Feet | $98.30 | $92.37 | $-5.93 | -6.0% | Decrease |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $353.55 | $320.88 | $-32.67 | -9.2% | Decrease |
-| Vital Organics Green Organic Cold Press Green Juice 1 L | $0.00 | $62.95 | $+62.95 | +100.0% | New |
-| Papaya | $39.43 | $39.40 | $-0.03 | -0.1% | Decrease |
-| Pork Spare Ribs Bone-In Frozen Case | $0.00 | $1245.61 | $+1245.61 | +100.0% | New |
-| Frozen Sliced Turkey Wings, Bag | $160.03 | $161.17 | $+1.14 | +0.7% | Increase |
-| Smoked Pork Chop with Bone Frozen Tray | $89.18 | $91.32 | $+2.14 | +2.4% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $188.09 | $188.93 | $+0.84 | +0.4% | Increase |
-| Nature Valley Cinnamon Biscuits with Almond Butter Filling 30 Units 38 g / 1.35 oz | $138.95 | $129.95 | $-9.00 | -6.5% | Decrease |
-| Pork Leg Frozen  | $65.13 | $64.94 | $-0.19 | -0.3% | Decrease |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $235.34 | $235.62 | $+0.28 | +0.1% | Increase |
-| Frozen Sliced Turkey Drumsticks | $147.05 | $146.45 | $-0.60 | -0.4% | Decrease |
+| SamTrade Chickpea Penne Pasta 2 Units / 227 g | $0.00 | $64.95 | $+64.95 | +100.0% | New |
+| Nongshim Shin Ramyun Korean Spicy Instant Noodle Soup 8 Units / 120 g / 4.23 oz | $0.00 | $86.95 | $+86.95 | +100.0% | New |
+| Frozen Beef Feet | $92.37 | $93.02 | $+0.65 | +0.7% | Increase |
+| Fresh Pomegranate 907 g / 2 lb | $0.00 | $48.95 | $+48.95 | +100.0% | New |
+| Papaya | $39.40 | $39.33 | $-0.07 | -0.2% | Decrease |
+| Frozen Lamb Leg Whole Vacuum Packed | $388.09 | $392.98 | $+4.89 | +1.3% | Increase |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $97.61 | $97.47 | $-0.14 | -0.1% | Decrease |
+| Pork Leg Frozen  | $64.94 | $64.74 | $-0.20 | -0.3% | Decrease |
+| Gouda Cheese Block | $91.73 | $91.60 | $-0.13 | -0.1% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $146.45 | $145.95 | $-0.50 | -0.3% | Decrease |
+| Frozen Imported Pork Leg Slices | $92.60 | $92.37 | $-0.23 | -0.2% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $66.95 | $67.15 | $+0.20 | +0.3% | Increase |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $94.20 | $94.01 | $-0.19 | -0.2% | Decrease |
+| Member's Selection Frozen Boneless Pork Loin Roast Tray | $92.66 | $92.77 | $+0.11 | +0.1% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $160.86 | $161.38 | $+0.52 | +0.3% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,8 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Angel Parboiled Rice Extra Long Grain 9 kg / 19.8 lb | Angel | $89.95 | 2026-11-06 |
+| Member's Selection Freshly Baked Oatmeal Cookies 24 Units | Member's Selection | $60.95 | 2026-11-06 |
 | Chung Chun Mushroom Pieces and Stems 8 Units / 184 g | Chung Chun | $56.95 | 2026-11-04 |
 | Chung Chun Whole Poku Mushrooms Canned 6 Units / 284 g | Chung Chun | $54.95 | 2026-11-04 |
 | McVitie's Ginger Nut Biscuits 4 Units / 250 g | Mc. Vities | $19.70 | 2026-11-04 |
@@ -291,14 +293,11 @@ This project has recently gained unexpected attention. It was created for person
 | POM Pomegranate Juice 1.77 L / 60 oz | POM | $89.70 | 2026-11-03 |
 | Fresh Red Globe Grapes 1.36 kg / 3 lb |  | $129.95 | 2026-11-02 |
 | Rastelli's Ribeye Steak Frozen 10 Units / 225 g / 8 oz  | Rastelli's | $569.95 | 2026-11-02 |
-| Frozen Skinless Boneless Tilapia Fillet 20 % Glaze Case 3.6 kg / 8 lb |  | $174.95 | 2026-11-02 |
-| Member's Selection Frozen Skinless Boneless Tilapia Fillet 2.27 kg / 5 lb | Member's Selection | $97.95 | 2026-11-02 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Frozen Lamb Shoulder Case |  | $1429.82 | G10D03 |
-| Member's Selection Hickory Smoked Spiral Sliced Ham | Member's Selection | $369.95 | G10D03 |
-| Vital Organics Green Organic Cold Press Green Juice 1 L | Vital Organics | $62.95 | G10D03 |
-| Pork Spare Ribs Bone-In Frozen Case |  | $1245.61 | G10D03 |
+| SamTrade Chickpea Penne Pasta 2 Units / 227 g | Sam Trade | $64.95 | G10D03 |
+| Nongshim Shin Ramyun Korean Spicy Instant Noodle Soup 8 Units / 120 g / 4.23 oz | Nongshim | $86.95 | G10D03 |
+| Fresh Pomegranate 907 g / 2 lb |  | $48.95 | G10D03 |
