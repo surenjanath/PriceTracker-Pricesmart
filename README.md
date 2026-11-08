@@ -184,22 +184,22 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1169
-- **Total value**: $129,372.80
-- **Average price**: $110.67
+- **Total products scraped**: 1168
+- **Total value**: $128,957.00
+- **Average price**: $110.41
 
 ## Database Changes
-- **New products added**: 3
-- **Existing products updated**: 1166
-- **Price changes detected**: 32
-- **Stock/availability changes**: 7
-- **Discontinued products**: 2
+- **New products added**: 0
+- **Existing products updated**: 1168
+- **Price changes detected**: 15
+- **Stock/availability changes**: 6
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 178 |
+| Member's Selection | 177 |
 |  | 144 |
 | Swiss | 16 |
 | Badia | 14 |
@@ -216,38 +216,38 @@ This project has recently gained unexpected attention. It was created for person
 | aribbean Flavours Creamy Egg-Free Mayonnaise 3 Units / 330 mL | Karibbean Flavours | $52.95 | true |
 | Parthenon Muffuletta Olive Salad 961 g / 33.9 oz | Parthenon | $89.95 | true |
 | Carretilla Quinoa Salad with Chili Dressing Ready to Eat 4 Units 230 g / 8.8 oz | Carretilla | $129.95 | true |
-| Member's Selection Colombian Freeze-Dried Coffee Assorted Flavors 3 Units / 100 g | Member's Selection | $185.95 | true |
 | Crisp Ups Quesadillas Shredded Chicken & Cheese 925 g / 2 lb | Crisp Ups | $192.95 | true |
+| Member's Selection Colombian Freeze-Dried Coffee Assorted Flavors 3 Units / 100 g | Member's Selection | $185.95 | true |
 | Wellesley Farms Snacks Cheddar Cheese with Nuts and Cranberries 12 Units / 43 g / 1.5 oz | Wellsley Farms | $142.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1168
-- **Price increases**: 605
-- **Price decreases**: 504
-- **Average increase**: 10.4%
-- **Average decrease**: -6.1%
+- **Total price changes**: 1138
+- **Price increases**: 593
+- **Price decreases**: 490
+- **Average increase**: 10.2%
+- **Average decrease**: -5.7%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| SamTrade Chickpea Penne Pasta 2 Units / 227 g | $0.00 | $64.95 | $+64.95 | +100.0% | New |
-| Nongshim Shin Ramyun Korean Spicy Instant Noodle Soup 8 Units / 120 g / 4.23 oz | $0.00 | $86.95 | $+86.95 | +100.0% | New |
-| Frozen Beef Feet | $92.37 | $93.02 | $+0.65 | +0.7% | Increase |
-| Fresh Pomegranate 907 g / 2 lb | $0.00 | $48.95 | $+48.95 | +100.0% | New |
-| Papaya | $39.40 | $39.33 | $-0.07 | -0.2% | Decrease |
-| Frozen Lamb Leg Whole Vacuum Packed | $388.09 | $392.98 | $+4.89 | +1.3% | Increase |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $97.61 | $97.47 | $-0.14 | -0.1% | Decrease |
-| Pork Leg Frozen  | $64.94 | $64.74 | $-0.20 | -0.3% | Decrease |
-| Gouda Cheese Block | $91.73 | $91.60 | $-0.13 | -0.1% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $146.45 | $145.95 | $-0.50 | -0.3% | Decrease |
-| Frozen Imported Pork Leg Slices | $92.60 | $92.37 | $-0.23 | -0.2% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $66.95 | $67.15 | $+0.20 | +0.3% | Increase |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $94.20 | $94.01 | $-0.19 | -0.2% | Decrease |
-| Member's Selection Frozen Boneless Pork Loin Roast Tray | $92.66 | $92.77 | $+0.11 | +0.1% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $160.86 | $161.38 | $+0.52 | +0.3% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Case | $1637.58 | $1618.88 | $-18.70 | -1.1% | Decrease |
+| Papaya | $39.33 | $39.43 | $+0.10 | +0.3% | Increase |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $188.93 | $189.49 | $+0.56 | +0.3% | Increase |
+| Pork Leg Frozen  | $64.74 | $64.54 | $-0.20 | -0.3% | Decrease |
+| Frozen Imported Pork Leg Slices | $92.37 | $92.02 | $-0.35 | -0.4% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $67.15 | $67.56 | $+0.41 | +0.6% | Increase |
+| Member's Selection Chilled Chicken Liver, Tray Pack | $31.02 | $30.92 | $-0.10 | -0.3% | Decrease |
+| Fresh Beef Striploin Steak Tray | $183.57 | $184.17 | $+0.60 | +0.3% | Increase |
+| Fresh Chicken Breast Bone In Tray | $92.42 | $92.51 | $+0.09 | +0.1% | Increase |
+| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $176.09 | $176.22 | $+0.13 | +0.1% | Increase |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $78.63 | $78.75 | $+0.12 | +0.2% | Increase |
+| Member's Selection Chilled Ground Beef | $361.80 | $361.67 | $-0.13 | -0.0% | Decrease |
+| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $128.91 | $128.73 | $-0.18 | -0.1% | Decrease |
+| Member's Selection Frozen Skinless Boneless Salmon Fillets Vacuum Packaged | $264.42 | $266.34 | $+1.92 | +0.7% | Increase |
+| Member's Selection Frozen Boneless Pork Loin Steak Tray | $73.81 | $73.69 | $-0.12 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2026-11-07 |
 | Angel Parboiled Rice Extra Long Grain 9 kg / 19.8 lb | Angel | $89.95 | 2026-11-06 |
 | Member's Selection Freshly Baked Oatmeal Cookies 24 Units | Member's Selection | $60.95 | 2026-11-06 |
 | Chung Chun Mushroom Pieces and Stems 8 Units / 184 g | Chung Chun | $56.95 | 2026-11-04 |
@@ -292,12 +293,6 @@ This project has recently gained unexpected attention. It was created for person
 | Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | MorningStar Farms | $59.70 | 2026-11-04 |
 | POM Pomegranate Juice 1.77 L / 60 oz | POM | $89.70 | 2026-11-03 |
 | Fresh Red Globe Grapes 1.36 kg / 3 lb |  | $129.95 | 2026-11-02 |
-| Rastelli's Ribeye Steak Frozen 10 Units / 225 g / 8 oz  | Rastelli's | $569.95 | 2026-11-02 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| SamTrade Chickpea Penne Pasta 2 Units / 227 g | Sam Trade | $64.95 | G10D03 |
-| Nongshim Shin Ramyun Korean Spicy Instant Noodle Soup 8 Units / 120 g / 4.23 oz | Nongshim | $86.95 | G10D03 |
-| Fresh Pomegranate 907 g / 2 lb |  | $48.95 | G10D03 |
+No new products added today.
