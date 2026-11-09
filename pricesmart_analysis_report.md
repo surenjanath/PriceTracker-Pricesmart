@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1168
-- **Total value**: $128,957.00
-- **Average price**: $110.41
+- **Total products scraped**: 1159
+- **Total value**: $128,440.33
+- **Average price**: $110.82
 
 ## Database Changes
 - **New products added**: 0
-- **Existing products updated**: 1168
-- **Price changes detected**: 15
-- **Stock/availability changes**: 6
-- **Discontinued products**: 1
+- **Existing products updated**: 1159
+- **Price changes detected**: 32
+- **Stock/availability changes**: 10
+- **Discontinued products**: 9
 
 ## Top 5 Brands
 
@@ -18,7 +18,7 @@
 |-------|-------|
 | Member's Selection | 177 |
 |  | 144 |
-| Swiss | 16 |
+| Swiss | 15 |
 | Badia | 14 |
 | Kirkland Signature | 12 |
 
@@ -33,38 +33,38 @@
 | aribbean Flavours Creamy Egg-Free Mayonnaise 3 Units / 330 mL | Karibbean Flavours | $52.95 | true |
 | Parthenon Muffuletta Olive Salad 961 g / 33.9 oz | Parthenon | $89.95 | true |
 | Carretilla Quinoa Salad with Chili Dressing Ready to Eat 4 Units 230 g / 8.8 oz | Carretilla | $129.95 | true |
-| Crisp Ups Quesadillas Shredded Chicken & Cheese 925 g / 2 lb | Crisp Ups | $192.95 | true |
 | Member's Selection Colombian Freeze-Dried Coffee Assorted Flavors 3 Units / 100 g | Member's Selection | $185.95 | true |
-| Wellesley Farms Snacks Cheddar Cheese with Nuts and Cranberries 12 Units / 43 g / 1.5 oz | Wellsley Farms | $142.95 | true |
+| Crisp Ups Quesadillas Shredded Chicken & Cheese 925 g / 2 lb | Crisp Ups | $192.95 | true |
+| Athena Sweet Athena Ambassador's Cut Handmade Baklava Pastry 709 g / 25 oz | Athena Sweet Athena | $164.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1138
-- **Price increases**: 593
-- **Price decreases**: 490
-- **Average increase**: 10.2%
-- **Average decrease**: -5.7%
+- **Total price changes**: 1100
+- **Price increases**: 582
+- **Price decreases**: 471
+- **Average increase**: 9.7%
+- **Average decrease**: -5.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Frozen Skinless Boneless Beef Shoulder Clod Case | $1637.58 | $1618.88 | $-18.70 | -1.1% | Decrease |
-| Papaya | $39.33 | $39.43 | $+0.10 | +0.3% | Increase |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $188.93 | $189.49 | $+0.56 | +0.3% | Increase |
-| Pork Leg Frozen  | $64.74 | $64.54 | $-0.20 | -0.3% | Decrease |
-| Frozen Imported Pork Leg Slices | $92.37 | $92.02 | $-0.35 | -0.4% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $67.15 | $67.56 | $+0.41 | +0.6% | Increase |
-| Member's Selection Chilled Chicken Liver, Tray Pack | $31.02 | $30.92 | $-0.10 | -0.3% | Decrease |
-| Fresh Beef Striploin Steak Tray | $183.57 | $184.17 | $+0.60 | +0.3% | Increase |
-| Fresh Chicken Breast Bone In Tray | $92.42 | $92.51 | $+0.09 | +0.1% | Increase |
-| Frozen Bone-In Pork Spare Rib Vacuum Packaged | $176.09 | $176.22 | $+0.13 | +0.1% | Increase |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $78.63 | $78.75 | $+0.12 | +0.2% | Increase |
-| Member's Selection Chilled Ground Beef | $361.80 | $361.67 | $-0.13 | -0.0% | Decrease |
-| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $128.91 | $128.73 | $-0.18 | -0.1% | Decrease |
-| Member's Selection Frozen Skinless Boneless Salmon Fillets Vacuum Packaged | $264.42 | $266.34 | $+1.92 | +0.7% | Increase |
-| Member's Selection Frozen Boneless Pork Loin Steak Tray | $73.81 | $73.69 | $-0.12 | -0.2% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $94.01 | $93.97 | $-0.04 | -0.0% | Decrease |
+| Member's Selection Chilled Chicken Liver, Tray Pack | $30.92 | $31.02 | $+0.10 | +0.3% | Increase |
+| Member's Selection Frozen Boneless Salmon Portions with Skin 680 g / 1.5 lb | $179.95 | $177.95 | $-2.00 | -1.1% | Decrease |
+| Frozen Beef Feet | $93.02 | $93.56 | $+0.54 | +0.6% | Increase |
+| Papaya | $39.43 | $39.33 | $-0.10 | -0.3% | Decrease |
+| Frozen Sliced Turkey Wings, Bag | $161.17 | $161.97 | $+0.80 | +0.5% | Increase |
+| Pork Leg Frozen  | $64.54 | $64.44 | $-0.10 | -0.2% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $145.95 | $145.15 | $-0.80 | -0.5% | Decrease |
+| Fresh Whole Striploin Fillet Vacuum packaged | $2209.57 | $2252.07 | $+42.50 | +1.9% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $67.56 | $68.04 | $+0.48 | +0.7% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $161.38 | $159.64 | $-1.74 | -1.1% | Decrease |
+| Member's Selection Frozen Boneless Pork Loin Roast Tray | $92.77 | $92.56 | $-0.21 | -0.2% | Decrease |
+| Fresh Beef Ribeye Steak Vacuum Packed | $3225.80 | $3242.43 | $+16.63 | +0.5% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $127.71 | $127.90 | $+0.19 | +0.1% | Increase |
+| Member's Selection Frozen Bone-In Lamb Shoulder Round Tray | $133.60 | $133.79 | $+0.19 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,16 +100,16 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Catalina Ham Croquettes 1.3 kg / 47 oz | Catalina | $82.95 | 2026-11-08 |
+| Lay's Salt and Vinegar Potato Chips 184 g / 6.49 oz | Lays | $33.95 | 2026-11-08 |
+| Old El Paso Crispy Stand 'N Stuff Taco Shells 6 Units / 81 g | Old El Paso | $54.70 | 2026-11-08 |
+| Kashi Strawberry Banana Multi-Grain Cereal 720 g / 25.4 oz | Kashi | $86.95 | 2026-11-08 |
+| Sara Lee Classic Pound Butter Cake 2 Pack / 453 g / 15.9 oz | Sara Lee | $114.95 | 2026-11-08 |
+| Swiss Fettuccini Pasta 4 Units / 400 g / 14.1 oz | Swiss | $34.95 | 2026-11-08 |
+| Berties Scorpion Pepper Sauce 500 ml | Bertie's | $57.95 | 2026-11-08 |
+| KFI Cooking Sauce Tikka Masala 2 Units / 650 mL | KFI | $89.95 | 2026-11-08 |
+| Maribel White Granulated Sugar 5 kg | Maribel | $56.95 | 2026-11-08 |
 | Member's Selection Freshly Baked Sweet and Creamy Vanilla Cake 80 to 100 Slices | Member's Selection | $399.95 | 2026-11-07 |
-| Angel Parboiled Rice Extra Long Grain 9 kg / 19.8 lb | Angel | $89.95 | 2026-11-06 |
-| Member's Selection Freshly Baked Oatmeal Cookies 24 Units | Member's Selection | $60.95 | 2026-11-06 |
-| Chung Chun Mushroom Pieces and Stems 8 Units / 184 g | Chung Chun | $56.95 | 2026-11-04 |
-| Chung Chun Whole Poku Mushrooms Canned 6 Units / 284 g | Chung Chun | $54.95 | 2026-11-04 |
-| McVitie's Ginger Nut Biscuits 4 Units / 250 g | Mc. Vities | $19.70 | 2026-11-04 |
-| Bombolo Biscotti Assorted Decorated Cookies with Colorful Icing Summer Edition | Bombolo Biscotti | $69.70 | 2026-11-04 |
-| Morning Star Farms Sausage Links Plant-Based 2 Units 225 g / 8 oz  | MorningStar Farms | $59.70 | 2026-11-04 |
-| POM Pomegranate Juice 1.77 L / 60 oz | POM | $89.70 | 2026-11-03 |
-| Fresh Red Globe Grapes 1.36 kg / 3 lb |  | $129.95 | 2026-11-02 |
 
 ## New Products Added Today
 No new products added today.
