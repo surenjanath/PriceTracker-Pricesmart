@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1158
-- **Total value**: $128,417.45
+- **Total products scraped**: 1159
+- **Total value**: $128,534.39
 - **Average price**: $110.90
 
 ## Database Changes
-- **New products added**: 1
+- **New products added**: 2
 - **Existing products updated**: 1157
-- **Price changes detected**: 18
-- **Stock/availability changes**: 8
-- **Discontinued products**: 3
+- **Price changes detected**: 19
+- **Stock/availability changes**: 16
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -215,7 +215,7 @@ This project has recently gained unexpected attention. It was created for person
 | aribbean Flavours Creamy Egg-Free Mayonnaise 3 Units / 330 mL | Karibbean Flavours | $52.95 | true |
 | Carmencita Black Pepper with Grinder 190 g / 6.7 oz | Carmencita | $71.95 | true |
 | Parthenon Muffuletta Olive Salad 961 g / 33.9 oz | Parthenon | $89.95 | true |
-| Member's Selection Colombian Freeze-Dried Coffee Assorted Flavors 3 Units / 100 g | Member's Selection | $185.95 | true |
+| Member's Selection Colombian Freeze-Dried Coffee Assorted Flavors 3 Units / 100 g | Member's Selection | $182.95 | true |
 | Carretilla Quinoa Salad with Chili Dressing Ready to Eat 4 Units 230 g / 8.8 oz | Carretilla | $129.95 | true |
 | Crisp Ups Quesadillas Shredded Chicken & Cheese 925 g / 2 lb | Crisp Ups | $192.95 | true |
 | Athena Sweet Athena Ambassador's Cut Handmade Baklava Pastry 709 g / 25 oz | Athena Sweet Athena | $164.95 | true |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1078
-- **Price increases**: 563
-- **Price decreases**: 468
-- **Average increase**: 9.6%
-- **Average decrease**: -5.7%
+- **Total price changes**: 1099
+- **Price increases**: 572
+- **Price decreases**: 478
+- **Average increase**: 9.4%
+- **Average decrease**: -5.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Member's Selection Chilled Chicken Liver, Tray Pack | $31.02 | $30.92 | $-0.10 | -0.3% | Decrease |
-| Pork Belly with Skin Frozen Vacuum Packaged | $176.25 | $147.95 | $-28.30 | -16.1% | Decrease |
-| Frozen Pork Belly Skin On Sliced Tray  | $95.61 | $97.32 | $+1.71 | +1.8% | Increase |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $406.15 | $415.34 | $+9.19 | +2.3% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $68.04 | $68.31 | $+0.27 | +0.4% | Increase |
-| Member's Selection Frozen Boneless Pork Loin Roast Tray | $92.56 | $92.34 | $-0.22 | -0.2% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $291.97 | $292.14 | $+0.17 | +0.1% | Increase |
-| Garlic 1 kg / 2.2 lb | $19.95 | $21.95 | $+2.00 | +10.0% | Increase |
-| Bolthouse Farms Carrot Juice 1.54 L | $49.70 | $39.70 | $-10.00 | -20.1% | Decrease |
-| Member's Selection Frozen Lamb Neck, Bone in, skinless, Tray | $92.19 | $92.05 | $-0.14 | -0.2% | Decrease |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $117.33 | $117.14 | $-0.19 | -0.2% | Decrease |
-| Fresh Chicken Mixed Parts Tray | $77.92 | $77.82 | $-0.10 | -0.1% | Decrease |
-| Watermelon 1 kg / 2.2 lb | $83.91 | $83.60 | $-0.31 | -0.4% | Decrease |
-| Lucy Rose Apples 907 g / 2 lb | $74.95 | $49.70 | $-25.25 | -33.7% | Decrease |
-| Whole Rack Frozen Baby Back Ribs Vacuum Packaged | $123.66 | $124.19 | $+0.53 | +0.4% | Increase |
+| Frozen Pork Belly Skin On Sliced Tray  | $97.32 | $103.90 | $+6.58 | +6.8% | Increase |
+| Pork Belly with Skin Frozen Vacuum Packaged | $147.95 | $146.21 | $-1.74 | -1.2% | Decrease |
+| Stahl Meyer Whole Smoked Frozen Turkey Thigh | $149.44 | $156.46 | $+7.02 | +4.7% | Increase |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $320.88 | $313.87 | $-7.01 | -2.2% | Decrease |
+| Frozen Imported Pork Leg Slices | $92.02 | $91.91 | $-0.11 | -0.1% | Decrease |
+| Pork Leg Frozen  | $64.44 | $64.24 | $-0.20 | -0.3% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $68.31 | $68.65 | $+0.34 | +0.5% | Increase |
+| Member's Selection Frozen Boneless Pork Loin Roast Tray | $92.34 | $92.13 | $-0.21 | -0.2% | Decrease |
+| Ribeye Choice Fillet Fresh Tray | $382.59 | $379.91 | $-2.68 | -0.7% | Decrease |
+| Member's Selection Frozen Oxtail Bag | $240.41 | $241.85 | $+1.44 | +0.6% | Increase |
+| Fresh Chicken Thighs Boneless Tray | $88.59 | $88.72 | $+0.13 | +0.1% | Increase |
+| Fresh Ground Chicken Tray | $101.19 | $101.32 | $+0.13 | +0.1% | Increase |
+| Watermelon 1 kg / 2.2 lb | $83.60 | $83.48 | $-0.12 | -0.1% | Decrease |
+| Pork Chop with Bone Frozen Tray | $82.97 | $82.61 | $-0.36 | -0.4% | Decrease |
+| Member's Selection Chilled Ground Beef | $365.31 | $365.17 | $-0.14 | -0.0% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Cheez-It Original, Grahams, and White Cheddar Cheez-It Gripz Variety Pack 12 Units / 25 g / 0.9 oz | CheezIt | $39.70 | 2026-11-10 |
 | Russet Potato 2.2 kg / 5 lb |  | $27.95 | 2026-11-09 |
 | RW Garcia Sweet Potato Gluten-Free Crackers 2 Units / 425 g / 15 oz | RW Garcia | $112.95 | 2026-11-09 |
 | Member's Selection Straight Cut French Fries 2.5 kg / 88 oz | Member's Selection | $44.95 | 2026-11-09 |
@@ -292,10 +293,10 @@ This project has recently gained unexpected attention. It was created for person
 | Kashi Strawberry Banana Multi-Grain Cereal 720 g / 25.4 oz | Kashi | $86.95 | 2026-11-08 |
 | Sara Lee Classic Pound Butter Cake 2 Pack / 453 g / 15.9 oz | Sara Lee | $114.95 | 2026-11-08 |
 | Swiss Fettuccini Pasta 4 Units / 400 g / 14.1 oz | Swiss | $34.95 | 2026-11-08 |
-| Berties Scorpion Pepper Sauce 500 ml | Bertie's | $57.95 | 2026-11-08 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Karibbean Flavours Spicy Jerk Seasoning 2 Units / 283 g | Karibbean Flavours | $34.95 | G10D03 |
+| Karibbean Flavours Ground Nutmeg 475 g / 16.75 oz | Karibbean Flavours | $68.95 | G10D03 |
+| Karibbean Flavours Whole Cloves 327 g | Karibbean Flavours | $79.95 | G10D03 |
