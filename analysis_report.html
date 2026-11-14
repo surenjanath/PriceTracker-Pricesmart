@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1159
-- **Total value**: $128,324.93
-- **Average price**: $110.72
+- **Total products scraped**: 1160
+- **Total value**: $128,206.85
+- **Average price**: $110.52
 
 ## Database Changes
 - **New products added**: 4
-- **Existing products updated**: 1155
-- **Price changes detected**: 38
-- **Stock/availability changes**: 8
-- **Discontinued products**: 2
+- **Existing products updated**: 1156
+- **Price changes detected**: 23
+- **Stock/availability changes**: 11
+- **Discontinued products**: 4
 
 ## Top 5 Brands
 
@@ -29,8 +29,8 @@
 | Member’s Selection Freshly Prepared Holiday Cake | Member's Selection | $89.95 | true |
 | Member's Selection Extra Virgin Olive Oil 750 mL / 25.36 oz | Member's Selection | $69.95 | true |
 | Karibbean Flavours Spicy Jerk Seasoning 2 Units / 283 g | Karibbean Flavours | $34.95 | true |
-| Karibbean Flavours Ground Nutmeg 475 g / 16.75 oz | Karibbean Flavours | $68.95 | true |
 | Karibbean Flavours Whole Cloves 327 g | Karibbean Flavours | $79.95 | true |
+| Karibbean Flavours Ground Nutmeg 475 g / 16.75 oz | Karibbean Flavours | $68.95 | true |
 | Member’s Selection All-Natural Greek Nonfat Plain Yogurt 907 g / 2 lb  | Member's Selection | $49.95 | true |
 | Crisp Ups Quesadillas Shredded Chicken & Cheese 925 g / 2 lb | Crisp Ups | $199.95 | true |
 | Athena Sweet Athena Ambassador's Cut Handmade Baklava Pastry 709 g / 25 oz | Athena Sweet Athena | $164.95 | true |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1117
-- **Price increases**: 600
-- **Price decreases**: 466
-- **Average increase**: 8.3%
+- **Total price changes**: 1072
+- **Price increases**: 563
+- **Price decreases**: 454
+- **Average increase**: 8.4%
 - **Average decrease**: -5.2%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Member’s Selection Variety Freshly Baked Cookies 18 Units | $0.00 | $74.95 | $+74.95 | +100.0% | New |
-| Charles Chocolates Ping Pong Freshly Roasted Chocolate-Covered Peanuts 1 kg | $0.00 | $59.95 | $+59.95 | +100.0% | New |
-| Member’s Selection Freshly Baked Chocolate Cookies 18 Units | $0.00 | $74.95 | $+74.95 | +100.0% | New |
-| Member’s Selection Freshly Baked Oatmeal Raisin Cookies 18 Units | $0.00 | $74.95 | $+74.95 | +100.0% | New |
-| Frozen Beef Feet | $93.56 | $94.94 | $+1.38 | +1.5% | Increase |
-| Frozen Bone-In Goat Carcass Case | $1193.55 | $1223.13 | $+29.58 | +2.5% | Increase |
-| Frozen Pork Belly Skin On Sliced Tray  | $103.90 | $105.36 | $+1.46 | +1.4% | Increase |
-| Pork Belly with Skin Frozen Vacuum Packaged | $146.21 | $147.95 | $+1.74 | +1.2% | Increase |
-| Papaya | $39.33 | $39.40 | $+0.07 | +0.2% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Case | $1618.88 | $1687.95 | $+69.07 | +4.3% | Increase |
-| Frozen Sliced Turkey Drumsticks | $145.15 | $145.05 | $-0.10 | -0.1% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $93.97 | $94.01 | $+0.04 | +0.0% | Increase |
-| Pork Leg Frozen  | $64.14 | $63.94 | $-0.20 | -0.3% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $68.92 | $69.12 | $+0.20 | +0.3% | Increase |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $159.64 | $161.38 | $+1.74 | +1.1% | Increase |
+| Rainbow Black-Eyed Peas 2.2 kg / 5 lb | $0.00 | $39.95 | $+39.95 | +100.0% | New |
+| Rainbow Red Beans Organic Legumes 2.27 kg / 5 lb | $0.00 | $52.95 | $+52.95 | +100.0% | New |
+| Rainbow Chickpeas 2.2 kg / 5 lb | $0.00 | $21.95 | $+21.95 | +100.0% | New |
+| After Eight Chocolate Coated Mints 300 g / 10.58 oz | $52.95 | $54.95 | $+2.00 | +3.8% | Increase |
+| Frozen Lamb Shoulder Case | $1429.82 | $1243.80 | $-186.02 | -13.0% | Decrease |
+| Stahl Meyer Whole Smoked Frozen Turkey Thigh | $156.46 | $149.44 | $-7.02 | -4.5% | Decrease |
+| Papaya | $39.40 | $39.33 | $-0.07 | -0.2% | Decrease |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $313.87 | $320.88 | $+7.01 | +2.2% | Increase |
+| Frozen Sliced Turkey Drumsticks | $145.05 | $144.85 | $-0.20 | -0.1% | Decrease |
+| Pork Leg Frozen  | $63.94 | $63.54 | $-0.40 | -0.6% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $69.12 | $69.53 | $+0.41 | +0.6% | Increase |
+| Member's Selection Vanilla Greek Yogurt 907 g / 2 lb  | $0.00 | $49.95 | $+49.95 | +100.0% | New |
+| Member's Selection Ready-to-Eat Barbecue Flavored Chicken Wings | $174.36 | $174.09 | $-0.27 | -0.2% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $161.38 | $161.55 | $+0.17 | +0.1% | Increase |
+| Member's Selection Frozen Boneless Pork Loin Roast Tray | $91.82 | $91.71 | $-0.11 | -0.1% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,22 +100,22 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Philadelphia Strawberry Cream Cheese 2 Units / 212 g / 7.5 oz | Philadelphia | $49.70 | 2026-11-13 |
+| Chobani Greek Yogurt 907 g / 32 oz | Chobani | $69.95 | 2026-11-13 |
+| El Exquisito Sabor Traditional Tiramisu with Ladyfingers and Mascarpone | El Exquisito Sabor | $25.70 | 2026-11-13 |
+| Member’s Selection All-Natural Greek Nonfat Plain Yogurt 907 g / 2 lb  | Member's Selection | $49.95 | 2026-11-13 |
 | Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | Member's Selection | $134.56 | 2026-11-12 |
 | Member's Selection Frozen Skin On Boneless Trout Fillet Vacuum Packaged Bag | Member's Selection | $236.75 | 2026-11-12 |
 | Aqua Star Breaded Shrimp 1.36 kg / 3 lb | Aqua Star | $192.95 | 2026-11-11 |
 | Carnation Creamy Evaporated Milk 6 Units / 330 mL | Carnation | $54.95 | 2026-11-11 |
 | Carrot 2.27 kg / 5 lb |  | $37.95 | 2026-11-11 |
 | Cheez-It Original, Grahams, and White Cheddar Cheez-It Gripz Variety Pack 12 Units / 25 g / 0.9 oz | CheezIt | $39.70 | 2026-11-10 |
-| Russet Potato 2.2 kg / 5 lb |  | $27.95 | 2026-11-09 |
-| RW Garcia Sweet Potato Gluten-Free Crackers 2 Units / 425 g / 15 oz | RW Garcia | $112.95 | 2026-11-09 |
-| Member's Selection Straight Cut French Fries 2.5 kg / 88 oz | Member's Selection | $44.95 | 2026-11-09 |
-| Catalina Ham Croquettes 1.3 kg / 47 oz | Catalina | $82.95 | 2026-11-08 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Member’s Selection Variety Freshly Baked Cookies 18 Units | Member's Selection | $74.95 | G10D03 |
-| Charles Chocolates Ping Pong Freshly Roasted Chocolate-Covered Peanuts 1 kg | Charles Chocolates | $59.95 | G10D03 |
-| Member’s Selection Freshly Baked Chocolate Cookies 18 Units | Member's Selection | $74.95 | G10D03 |
-| Member’s Selection Freshly Baked Oatmeal Raisin Cookies 18 Units | Member's Selection | $74.95 | G10D03 |
+| Rainbow Black-Eyed Peas 2.2 kg / 5 lb | Rainbow | $39.95 | G10D03 |
+| Rainbow Red Beans Organic Legumes 2.27 kg / 5 lb | Rainbow | $52.95 | G10D03 |
+| Rainbow Chickpeas 2.2 kg / 5 lb | Rainbow | $21.95 | G10D03 |
+| Member's Selection Vanilla Greek Yogurt 907 g / 2 lb  | Member's Selection | $49.95 | G10D03 |
