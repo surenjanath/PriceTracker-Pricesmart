@@ -2,15 +2,15 @@
 
 ## Basic Analysis
 - **Total products scraped**: 1160
-- **Total value**: $128,206.85
-- **Average price**: $110.52
+- **Total value**: $128,278.39
+- **Average price**: $110.58
 
 ## Database Changes
-- **New products added**: 4
-- **Existing products updated**: 1156
-- **Price changes detected**: 23
-- **Stock/availability changes**: 11
-- **Discontinued products**: 4
+- **New products added**: 0
+- **Existing products updated**: 1160
+- **Price changes detected**: 30
+- **Stock/availability changes**: 15
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -26,45 +26,45 @@
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Member’s Selection Freshly Prepared Holiday Cake | Member's Selection | $89.95 | true |
-| Member's Selection Extra Virgin Olive Oil 750 mL / 25.36 oz | Member's Selection | $69.95 | true |
-| Karibbean Flavours Spicy Jerk Seasoning 2 Units / 283 g | Karibbean Flavours | $34.95 | true |
-| Karibbean Flavours Whole Cloves 327 g | Karibbean Flavours | $79.95 | true |
-| Karibbean Flavours Ground Nutmeg 475 g / 16.75 oz | Karibbean Flavours | $68.95 | true |
 | Member’s Selection All-Natural Greek Nonfat Plain Yogurt 907 g / 2 lb  | Member's Selection | $49.95 | true |
 | Crisp Ups Quesadillas Shredded Chicken & Cheese 925 g / 2 lb | Crisp Ups | $199.95 | true |
 | Athena Sweet Athena Ambassador's Cut Handmade Baklava Pastry 709 g / 25 oz | Athena Sweet Athena | $164.95 | true |
 | Florida's Natural Peach and Mango Juice 2 Units / 1.75 L / 59 oz  | Florida's Natural | $119.95 | true |
+| Member's Selection Extra Virgin Olive Oil 750 mL / 25.36 oz | Member's Selection | $69.95 | true |
+| Karibbean Flavours Spicy Jerk Seasoning 2 Units / 283 g | Karibbean Flavours | $34.95 | true |
 | Vital Organics Green Organic Cold Press Green Juice 1 L | Vital Organics | $62.95 | true |
+| Fresh Start Mauby Concentrate Made with Bark 4 Units / 750 mL / 25.36 oz | Fresh Start | $57.95 | true |
+| SamTrade Chickpea Penne Pasta 2 Units / 227 g | Sam Trade | $69.95 | true |
+| Karibbean Flavours Whole Cloves 327 g | Karibbean Flavours | $79.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1072
-- **Price increases**: 563
-- **Price decreases**: 454
-- **Average increase**: 8.4%
-- **Average decrease**: -5.2%
+- **Total price changes**: 1046
+- **Price increases**: 540
+- **Price decreases**: 452
+- **Average increase**: 8.6%
+- **Average decrease**: -5.0%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Rainbow Black-Eyed Peas 2.2 kg / 5 lb | $0.00 | $39.95 | $+39.95 | +100.0% | New |
-| Rainbow Red Beans Organic Legumes 2.27 kg / 5 lb | $0.00 | $52.95 | $+52.95 | +100.0% | New |
-| Rainbow Chickpeas 2.2 kg / 5 lb | $0.00 | $21.95 | $+21.95 | +100.0% | New |
-| After Eight Chocolate Coated Mints 300 g / 10.58 oz | $52.95 | $54.95 | $+2.00 | +3.8% | Increase |
-| Frozen Lamb Shoulder Case | $1429.82 | $1243.80 | $-186.02 | -13.0% | Decrease |
-| Stahl Meyer Whole Smoked Frozen Turkey Thigh | $156.46 | $149.44 | $-7.02 | -4.5% | Decrease |
-| Papaya | $39.40 | $39.33 | $-0.07 | -0.2% | Decrease |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $313.87 | $320.88 | $+7.01 | +2.2% | Increase |
-| Frozen Sliced Turkey Drumsticks | $145.05 | $144.85 | $-0.20 | -0.1% | Decrease |
-| Pork Leg Frozen  | $63.94 | $63.54 | $-0.40 | -0.6% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $69.12 | $69.53 | $+0.41 | +0.6% | Increase |
-| Member's Selection Vanilla Greek Yogurt 907 g / 2 lb  | $0.00 | $49.95 | $+49.95 | +100.0% | New |
-| Member's Selection Ready-to-Eat Barbecue Flavored Chicken Wings | $174.36 | $174.09 | $-0.27 | -0.2% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $161.38 | $161.55 | $+0.17 | +0.1% | Increase |
-| Member's Selection Frozen Boneless Pork Loin Roast Tray | $91.82 | $91.71 | $-0.11 | -0.1% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $94.01 | $93.74 | $-0.27 | -0.3% | Decrease |
+| Pranksters Kiwi 454 g / 16 oz | $49.70 | $79.95 | $+30.25 | +60.9% | Increase |
+| Frozen Beef Feet | $94.94 | $96.02 | $+1.08 | +1.1% | Increase |
+| Frozen Pork Belly Skin On Sliced Tray  | $105.36 | $103.90 | $-1.46 | -1.4% | Decrease |
+| Stahl Meyer Whole Smoked Frozen Turkey Thigh | $149.44 | $155.68 | $+6.24 | +4.2% | Increase |
+| Frozen Imported Pork Leg Slices | $91.91 | $92.02 | $+0.11 | +0.1% | Increase |
+| Papaya | $39.33 | $39.30 | $-0.03 | -0.1% | Decrease |
+| Pork Leg Frozen  | $63.54 | $63.64 | $+0.10 | +0.2% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $69.53 | $69.73 | $+0.20 | +0.3% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $161.55 | $160.86 | $-0.69 | -0.4% | Decrease |
+| Member's Selection Frozen Boneless Pork Loin Roast Tray | $91.71 | $91.60 | $-0.11 | -0.1% | Decrease |
+| Frozen Lamb Shoulder Chops Tray | $128.09 | $127.90 | $-0.19 | -0.1% | Decrease |
+| Fresh Ground Chicken Meat Bag | $302.99 | $304.19 | $+1.20 | +0.4% | Increase |
+| Member's Selection Frozen Bone-In Lamb Shoulder Round Tray | $133.60 | $133.79 | $+0.19 | +0.1% | Increase |
+| Fresh Whole Chicken for Frying Bag | $292.48 | $292.82 | $+0.34 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Kit Kat Milk Chocolate Wafer 12 Units / 20.7 g | Kit Kat | $34.95 | 2026-11-14 |
 | Philadelphia Strawberry Cream Cheese 2 Units / 212 g / 7.5 oz | Philadelphia | $49.70 | 2026-11-13 |
 | Chobani Greek Yogurt 907 g / 32 oz | Chobani | $69.95 | 2026-11-13 |
 | El Exquisito Sabor Traditional Tiramisu with Ladyfingers and Mascarpone | El Exquisito Sabor | $25.70 | 2026-11-13 |
@@ -109,13 +110,6 @@
 | Aqua Star Breaded Shrimp 1.36 kg / 3 lb | Aqua Star | $192.95 | 2026-11-11 |
 | Carnation Creamy Evaporated Milk 6 Units / 330 mL | Carnation | $54.95 | 2026-11-11 |
 | Carrot 2.27 kg / 5 lb |  | $37.95 | 2026-11-11 |
-| Cheez-It Original, Grahams, and White Cheddar Cheez-It Gripz Variety Pack 12 Units / 25 g / 0.9 oz | CheezIt | $39.70 | 2026-11-10 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Rainbow Black-Eyed Peas 2.2 kg / 5 lb | Rainbow | $39.95 | G10D03 |
-| Rainbow Red Beans Organic Legumes 2.27 kg / 5 lb | Rainbow | $52.95 | G10D03 |
-| Rainbow Chickpeas 2.2 kg / 5 lb | Rainbow | $21.95 | G10D03 |
-| Member's Selection Vanilla Greek Yogurt 907 g / 2 lb  | Member's Selection | $49.95 | G10D03 |
+No new products added today.
