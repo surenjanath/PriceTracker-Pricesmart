@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1156
-- **Total value**: $126,545.30
-- **Average price**: $109.47
+- **Total products scraped**: 1155
+- **Total value**: $126,595.58
+- **Average price**: $109.61
 
 ## Database Changes
 - **New products added**: 0
-- **Existing products updated**: 1156
-- **Price changes detected**: 71
-- **Stock/availability changes**: 16
-- **Discontinued products**: 4
+- **Existing products updated**: 1155
+- **Price changes detected**: 31
+- **Stock/availability changes**: 15
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -26,8 +26,8 @@
 
 | Title | Brand | Price (TTD) | Availability |
 |-------|-------|-------------|--------------|
-| Crisp Ups Quesadillas Shredded Chicken & Cheese 925 g / 2 lb | Crisp Ups | $199.95 | true |
 | Member’s Selection All-Natural Greek Nonfat Plain Yogurt 907 g / 2 lb  | Member's Selection | $49.95 | true |
+| Crisp Ups Quesadillas Shredded Chicken & Cheese 925 g / 2 lb | Crisp Ups | $199.95 | true |
 | Athena Sweet Athena Ambassador's Cut Handmade Baklava Pastry 709 g / 25 oz | Athena Sweet Athena | $164.95 | true |
 | Florida's Natural Peach and Mango Juice 2 Units / 1.75 L / 59 oz  | Florida's Natural | $119.95 | true |
 | Member's Selection Extra Virgin Olive Oil 750 mL / 25.36 oz | Member's Selection | $69.95 | true |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1070
-- **Price increases**: 532
-- **Price decreases**: 488
-- **Average increase**: 8.7%
-- **Average decrease**: -5.6%
+- **Total price changes**: 1079
+- **Price increases**: 535
+- **Price decreases**: 494
+- **Average increase**: 8.6%
+- **Average decrease**: -5.8%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Fresh Bone-in Chicken Thighs Tray | $69.73 | $70.48 | $+0.75 | +1.1% | Increase |
-| Hershey's Cocoa Powder 652 g / 23 oz | $101.95 | $125.95 | $+24.00 | +23.5% | Increase |
-| Bertie's Scorpion Pepper Sauce 750 mL / 25 oz | $86.95 | $72.95 | $-14.00 | -16.1% | Decrease |
-| Frozen Imported Pork Leg Slices | $92.02 | $91.91 | $-0.11 | -0.1% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $189.49 | $188.93 | $-0.56 | -0.3% | Decrease |
-| Papaya | $39.30 | $39.24 | $-0.06 | -0.2% | Decrease |
-| Better Living Nuts, Seeds and Dehydrated Fruit Mix 1.3 kg | $87.95 | $74.45 | $-13.50 | -15.3% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $97.47 | $97.32 | $-0.15 | -0.2% | Decrease |
-| Pork Leg Frozen  | $63.64 | $63.54 | $-0.10 | -0.2% | Decrease |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $320.88 | $313.87 | $-7.01 | -2.2% | Decrease |
-| Pascual Greek Yogurt 8 Units / 125 g / 4.4 oz | $59.95 | $50.95 | $-9.00 | -15.0% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $160.86 | $161.90 | $+1.04 | +0.6% | Increase |
-| Member's Selection Frozen Bone-In Goat Stew Bag | $107.94 | $134.93 | $+26.99 | +25.0% | Increase |
-| Member's Selection Frozen Boneless Pork Loin Roast Tray | $91.60 | $91.29 | $-0.31 | -0.3% | Decrease |
-| Busta Assorted Soft Drinks 24 Units / 370 mL / 12.5 oz | $43.95 | $36.95 | $-7.00 | -15.9% | Decrease |
+| Frozen Beef Feet | $96.02 | $96.26 | $+0.24 | +0.2% | Increase |
+| Frozen Sliced Turkey Drumsticks | $144.85 | $144.56 | $-0.29 | -0.2% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $97.32 | $97.17 | $-0.15 | -0.2% | Decrease |
+| Pork Leg Frozen  | $63.54 | $63.64 | $+0.10 | +0.2% | Increase |
+| Papaya | $39.24 | $39.11 | $-0.13 | -0.3% | Decrease |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $313.87 | $320.88 | $+7.01 | +2.2% | Increase |
+| Fresh Bone-in Chicken Thighs Tray | $70.48 | $70.28 | $-0.20 | -0.3% | Decrease |
+| Member's Selection Frozen Boneless Pork Loin Roast Tray | $91.29 | $91.82 | $+0.53 | +0.6% | Increase |
+| Fresh Whole Striploin Fillet Vacuum packaged | $2252.07 | $2136.82 | $-115.25 | -5.1% | Decrease |
+| Fresh Beef Ribeye Steak Vacuum Packed | $3242.43 | $3577.79 | $+335.36 | +10.3% | Increase |
+| Ribeye Choice Fillet Fresh Tray | $379.91 | $377.23 | $-2.68 | -0.7% | Decrease |
+| Member's Selection Frozen Bone-In Goat Stew Bag | $134.93 | $113.52 | $-21.41 | -15.9% | Decrease |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $79.24 | $79.36 | $+0.12 | +0.2% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $127.90 | $128.09 | $+0.19 | +0.1% | Increase |
+| Member's Selection Frozen Bone-In Lamb Shoulder Round Tray | $133.98 | $134.37 | $+0.39 | +0.3% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| La Croix Sparkling Water Variety Pack 24 Units / 355 mL / 12 oz  | La Croix | $125.95 | 2026-11-16 |
 | Crix Steelpan Original Cookies in Collectible Tin 768 g | Crix | $42.70 | 2026-11-15 |
 | Welch's Concord Grape Fruit Juice 1.75 L / 59 oz | Welch's | $24.70 | 2026-11-15 |
 |  Gouda Cheese 20 kg / 44 lb |  | $1214.95 | 2026-11-15 |
@@ -109,7 +110,6 @@
 | Chobani Greek Yogurt 907 g / 32 oz | Chobani | $69.95 | 2026-11-13 |
 | El Exquisito Sabor Traditional Tiramisu with Ladyfingers and Mascarpone | El Exquisito Sabor | $25.70 | 2026-11-13 |
 | Member’s Selection All-Natural Greek Nonfat Plain Yogurt 907 g / 2 lb  | Member's Selection | $49.95 | 2026-11-13 |
-| Member's Selection Frozen Bone-In Beef Feet Sliced, Tray | Member's Selection | $134.56 | 2026-11-12 |
 
 ## New Products Added Today
 No new products added today.
