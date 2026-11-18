@@ -184,22 +184,22 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1155
-- **Total value**: $126,595.58
-- **Average price**: $109.61
+- **Total products scraped**: 1154
+- **Total value**: $126,249.63
+- **Average price**: $109.40
 
 ## Database Changes
 - **New products added**: 0
-- **Existing products updated**: 1155
-- **Price changes detected**: 31
-- **Stock/availability changes**: 15
+- **Existing products updated**: 1154
+- **Price changes detected**: 29
+- **Stock/availability changes**: 11
 - **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 176 |
+| Member's Selection | 175 |
 |  | 141 |
 | Swiss | 15 |
 | Badia | 14 |
@@ -216,38 +216,38 @@ This project has recently gained unexpected attention. It was created for person
 | Member's Selection Extra Virgin Olive Oil 750 mL / 25.36 oz | Member's Selection | $69.95 | true |
 | Karibbean Flavours Spicy Jerk Seasoning 2 Units / 283 g | Karibbean Flavours | $34.95 | true |
 | SamTrade Chickpea Penne Pasta 2 Units / 227 g | Sam Trade | $69.95 | true |
-| Vital Organics Green Organic Cold Press Green Juice 1 L | Vital Organics | $62.95 | true |
 | Fresh Start Mauby Concentrate Made with Bark 4 Units / 750 mL / 25.36 oz | Fresh Start | $57.95 | true |
+| Vital Organics Green Organic Cold Press Green Juice 1 L | Vital Organics | $62.95 | true |
 | Karibbean Flavours Whole Cloves 327 g | Karibbean Flavours | $79.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1079
-- **Price increases**: 535
-- **Price decreases**: 494
-- **Average increase**: 8.6%
-- **Average decrease**: -5.8%
+- **Total price changes**: 1058
+- **Price increases**: 528
+- **Price decreases**: 481
+- **Average increase**: 8.5%
+- **Average decrease**: -5.6%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Frozen Beef Feet | $96.02 | $96.26 | $+0.24 | +0.2% | Increase |
-| Frozen Sliced Turkey Drumsticks | $144.85 | $144.56 | $-0.29 | -0.2% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $97.32 | $97.17 | $-0.15 | -0.2% | Decrease |
-| Pork Leg Frozen  | $63.54 | $63.64 | $+0.10 | +0.2% | Increase |
-| Papaya | $39.24 | $39.11 | $-0.13 | -0.3% | Decrease |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $313.87 | $320.88 | $+7.01 | +2.2% | Increase |
-| Fresh Bone-in Chicken Thighs Tray | $70.48 | $70.28 | $-0.20 | -0.3% | Decrease |
-| Member's Selection Frozen Boneless Pork Loin Roast Tray | $91.29 | $91.82 | $+0.53 | +0.6% | Increase |
-| Fresh Whole Striploin Fillet Vacuum packaged | $2252.07 | $2136.82 | $-115.25 | -5.1% | Decrease |
-| Fresh Beef Ribeye Steak Vacuum Packed | $3242.43 | $3577.79 | $+335.36 | +10.3% | Increase |
-| Ribeye Choice Fillet Fresh Tray | $379.91 | $377.23 | $-2.68 | -0.7% | Decrease |
-| Member's Selection Frozen Bone-In Goat Stew Bag | $134.93 | $113.52 | $-21.41 | -15.9% | Decrease |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $79.24 | $79.36 | $+0.12 | +0.2% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $127.90 | $128.09 | $+0.19 | +0.1% | Increase |
-| Member's Selection Frozen Bone-In Lamb Shoulder Round Tray | $133.98 | $134.37 | $+0.39 | +0.3% | Increase |
+| Frozen Imported Pork Leg Slices | $91.91 | $92.02 | $+0.11 | +0.1% | Increase |
+| Frozen Sliced Turkey Drumsticks | $144.56 | $143.86 | $-0.70 | -0.5% | Decrease |
+| Pork Leg Frozen  | $63.64 | $63.94 | $+0.30 | +0.5% | Increase |
+| Papaya | $39.11 | $39.05 | $-0.06 | -0.2% | Decrease |
+| Fresh Whole Striploin Fillet Vacuum packaged | $2136.82 | $2252.07 | $+115.25 | +5.4% | Increase |
+| Fresh Beef Ribeye Steak Vacuum Packed | $3577.79 | $3242.43 | $-335.36 | -9.4% | Decrease |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $79.36 | $79.24 | $-0.12 | -0.2% | Decrease |
+| Gomi Boom Eye-Shaped Watermelon-flavored Gummies 1.2 kg | $170.70 | $118.70 | $-52.00 | -30.5% | Decrease |
+| Member's Selection Frozen Bone-In Goat Stew Bag | $113.52 | $134.93 | $+21.41 | +18.9% | Increase |
+| Fresh Chicken Thighs Boneless Tray | $64.95 | $88.85 | $+23.90 | +36.8% | Increase |
+| Gouda Cheese Block | $91.60 | $91.46 | $-0.14 | -0.2% | Decrease |
+| Table Foods Stuffed Peppers Variety 504 g / 18 oz | $116.95 | $49.70 | $-67.25 | -57.5% | Decrease |
+| Frozen Bone In Pork Shoulder Sliced Tray | $70.03 | $69.93 | $-0.10 | -0.1% | Decrease |
+| Fresh Chicken Wings Tray | $94.61 | $89.91 | $-4.70 | -5.0% | Decrease |
+| Swiss Grill & Chill Grilling Sauce Units 4 Units | $46.70 | $42.70 | $-4.00 | -8.6% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,7 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Member’s Selection Pesto Chicken Ciabatta Sandwich 4 Units Ready to Eat | Member's Selection | $98.95 | 2026-11-17 |
 | La Croix Sparkling Water Variety Pack 24 Units / 355 mL / 12 oz  | La Croix | $125.95 | 2026-11-16 |
 | Crix Steelpan Original Cookies in Collectible Tin 768 g | Crix | $42.70 | 2026-11-15 |
 | Welch's Concord Grape Fruit Juice 1.75 L / 59 oz | Welch's | $24.70 | 2026-11-15 |
@@ -292,7 +293,6 @@ This project has recently gained unexpected attention. It was created for person
 | Philadelphia Strawberry Cream Cheese 2 Units / 212 g / 7.5 oz | Philadelphia | $49.70 | 2026-11-13 |
 | Chobani Greek Yogurt 907 g / 32 oz | Chobani | $69.95 | 2026-11-13 |
 | El Exquisito Sabor Traditional Tiramisu with Ladyfingers and Mascarpone | El Exquisito Sabor | $25.70 | 2026-11-13 |
-| Member’s Selection All-Natural Greek Nonfat Plain Yogurt 907 g / 2 lb  | Member's Selection | $49.95 | 2026-11-13 |
 
 ## New Products Added Today
 No new products added today.
