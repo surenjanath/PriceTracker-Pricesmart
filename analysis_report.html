@@ -1,16 +1,16 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1162
-- **Total value**: $127,519.13
-- **Average price**: $109.74
+- **Total products scraped**: 1165
+- **Total value**: $127,696.69
+- **Average price**: $109.61
 
 ## Database Changes
 - **New products added**: 2
-- **Existing products updated**: 1160
-- **Price changes detected**: 68
-- **Stock/availability changes**: 17
-- **Discontinued products**: 2
+- **Existing products updated**: 1163
+- **Price changes detected**: 52
+- **Stock/availability changes**: 21
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
@@ -35,36 +35,36 @@
 | SamTrade Chickpea Penne Pasta 2 Units / 227 g | Sam Trade | $69.95 | true |
 | Fresh Start Mauby Concentrate Made with Bark 4 Units / 750 mL / 25.36 oz | Fresh Start | $57.95 | true |
 | Vital Organics Green Organic Cold Press Green Juice 1 L | Vital Organics | $62.95 | true |
-| Nongshim Shin Ramyun Korean Spicy Instant Noodle Soup 8 Units / 120 g / 4.23 oz | Nongshim | $86.95 | true |
+| Karibbean Flavours Whole Cloves 327 g | Karibbean Flavours | $79.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1092
-- **Price increases**: 546
-- **Price decreases**: 497
-- **Average increase**: 8.1%
-- **Average decrease**: -5.4%
+- **Total price changes**: 1129
+- **Price increases**: 560
+- **Price decreases**: 518
+- **Average increase**: 8.2%
+- **Average decrease**: -5.3%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| La Yogurt Yogurt 12 Units / 170 g / 6 oz | $92.95 | $109.95 | $+17.00 | +18.3% | Increase |
-| Hillshire Farm Ham Mix 3 Units / 454 g / 16 oz | $194.95 | $99.70 | $-95.25 | -48.9% | Decrease |
-| Member's Selection French Fries Crinkle Cut 10 kg / 22 lb | $147.95 | $144.95 | $-3.00 | -2.0% | Decrease |
-| Wellsley Farms Assorted Mini Quiches 1.02 kg / 2.25 lb | $99.95 | $114.95 | $+15.00 | +15.0% | Increase |
-| Member's Selection Shredded Mozzarella Cheese 2.26 kg / 5 lb | $122.95 | $119.95 | $-3.00 | -2.4% | Decrease |
-| Pascual YogiKids Assorted Fruit Yogurt 12 Units 80 g / 2.82 oz | $0.00 | $116.95 | $+116.95 | +100.0% | New |
-| Roma Assorted Pasta Tagliatelle, Angel Hair, and Jumbo Shells 3 Units / 250 g | $0.00 | $29.95 | $+29.95 | +100.0% | New |
-| Frozen Beef Feet | $96.26 | $97.04 | $+0.78 | +0.8% | Increase |
-| Pork Belly with Skin Frozen Vacuum Packaged | $147.95 | $150.13 | $+2.18 | +1.5% | Increase |
-| Frozen Imported Pork Leg Slices | $92.02 | $91.91 | $-0.11 | -0.1% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $188.93 | $186.23 | $-2.70 | -1.4% | Decrease |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $79.24 | $79.36 | $+0.12 | +0.2% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Case | $1687.95 | $1700.85 | $+12.90 | +0.8% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $235.62 | $232.20 | $-3.42 | -1.5% | Decrease |
-| Dare Real Fruit Superfruit Gummies 18 Units / 55 g | $99.95 | $88.70 | $-11.25 | -11.3% | Decrease |
+| Lucy Rose Apples 907 g / 2 lb | $49.70 | $74.95 | $+25.25 | +50.8% | Increase |
+| Orchard Fruit Juice Variety 3 Units / 1 L | $102.95 | $108.95 | $+6.00 | +5.8% | Increase |
+| Marbella Plantain and Cheese Sushi Roll 10 Units | $0.00 | $58.95 | $+58.95 | +100.0% | New |
+| Marbella California Sushi 10 Units | $0.00 | $58.95 | $+58.95 | +100.0% | New |
+| Pork Belly with Skin Frozen Vacuum Packaged | $150.13 | $172.14 | $+22.01 | +14.7% | Increase |
+| Frozen Lamb Leg Whole Vacuum Packed | $397.88 | $392.98 | $-4.90 | -1.2% | Decrease |
+| Karibbean Flavours Triple Refined Iodized Salt 1.2 kg | $11.95 | $10.70 | $-1.25 | -10.5% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $70.21 | $70.00 | $-0.21 | -0.3% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $93.74 | $93.51 | $-0.23 | -0.2% | Decrease |
+| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $62.75 | $62.85 | $+0.10 | +0.2% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $232.20 | $228.40 | $-3.80 | -1.6% | Decrease |
+| Rastelli's Herb Seasoned Pork Loin 1.8 kg / 4 lb | $259.95 | $243.95 | $-16.00 | -6.2% | Decrease |
+| Trolli Multi Mix Assorted Gummies 2 Units / 500 g | $119.95 | $103.70 | $-16.25 | -13.5% | Decrease |
+| Enjoy Lactose Free Milk UHT Full Cream 3 Units / 1 L | $64.95 | $68.95 | $+4.00 | +6.2% | Increase |
+| Fresh Whole Chicken for Frying Bag | $293.67 | $294.01 | $+0.34 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| McCain Cassava Sticks 997 g / 2.2 lb | McCain | $44.95 | 2026-11-19 |
 | Member’s Selection Coconut Swiss Roll  | Member's Selection | $31.95 | 2026-11-18 |
 | Bar-S Classic Smoked Sausage 1.13 kg / 2.5 lb | Bar S | $69.95 | 2026-11-18 |
 | Member’s Selection Pesto Chicken Ciabatta Sandwich 4 Units Ready to Eat | Member's Selection | $98.95 | 2026-11-17 |
@@ -109,11 +110,10 @@
 |  Gouda Cheese 20 kg / 44 lb |  | $1214.95 | 2026-11-15 |
 | Kit Kat Milk Chocolate Wafer 12 Units / 20.7 g | Kit Kat | $34.95 | 2026-11-14 |
 | Philadelphia Strawberry Cream Cheese 2 Units / 212 g / 7.5 oz | Philadelphia | $49.70 | 2026-11-13 |
-| Chobani Greek Yogurt 907 g / 32 oz | Chobani | $69.95 | 2026-11-13 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Pascual YogiKids Assorted Fruit Yogurt 12 Units 80 g / 2.82 oz | Pascual | $116.95 | G10D03 |
-| Roma Assorted Pasta Tagliatelle, Angel Hair, and Jumbo Shells 3 Units / 250 g | Roma | $29.95 | G10D03 |
+| Marbella Plantain and Cheese Sushi Roll 10 Units | Marbella | $58.95 | G10D03 |
+| Marbella California Sushi 10 Units | Marbella | $58.95 | G10D03 |
