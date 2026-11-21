@@ -1,15 +1,15 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1165
-- **Total value**: $127,696.69
-- **Average price**: $109.61
+- **Total products scraped**: 1167
+- **Total value**: $127,879.71
+- **Average price**: $109.58
 
 ## Database Changes
 - **New products added**: 2
-- **Existing products updated**: 1163
-- **Price changes detected**: 52
-- **Stock/availability changes**: 21
+- **Existing products updated**: 1165
+- **Price changes detected**: 20
+- **Stock/availability changes**: 5
 - **Discontinued products**: 1
 
 ## Top 5 Brands
@@ -17,7 +17,7 @@
 | Brand | Count |
 |-------|-------|
 | Member's Selection | 176 |
-|  | 143 |
+|  | 144 |
 | Swiss | 15 |
 | Badia | 14 |
 | Kirkland Signature | 12 |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1129
-- **Price increases**: 560
-- **Price decreases**: 518
-- **Average increase**: 8.2%
-- **Average decrease**: -5.3%
+- **Total price changes**: 1102
+- **Price increases**: 545
+- **Price decreases**: 507
+- **Average increase**: 8.4%
+- **Average decrease**: -5.4%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Lucy Rose Apples 907 g / 2 lb | $49.70 | $74.95 | $+25.25 | +50.8% | Increase |
-| Orchard Fruit Juice Variety 3 Units / 1 L | $102.95 | $108.95 | $+6.00 | +5.8% | Increase |
-| Marbella Plantain and Cheese Sushi Roll 10 Units | $0.00 | $58.95 | $+58.95 | +100.0% | New |
-| Marbella California Sushi 10 Units | $0.00 | $58.95 | $+58.95 | +100.0% | New |
-| Pork Belly with Skin Frozen Vacuum Packaged | $150.13 | $172.14 | $+22.01 | +14.7% | Increase |
-| Frozen Lamb Leg Whole Vacuum Packed | $397.88 | $392.98 | $-4.90 | -1.2% | Decrease |
-| Karibbean Flavours Triple Refined Iodized Salt 1.2 kg | $11.95 | $10.70 | $-1.25 | -10.5% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $70.21 | $70.00 | $-0.21 | -0.3% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $93.74 | $93.51 | $-0.23 | -0.2% | Decrease |
-| Member's Selection Frozen Bone-In Pork Shoulder Picnic Stew, Tray | $62.75 | $62.85 | $+0.10 | +0.2% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $232.20 | $228.40 | $-3.80 | -1.6% | Decrease |
-| Rastelli's Herb Seasoned Pork Loin 1.8 kg / 4 lb | $259.95 | $243.95 | $-16.00 | -6.2% | Decrease |
-| Trolli Multi Mix Assorted Gummies 2 Units / 500 g | $119.95 | $103.70 | $-16.25 | -13.5% | Decrease |
-| Enjoy Lactose Free Milk UHT Full Cream 3 Units / 1 L | $64.95 | $68.95 | $+4.00 | +6.2% | Increase |
-| Fresh Whole Chicken for Frying Bag | $293.67 | $294.01 | $+0.34 | +0.1% | Increase |
+| Basilur Vintage Christmas Collection Assorted Tea 32 Units / 1.88 g | $0.00 | $89.95 | $+89.95 | +100.0% | New |
+| Pork Belly with Skin Frozen Vacuum Packaged | $172.14 | $252.11 | $+79.97 | +46.5% | Increase |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $79.36 | $79.24 | $-0.12 | -0.2% | Decrease |
+| Stauffers Snaps Crispy Pumpkin Flavor Cookies with Spices 397 g / 14 oz | $49.95 | $44.70 | $-5.25 | -10.5% | Decrease |
+| Pork Leg Frozen  | $64.14 | $64.04 | $-0.10 | -0.2% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $97.32 | $97.17 | $-0.15 | -0.2% | Decrease |
+| Papaya | $38.95 | $38.76 | $-0.19 | -0.5% | Decrease |
+| Member's Selection Ready-to-Eat Barbecue Flavored Chicken Wings | $174.09 | $173.82 | $-0.27 | -0.2% | Decrease |
+| Karibbean Flavours Amchar Massala Spice Blend 550 g | $50.95 | $45.70 | $-5.25 | -10.3% | Decrease |
+| Member's Selection Frozen Boneless Pork Loin Roast Tray | $91.29 | $91.60 | $+0.31 | +0.3% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $228.40 | $226.76 | $-1.64 | -0.7% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $163.76 | $163.41 | $-0.35 | -0.2% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Shoulder Round Tray | $134.57 | $134.76 | $+0.19 | +0.1% | Increase |
+| Cherry 453 g / 1 lb | $0.00 | $94.95 | $+94.95 | +100.0% | New |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $120.97 | $121.16 | $+0.19 | +0.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Nature Valley Protein Chewy Bars 26 Units / 40 g | Nature Valley | $189.95 | 2026-11-20 |
 | McCain Cassava Sticks 997 g / 2.2 lb | McCain | $44.95 | 2026-11-19 |
 | Member’s Selection Coconut Swiss Roll  | Member's Selection | $31.95 | 2026-11-18 |
 | Bar-S Classic Smoked Sausage 1.13 kg / 2.5 lb | Bar S | $69.95 | 2026-11-18 |
@@ -109,11 +110,10 @@
 | Welch's Concord Grape Fruit Juice 1.75 L / 59 oz | Welch's | $24.70 | 2026-11-15 |
 |  Gouda Cheese 20 kg / 44 lb |  | $1214.95 | 2026-11-15 |
 | Kit Kat Milk Chocolate Wafer 12 Units / 20.7 g | Kit Kat | $34.95 | 2026-11-14 |
-| Philadelphia Strawberry Cream Cheese 2 Units / 212 g / 7.5 oz | Philadelphia | $49.70 | 2026-11-13 |
 
 ## New Products Added Today
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Marbella Plantain and Cheese Sushi Roll 10 Units | Marbella | $58.95 | G10D03 |
-| Marbella California Sushi 10 Units | Marbella | $58.95 | G10D03 |
+| Basilur Vintage Christmas Collection Assorted Tea 32 Units / 1.88 g | Basilur | $89.95 | G10D03 |
+| Cherry 453 g / 1 lb |  | $94.95 | G10D03 |
