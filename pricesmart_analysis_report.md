@@ -1,22 +1,22 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1167
-- **Total value**: $127,879.71
-- **Average price**: $109.58
+- **Total products scraped**: 1172
+- **Total value**: $128,272.22
+- **Average price**: $109.45
 
 ## Database Changes
-- **New products added**: 2
-- **Existing products updated**: 1165
-- **Price changes detected**: 20
+- **New products added**: 5
+- **Existing products updated**: 1167
+- **Price changes detected**: 21
 - **Stock/availability changes**: 5
-- **Discontinued products**: 1
+- **Discontinued products**: 0
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 176 |
+| Member's Selection | 177 |
 |  | 144 |
 | Swiss | 15 |
 | Badia | 14 |
@@ -34,37 +34,37 @@
 | Member's Selection Extra Virgin Olive Oil 750 mL / 25.36 oz | Member's Selection | $69.95 | true |
 | SamTrade Chickpea Penne Pasta 2 Units / 227 g | Sam Trade | $69.95 | true |
 | Fresh Start Mauby Concentrate Made with Bark 4 Units / 750 mL / 25.36 oz | Fresh Start | $57.95 | true |
+| Nongshim Shin Ramyun Korean Spicy Instant Noodle Soup 8 Units / 120 g / 4.23 oz | Nongshim | $72.95 | true |
 | Vital Organics Green Organic Cold Press Green Juice 1 L | Vital Organics | $62.95 | true |
-| Karibbean Flavours Whole Cloves 327 g | Karibbean Flavours | $79.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1102
-- **Price increases**: 545
-- **Price decreases**: 507
-- **Average increase**: 8.4%
-- **Average decrease**: -5.4%
+- **Total price changes**: 1093
+- **Price increases**: 536
+- **Price decreases**: 502
+- **Average increase**: 8.2%
+- **Average decrease**: -5.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Basilur Vintage Christmas Collection Assorted Tea 32 Units / 1.88 g | $0.00 | $89.95 | $+89.95 | +100.0% | New |
-| Pork Belly with Skin Frozen Vacuum Packaged | $172.14 | $252.11 | $+79.97 | +46.5% | Increase |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $79.36 | $79.24 | $-0.12 | -0.2% | Decrease |
-| Stauffers Snaps Crispy Pumpkin Flavor Cookies with Spices 397 g / 14 oz | $49.95 | $44.70 | $-5.25 | -10.5% | Decrease |
-| Pork Leg Frozen  | $64.14 | $64.04 | $-0.10 | -0.2% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $97.32 | $97.17 | $-0.15 | -0.2% | Decrease |
-| Papaya | $38.95 | $38.76 | $-0.19 | -0.5% | Decrease |
-| Member's Selection Ready-to-Eat Barbecue Flavored Chicken Wings | $174.09 | $173.82 | $-0.27 | -0.2% | Decrease |
-| Karibbean Flavours Amchar Massala Spice Blend 550 g | $50.95 | $45.70 | $-5.25 | -10.3% | Decrease |
-| Member's Selection Frozen Boneless Pork Loin Roast Tray | $91.29 | $91.60 | $+0.31 | +0.3% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $228.40 | $226.76 | $-1.64 | -0.7% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $163.76 | $163.41 | $-0.35 | -0.2% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Shoulder Round Tray | $134.57 | $134.76 | $+0.19 | +0.1% | Increase |
-| Cherry 453 g / 1 lb | $0.00 | $94.95 | $+94.95 | +100.0% | New |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $120.97 | $121.16 | $+0.19 | +0.2% | Increase |
+| Member's Selection Chilled Chicken Liver, Tray Pack | $30.92 | $31.02 | $+0.10 | +0.3% | Increase |
+| Cinnaroll Cinnamon Rolls with Sweet Icing 10 Units | $0.00 | $83.95 | $+83.95 | +100.0% | New |
+| Bombolo Biscotti Decorated Christmas Cookies | $0.00 | $75.95 | $+75.95 | +100.0% | New |
+| Rainbow Organic Lentils 2.27 kg / 5 lb | $0.00 | $21.95 | $+21.95 | +100.0% | New |
+| Member's Selection Roasted Pork Ham Ready to Eat | $0.00 | $103.95 | $+103.95 | +100.0% | New |
+| Basilur Christmas Festival Story Assorted Tea 32 Units / 2 g / 0.07 oz | $0.00 | $89.95 | $+89.95 | +100.0% | New |
+| Frozen Lamb Shoulder Case | $1243.80 | $1264.22 | $+20.42 | +1.6% | Increase |
+| Frozen Pork Belly Skin On Sliced Tray  | $103.90 | $103.17 | $-0.73 | -0.7% | Decrease |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $79.24 | $79.36 | $+0.12 | +0.2% | Increase |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $97.17 | $97.02 | $-0.15 | -0.2% | Decrease |
+| Member's Selection Ready-to-Eat Barbecue Flavored Chicken Wings | $173.82 | $173.01 | $-0.81 | -0.5% | Decrease |
+| Fresh Bone-in Chicken Thighs Tray | $70.00 | $69.73 | $-0.27 | -0.4% | Decrease |
+| Fresh Seasoned BBQ Chicken Quarters Bag | $93.51 | $93.28 | $-0.23 | -0.2% | Decrease |
+| Member's Selection Frozen Boneless Pork Loin Roast Tray | $91.60 | $91.29 | $-0.31 | -0.3% | Decrease |
+| Fresh Whole Chicken for Frying Bag | $294.01 | $293.50 | $-0.51 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -115,5 +115,8 @@
 
 | Product | Brand | Price | Category |
 |---------|-------|-------|----------|
-| Basilur Vintage Christmas Collection Assorted Tea 32 Units / 1.88 g | Basilur | $89.95 | G10D03 |
-| Cherry 453 g / 1 lb |  | $94.95 | G10D03 |
+| Cinnaroll Cinnamon Rolls with Sweet Icing 10 Units | Cinnaroll | $83.95 | G10D03 |
+| Bombolo Biscotti Decorated Christmas Cookies | Bombolo Biscotti | $75.95 | G10D03 |
+| Rainbow Organic Lentils 2.27 kg / 5 lb | Rainbow | $21.95 | G10D03 |
+| Member's Selection Roasted Pork Ham Ready to Eat | Member's Selection | $103.95 | G10D03 |
+| Basilur Christmas Festival Story Assorted Tea 32 Units / 2 g / 0.07 oz | Basilur | $89.95 | G10D03 |
