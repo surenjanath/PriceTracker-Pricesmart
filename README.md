@@ -184,16 +184,16 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1172
-- **Total value**: $128,272.22
-- **Average price**: $109.45
+- **Total products scraped**: 1169
+- **Total value**: $128,125.57
+- **Average price**: $109.60
 
 ## Database Changes
-- **New products added**: 5
-- **Existing products updated**: 1167
-- **Price changes detected**: 21
-- **Stock/availability changes**: 5
-- **Discontinued products**: 0
+- **New products added**: 0
+- **Existing products updated**: 1169
+- **Price changes detected**: 24
+- **Stock/availability changes**: 19
+- **Discontinued products**: 3
 
 ## Top 5 Brands
 
@@ -212,10 +212,10 @@ This project has recently gained unexpected attention. It was created for person
 | Member’s Selection All-Natural Greek Nonfat Plain Yogurt 907 g / 2 lb  | Member's Selection | $49.95 | true |
 | Crisp Ups Quesadillas Shredded Chicken & Cheese 925 g / 2 lb | Crisp Ups | $199.95 | true |
 | Athena Sweet Athena Ambassador's Cut Handmade Baklava Pastry 709 g / 25 oz | Athena Sweet Athena | $164.95 | true |
+| SamTrade Chickpea Penne Pasta 2 Units / 227 g | Sam Trade | $69.95 | true |
 | Florida's Natural Peach and Mango Juice 2 Units / 1.75 L / 59 oz  | Florida's Natural | $119.95 | true |
 | Karibbean Flavours Spicy Jerk Seasoning 2 Units / 283 g | Karibbean Flavours | $34.95 | true |
 | Member's Selection Extra Virgin Olive Oil 750 mL / 25.36 oz | Member's Selection | $69.95 | true |
-| SamTrade Chickpea Penne Pasta 2 Units / 227 g | Sam Trade | $69.95 | true |
 | Fresh Start Mauby Concentrate Made with Bark 4 Units / 750 mL / 25.36 oz | Fresh Start | $57.95 | true |
 | Nongshim Shin Ramyun Korean Spicy Instant Noodle Soup 8 Units / 120 g / 4.23 oz | Nongshim | $72.95 | true |
 | Vital Organics Green Organic Cold Press Green Juice 1 L | Vital Organics | $62.95 | true |
@@ -223,31 +223,31 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1093
-- **Price increases**: 536
-- **Price decreases**: 502
-- **Average increase**: 8.2%
+- **Total price changes**: 1090
+- **Price increases**: 530
+- **Price decreases**: 506
+- **Average increase**: 7.8%
 - **Average decrease**: -5.1%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Member's Selection Chilled Chicken Liver, Tray Pack | $30.92 | $31.02 | $+0.10 | +0.3% | Increase |
-| Cinnaroll Cinnamon Rolls with Sweet Icing 10 Units | $0.00 | $83.95 | $+83.95 | +100.0% | New |
-| Bombolo Biscotti Decorated Christmas Cookies | $0.00 | $75.95 | $+75.95 | +100.0% | New |
-| Rainbow Organic Lentils 2.27 kg / 5 lb | $0.00 | $21.95 | $+21.95 | +100.0% | New |
-| Member's Selection Roasted Pork Ham Ready to Eat | $0.00 | $103.95 | $+103.95 | +100.0% | New |
-| Basilur Christmas Festival Story Assorted Tea 32 Units / 2 g / 0.07 oz | $0.00 | $89.95 | $+89.95 | +100.0% | New |
-| Frozen Lamb Shoulder Case | $1243.80 | $1264.22 | $+20.42 | +1.6% | Increase |
-| Frozen Pork Belly Skin On Sliced Tray  | $103.90 | $103.17 | $-0.73 | -0.7% | Decrease |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $79.24 | $79.36 | $+0.12 | +0.2% | Increase |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $97.17 | $97.02 | $-0.15 | -0.2% | Decrease |
-| Member's Selection Ready-to-Eat Barbecue Flavored Chicken Wings | $173.82 | $173.01 | $-0.81 | -0.5% | Decrease |
-| Fresh Bone-in Chicken Thighs Tray | $70.00 | $69.73 | $-0.27 | -0.4% | Decrease |
-| Fresh Seasoned BBQ Chicken Quarters Bag | $93.51 | $93.28 | $-0.23 | -0.2% | Decrease |
-| Member's Selection Frozen Boneless Pork Loin Roast Tray | $91.60 | $91.29 | $-0.31 | -0.3% | Decrease |
-| Fresh Whole Chicken for Frying Bag | $294.01 | $293.50 | $-0.51 | -0.2% | Decrease |
+| Hillshire Farm Ham Mix 3 Units / 454 g / 16 oz | $99.70 | $194.95 | $+95.25 | +95.5% | Increase |
+| Member's Selection French Fries Crinkle Cut 10 kg / 22 lb | $144.95 | $154.95 | $+10.00 | +6.9% | Increase |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $79.36 | $79.24 | $-0.12 | -0.2% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $186.23 | $184.61 | $-1.62 | -0.9% | Decrease |
+| Pork Belly with Skin Frozen Vacuum Packaged | $252.11 | $243.39 | $-8.72 | -3.5% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $143.86 | $143.56 | $-0.30 | -0.2% | Decrease |
+| Member's Selection Frozen Bone-In Pork Leg Vacuum Packed | $470.78 | $473.28 | $+2.50 | +0.5% | Increase |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $226.76 | $222.67 | $-4.09 | -1.8% | Decrease |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $163.41 | $161.48 | $-1.93 | -1.2% | Decrease |
+| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $411.91 | $408.47 | $-3.44 | -0.8% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Shoulder Round Tray | $134.95 | $135.15 | $+0.20 | +0.1% | Increase |
+| Fresh Chicken Leg Quarters Tray | $94.21 | $94.31 | $+0.10 | +0.1% | Increase |
+| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $121.16 | $119.88 | $-1.28 | -1.1% | Decrease |
+| Fresh Beef Striploin Steak Tray | $189.07 | $188.46 | $-0.61 | -0.3% | Decrease |
+| Fresh Chicken Thighs Boneless Bag | $355.86 | $356.58 | $+0.72 | +0.2% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,6 +283,9 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Suzy's Cream Cheesecakes Black Forest Cherry Cheesecake 12 Slices | Suzy's Cream Cheesecakes | $184.95 | 2026-11-22 |
+| Toppers Snacks Assorted Snacks Family Size Pack 30 Units | Toppers | $34.95 | 2026-11-22 |
+| Fresh Start Mauby Concentrate 3 Units / 750 mL / 25.3 oz | Fresh Start | $39.95 | 2026-11-22 |
 | Nature Valley Protein Chewy Bars 26 Units / 40 g | Nature Valley | $189.95 | 2026-11-20 |
 | McCain Cassava Sticks 997 g / 2.2 lb | McCain | $44.95 | 2026-11-19 |
 | Member’s Selection Coconut Swiss Roll  | Member's Selection | $31.95 | 2026-11-18 |
@@ -290,16 +293,6 @@ This project has recently gained unexpected attention. It was created for person
 | Member’s Selection Pesto Chicken Ciabatta Sandwich 4 Units Ready to Eat | Member's Selection | $98.95 | 2026-11-17 |
 | La Croix Sparkling Water Variety Pack 24 Units / 355 mL / 12 oz  | La Croix | $125.95 | 2026-11-16 |
 | Crix Steelpan Original Cookies in Collectible Tin 768 g | Crix | $42.70 | 2026-11-15 |
-| Welch's Concord Grape Fruit Juice 1.75 L / 59 oz | Welch's | $24.70 | 2026-11-15 |
-|  Gouda Cheese 20 kg / 44 lb |  | $1214.95 | 2026-11-15 |
-| Kit Kat Milk Chocolate Wafer 12 Units / 20.7 g | Kit Kat | $34.95 | 2026-11-14 |
 
 ## New Products Added Today
-
-| Product | Brand | Price | Category |
-|---------|-------|-------|----------|
-| Cinnaroll Cinnamon Rolls with Sweet Icing 10 Units | Cinnaroll | $83.95 | G10D03 |
-| Bombolo Biscotti Decorated Christmas Cookies | Bombolo Biscotti | $75.95 | G10D03 |
-| Rainbow Organic Lentils 2.27 kg / 5 lb | Rainbow | $21.95 | G10D03 |
-| Member's Selection Roasted Pork Ham Ready to Eat | Member's Selection | $103.95 | G10D03 |
-| Basilur Christmas Festival Story Assorted Tea 32 Units / 2 g / 0.07 oz | Basilur | $89.95 | G10D03 |
+No new products added today.
