@@ -1,22 +1,22 @@
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1169
-- **Total value**: $128,125.57
-- **Average price**: $109.60
+- **Total products scraped**: 1168
+- **Total value**: $127,859.23
+- **Average price**: $109.47
 
 ## Database Changes
 - **New products added**: 0
-- **Existing products updated**: 1169
-- **Price changes detected**: 24
-- **Stock/availability changes**: 19
-- **Discontinued products**: 3
+- **Existing products updated**: 1168
+- **Price changes detected**: 23
+- **Stock/availability changes**: 20
+- **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 177 |
+| Member's Selection | 176 |
 |  | 144 |
 | Swiss | 15 |
 | Badia | 14 |
@@ -30,8 +30,8 @@
 | Crisp Ups Quesadillas Shredded Chicken & Cheese 925 g / 2 lb | Crisp Ups | $199.95 | true |
 | Athena Sweet Athena Ambassador's Cut Handmade Baklava Pastry 709 g / 25 oz | Athena Sweet Athena | $164.95 | true |
 | SamTrade Chickpea Penne Pasta 2 Units / 227 g | Sam Trade | $69.95 | true |
-| Florida's Natural Peach and Mango Juice 2 Units / 1.75 L / 59 oz  | Florida's Natural | $119.95 | true |
 | Karibbean Flavours Spicy Jerk Seasoning 2 Units / 283 g | Karibbean Flavours | $34.95 | true |
+| Florida's Natural Peach and Mango Juice 2 Units / 1.75 L / 59 oz  | Florida's Natural | $119.95 | true |
 | Member's Selection Extra Virgin Olive Oil 750 mL / 25.36 oz | Member's Selection | $69.95 | true |
 | Fresh Start Mauby Concentrate Made with Bark 4 Units / 750 mL / 25.36 oz | Fresh Start | $57.95 | true |
 | Nongshim Shin Ramyun Korean Spicy Instant Noodle Soup 8 Units / 120 g / 4.23 oz | Nongshim | $72.95 | true |
@@ -40,31 +40,31 @@
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1090
-- **Price increases**: 530
-- **Price decreases**: 506
+- **Total price changes**: 1097
+- **Price increases**: 532
+- **Price decreases**: 512
 - **Average increase**: 7.8%
-- **Average decrease**: -5.1%
+- **Average decrease**: -5.4%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Hillshire Farm Ham Mix 3 Units / 454 g / 16 oz | $99.70 | $194.95 | $+95.25 | +95.5% | Increase |
-| Member's Selection French Fries Crinkle Cut 10 kg / 22 lb | $144.95 | $154.95 | $+10.00 | +6.9% | Increase |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $79.36 | $79.24 | $-0.12 | -0.2% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $186.23 | $184.61 | $-1.62 | -0.9% | Decrease |
-| Pork Belly with Skin Frozen Vacuum Packaged | $252.11 | $243.39 | $-8.72 | -3.5% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $143.86 | $143.56 | $-0.30 | -0.2% | Decrease |
-| Member's Selection Frozen Bone-In Pork Leg Vacuum Packed | $470.78 | $473.28 | $+2.50 | +0.5% | Increase |
-| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $226.76 | $222.67 | $-4.09 | -1.8% | Decrease |
-| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $163.41 | $161.48 | $-1.93 | -1.2% | Decrease |
-| Fresh Boneless Beef Eye of Round Whole Piece Vacuum Packaged | $411.91 | $408.47 | $-3.44 | -0.8% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Shoulder Round Tray | $134.95 | $135.15 | $+0.20 | +0.1% | Increase |
-| Fresh Chicken Leg Quarters Tray | $94.21 | $94.31 | $+0.10 | +0.1% | Increase |
-| Frozen Skinless Boneless Beef Shoulder Clod Steaks Tray | $121.16 | $119.88 | $-1.28 | -1.1% | Decrease |
-| Fresh Beef Striploin Steak Tray | $189.07 | $188.46 | $-0.61 | -0.3% | Decrease |
-| Fresh Chicken Thighs Boneless Bag | $355.86 | $356.58 | $+0.72 | +0.2% | Increase |
+| Hillshire Farm Ham Mix 3 Units / 454 g / 16 oz | $194.95 | $99.70 | $-95.25 | -48.9% | Decrease |
+| Frozen Pork Belly Skin On Sliced Tray  | $103.17 | $102.19 | $-0.98 | -0.9% | Decrease |
+| Frozen Imported Pork Leg Slices | $91.91 | $91.79 | $-0.12 | -0.1% | Decrease |
+| Chilled Boneless Beef Eye of Round Steak Tray Pack | $184.61 | $184.06 | $-0.55 | -0.3% | Decrease |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $79.24 | $79.11 | $-0.13 | -0.2% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $97.02 | $97.17 | $+0.15 | +0.2% | Increase |
+| Frozen Sliced Turkey Wings, Bag | $161.97 | $161.40 | $-0.57 | -0.4% | Decrease |
+| Frozen Sliced Turkey Drumsticks | $143.56 | $143.46 | $-0.10 | -0.1% | Decrease |
+| Frozen Lamb Leg Whole Boneless Tray Pack | $320.54 | $323.55 | $+3.01 | +0.9% | Increase |
+| Tropical Frying Cheese 907 g / 32 oz | $92.95 | $39.70 | $-53.25 | -57.3% | Decrease |
+| Member's Selection Frozen Boneless Pork Loin Roast Tray | $91.29 | $91.71 | $+0.42 | +0.5% | Increase |
+| Member's Selection Frozen Bone-In Lamb Shoulder Round Tray | $135.15 | $135.34 | $+0.19 | +0.1% | Increase |
+| Fresh Chicken Leg Quarters Tray | $94.31 | $94.41 | $+0.10 | +0.1% | Increase |
+| Fresh Chicken Breast Bone In Tray | $92.51 | $92.60 | $+0.09 | +0.1% | Increase |
+| Frozen Lamb Shoulder Chops Tray | $128.09 | $128.27 | $+0.18 | +0.1% | Increase |
 
 ## Biggest Price Increases (All Time)
 
@@ -100,6 +100,7 @@
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Member's Selection Freshly Prepared Tuna Salad Wraps 4 Units | Member's Selection | $64.95 | 2026-11-23 |
 | Suzy's Cream Cheesecakes Black Forest Cherry Cheesecake 12 Slices | Suzy's Cream Cheesecakes | $184.95 | 2026-11-22 |
 | Toppers Snacks Assorted Snacks Family Size Pack 30 Units | Toppers | $34.95 | 2026-11-22 |
 | Fresh Start Mauby Concentrate 3 Units / 750 mL / 25.3 oz | Fresh Start | $39.95 | 2026-11-22 |
@@ -109,7 +110,6 @@
 | Bar-S Classic Smoked Sausage 1.13 kg / 2.5 lb | Bar S | $69.95 | 2026-11-18 |
 | Member’s Selection Pesto Chicken Ciabatta Sandwich 4 Units Ready to Eat | Member's Selection | $98.95 | 2026-11-17 |
 | La Croix Sparkling Water Variety Pack 24 Units / 355 mL / 12 oz  | La Croix | $125.95 | 2026-11-16 |
-| Crix Steelpan Original Cookies in Collectible Tin 768 g | Crix | $42.70 | 2026-11-15 |
 
 ## New Products Added Today
 No new products added today.
