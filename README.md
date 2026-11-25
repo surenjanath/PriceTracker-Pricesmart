@@ -184,23 +184,23 @@ This project has recently gained unexpected attention. It was created for person
 # PriceSmart Products Analysis Report
 
 ## Basic Analysis
-- **Total products scraped**: 1168
-- **Total value**: $127,859.23
-- **Average price**: $109.47
+- **Total products scraped**: 1170
+- **Total value**: $129,463.06
+- **Average price**: $110.65
 
 ## Database Changes
-- **New products added**: 0
+- **New products added**: 2
 - **Existing products updated**: 1168
-- **Price changes detected**: 23
-- **Stock/availability changes**: 20
+- **Price changes detected**: 28
+- **Stock/availability changes**: 9
 - **Discontinued products**: 1
 
 ## Top 5 Brands
 
 | Brand | Count |
 |-------|-------|
-| Member's Selection | 176 |
-|  | 144 |
+| Member's Selection | 175 |
+|  | 145 |
 | Swiss | 15 |
 | Badia | 14 |
 | Kirkland Signature | 12 |
@@ -215,39 +215,39 @@ This project has recently gained unexpected attention. It was created for person
 | SamTrade Chickpea Penne Pasta 2 Units / 227 g | Sam Trade | $69.95 | true |
 | Karibbean Flavours Spicy Jerk Seasoning 2 Units / 283 g | Karibbean Flavours | $34.95 | true |
 | Florida's Natural Peach and Mango Juice 2 Units / 1.75 L / 59 oz  | Florida's Natural | $119.95 | true |
-| Member's Selection Extra Virgin Olive Oil 750 mL / 25.36 oz | Member's Selection | $69.95 | true |
 | Fresh Start Mauby Concentrate Made with Bark 4 Units / 750 mL / 25.36 oz | Fresh Start | $57.95 | true |
+| Member's Selection Extra Virgin Olive Oil 750 mL / 25.36 oz | Member's Selection | $69.95 | true |
 | Nongshim Shin Ramyun Korean Spicy Instant Noodle Soup 8 Units / 120 g / 4.23 oz | Nongshim | $72.95 | true |
 | Vital Organics Green Organic Cold Press Green Juice 1 L | Vital Organics | $62.95 | true |
 
 # PriceSmart Price Analysis Report
 
 ## Price Change Summary (Last 30 Days)
-- **Total price changes**: 1097
-- **Price increases**: 532
+- **Total price changes**: 1086
+- **Price increases**: 520
 - **Price decreases**: 512
-- **Average increase**: 7.8%
-- **Average decrease**: -5.4%
+- **Average increase**: 7.4%
+- **Average decrease**: -5.5%
 
 ## Recent Price Changes
 
 | Product | Old Price | New Price | Change | % Change | Type |
 |---------|-----------|-----------|--------|----------|------|
-| Hillshire Farm Ham Mix 3 Units / 454 g / 16 oz | $194.95 | $99.70 | $-95.25 | -48.9% | Decrease |
-| Frozen Pork Belly Skin On Sliced Tray  | $103.17 | $102.19 | $-0.98 | -0.9% | Decrease |
-| Frozen Imported Pork Leg Slices | $91.91 | $91.79 | $-0.12 | -0.1% | Decrease |
-| Chilled Boneless Beef Eye of Round Steak Tray Pack | $184.61 | $184.06 | $-0.55 | -0.3% | Decrease |
-| Member's Selection Frozen Boneless Pork Butt Stew Tray | $79.24 | $79.11 | $-0.13 | -0.2% | Decrease |
-| Member's Selection Frozen Bone-In Lamb Stew Bag | $97.02 | $97.17 | $+0.15 | +0.2% | Increase |
-| Frozen Sliced Turkey Wings, Bag | $161.97 | $161.40 | $-0.57 | -0.4% | Decrease |
-| Frozen Sliced Turkey Drumsticks | $143.56 | $143.46 | $-0.10 | -0.1% | Decrease |
-| Frozen Lamb Leg Whole Boneless Tray Pack | $320.54 | $323.55 | $+3.01 | +0.9% | Increase |
-| Tropical Frying Cheese 907 g / 32 oz | $92.95 | $39.70 | $-53.25 | -57.3% | Decrease |
-| Member's Selection Frozen Boneless Pork Loin Roast Tray | $91.29 | $91.71 | $+0.42 | +0.5% | Increase |
-| Member's Selection Frozen Bone-In Lamb Shoulder Round Tray | $135.15 | $135.34 | $+0.19 | +0.1% | Increase |
-| Fresh Chicken Leg Quarters Tray | $94.31 | $94.41 | $+0.10 | +0.1% | Increase |
-| Fresh Chicken Breast Bone In Tray | $92.51 | $92.60 | $+0.09 | +0.1% | Increase |
-| Frozen Lamb Shoulder Chops Tray | $128.09 | $128.27 | $+0.18 | +0.1% | Increase |
+| Plantains 1.36 kg / 3 lb | $25.95 | $29.95 | $+4.00 | +15.4% | Increase |
+| Rainbow Organic Yellow Split Peas 2.27 kg / 5 lb | $0.00 | $17.95 | $+17.95 | +100.0% | New |
+| Frozen Pork Belly Skin On Sliced Tray  | $102.19 | $103.17 | $+0.98 | +1.0% | Increase |
+| Frozen Imported Pork Leg Slices | $91.79 | $91.68 | $-0.11 | -0.1% | Decrease |
+| Member's Selection Frozen Boneless Pork Butt Stew Tray | $79.11 | $78.99 | $-0.12 | -0.2% | Decrease |
+| Stahl Meyer Whole Smoked Frozen Turkey Thigh | $155.68 | $158.54 | $+2.86 | +1.8% | Increase |
+| Frozen Sliced Turkey Wings, Bag | $161.40 | $161.97 | $+0.57 | +0.4% | Increase |
+| Member's Selection Ready-to-Eat Barbecue Flavored Chicken Wings | $173.01 | $173.82 | $+0.81 | +0.5% | Increase |
+| Frozen Sliced Turkey Drumsticks | $143.46 | $143.56 | $+0.10 | +0.1% | Increase |
+| Frozen Lamb Leg Whole Vacuum Packed | $392.98 | $391.83 | $-1.15 | -0.3% | Decrease |
+| Member's Selection Chilled Boneless Beef Eye of Round Roast, Tray | $222.67 | $221.59 | $-1.08 | -0.5% | Decrease |
+| Member's Selection Frozen Boneless Pork Loin Roast Tray | $91.71 | $91.82 | $+0.11 | +0.1% | Increase |
+| Member's Selection Frozen Skinless Boneless Beef Shoulder Clod Roast Tray Pack | $161.48 | $161.12 | $-0.36 | -0.2% | Decrease |
+| Member's Selection Frozen Bone-In Lamb Shoulder Round Tray | $135.34 | $135.54 | $+0.20 | +0.1% | Increase |
+| Member's Selection Frozen Bone-In Lamb Stew Bag | $97.17 | $97.02 | $-0.15 | -0.2% | Decrease |
 
 ## Biggest Price Increases (All Time)
 
@@ -283,9 +283,9 @@ This project has recently gained unexpected attention. It was created for person
 
 | Product | Brand | Last Known Price | Discontinued Date |
 |---------|-------|------------------|-------------------|
+| Member's Selection Roasted Pork Ham Ready to Eat | Member's Selection | $103.95 | 2026-11-24 |
 | Member's Selection Freshly Prepared Tuna Salad Wraps 4 Units | Member's Selection | $64.95 | 2026-11-23 |
 | Suzy's Cream Cheesecakes Black Forest Cherry Cheesecake 12 Slices | Suzy's Cream Cheesecakes | $184.95 | 2026-11-22 |
-| Toppers Snacks Assorted Snacks Family Size Pack 30 Units | Toppers | $34.95 | 2026-11-22 |
 | Fresh Start Mauby Concentrate 3 Units / 750 mL / 25.3 oz | Fresh Start | $39.95 | 2026-11-22 |
 | Nature Valley Protein Chewy Bars 26 Units / 40 g | Nature Valley | $189.95 | 2026-11-20 |
 | McCain Cassava Sticks 997 g / 2.2 lb | McCain | $44.95 | 2026-11-19 |
@@ -295,4 +295,8 @@ This project has recently gained unexpected attention. It was created for person
 | La Croix Sparkling Water Variety Pack 24 Units / 355 mL / 12 oz  | La Croix | $125.95 | 2026-11-16 |
 
 ## New Products Added Today
-No new products added today.
+
+| Product | Brand | Price | Category |
+|---------|-------|-------|----------|
+| Rainbow Organic Yellow Split Peas 2.27 kg / 5 lb | Rainbow | $17.95 | G10D03 |
+| Frozen Boneless Pork Loin Case |  | $1704.74 | G10D03 |
